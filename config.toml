@@ -1,3 +1,12 @@
 baseurl = "http://www.ocselected.org"
 title = "开源之道"
 languageCode = "zh-CN"
+copyright = "Copyright (c) 2016, 适兕; all rights reserved."
+MetaDataFormat = "yaml"
+
+[author]
+    name = "适兕"
+
+[indexes]
+    tag = "tags"
+    topic = "topics"
