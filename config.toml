@@ -3,6 +3,7 @@ title = "开源之道"
 languageCode = "zh-CN"
 copyright = "Copyright (c) 2016, 适兕; all rights reserved."
 MetaDataFormat = "yaml"
+RSSUri = "feed.xml"
 
 [author]
     name = "适兕"
