@@ -29,7 +29,7 @@ url: ""
 |  周数／日期    |     隶属分类       | 题目及其链接 | 备注|
 | ------------- |:-------------:| -----:| -----:|
 |  一／2017-01-03     | 参与社区 |[敲开开源世界的大门](http://www.ocselected.org/posts/advice_for_building_a_career_in_open_source/)   |  |
-|二／2017-01-08 |开源文化、商业模式、社区治理、Inner Source、参与社区 |[开源之道与开源之术]() |原创 |
+|二／2017-01-08 |开源文化、商业模式、社区治理、InnerSource、参与社区 |[开源之道与开源之术之一](http://www.ocselected.org/posts/open_source_tao_and_way/open_source_tao_and_way_0) |原创 |
 |三／2017-01-15 |开源文化 |[开源的激励、动机大全](http://www.ocselected.org/posts/motivations_for_consuming_or_publishing_oss/) | |
 |四／2017-01-22 |商业模式 | |原创 |
 |五／2017-01-29 |社区治理 |[精心布局的开源]() |摘要 |
