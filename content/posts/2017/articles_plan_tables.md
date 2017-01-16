@@ -29,19 +29,20 @@ url: ""
 
 - [x]  一／2017-01-03   参与社区 [敲开开源世界的大门](http://www.ocselected.org/posts/advice_for_building_a_career_in_open_source/)
 - [x] 二／2017-01-08 开源文化、商业模式、社区治理、InnerSource、参与社区 [开源之道与开源之术之一](http://www.ocselected.org/posts/open_source_tao_and_way/open_source_tao_and_way_0)
-- [ ] 三／2017-01-15 开源文化 [开源的激励、动机大全](http://www.ocselected.org/posts/motivations_for_consuming_or_publishing_oss/)
+- [x] 三／2017-01-15 开源文化 [开源的激励、动机大全](http://www.ocselected.org/posts/motivations_for_consuming_or_publishing_oss/)
+- [ ] 3.5/2017-01-22 开源热点 [也谈开源软件的安全——从MongDB、Elasticsearch勒索案说起](http://www.ocselected.org/posts/Event_analysis/Security_MongoDB_ElasticSearch/)
 - [ ] 四／2017-01-22 商业模式 [开源软件商业模式集锦](http://www.ocselected.org/posts/Business_model/opensource_business_model_overview/)
 - [ ] 五／2017-01-29 社区治理 [精心布局的开源]()
 - [ ] 六／2017-02-05 InnerSource [内部开源系列之1——介绍篇]()
 - [ ] 七／2017-02-12 参与社区 [参与社区之前应该了解的二三事]()
 - [ ] 八／2017-02-19  开源文化 [世界是开放的——Open的15种释义]()
 - [ ] 九／2017-02-26 商业模式 [如何为一个开源项目撰写商业计划]()
-- [ ] 十／2017-03-05 社区治理 []()
+- [ ] 十／2017-03-05 社区治理 [Kubernetes社区是如何驱动项目走向成功的道路上的]() 解读来源：[How the Kubernetes Community Drives The Project’s Success](https://www.linux.com/news/learn/kubernetes/kubernetes-community-drives-projects-success)
 - [ ] 十一／2017-03-12 InnerSource [内部开源系列之二——经典案例]()
-- [ ]
-- [ ]
-- [ ]
-- [ ]
+- [ ] 十二／2017-03-19 InnerSource [如何在公司内部建立一个InnerSource社区]() 来自译文：[How to create an internal innersource community](https://opensource.com/life/16/11/create-internal-innersource-community)
+- [ ] 十三／2017-03-26 InnerSource [实行InnerSource的十个步骤]() 来自译文：[10 steps to innersource in your organization in 2017](https://opensource.com/article/17/1/yearbook-10-steps-innersource-your-organization)
+- [ ] 十四／2017-04-02 社区参与 [在贡献开源项目中如何增强自己的技术力量]() 来自英文：[How to improve tech skills while contributing to open source projects](https://opensource.com/life/16/1/open-source-skills)
+- [ ] 十五／2017-04-09 社区治理 [社区胜过代码：如何建设一个成功的软件项目]() 参考来源：[Communities Over Code: How to Build a Successful Software Project](https://www.linux.com/news/event/LCNA/2016/communities-over-code-how-build-successful-software-project-0)
 - [ ]
 - [ ]
 - [ ]
