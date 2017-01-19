@@ -17,7 +17,7 @@ url: ""
 ---
 ## 事件回顾
 
-2017年元旦过去没几天，绝大多数人还沉浸在总结过去一年得失，痛下决心准备来年大干一场了，就在6号这一天发生一些很不愉快的事情，尤其是对于数据库管理员来说，那就是有一批勒索犯，声称拿到了使用MangoDB的数据，请支付0.25比特币赎回。据InfoQ中国的报道[MongoDB勒索软件已波及上万数据库](http://www.infoq.com/cn/news/2017/01/MongoDB-Tens-thousands-database)：
+2017年元旦过去没几天，绝大多数人还沉浸在总结过去一年得失，痛下决心准备来年大干一场了，可偏偏就在6号这一天发生一些很不愉快的事情，尤其是对于数据库管理员来说，那就是有一批勒索犯，声称拿到了使用MangoDB的数据，请支付0.25比特币赎回。据InfoQ中国的报道[MongoDB勒索软件已波及上万数据库](http://www.infoq.com/cn/news/2017/01/MongoDB-Tens-thousands-database)：
 > 此番针对MongoDB的勒索行为最早是由GDI Foundation的安全研究人员Victor Gevers在2016年12月27日发现的，在这之后影响陆续扩大，目前至少有五个不同黑客组织控制了上万个数据库实例。
 
 无独有偶，在MangoDB的硝烟还未散去的时候，这些勒索犯又盯上了大名鼎鼎的ElasticSearch，不过这次和不同的地方是每次勒索0.2个比特币。据台湾网站ITHome报道：[大風吹，MongoDB勒索手法吹到ElasticSearch伺服器了](http://www.ithome.com.tw/news/111196)
@@ -76,13 +76,19 @@ selinux = Disabled
 ```
 是安装完成操作系统首先执行的操作。**请不要将这些习惯带到实际的工作、生产环境中。**
 
-### 制定一定的安全流程
+### 制定安全流程
 
 宽松的约定也许对于企业未必真的有效，那么就应该去制定一系列的流程来规范。暴露在Internet上的服务，必须是有相应的审核的。使用应用软件默认的配置是不被允许的，比如本文开始部分的看起来蛮可笑的事件。
 
 ## 那些开源软件真正的安全事件
 
 相比于此次勒索事件，开源软件的安全问题，最为著名的莫过于：[heartbleed](https://en.wikipedia.org/wiki/Heartbleed)、[Dirty COW](https://en.wikipedia.org/wiki/Dirty_COW)、[DROWN](https://en.wikipedia.org/wiki/DROWN_attack)等，这些漏洞一旦被利用，那后果才严重了，因为是所有的使用者都会波及，比如OpenSSL 的 heartbleed事件。正因为打击面太广，以至于才惊醒了世人。
+
+在BlackDuck和NorthBridge联合做的2016年开源软件调查如下图显示：
+
+![](https://raw.githubusercontent.com/OCselected/ttoos/master/content/public/OpenSource_used_in_2015.jpeg)
+
+如此巨大的量，也有很多人洞察到了这一点，有开源社区、有商业产品，让我们看看他们现在都有些什么样的成果。
 
 ### 所做的一些应对措施
 
