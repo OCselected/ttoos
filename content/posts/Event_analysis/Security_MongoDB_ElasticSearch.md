@@ -18,9 +18,11 @@ url: ""
 ## 事件回顾
 
 2017年元旦过去没几天，绝大多数人还沉浸在总结过去一年得失，痛下决心准备来年大干一场了，可偏偏就在6号这一天发生一些很不愉快的事情，尤其是对于数据库管理员来说，那就是有一批勒索犯，声称拿到了使用MangoDB的数据，请支付0.25比特币赎回。据InfoQ中国的报道[MongoDB勒索软件已波及上万数据库](http://www.infoq.com/cn/news/2017/01/MongoDB-Tens-thousands-database)：
+
 > 此番针对MongoDB的勒索行为最早是由GDI Foundation的安全研究人员Victor Gevers在2016年12月27日发现的，在这之后影响陆续扩大，目前至少有五个不同黑客组织控制了上万个数据库实例。
 
 无独有偶，在MangoDB的硝烟还未散去的时候，这些勒索犯又盯上了大名鼎鼎的ElasticSearch，不过这次和不同的地方是每次勒索0.2个比特币。据台湾网站ITHome报道：[大風吹，MongoDB勒索手法吹到ElasticSearch伺服器了](http://www.ithome.com.tw/news/111196)
+
 > 根據白帽駭客 Victor Gevers的統計，短短的3天就有2515個ElasticSearch伺服器上的資料遭移除與勒索，而網路上曝露在此一風險中的ElasticSearch伺服器數量則超過3.4萬個。目前已知有兩組人馬鎖定ElasticSearch。
 
 ## MongoDB 和 ElasticSearch 的共同之处在哪里？
