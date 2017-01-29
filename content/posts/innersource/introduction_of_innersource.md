@@ -2,7 +2,7 @@
 categories:
 - 开源
 date: 2017-01-06T22:35:15+08:00
-description: ""
+description: "开源软件的成功，足以让传统的软件工程方法羡慕不已，那么在无法接受开放式创新的企业，但是认同开源的效率和质量的话，在内部采用开源的方法论也是不错的选择。当然，这样也有一个名称，那就是：InnerSource。"
 keywords:
 - Open Source
 - Culture
@@ -54,4 +54,8 @@ url: ""
 
 ## InnerSource 的案例
 
-从InnerSource这个概念提出，发展到现在，已经走过了15个年头，其中各大企业采用的先例有很多，比如传统的大企业Alcatel- Lucent、Philips Healthcare、 IBM、以及 SAP，也有新兴的互联网公司如Google。但是重新提起来，注入新的活力，还是来自PayPal发起的[InnerSource Common 社区](http://paypal.github.io/InnerSourceCommons/)，随着开源的成功，开源已经成为企业中不可或缺的部分，甚至是占有极高的使用率。InnerSource的意义也被扩展了，那就是本地和社区的关系处理，InnerSource 的同时，也要借鉴外部上游开源社区的代码和项目，是个不错的挑战，在这方面沃尔玛的基础设施团队有着很不错的经验分享，（注：沃尔玛的IT技术主管[Jeremy King](http://corporate.walmart.com/leadership/jeremy-king)是PayPal跳槽过去的。）比如对OpenStack的贡献和自己开源项目OneOps。并在巴塞罗那OpenStack峰会上有过干货十足的分享。
+从InnerSource这个概念提出，发展到现在，已经走过了15个年头，其中各大企业采用的先例有很多，比如传统的大企业Alcatel- Lucent、Philips Healthcare、 IBM、以及 SAP，也有新兴的互联网公司如Google。但是重新提起来，注入新的活力，还是来自PayPal发起的[InnerSource Common 社区](http://paypal.github.io/InnerSourceCommons/)，随着开源的成功，开源已经成为企业中不可或缺的部分，甚至是占有极高的使用率。InnerSource的意义也被扩展了，那就是本地和社区的关系处理，InnerSource 的同时，也要借鉴外部上游开源社区的代码和项目，也是颇具挑战的工作，在这方面沃尔玛的基础设施团队有着很不错的经验分享，（注：沃尔玛的IT技术主管[Jeremy King](http://corporate.walmart.com/leadership/jeremy-king)是PayPal跳槽过去的。）比如对OpenStack的贡献和自己开源项目OneOps。并在巴塞罗那OpenStack峰会上有过干货十足的分享。
+
+## 结语
+
+开源是如此的重要，对于任何一家依托软件做业务的企业来说，已经是房间里的大象，无法忽视！面对如此强大的力量，对抗是没有用的，唯有创新性的利用起来，为自己的用户创造价值。但是也不可忽视已有的文化和积淀。所以 InnerSource 是最佳选择，笔者会在2017年陆续为大家介绍InnerSource的现有研究成果和业界分享。
