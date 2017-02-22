@@ -36,6 +36,8 @@ url: ""
 - [x] 六／2017-02-05 开源文化 [开源软件是开放式创新的最佳注脚](http://www.ocselected.org/posts/Naming_OpenSource_and_Marketing_2/)
 - [x] 七／2017-02-12 参与社区 [开源软件程序员——从入门到蜕变](http://www.ocselected.org/posts/contribute_to_community/how_to_get_started_as_an_open_source_programmer) 来自英文：[How to get started as an open source programmer](https://opensource.com/article/17/1/how-get-started-open-source-programmer)
 - [ ] 八／2017-02-19 开源文化 [世界是开放的——Open的15种释义]()
+- [ ] 8.5／2017-02-22  商业模式 [开源厂商（中间服务机构）万岁！](http://www.ocselected.org/posts/bussiness_model/long_live_open_source_company/)
+- [ ] []() 来自英文：[How Google created a new kind of open source program office](https://opensource.com/business/16/9/google-open-source-program-office)
 - [ ] 九／2017-02-26 商业模式 [如何为一个开源项目撰写商业计划]()
 - [ ] 十／2017-03-05 社区治理 [Kubernetes社区是如何驱动项目走向成功的道路上的]() 解读来源：[How the Kubernetes Community Drives The Project’s Success](https://www.linux.com/news/learn/kubernetes/kubernetes-community-drives-projects-success)
 - [ ] 十一／2017-03-12 InnerSource [内部开源系列之二——经典案例]()
@@ -47,20 +49,26 @@ url: ""
 - [ ] 十七／2017-04-23 社区参与 [](),来自英文[How to join a technical community](https://opensource.com/article/17/1/how-join-technical-community)
 - [ ] 十八／2017-04-30 开源人物 []() 来自维基百科 [Bruce Perens](https://en.wikipedia.org/wiki/Bruce_Perens)
 - [ ] 十九／2017-05-07 InnerSource、参与社区  []() 来自英文[Why you should hire upstream](http://superuser.openstack.org/articles/hire-upstream-first/)
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
+- [ ] 二十／2017-05-12 商业模式 []() 来自英文 [How to successfully enter the FOSS emerging market](https://opensource.com/article/17/1/cultivating-business-foss-market)
+- [ ] 二十一／2017-05-19 开源文化 []() 来自英文 [Why we need open leaders more than ever](https://opensource.com/open-organization/17/2/need-open-leaders-more-ever)
+- [ ] 二十二／2017-05-26  []() 来自英文：[A graduate degree could springboard you into an open source job](https://opensource.com/article/17/1/grad-school-open-source-academic-lab)
+- [ ] []() 来自英文：[How I became a project team leader in open source](https://opensource.com/article/17/2/my-open-source-story-leader)
+- [ ] []() 职业生涯 来自英文：[Lessons from a brief career in open source](https://opensource.com/article/17/2/preparing-career-open-source)
+- [ ] []() 来自英文：[How companies can help employees contribute to open source](https://opensource.com/business/17/1/how-companies-contribute-open-source)
+- [ ] []() 来自英文：[Tips for non-native English speakers working on open source projects](https://opensource.com/article/17/1/non-native-speakers-take-open-source-communities)
+- [ ] []() 来自英文：[Why events matter and how to do them right](https://opensource.com/article/17/1/drupal-sibera)
+- [ ] []() 来自英文：[Be a force for good in your community](https://opensource.com/open-organization/17/1/force-for-good-community)
+- [ ] []() 来自英文：[5 ways to expand your project's contributor base](https://opensource.com/article/17/1/expand-project-contributor-base)
+- [ ] []() 来自英文：商业模式 [Coopetition: All's fair in love and open source](https://opensource.com/article/16/12/alls-fair-love-and-open-source)
+- [ ] []() 来自英文：[What engineers and marketers can learn from each other](https://opensource.com/open-organization/17/1/engineers-marketers-can-learn)
+- [ ] []() 来自英文：[Open is a means, not a movement](https://opensource.com/open-organization/16/10/open-means-not-movement)
+- [ ] []() 来自英文：[Open source and the software supply chain](https://opensource.com/article/16/12/open-source-software-supply-chain)
+- [ ] []() 来自英文：[How Open Source Nearly Killed My Business](https://www.business.com/articles/john-rampton-open-source-software-risks/)
+- [ ] []() 来自英文：[12 memes of open source software](https://opensource.com/business/16/4/12-memes-explain-open-source-software)
+- [ ] []() 来自英文：[]()
+- [ ] []() 来自英文：[]()
+- [ ] []() 来自英文：[]()
+- [ ] []() 来自英文：[]()
 - [ ]
 - [ ]
 - [ ]
