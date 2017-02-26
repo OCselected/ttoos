@@ -22,8 +22,10 @@
     {{ range first 10 .Data.Pages }}
         {{ .Render "summary"}}
     {{ end }}
+ {{ partial "pagination.hbs" . }}
   </div>
 </section>
+
 
 <aside id="meta"> </aside>
 
