@@ -19,10 +19,17 @@
 <section id="main">
   <div>
       <h1 id="title">{{.Site.Title}}</h1>
-    {{ range first 10 .Data.Pages }}
-        {{ .Render "summary"}}
-    {{ end }}
- {{ partial "pagination.hbs" . }}
+         {{ $paginate := (.Paginate (where .Data.Pages "Section" "!=" "page")) }}
+           {{ if eq .Paginator.PageNumber 1 }}
+             {{ range first 10 .Data.Pages }}
+               {{ .Render "summary"}}
+             {{ end }}
+            {{ else }}
+             {{ range first 9 .Paginator.Pages }}
+               {{ .Render "summary"}}
+             {{ end }}
+           {{ end }}
+         {{ partial "pagination.hbs" . }}
   </div>
 </section>
 
