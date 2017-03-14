@@ -20,7 +20,7 @@ url: ""
 
 Kubernetes 的出现，一扫 Google 过去对于开源项目的“矜持”，相比于那些几乎是 Google 一家独占的开源项目：Android、Chrome等，可谓是一缕清风。
 
-立即吸引了众多的开发者、商业公司、学术界的青睐，大家奔走相告，短短两年的发展，就大量的被应用于生产环境，如京东、百度，甚至是云计算的服务，如网易、Google的容器服务。
+立即吸引了众多的开发者、商业公司、学术界的青睐，大家奔走相告，自1.0发布后，不到短短两年的发展，就大量的被应用于生产环境，如京东、百度，甚至是云计算的服务，如网易、Google的容器服务。
 
 > Kubernetes 能有今天，绝非仅仅是依靠技术，我们认为更多的原因是因为社区的驱动成就了 Kubernetes 如此杰出的今天。
 
@@ -72,7 +72,7 @@ Kubernetes 的特别兴趣小组，和操作系统不同之处，彼此之间是
 
 ### 社区的良性发展
 
-Kubernetes 相比于Google过去的开源项目，没有由公司出面来建设，如Chrome、Android等，而是捐赠给了CNCF，Linux基金会下属的云原生计算基金会，这样的举动更是显示了建立生态的决心，以至于社区的发展超乎想象：
+Kubernetes 相比于Google过去的开源项目，没有由公司出面来建设，如Chrome、Android等，而是捐赠给了CNCF——Linux基金会下属的云原生计算基金会，这样的举动更是显示了建立生态的决心，以至于社区的发展超乎想象：
 
 ![](https://raw.githubusercontent.com/OCselected/ttoos/master/content/public/commiunty_static.png)
 
