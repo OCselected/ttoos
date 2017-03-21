@@ -40,7 +40,7 @@ url: ""
 - [x] 九／2017-02-26 商业模式 [如何为一个开源项目撰写商业计划]()
 - [x] 十／2017-03-05 社区治理 [Kubernetes社区是如何驱动项目走向成功的道路上的](http://www.ocselected.org/posts/contribute_to_community/how-the_kubernetes_community_drives_the_project_success/) 解读来源：[How the Kubernetes Community Drives The Project’s Success](https://www.linux.com/news/learn/kubernetes/kubernetes-community-drives-projects-success)
 - [x] 十一／2017-03-12 商业模式 [每家公司都应设立开源项目部门（OSPO）](http://www.ocselected.org/posts/business_model/whats_open_source_program_office/)来自英文：[What is an open source program office? And why do you need one?](https://opensource.com/business/16/5/whats-open-source-program-office)
-- [x] 十二／2017-03-19 商业模式 [细说Google开源项目部的前世今生]() 来自英文：[How Google created a new kind of open source program office](https://opensource.com/business/16/9/google-open-source-program-office)
+- [x] 十二／2017-03-19 商业模式 [Google 是如何打造独一无二的开源项目部（OSPO）的](http://www.ocselected.org/posts/business_model/how_google_created_new_kind_of_ospo/) 来自英文：[How Google created a new kind of open source program office](https://opensource.com/business/16/9/google-open-source-program-office)
 - [ ] 十三／2017-03-26 InnerSource [内部开源系列之二——经典案例]()
 - [ ]  InnerSource [如何在公司内部建立一个InnerSource社区]() 来自译文：[How to create an internal innersource community](https://opensource.com/life/16/11/create-internal-innersource-community)
 - [ ] 十／2017-03-26 InnerSource [实行InnerSource的十个步骤]() 来自译文：[10 steps to innersource in your organization in 2017](https://opensource.com/article/17/1/yearbook-10-steps-innersource-your-organization)
