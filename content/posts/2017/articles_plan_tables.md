@@ -35,7 +35,7 @@ url: ""
 - [x] 五／2017-01-29 InnerSource [内部开源系列之1——介绍篇](http://www.ocselected.org/posts/innersource/introduction_of_innersource/)
 - [x] 六／2017-02-05 开源文化 [开源软件是开放式创新的最佳注脚](http://www.ocselected.org/posts/Naming_OpenSource_and_Marketing_2/)
 - [x] 七／2017-02-12 参与社区 [开源软件程序员——从入门到蜕变](http://www.ocselected.org/posts/contribute_to_community/how_to_get_started_as_an_open_source_programmer) 来自英文：[How to get started as an open source programmer](https://opensource.com/article/17/1/how-get-started-open-source-programmer)
-- [x] 八／2017-02-19 开源文化 [世界是开放的——Open的15种释义]()
+- [x] 八／2017-02-19 开源文化 [世界是开放的——Open的15种释义](http://www.ocselected.org/posts/opensource_culture/fifty_shades_of_open/)
 - [x] 8.5／2017-02-22  商业模式 [开源厂商（中间服务机构）万岁！](http://www.ocselected.org/posts/business_model/long_live_open_source_company/)
 - [x] 九／2017-02-26 商业模式 [如何为一个开源项目撰写商业计划]()
 - [x] 十／2017-03-05 社区治理 [Kubernetes社区是如何驱动项目走向成功的道路上的](http://www.ocselected.org/posts/contribute_to_community/how-the_kubernetes_community_drives_the_project_success/) 解读来源：[How the Kubernetes Community Drives The Project’s Success](https://www.linux.com/news/learn/kubernetes/kubernetes-community-drives-projects-success)
