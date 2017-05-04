@@ -61,3 +61,5 @@ Ubuntu 从来就没有这些问题，从一开始，Mark Shuttleworth和他的�
 关于激进的言论，请关注他的Twitter：[@johnmark](http://twitter.com/johnmark)，他也有领英账号：[johnmarkwalker](https://opensource.com/users/www.linkedin.com/in/johnmarkwalker)，也不定期的会更新自己的博客：[johnmark.org](https://johnmark.org/blog/)。
 
 John Mark 经常在各个开源技术会议上做演讲，并有优秀的论述开源的文章，如[根本就不存在开源社区](http://www.onlamp.com/pub/a/onlamp/2006/01/12/no_oss_community.html)、[永远不要搞创新](http://www.johnmark.org/blog/2013/11/it-was-never-about-innovation/)、[逝者如斯：写在VA Linux IPO 十年之际](http://www.cnet.com/news/10-years-gone-the-va-linux-systems-ipo/)。
+
+英文原文：[Supply Chain Case Study: Canonical and Ubuntu](https://osenetwork.com/2017/04/27/supply-chain-case-study-canonical-and-ubuntu/) ，开源之道翻译出品。
