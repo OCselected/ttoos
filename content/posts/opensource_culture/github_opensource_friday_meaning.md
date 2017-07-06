@@ -27,6 +27,8 @@ url: ""
 
 问题的症结就在于对于上游贡献，如何贡献？怎么贡献？失去控制权怎么办？
 
+![](https://opensourcefriday.com/assets/oss-bike-eb4e24f03fb60f4616e4cd402418035690832293146a317afe198347d0d44ba6.svg)
+
 ## 开源星期五
 
 GitHub 从其外界所表现出来的，从来就没有止步于代码托管本身，而是不断的在锐意进取！尤其是今年对开源的发力，在2月14日发布[开源指南](https://ocselected.github.io/open-source-guide/)站点，全方位的针对开源，进行了方法论的总结和最佳实践指南，详情可参考我的演讲稿:[开源之道解读开源指南](http://www.ocselected.org/posts/opensource_culture/opensource_guide/overview/)；稍后又发布了[GitHub开源站点](https://github.com/open-source)，并自豪的宣称自己是全球最大的开源社区；继而在6月份，发布了开源调查:[开源界的现状如何](http://www.ocselected.org/posts/event_analysis/github_open_source_survey_2017/)
