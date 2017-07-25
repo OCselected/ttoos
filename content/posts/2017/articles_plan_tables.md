@@ -57,8 +57,8 @@ url: ""
 - [x] 二十六 ／2017-07-05 开源文化 方法论 [GitHub 发起的开源星期五之意义所在](http://www.ocselected.org/posts/opensource_culture/github_opensource_friday_meaning/)
 - [x] 二十七 ／2017-07-12 商业模式 [开源正在成为公有云巨头们的战场](http://www.ocselected.org/posts/Business_model/Open_Source_Is_Battle_field_of_Public_Cloud/)
 - [x] 二十八 ／2017-07-19 社区参与 [如何加入一个技术社区](http://www.ocselected.org/posts/contribute_to_community/how_to_join_technical_community/),来自英文[How to join a technical community](https://opensource.com/article/17/1/how-join-technical-community)
+- [x] 二十九 ／2017-07-25 开源文化 商业模式 [根本就没有所谓的开源商业模式](http://www.ocselected.org/posts/Business_model/there_is_no_open_source_business_model)[There is NO Open Source Business Model](https://medium.com/@stephenrwalli/there-is-no-open-source-business-model-cdc4cc20238)
 - [ ] 十／2017-04-16 社区治理 [精心布局的开源]()
-- [] [根本就没有所谓的开源商业模式]()[There is NO Open Source Business Model](https://medium.com/@stephenrwalli/there-is-no-open-source-business-model-cdc4cc20238)
 - [ ] 十／2017-04-30 开源人物 []() 来自维基百科 [Bruce Perens](https://en.wikipedia.org/wiki/Bruce_Perens)
 - [ ] 十／2017-05-07 InnerSource、参与社区  []() 来自英文[Why you should hire upstream](http://superuser.openstack.org/articles/hire-upstream-first/)
 - [ ] 二十／2017-05-12 商业模式 []() 来自英文 [How to successfully enter the FOSS emerging market](https://opensource.com/article/17/1/cultivating-business-foss-market)
@@ -77,7 +77,7 @@ url: ""
 - [ ] []() 来自英文：[How Open Source Nearly Killed My Business](https://www.business.com/articles/john-rampton-open-source-software-risks/)
 - [ ] []() 来自英文：[12 memes of open source software](https://opensource.com/business/16/4/12-memes-explain-open-source-software)
 - [ ] [以开源项目为产品的商业模式下如何平衡公司与社区？]() 来自英文：[How to balance corporate and community to build better open source](http://superuser.openstack.org/articles/corporate-vs-community-better-open-source)
-- [ ] []() 来自英文：[]()
+- [ ] []() 来自英文：[What to know before you open source your project](https://opensource.com/article/17/6/what-know-you-open-source-your-project)
 - [ ] []() 来自英文：[]()
 - [ ] []() 来自英文：[]()
 - [ ]
