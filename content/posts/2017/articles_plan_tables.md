@@ -62,7 +62,10 @@ url: ""
 - [x] 三十一 ／ 2017-08-09 开源文化 [东方文化与技术社区](http://www.ocselected.org/posts/opensource_culture/culture_and_community/)
 - [x] 三十二 ／2017-08-16  [企业施行内部开源的10个步骤](http://www.ocselected.org/posts/innersource/10_steps_to_innersource_in_your_organization/) 来自英文：[10 steps to innersource in your organization in 2017](https://opensource.com/article/17/1/yearbook-10-steps-innersource-your-organization)
 - [x] 三十三 ／2017-08-23 InnerSource、参与社区  [为什么说企业应该雇佣开源项目上游贡献者](http://www.ocselected.org/posts/innersource/why_you_should_hire_upstream/) 来自英文[Why you should hire upstream](http://superuser.openstack.org/articles/hire-upstream-first/)
-- [ ] 三十四 ／2017-08-30 开源人物 开源文化 []() 来自英文:[Open Source Leaders: Solomon Hykes and the Docker Revolution](https://thenewstack.io/solomon-hykes-leader-open-source-world-needs/)
+- [x] 三十四 ／2017-08-30 开源人物 开源文化 [开源英雄：Solomon Hykes和Docker的革命性崛起
+](http://www.ocselected.org/posts/opensource_leader/Solomon_Hykes_and_The_Docker_Revolution/) 来自英文:[Open Source Leaders: Solomon Hykes and the Docker Revolution](https://thenewstack.io/solomon-hykes-leader-open-source-world-needs/)
+- [x] 三十五 ／2017-09-06 开源人物 开源文化 [公司如何帮助员工为开源做贡献](http://www.ocselected.org/posts/contribute_to_community/how_companies_can_help_employees_contribute_to_open_source/) 来自英文：[How companies can help employees contribute to open source](https://opensource.com/business/17/1/how-companies-contribute-open-source)
+- [x] 三十六 ／2017-09-13 开源文化 [大多数成功的开源项目都是用钱砸出来的，你信吗？](http://www.ocselected.org/posts/opensource_culture/structure_and_funding_are_key_opensource_growth/) 
 - [ ] 十／2017-04-16 社区治理 [精心布局的开源]()
 - [ ] 十／2017-04-30 开源人物 []() 来自维基百科 [Bruce Perens](https://en.wikipedia.org/wiki/Bruce_Perens)
 - [ ] 二十／2017-05-12 商业模式 []() 来自英文 [How to successfully enter the FOSS emerging market](https://opensource.com/article/17/1/cultivating-business-foss-market)
@@ -71,7 +74,7 @@ url: ""
 - [ ] 十／2017-06-2
 - [ ] []() 来自英文：[How I became a project team leader in open source](https://opensource.com/article/17/2/my-open-source-story-leader)
 - [ ] []() 职业生涯 来自英文：[Lessons from a brief career in open source](https://opensource.com/article/17/2/preparing-career-open-source)
-- [ ] []() 来自英文：[How companies can help employees contribute to open source](https://opensource.com/business/17/1/how-companies-contribute-open-source)
+- [ ] []()
 - [ ] []() 来自英文：[Why events matter and how to do them right](https://opensource.com/article/17/1/drupal-sibera)
 - [ ] []() 来自英文：[Be a force for good in your community](https://opensource.com/open-organization/17/1/force-for-good-community)
 - [ ] []() 来自英文：[5 ways to expand your project's contributor base](https://opensource.com/article/17/1/expand-project-contributor-base)
