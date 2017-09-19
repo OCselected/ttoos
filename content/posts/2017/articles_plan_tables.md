@@ -65,7 +65,8 @@ url: ""
 - [x] 三十四 ／2017-08-30 开源人物 开源文化 [开源英雄：Solomon Hykes和Docker的革命性崛起
 ](http://www.ocselected.org/posts/opensource_leader/Solomon_Hykes_and_The_Docker_Revolution/) 来自英文:[Open Source Leaders: Solomon Hykes and the Docker Revolution](https://thenewstack.io/solomon-hykes-leader-open-source-world-needs/)
 - [x] 三十五 ／2017-09-06 开源人物 开源文化 [公司如何帮助员工为开源做贡献](http://www.ocselected.org/posts/contribute_to_community/how_companies_can_help_employees_contribute_to_open_source/) 来自英文：[How companies can help employees contribute to open source](https://opensource.com/business/17/1/how-companies-contribute-open-source)
-- [x] 三十六 ／2017-09-13 开源文化 [大多数成功的开源项目都是用钱砸出来的，你信吗？](http://www.ocselected.org/posts/opensource_culture/structure_and_funding_are_key_opensource_growth/) 
+- [x] 三十六 ／2017-09-13 开源文化 [大多数成功的开源项目都是用钱砸出来的，你信吗？](http://www.ocselected.org/posts/opensource_culture/structure_and_funding_are_key_opensource_growth/)
+- [x] 三十七 ／2017-09-20 商业模式 开源指南 [Linux基金会发布企业开源指南](http://www.ocselected.org/posts/Business_model/Linux_Foundation_product_open_sourceg_guide_enterprise/)
 - [ ] 十／2017-04-16 社区治理 [精心布局的开源]()
 - [ ] 十／2017-04-30 开源人物 []() 来自维基百科 [Bruce Perens](https://en.wikipedia.org/wiki/Bruce_Perens)
 - [ ] 二十／2017-05-12 商业模式 []() 来自英文 [How to successfully enter the FOSS emerging market](https://opensource.com/article/17/1/cultivating-business-foss-market)
