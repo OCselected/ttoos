@@ -67,10 +67,10 @@ url: ""
 - [x] 三十五 ／2017-09-06 开源人物 开源文化 [公司如何帮助员工为开源做贡献](http://www.ocselected.org/posts/contribute_to_community/how_companies_can_help_employees_contribute_to_open_source/) 来自英文：[How companies can help employees contribute to open source](https://opensource.com/business/17/1/how-companies-contribute-open-source)
 - [x] 三十六 ／2017-09-13 开源文化 [大多数成功的开源项目都是用钱砸出来的，你信吗？](http://www.ocselected.org/posts/opensource_culture/structure_and_funding_are_key_opensource_growth/)
 - [x] 三十七 ／2017-09-20 商业模式 开源指南 [Linux基金会发布企业开源指南](http://www.ocselected.org/posts/Business_model/Linux_Foundation_product_open_sourceg_guide_enterprise/)
+- [x] 三十八 ／2017-09-27 开源指南 [在你的项目开源之前应该确认的几件事](http://www.ocselected.org//posts/opensource_culture/what_to_know_before_you_open_source_your_project) 来自英文：[What to know before you open source your project](https://opensource.com/article/17/6/what-know-you-open-source-your-project)
 - [ ] 十／2017-04-16 社区治理 [精心布局的开源]()
 - [ ] 十／2017-04-30 开源人物 []() 来自维基百科 [Bruce Perens](https://en.wikipedia.org/wiki/Bruce_Perens)
 - [ ] 二十／2017-05-12 商业模式 []() 来自英文 [How to successfully enter the FOSS emerging market](https://opensource.com/article/17/1/cultivating-business-foss-market)
-- [ ] 二十／2017-05-19 开源文化 []() 来自英文 [Why we need open leaders more than ever](https://opensource.com/open-organization/17/2/need-open-leaders-more-ever)
 - [ ] 二十／2017-05-26  []() 来自英文：[A graduate degree could springboard you into an open source job](https://opensource.com/article/17/1/grad-school-open-source-academic-lab)
 - [ ] 十／2017-06-2
 - [ ] []() 来自英文：[How I became a project team leader in open source](https://opensource.com/article/17/2/my-open-source-story-leader)
@@ -85,7 +85,6 @@ url: ""
 - [ ] []() 来自英文：[How Open Source Nearly Killed My Business](https://www.business.com/articles/john-rampton-open-source-software-risks/)
 - [ ] []() 来自英文：
 - [ ] [以开源项目为产品的商业模式下如何平衡公司与社区？]() 来自英文：[How to balance corporate and community to build better open source](http://superuser.openstack.org/articles/corporate-vs-community-better-open-source)
-- [ ] []() 来自英文：[What to know before you open source your project](https://opensource.com/article/17/6/what-know-you-open-source-your-project)
 - [ ] []() 来自英文：[]()
 - [ ] []() 来自英文：[]()
 - [ ]
