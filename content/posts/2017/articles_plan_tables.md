@@ -68,7 +68,8 @@ url: ""
 - [x] 三十六 ／2017-09-13 开源文化 [大多数成功的开源项目都是用钱砸出来的，你信吗？](http://www.ocselected.org/posts/opensource_culture/structure_and_funding_are_key_opensource_growth/)
 - [x] 三十七 ／2017-09-20 商业模式 开源指南 [Linux基金会发布企业开源指南](http://www.ocselected.org/posts/Business_model/Linux_Foundation_product_open_sourceg_guide_enterprise/)
 - [x] 三十八 ／2017-09-27 开源指南 [在你的项目开源之前应该确认的几件事](http://www.ocselected.org/posts/opensource_culture/what_to_know_before_you_open_source_your_project) 来自英文：[What to know before you open source your project](https://opensource.com/article/17/6/what-know-you-open-source-your-project)
-- [x] 三十九 ／2017-10-11 开源指南 [](http://www.ocselected.org/posts/opensource_culture/open_source_success_starts_at_zero) 来自英文：[Open source success starts at zero](https://opensource.com/article/17/8/open-source-success-starts-zero)
+- [x] 三十九 ／2017-10-11 开源指南 [归零心态，参与开源](http://www.ocselected.org/posts/opensource_culture/open_source_success_starts_at_zero) 来自英文：[Open source success starts at zero](https://opensource.com/article/17/8/open-source-success-starts-zero)
+- [x] 四十 ／2017-10-19 商业模式 [竞争中合作：开源商业化的爱与恨](./posts/Business_model/Coopetition_all_fair_in_love_and_open_source) 来自英文：[Coopetition: All's fair in love and open source](https://opensource.com/article/16/12/alls-fair-love-and-open-source)
 - [ ] 十／2017-04-16 社区治理 [精心布局的开源]()
 - [ ] 十／2017-04-30 开源人物 []() 来自维基百科 [Bruce Perens](https://en.wikipedia.org/wiki/Bruce_Perens)
 - [ ] 二十／2017-05-12 商业模式 []() 来自英文 [How to successfully enter the FOSS emerging market](https://opensource.com/article/17/1/cultivating-business-foss-market)
@@ -80,7 +81,7 @@ url: ""
 - [ ] []() 来自英文：[Why events matter and how to do them right](https://opensource.com/article/17/1/drupal-sibera)
 - [ ] []() 来自英文：[Be a force for good in your community](https://opensource.com/open-organization/17/1/force-for-good-community)
 - [ ] []() 来自英文：[5 ways to expand your project's contributor base](https://opensource.com/article/17/1/expand-project-contributor-base)
-- [ ] []() 来自英文：商业模式 [Coopetition: All's fair in love and open source](https://opensource.com/article/16/12/alls-fair-love-and-open-source)
+
 - [ ] []() 来自英文：[What engineers and marketers can learn from each other](https://opensource.com/open-organization/17/1/engineers-marketers-can-learn)
 - [ ] []() 来自英文：[Open is a means, not a movement](https://opensource.com/open-organization/16/10/open-means-not-movement)
 - [ ] []() 来自英文：[How Open Source Nearly Killed My Business](https://www.business.com/articles/john-rampton-open-source-software-risks/)
