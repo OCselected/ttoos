@@ -70,6 +70,7 @@ url: ""
 - [x] 三十八 ／2017-09-27 开源指南 [在你的项目开源之前应该确认的几件事](http://www.ocselected.org/posts/opensource_culture/what_to_know_before_you_open_source_your_project) 来自英文：[What to know before you open source your project](https://opensource.com/article/17/6/what-know-you-open-source-your-project)
 - [x] 三十九 ／2017-10-11 开源指南 [归零心态，参与开源](http://www.ocselected.org/posts/opensource_culture/open_source_success_starts_at_zero) 来自英文：[Open source success starts at zero](https://opensource.com/article/17/8/open-source-success-starts-zero)
 - [x] 四十 ／2017-10-19 商业模式 [竞争中合作：开源商业化的爱与恨](./posts/Business_model/Coopetition_all_fair_in_love_and_open_source) 来自英文：[Coopetition: All's fair in love and open source](https://opensource.com/article/16/12/alls-fair-love-and-open-source)
+- [x] 四十一 ／2017-10-25 开源人物 [Peter Fenton，开源界点石成金的风险投资者](./posts/OpenSource_Leader/Peter_Fenton_Has_Magic_Open_Source_Touch)
 - [ ] 十／2017-04-16 社区治理 [精心布局的开源]()
 - [ ] 十／2017-04-30 开源人物 []() 来自维基百科 [Bruce Perens](https://en.wikipedia.org/wiki/Bruce_Perens)
 - [ ] 二十／2017-05-12 商业模式 []() 来自英文 [How to successfully enter the FOSS emerging market](https://opensource.com/article/17/1/cultivating-business-foss-market)
