@@ -2,6 +2,7 @@
 categories:
 - 开源
 - 供应链
+date: {{ .Date }}
 description: ""
 keywords:
 - Open Source

@@ -2,6 +2,7 @@
 categories:
 - 开源
 - 人物
+date: {{ .Date }}
 description: ""
 keywords:
 - Open Source

@@ -2,6 +2,7 @@
 categories:
 - 开源
 - 感悟
+date: {{ .Date }}
 description: ""
 keywords:
 - Open Source

@@ -2,6 +2,7 @@
 categories:
 - 开源
 - 商业模式
+date: {{ .Date }}
 description: ""
 keywords:
 - Open Source
