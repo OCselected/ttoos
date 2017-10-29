@@ -8,6 +8,7 @@ keywords:
 - Culture
 tags:
 - 开源文化
-title: ""
+title: "{{ replace .TranslationBaseName "-" " " | title }}"
+date: {{ .Date }}
 url: ""
 ---

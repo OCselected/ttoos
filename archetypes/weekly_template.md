@@ -10,7 +10,8 @@ keywords:
 tags:
 - 每周精选
 - 开源之道
-title: "开源之道"
+title: "{{ replace .TranslationBaseName "-" "Open Source Way" | 开源之道 }}"
+date: {{ .Date }}
 url: ""
 ---
 **声明：本站言论，仅代表我自己，不管任何其它！**

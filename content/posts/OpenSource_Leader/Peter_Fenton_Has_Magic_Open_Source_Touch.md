@@ -119,3 +119,4 @@ Fenton对于项目或公司的创始人也有着独特的眼光的，
 5. [The Dynamics of Open Source Software](http://ecorner.stanford.edu/videos/1284/The-Dynamics-of-Open-Source-Software)
 6. [The Relationship Between Venture Capital and Open
 Source](http://ecorner.stanford.edu/videos/1285/The-Relationship-Between-Venture-Capital-and-Open-Source)
+7. [Open Wallets for Open-Source Software](http://www.nytimes.com/2005/04/27/technology/open-wallets-for-opensource-software.html)
