@@ -18,7 +18,7 @@ url: ""
 
 下面截图：
 
-![](https://raw.githubusercontent.com/lijiangsheng1/lijiansheng_github_pages/master/content/posts/OpenSource/naming_opensource.jpeg)
+![](https://raw.githubusercontent.com/lijiangsheng1/lijiansheng_github_pages/master/content/public/naming_opensource.jpeg)
 
 类似的话，我听的太多了，我一般懒得理会，此次看到的却是鼎鼎大名的@葑菲daffodil，甚至是@陈沙克竟然也调侃认同，我有点坐不住了，以开源布道师自居的我，必须为开源正名，于是有了此文。至于我对这段话的批判见文章末尾。
 
