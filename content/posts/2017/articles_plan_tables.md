@@ -71,10 +71,9 @@ url: ""
 - [x] 三十九 ／2017-10-11 开源指南 [归零心态，参与开源](http://www.ocselected.org/posts/opensource_culture/open_source_success_starts_at_zero) 来自英文：[Open source success starts at zero](https://opensource.com/article/17/8/open-source-success-starts-zero)
 - [x] 四十 ／2017-10-19 商业模式 [竞争中合作：开源商业化的爱与恨](./posts/Business_model/Coopetition_all_fair_in_love_and_open_source) 来自英文：[Coopetition: All's fair in love and open source](https://opensource.com/article/16/12/alls-fair-love-and-open-source)
 - [x] 四十一 ／2017-10-25 开源人物 [Peter Fenton，开源界点石成金的风险投资者](./posts/OpenSource_Leader/Peter_Fenton_Has_Magic_Open_Source_Touch)
-- [x] 四十二 ／2017-10-30 开源文化、社区治理 [Linux 内核开发报告2017版](./posts/opensource_culture/2017_linux_kernel_development_report/)
+- [ ] 二十／2017-11-08 商业模式 [如何成功进入自由开源软件这个新兴市场](./posts/Business_model/how_to_successfully_enter_the_FOSS_emerging_market/) 来自英文 [How to successfully enter the FOSS emerging market](https://opensource.com/article/17/1/cultivating-business-foss-market)
 - [ ] 十／2017-04-16 社区治理 [精心布局的开源]()
 - [ ] 十／2017-04-30 开源人物 []() 来自维基百科 [Bruce Perens](https://en.wikipedia.org/wiki/Bruce_Perens)
-- [ ] 二十／2017-05-12 商业模式 []() 来自英文 [How to successfully enter the FOSS emerging market](https://opensource.com/article/17/1/cultivating-business-foss-market)
 - [ ] 二十／2017-05-26  []() 来自英文：[A graduate degree could springboard you into an open source job](https://opensource.com/article/17/1/grad-school-open-source-academic-lab)
 - [ ] 十／2017-06-2 []() 来自英文：[New Initiatives to Create Sustainable Open Source Projects at The Linux Foundation](https://www.linuxfoundation.org/blog/new-initiatives-to-create-sustainable-open-source-projects-at-the-linux-foundation/)
 - [ ] []() 来自英文：[How I became a project team leader in open source](https://opensource.com/article/17/2/my-open-source-story-leader)
@@ -91,8 +90,8 @@ url: ""
 - [ ] [以开源项目为产品的商业模式下如何平衡公司与社区？]() 来自英文：[How to balance corporate and community to build better open source](http://superuser.openstack.org/articles/corporate-vs-community-better-open-source)
 - [ ] []() 来自英文：[Open core, open perimeter, and the future of enterprise software](https://opensource.com/article/17/8/open-core-vs-open-perimeter)
 - [ ] []() 来自英文：[Openwashing: adopter beware](https://opensource.com/business/14/12/openwashing-more-prevalent)
-- [ ]
-- [ ]
+- [ ] []() 来自英文：[How to manage casual contributors to open source projects](https://opensource.com/article/17/10/managing-casual-contributors)
+- [ ] []() 来自英文：[Why I love technical debt](https://opensource.com/article/17/11/why-i-love-technical-debt)
 - [ ]
 - [ ]
 
