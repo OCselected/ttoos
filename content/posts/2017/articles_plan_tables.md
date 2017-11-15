@@ -71,7 +71,8 @@ url: ""
 - [x] 三十九 ／2017-10-11 开源指南 [归零心态，参与开源](http://www.ocselected.org/posts/opensource_culture/open_source_success_starts_at_zero) 来自英文：[Open source success starts at zero](https://opensource.com/article/17/8/open-source-success-starts-zero)
 - [x] 四十 ／2017-10-19 商业模式 [竞争中合作：开源商业化的爱与恨](./posts/Business_model/Coopetition_all_fair_in_love_and_open_source) 来自英文：[Coopetition: All's fair in love and open source](https://opensource.com/article/16/12/alls-fair-love-and-open-source)
 - [x] 四十一 ／2017-10-25 开源人物 [Peter Fenton，开源界点石成金的风险投资者](./posts/OpenSource_Leader/Peter_Fenton_Has_Magic_Open_Source_Touch)
-- [ ] 二十／2017-11-08 商业模式 [如何成功进入自由开源软件这个新兴市场](./posts/Business_model/how_to_successfully_enter_the_FOSS_emerging_market/) 来自英文 [How to successfully enter the FOSS emerging market](https://opensource.com/article/17/1/cultivating-business-foss-market)
+- [x] 四十二 ／2017-11-08 商业模式 [如何成功进入自由开源软件这个新兴市场](./posts/Business_model/how_to_successfully_enter_the_FOSS_emerging_market/) 来自英文 [How to successfully enter the FOSS emerging market](https://opensource.com/article/17/1/cultivating-business-foss-market)
+- [ ] 四十三 /2017-11-15 开源文化 商业模式 [开源软件项目的“上游优先”解惑](./posts/opensource_culture/what_is_upstream_and_its_benefits/)
 - [ ] 十／2017-04-16 社区治理 [精心布局的开源]()
 - [ ] 十／2017-04-30 开源人物 []() 来自维基百科 [Bruce Perens](https://en.wikipedia.org/wiki/Bruce_Perens)
 - [ ] 二十／2017-05-26  []() 来自英文：[A graduate degree could springboard you into an open source job](https://opensource.com/article/17/1/grad-school-open-source-academic-lab)
@@ -82,7 +83,7 @@ url: ""
 - [ ] []() 来自英文：[Why events matter and how to do them right](https://opensource.com/article/17/1/drupal-sibera)
 - [ ] []() 来自英文：[Be a force for good in your community](https://opensource.com/open-organization/17/1/force-for-good-community)
 - [ ] []() 来自英文：[5 ways to expand your project's contributor base](https://opensource.com/article/17/1/expand-project-contributor-base)
-
+- [ ] []() 来自英文：[Estimating the Total Cost of a Linux Distribution](https://www.linux.com/publications/estimating-total-cost-linux-distribution)
 - [ ] []() 来自英文：[What engineers and marketers can learn from each other](https://opensource.com/open-organization/17/1/engineers-marketers-can-learn)
 - [ ] []() 来自英文：[Open is a means, not a movement](https://opensource.com/open-organization/16/10/open-means-not-movement)
 - [ ] []() 来自英文：[How Open Source Nearly Killed My Business](https://www.business.com/articles/john-rampton-open-source-software-risks/)
@@ -92,8 +93,7 @@ url: ""
 - [ ] []() 来自英文：[Openwashing: adopter beware](https://opensource.com/business/14/12/openwashing-more-prevalent)
 - [ ] []() 来自英文：[How to manage casual contributors to open source projects](https://opensource.com/article/17/10/managing-casual-contributors)
 - [ ] []() 来自英文：[Why I love technical debt](https://opensource.com/article/17/11/why-i-love-technical-debt)
-- [ ]
-- [ ]
+- [ ] []() 来自英文：[How community building can help an organization's bottom line](https://opensource.com/business/16/3/how-community-can-help-organizations-bottom-line)
 
 -------
 你会问自己要结果吗？
