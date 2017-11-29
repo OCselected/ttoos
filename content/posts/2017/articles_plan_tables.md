@@ -27,7 +27,7 @@ url: ""
 
 > **格式注解**：文章的第X篇、发布日期、所属类别、文章名称及链接
 
-- [x]  一／2017-01-03   参与社区 [敲开开源世界的大门](http://www.ocselected.org/posts/advice_for_building_a_career_in_open_source/)
+- [x] 一／2017-01-03   参与社区 [敲开开源世界的大门](http://www.ocselected.org/posts/advice_for_building_a_career_in_open_source/)
 - [x] 二／2017-01-08 开源文化、商业模式、社区治理、InnerSource、参与社区 [开源之道与开源之术之一](http://www.ocselected.org/posts/open_source_tao_and_way/open_source_tao_and_way_0)
 - [x] 三／2017-01-15 开源文化 [开源的激励、动机大全](http://www.ocselected.org/posts/motivations_for_consuming_or_publishing_oss/)
 - [x] 3.5/2017-01-19 开源热点 [也谈开源软件的安全——从MongDB、Elasticsearch勒索案说起](http://www.ocselected.org/posts/Event_analysis/Security_MongoDB_ElasticSearch/)
@@ -71,10 +71,11 @@ url: ""
 - [x] 三十九 ／2017-10-11 开源指南 [归零心态，参与开源](http://www.ocselected.org/posts/opensource_culture/open_source_success_starts_at_zero) 来自英文：[Open source success starts at zero](https://opensource.com/article/17/8/open-source-success-starts-zero)
 - [x] 四十 ／2017-10-19 商业模式 [竞争中合作：开源商业化的爱与恨](./posts/Business_model/Coopetition_all_fair_in_love_and_open_source) 来自英文：[Coopetition: All's fair in love and open source](https://opensource.com/article/16/12/alls-fair-love-and-open-source)
 - [x] 四十一 ／2017-10-25 开源人物 [Peter Fenton，开源界点石成金的风险投资者](./posts/OpenSource_Leader/Peter_Fenton_Has_Magic_Open_Source_Touch)
-- [x] 四十二 ／2017-11-08 商业模式 [如何成功进入自由开源软件这个新兴市场](./posts/Business_model/how_to_successfully_enter_the_FOSS_emerging_market/) 来自英文 [How to successfully enter the FOSS emerging market](https://opensource.com/article/17/1/cultivating-business-foss-market)
-- [x] 四十三 /2017-11-15 开源文化 商业模式 [开源软件项目的“上游优先”解惑](./posts/opensource_culture/what_is_upstream_and_its_benefits/)
-- [x] 四十四 /2017-11-23 开源文化 参与上游 [拿来主义的陷阱——你真的充分的利用了开源项目了吗？](./posts/contribute_to_community/no_upstream_first_psychologic_and_culture_analysis/)
-- [ ] 四十五 /2017-11-22 开源文化 开源现象 [Apache 2017 年度报告](./posts/Event_analysis/2017_Apache_annual_report/)
+- [x] 四十二 ／2017-10-30 开源文化 [Linux 内核开发报告2017版](posts/opensource_culture/2017_linux_kernel_development_report/)
+- [x] 四十三 ／2017-11-08 商业模式 [如何成功进入自由开源软件这个新兴市场](./posts/Business_model/how_to_successfully_enter_the_FOSS_emerging_market/) 来自英文 [How to successfully enter the FOSS emerging market](https://opensource.com/article/17/1/cultivating-business-foss-market)
+- [x] 四十四 /2017-11-15 开源文化 商业模式 [开源软件项目的“上游优先”解惑](./posts/opensource_culture/what_is_upstream_and_its_benefits/)
+- [x] 四十五 /2017-11-23 开源文化 参与上游 [拿来主义的陷阱——你真的充分的利用了开源项目了吗？](./posts/contribute_to_community/no_upstream_first_psychologic_and_culture_analysis/)
+- [x] 四十六 /2017-11-22 开源文化 开源现象 [Apache 2017 年度报告](./posts/Event_analysis/2017_Apache_annual_report/)
 - [ ] 十／2017-04-16 社区治理 [精心布局的开源]()
 - [ ] 十／2017-04-30 开源人物 []() 来自维基百科 [Bruce Perens](https://en.wikipedia.org/wiki/Bruce_Perens)
 - [ ] 二十／2017-05-26  []() 来自英文：[A graduate degree could springboard you into an open source job](https://opensource.com/article/17/1/grad-school-open-source-academic-lab)
@@ -82,6 +83,7 @@ url: ""
 - [ ] []() 来自英文：[How I became a project team leader in open source](https://opensource.com/article/17/2/my-open-source-story-leader)
 - [ ] []() 职业生涯 来自英文：[Lessons from a brief career in open source](https://opensource.com/article/17/2/preparing-career-open-source)
 - [ ] []() 来自英文：[6 reasons open source is good for business](https://opensource.com/article/17/10/6-reasons-choose-open-source-software)
+- [ ] []() 来自英文：[Sponsored development is a win-win for users and developers](https://opensource.com/article/17/11/sponsored-development)
 - [ ] []() 来自英文：[Why events matter and how to do them right](https://opensource.com/article/17/1/drupal-sibera)
 - [ ] []() 来自英文：[Be a force for good in your community](https://opensource.com/open-organization/17/1/force-for-good-community)
 - [ ] []() 来自英文：[5 ways to expand your project's contributor base](https://opensource.com/article/17/1/expand-project-contributor-base)
