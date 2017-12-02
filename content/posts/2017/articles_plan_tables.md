@@ -76,6 +76,8 @@ url: ""
 - [x] 四十四 /2017-11-15 开源文化 商业模式 [开源软件项目的“上游优先”解惑](./posts/opensource_culture/what_is_upstream_and_its_benefits/)
 - [x] 四十五 /2017-11-23 开源文化 参与上游 [拿来主义的陷阱——你真的充分的利用了开源项目了吗？](./posts/contribute_to_community/no_upstream_first_psychologic_and_culture_analysis/)
 - [x] 四十六 /2017-11-22 开源文化 开源现象 [Apache 2017 年度报告](./posts/Event_analysis/2017_Apache_annual_report/)
+- [x] 四十六 /2017-12-02 开源社区 商业模式 [衡量开源社区投资回报率的16个资源](./posts/opensource_culture/resources_measuring_open_source_community_roi/) 来自英文 [16 resources for measuring open source community ROI](https://opensource.com/business/16/3/resources-measuring-open-source-community-roi)
+- [x] 四十七 /2017-12-06 开源社区 商业模式 [企业建设社区最起码能收获什么](./posts/contribute_to_community/how_community_can_help_organization_bottom_line/) 来自英文 [How community building can help an organization's bottom line](https://opensource.com/business/16/3/how-community-can-help-organizations-bottom-line)
 - [ ] 十／2017-04-16 社区治理 [精心布局的开源]()
 - [ ] 十／2017-04-30 开源人物 []() 来自维基百科 [Bruce Perens](https://en.wikipedia.org/wiki/Bruce_Perens)
 - [ ] 二十／2017-05-26  []() 来自英文：[A graduate degree could springboard you into an open source job](https://opensource.com/article/17/1/grad-school-open-source-academic-lab)
