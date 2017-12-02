@@ -10,6 +10,5 @@ keywords:
 tags:
 - 开源文化
 title: "{{ replace .TranslationBaseName "-" " " | title }}"
-date: {{ .Date }}
 url: ""
 ---
