@@ -92,15 +92,12 @@ url: ""
 - [ ] []() 来自英文：[Estimating the Total Cost of a Linux Distribution](https://www.linux.com/publications/estimating-total-cost-linux-distribution)
 - [ ] []() 来自英文：[What engineers and marketers can learn from each other](https://opensource.com/open-organization/17/1/engineers-marketers-can-learn)
 - [ ] []() 来自英文：[Open is a means, not a movement](https://opensource.com/open-organization/16/10/open-means-not-movement)
-- [ ] []() 来自英文：[How Open Source Nearly Killed My Business](https://www.business.com/articles/john-rampton-open-source-software-risks/)
 - [ ] []() 来自英文：[What the data says about how Linux kernel developers collaborate](https://opensource.com/article/17/10/collaboration-linux-kernel)
-- [ ] [以开源项目为产品的商业模式下如何平衡公司与社区？]() 来自英文：[How to balance corporate and community to build better open source](http://superuser.openstack.org/articles/corporate-vs-community-better-open-source)
 - [ ] []() 来自英文：[Open core, open perimeter, and the future of enterprise software](https://opensource.com/article/17/8/open-core-vs-open-perimeter)
 - [ ] []() 来自英文：[Openwashing: adopter beware](https://opensource.com/business/14/12/openwashing-more-prevalent)
 - [ ] []() 来自英文：[How to manage casual contributors to open source projects](https://opensource.com/article/17/10/managing-casual-contributors)
 - [ ] []() 来自英文：[Why I love technical debt](https://opensource.com/article/17/11/why-i-love-technical-debt)
-- [ ] []() 来自英文：[How community building can help an organization's bottom line](https://opensource.com/business/16/3/how-community-can-help-organizations-bottom-line)
-
+- [ ] []() 来自英文：[Why the open source community needs a diverse supply chain](https://opensource.com/open-organization/17/11/inclusivity-supply-chain?sc_cid=70160000001273HAAQ)
 -------
 你会问自己要结果吗？
 
