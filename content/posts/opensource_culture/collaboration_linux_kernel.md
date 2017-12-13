@@ -9,7 +9,7 @@ keywords:
 - Culture
 tags:
 - 开源文化
-title: "Linux内核开发者是如何工作的——用实际数据说话"
+title: "Linux内核开发者是如何协作的——用实际数据说话"
 url: ""
 ---
 

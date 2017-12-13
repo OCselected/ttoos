@@ -78,7 +78,7 @@ url: ""
 - [x] 四十六 /2017-11-22 开源文化 开源现象 [Apache 2017 年度报告](./posts/Event_analysis/2017_Apache_annual_report/)
 - [x] 四十六 /2017-12-02 开源社区 商业模式 [衡量开源社区投资回报率的16个资源](./posts/opensource_culture/resources_measuring_open_source_community_roi/) 来自英文 [16 resources for measuring open source community ROI](https://opensource.com/business/16/3/resources-measuring-open-source-community-roi)
 - [x] 四十七 /2017-12-06 开源社区 商业模式 [企业建设社区最起码能收获什么](./posts/contribute_to_community/how_community_can_help_organization_bottom_line/) 来自英文 [How community building can help an organization's bottom line](https://opensource.com/business/16/3/how-community-can-help-organizations-bottom-line)
-- [x] 四十八 /2017-12-13 开源文化 开源现象 [Linux内核开发者是如何工作的——用实际数据说话](posts/opensource_culture/collaboration_linux_kernel/) 来自英文：[What the data says about how Linux kernel developers collaborate](https://opensource.com/article/17/10/collaboration-linux-kernel)
+- [x] 四十八 /2017-12-13 开源文化 开源现象 [Linux内核开发者是如何协作的——用实际数据说话](posts/opensource_culture/collaboration_linux_kernel/) 来自英文：[What the data says about how Linux kernel developers collaborate](https://opensource.com/article/17/10/collaboration-linux-kernel)
 - [ ] 十／2017-04-16 社区治理 [精心布局的开源]()
 - [ ] 十／2017-04-30 开源人物 []() 来自维基百科 [Bruce Perens](https://en.wikipedia.org/wiki/Bruce_Perens)
 - [ ] 二十／2017-05-26  []() 来自英文：[A graduate degree could springboard you into an open source job](https://opensource.com/article/17/1/grad-school-open-source-academic-lab)
