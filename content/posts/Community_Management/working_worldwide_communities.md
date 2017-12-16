@@ -10,8 +10,8 @@ keywords:
 - Community Management
 tags:
 - 社区管理
-title: ""
-url: "如何解决创建全球社区的挑战"
+title: "如何解决创建全球社区的挑战"
+url: ""
 ---
 
 ## 引子
