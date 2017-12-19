@@ -80,6 +80,7 @@ url: ""
 - [x] 四十七 /2017-12-06 开源社区 商业模式 [企业建设社区最起码能收获什么](./posts/contribute_to_community/how_community_can_help_organization_bottom_line/) 来自英文 [How community building can help an organization's bottom line](https://opensource.com/business/16/3/how-community-can-help-organizations-bottom-line)
 - [x] 四十八 /2017-12-13 开源文化 开源现象 [Linux内核开发者是如何协作的——用实际数据说话](posts/opensource_culture/collaboration_linux_kernel/) 来自英文：[What the data says about how Linux kernel developers collaborate](https://opensource.com/article/17/10/collaboration-linux-kernel)
 - [x] 四十九 /2017-12-20 开源文化 社区管理 [如何解决创建全球社区的挑战](./posts/Community_Management/working_worldwide_communities/) 英文原文 [Overcoming challenges when building great global communities](https://opensource.com/article/17/12/working-worldwide-communities)
+- [ ] 五十 /2017/12-20 开源文化 社区管理 [扩张社区贡献者的几种办法](/posts/Community_Management/expand_project_contributor/) 来自英文：[5 ways to expand your project's contributor base](https://opensource.com/article/17/1/expand-project-contributor-base)
 - [ ] 十／2017-04-16 社区治理 [精心布局的开源]()
 - [ ] 十／2017-04-30 开源人物 []() 来自维基百科 [Bruce Perens](https://en.wikipedia.org/wiki/Bruce_Perens)
 - [ ] 二十／2017-05-26  []() 来自英文：[A graduate degree could springboard you into an open source job](https://opensource.com/article/17/1/grad-school-open-source-academic-lab)
@@ -90,7 +91,7 @@ url: ""
 - [ ] []() 来自英文：[Sponsored development is a win-win for users and developers](https://opensource.com/article/17/11/sponsored-development)
 - [ ] []() 来自英文：[Why events matter and how to do them right](https://opensource.com/article/17/1/drupal-sibera)
 - [ ] []() 来自英文：[Be a force for good in your community](https://opensource.com/open-organization/17/1/force-for-good-community)
-- [ ] []() 来自英文：[5 ways to expand your project's contributor base](https://opensource.com/article/17/1/expand-project-contributor-base)
+
 - [ ] []() 来自英文：[Estimating the Total Cost of a Linux Distribution](https://www.linux.com/publications/estimating-total-cost-linux-distribution)
 - [ ] []() 来自英文：[What engineers and marketers can learn from each other](https://opensource.com/open-organization/17/1/engineers-marketers-can-learn)
 - [ ] []() 来自英文：[Open is a means, not a movement](https://opensource.com/open-organization/16/10/open-means-not-movement)
@@ -98,7 +99,7 @@ url: ""
 - [ ] []() 来自英文：[Openwashing: adopter beware](https://opensource.com/business/14/12/openwashing-more-prevalent)
 - [ ] []() 来自英文：[How to manage casual contributors to open source projects](https://opensource.com/article/17/10/managing-casual-contributors)
 - [ ] []() 来自英文：[Why I love technical debt](https://opensource.com/article/17/11/why-i-love-technical-debt)
-- [ ] []() 来自英文：[Why the open source community needs a diverse supply chain](https://opensource.com/open-organization/17/11/inclusivity-supply-chain?sc_cid=70160000001273HAAQ)
+
 -------
 你会问自己要结果吗？
 
