@@ -12,4 +12,4 @@ OCselected 是开放云精选的名称，其中的C是指 Cloud的含义，非�
 
 ## 如何参与？
 
-好吧，暂时还没有遇到对开源文化、现象、方法论的志同道合者，如果你是的话，请给我发邮件，或者提PR。
+好吧，暂时还没有遇到对开源文化、现象、方法论的志同道合者，如果你是的话，请给我发邮件[lijiansheng@ocselected.org](mailto:lijiansheng@ocselected.org)，或者提[PR](https://github.com/OCselected/ttoos/compare)。
