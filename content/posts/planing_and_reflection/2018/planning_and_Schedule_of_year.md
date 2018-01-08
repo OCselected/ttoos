@@ -3,7 +3,7 @@ categories:
 - 开源
 - 感悟
 date: 2018-01-07T15:33:33+08:00
-description: ""
+description: "任何坚持的事情，都是不易的，看起来不过是几篇文章，背后却是无数的思考和不间断的打磨。2018，继续摸索着前进。开源走进历史，不可逆转！要么拥抱，要么沉沦。"
 keywords:
 - Open Source
 - Culture
@@ -45,6 +45,9 @@ url: ""
 - [ ] []() 来自英文：[Openwashing: adopter beware](https://opensource.com/business/14/12/openwashing-more-prevalent)
 - [ ] []() 来自英文：[How to manage casual contributors to open source projects](https://opensource.com/article/17/10/managing-casual-contributors)
 - [ ] []() 来自英文：[Why I love technical debt](https://opensource.com/article/17/11/why-i-love-technical-debt)
+- [ ] []() 来自英文：[Asynchronous decision-making: Helping remote teams succeed](https://opensource.com/article/17/12/asynchronous-decision-making)
+- [ ] []() 来自英文：[4 successful open source business models to consider](https://opensource.com/article/17/12/open-source-business-models)
+- [ ] []() 来自英文：[]()
 
 
 ## 可能要做的事情
