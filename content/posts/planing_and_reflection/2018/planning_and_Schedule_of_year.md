@@ -28,6 +28,8 @@ url: ""
 
 - [x] 一 /2017/12-20 开源文化 社区管理 [扩张社区贡献者的几种办法](/posts/Community_Management/expand_project_contributor/) 来自英文：[5 ways to expand your project's contributor base](https://opensource.com/article/17/1/expand-project-contributor-base)
 - [x] 二 /2018/01-10 开源文化 商业模式 [赞助开源社区开发是一件双赢的事情](posts/contribute_to_community/Sponsored_development_is_a_win-win/) 来自英文：[Sponsored development is a win-win for users and developers](https://opensource.com/article/17/11/sponsored-development)
+- [x] 三 /2018/01-17 [开源20年，是该庆祝一下了](posts/opensource_culture/opensource_20_years/)
+- [ ] 四 开源文化 [开源的最大阻力竟然是技术人员]()
 - [ ] ／2017-04-16 社区治理 [精心布局的开源]()
 - [ ] 十／2017-04-30 开源人物 []() 来自维基百科 [Bruce Perens](https://en.wikipedia.org/wiki/Bruce_Perens)
 - [ ] 二十／2017-05-26  []() 来自英文：[A graduate degree could springboard you into an open source job](https://opensource.com/article/17/1/grad-school-open-source-academic-lab)
