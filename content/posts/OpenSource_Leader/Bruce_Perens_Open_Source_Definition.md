@@ -12,7 +12,7 @@ keywords:
 tags:
 - 开源人
 - 开源之道
-title: "Bruce Perens，开源的缔造者"
+title: "Bruce Perens，向全世界宣布“开源”的人"
 url: ""
 ---
 ## 简介
@@ -72,3 +72,8 @@ Perens 后来颇具耐人寻味的事情是和Linux 创始人 Linus 在内核项
 ## 后话
 
 Perens 是时代的浪潮，他本身对于技术和法律的双重驾驭，以及对于开放和社会的独特理解，造就了他能够起草出《Debian社会契约》《开放源代码定义》这样的向导性精要。也为技术的民主化铺平了道路。以十年为界的话，前10年他推动开源，后10年开源已经发展到超出他当初的设想。那么接下来的10年会是什么？Perens 作为开源的缔造者之一，能否在理论上再上一个台阶？这是我们值得思考的问题。
+
+## 参考资料
+
+1. [维基百科](https://en.wikipedia.org/wiki/Bruce_Perens)
+2. [Bruce Perens 自我描述](https://perens.com/about-bruce-perens/)
