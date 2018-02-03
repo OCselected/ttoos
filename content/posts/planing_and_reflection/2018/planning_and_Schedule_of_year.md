@@ -29,11 +29,12 @@ url: ""
 - [x] 一 /2017/12-20 开源文化 社区管理 [扩张社区贡献者的几种办法](/posts/Community_Management/expand_project_contributor/) 来自英文：[5 ways to expand your project's contributor base](https://opensource.com/article/17/1/expand-project-contributor-base)
 - [x] 二 /2018/01-10 开源文化 商业模式 [赞助开源社区开发是一件双赢的事情](posts/contribute_to_community/Sponsored_development_is_a_win-win/) 来自英文：[Sponsored development is a win-win for users and developers](https://opensource.com/article/17/11/sponsored-development)
 - [x] 三 /2018/01-17 [开源20年，是该庆祝一下了](posts/opensource_culture/opensource_20_years/)
-- [ ] 四 开源文化 [开源的最大阻力竟然是技术人员]()
-- [ ] ／2017-04-16 社区治理 [精心布局的开源]()
-- [ ] 十／2017-04-30 开源人物 []() 来自维基百科 [Bruce Perens](https://en.wikipedia.org/wiki/Bruce_Perens)
-- [ ] 二十／2017-05-26  []() 来自英文：[A graduate degree could springboard you into an open source job](https://opensource.com/article/17/1/grad-school-open-source-academic-lab)
-- [ ] 十／2017-06-2 []() 来自英文：[New Initiatives to Create Sustainable Open Source Projects at The Linux Foundation](https://www.linuxfoundation.org/blog/new-initiatives-to-create-sustainable-open-source-projects-at-the-linux-foundation/)
+- [x] 四 /2018-01-24 [开放源代码定义之历史篇](posts/opensource_culture/the_open_source_Definition_history/)
+- [x] 五 ／2018-01-31 开源人物 [Bruce Perens，第一位向世界说出“开源”的英雄](posts/OpenSource_Leader/Bruce_Perens_Open_Source_Definition/) 来自维基百科 [Bruce Perens](https://en.wikipedia.org/wiki/Bruce_Perens)
+- [ ] 六 开源文化 [开源的最大阻力竟然是技术人员]()
+- [ ] 七 ／2017-04-16 社区治理 [精心布局的开源]()
+- [ ] ／2017-05-26  []() 来自英文：[A graduate degree could springboard you into an open source job](https://opensource.com/article/17/1/grad-school-open-source-academic-lab)
+- [ ] ／2017-06-2 []() 来自英文：[New Initiatives to Create Sustainable Open Source Projects at The Linux Foundation](https://www.linuxfoundation.org/blog/new-initiatives-to-create-sustainable-open-source-projects-at-the-linux-foundation/)
 - [ ] []() 来自英文：[How I became a project team leader in open source](https://opensource.com/article/17/2/my-open-source-story-leader)
 - [ ] []() 职业生涯 来自英文：[Lessons from a brief career in open source](https://opensource.com/article/17/2/preparing-career-open-source)
 - [ ] []() 来自英文：[6 reasons open source is good for business](https://opensource.com/article/17/10/6-reasons-choose-open-source-software)
@@ -48,7 +49,9 @@ url: ""
 - [ ] []() 来自英文：[How to manage casual contributors to open source projects](https://opensource.com/article/17/10/managing-casual-contributors)
 - [ ] []() 来自英文：[Why I love technical debt](https://opensource.com/article/17/11/why-i-love-technical-debt)
 - [ ] []() 来自英文：[Asynchronous decision-making: Helping remote teams succeed](https://opensource.com/article/17/12/asynchronous-decision-making)
-- [ ] []() 来自英文：[]()
+- [ ] []() 来自英文：[Effective Ways to Get Help from Maintainers](https://www.snoyman.com/blog/2017/10/effective-ways-help-from-maintainers)
+- [ ] []() 来自英文：[Launching an Open Source Project: A Free Guide](https://www.linuxfoundation.org/blog/launching-open-source-project-free-guide/)
+- [ ] []() 来自英文：[How inner sourcing saved our IT department](https://opensource.com/open-organization/18/1/open-orgs-and-inner-source-it)
 
 
 ## 可能要做的事情
