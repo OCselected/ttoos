@@ -31,7 +31,7 @@ url: ""
 - [x] 三 /2018/01-17 [开源20年，是该庆祝一下了](posts/opensource_culture/opensource_20_years/)
 - [x] 四 /2018-01-24 [开放源代码定义之历史篇](posts/opensource_culture/the_open_source_Definition_history/)
 - [x] 五 ／2018-01-31 开源人物 [Bruce Perens，第一位向世界说出“开源”的英雄](posts/OpenSource_Leader/Bruce_Perens_Open_Source_Definition/) 来自维基百科 [Bruce Perens](https://en.wikipedia.org/wiki/Bruce_Perens)
-- [ ] 六 开源文化 [开源的最大阻力竟然是技术人员]()
+- [x] 六 /2018-02-07 社区管理 [Kubernetes 社区是如何运作的系列之一——哲学及治理](posts/Community_Management/how_kubernetes_community_works_1/)
 - [ ] 七 ／2017-04-16 社区治理 [精心布局的开源]()
 - [ ] ／2017-05-26  []() 来自英文：[A graduate degree could springboard you into an open source job](https://opensource.com/article/17/1/grad-school-open-source-academic-lab)
 - [ ] ／2017-06-2 []() 来自英文：[New Initiatives to Create Sustainable Open Source Projects at The Linux Foundation](https://www.linuxfoundation.org/blog/new-initiatives-to-create-sustainable-open-source-projects-at-the-linux-foundation/)
@@ -52,6 +52,7 @@ url: ""
 - [ ] []() 来自英文：[Effective Ways to Get Help from Maintainers](https://www.snoyman.com/blog/2017/10/effective-ways-help-from-maintainers)
 - [ ] []() 来自英文：[Launching an Open Source Project: A Free Guide](https://www.linuxfoundation.org/blog/launching-open-source-project-free-guide/)
 - [ ] []() 来自英文：[How inner sourcing saved our IT department](https://opensource.com/open-organization/18/1/open-orgs-and-inner-source-it)
+- [ ] 开源文化 [开源的最大阻力竟然是技术人员]()
 
 
 ## 可能要做的事情

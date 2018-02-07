@@ -10,8 +10,8 @@ keywords:
 tags:
 - 开放式创新
 - 商业模式
-title: ""
-url: "LWN 的20年"
+title: "LWN 的20年"
+url: ""
 ---
 ## 开源之道引言
 
