@@ -22,7 +22,6 @@ url: ""
 
 ![](https://raw.githubusercontent.com/OCselected/ttoos/master/content/public/2018_calendar.png)
 
-<iframe src="https://calendar.google.com/calendar/embed?src=33pkg4o4625s0c1vj7f7vj0df0%40group.calendar.google.com&ctz=Asia%2FShanghai" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## 具体事项
 
@@ -44,11 +43,11 @@ url: ""
 - [ ] 十六 /2018-04- 开源指南 [GitHub 开源指南系列之五——开源项目维护者最佳实践](https://ocselected.github.io/open-source-guide/best-practices/)
 - [ ] 十七 /2018-05-02 开源指南 [GitHub 开源指南系列之六——领导力和治理](https://ocselected.github.io/open-source-guide/leadership-and-governance/)
 - [ ] 十八 /2018-04-11 开源指南 [GitHub 开源指南系列之七——谈谈个人如何在开源的贡献中赚取金钱上的报酬](https://ocselected.github.io/open-source-guide/getting-paid/)
-- [ ] 十九 /2018-05-09 开源指南 [GitHub 开源指南系列之八——聊聊开源的社会行为法则](https://ocselected.github.io/open-source-guide/code-of-conduct/)
+- [ ] 十九 /2018-05-09 开源指南 [GitHub 开源指南系列之八——聊聊开源的社会行为守则](https://ocselected.github.io/open-source-guide/code-of-conduct/)
 - [ ] 二十 /2018-05-16 开源指南 [GitHub 开源指南系列之九——开源项目/社区的度量](https://ocselected.github.io/open-source-guide/metrics/)
 - [ ] 二十一 /2018-05-23 开源指南 [GitHub 开源指南系列之十——开源中的法律知识](https://ocselected.github.io/open-source-guide/legal/)
+- [ ] 二十一 /2018-05-23 基金会探秘 [Apache 基金会是如何运作的](./posts/foundation_introduce/how_apache_works/)
 - [ ] 二十二 ／2018-05-30 社区治理 [精心布局的开源](./posts/opensource/open_by_design/)
-- [ ] 二十二 ／2018-06-06 开源技术 [Kubernetes 是如何成为传统应用迁移的终极方案的](./posts/opensource_technology/how-kubernetes-became-solution-migrating-legacy-applications/) 来自英文：[How Kubernetes became the solution for migrating legacy applications](https://opensource.com/article/18/2/how-kubernetes-became-solution-migrating-legacy-applications)
 - [ ] 二十三 ／2018-06-13 商业模式 [红帽成功背后的秘诀是什么？]() 来自英文：[What is the secret of Red Hat's Success?](http://timreview.ca/sites/default/files/article_PDF/Suehle_TIMReview_January2012_0.pdf)
 - [ ] 二十四 ／2018-06-20 [Linux基金会企业开源指南系列之一——公司如何创建开源项目办公室]()来自英文：[Creating an Open Source Program](https://www.linuxfoundation.org/creating-an-open-source-program/)
 - [ ] 二十五 ／2018-06-27 [Linux基金会企业开源指南系列之二——开源管理工具集介绍和使用]() 来自英文：[
@@ -67,6 +66,8 @@ Improving Your Open Source Development Impact](https://www.linuxfoundation.org/r
 - [ ] 三十三 ／2018-08-15 [Linux基金会企业开源指南系列之十——企业如何优雅的关闭一个失败的开源项目]() 来自英文：[
 Winding Down an Open Source Project](https://www.linuxfoundation.org/resources/open-source-guides/winding-down-an-open-source-project/)
 - [ ] 三十四 ／2018-08-22 []() 来自英文：[Estimating the Total Cost of a Linux Distribution](https://www.linux.com/publications/estimating-total-cost-linux-distribution)
+- [ ] 三十五 ／2018-08-29 开源技术 [Kubernetes 是如何成为传统应用迁移的终极方案的](./posts/opensource_technology/how-kubernetes-became-solution-migrating-legacy-applications/) 来自英文：[How Kubernetes became the solution for migrating legacy applications](https://opensource.com/article/18/2/how-kubernetes-became-solution-migrating-legacy-applications)
+
 
 - [ ] 来自英文：[Growing a contributor base in modern open source](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
 - [ ] ／2017-06-2 []() 来自英文：[New Initiatives to Create Sustainable Open Source Projects at The Linux Foundation](https://www.linuxfoundation.org/blog/new-initiatives-to-create-sustainable-open-source-projects-at-the-linux-foundation/)
