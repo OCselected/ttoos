@@ -67,7 +67,7 @@ Improving Your Open Source Development Impact](https://www.linuxfoundation.org/r
 Winding Down an Open Source Project](https://www.linuxfoundation.org/resources/open-source-guides/winding-down-an-open-source-project/)
 - [ ] 三十四 ／2018-08-22 []() 来自英文：[Estimating the Total Cost of a Linux Distribution](https://www.linux.com/publications/estimating-total-cost-linux-distribution)
 - [ ] 三十五 ／2018-08-29 开源技术 [Kubernetes 是如何成为传统应用迁移的终极方案的](./posts/opensource_technology/how-kubernetes-became-solution-migrating-legacy-applications/) 来自英文：[How Kubernetes became the solution for migrating legacy applications](https://opensource.com/article/18/2/how-kubernetes-became-solution-migrating-legacy-applications)
-
+- [x] 三十六 ／2018-09-05 商业模式 [如何为开源项目做市场](posts/business_model/marketing-open-source-project) 来自英文：[How to Market an Open Source Project](https://www.linuxfoundation.org/blog/marketing-open-source-project/)
 
 - [ ] 来自英文：[Growing a contributor base in modern open source](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
 - [ ] ／2017-06-2 []() 来自英文：[New Initiatives to Create Sustainable Open Source Projects at The Linux Foundation](https://www.linuxfoundation.org/blog/new-initiatives-to-create-sustainable-open-source-projects-at-the-linux-foundation/)
@@ -75,8 +75,6 @@ Winding Down an Open Source Project](https://www.linuxfoundation.org/resources/o
 - [ ] []() 来自英文：[6 reasons open source is good for business](https://opensource.com/article/17/10/6-reasons-choose-open-source-software)
 - [ ] []() 来自英文：[Why events matter and how to do them right](https://opensource.com/article/17/1/drupal-sibera)
 - [ ] []() 来自英文：[Be a force for good in your community](https://opensource.com/open-organization/17/1/force-for-good-community)
-- [ ] []() 来自英文：[How to Market an Open Source Project](https://www.linuxfoundation.org/blog/marketing-open-source-project/)
-
 - [ ] []() 来自英文：[What engineers and marketers can learn from each other](https://opensource.com/open-organization/17/1/engineers-marketers-can-learn)
 - [ ] []() 来自英文：[Open is a means, not a movement](https://opensource.com/open-organization/16/10/open-means-not-movement)
 - [ ] []() 来自英文：[Open core, open perimeter, and the future of enterprise software](https://opensource.com/article/17/8/open-core-vs-open-perimeter)
