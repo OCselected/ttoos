@@ -12,6 +12,6 @@ keywords:
 tags:
 - 基金会介绍
 - 开源之道
-title: "开源之道"
+title: ""
 url: ""
 ---
