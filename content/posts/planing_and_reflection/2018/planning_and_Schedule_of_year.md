@@ -37,37 +37,37 @@ url: ""
 - [x] 十 /2018-03-21 社区管理 [Kubernetes 社区是如何运作的系列之三——SIG 治理细则](./posts/community_management/how_kubernetes_community_works_3/)
 - [x] 十一 /2018-03-28 开源文化 [开源的成功理应是什么样子？](./posts/opensource_culture/what_success_really_looks_like_in_open_source/)
 - [x] 十二 /2018-04-04 开源指南 [GitHub 开源指南系列之一——如何参与开源？](https://ocselected.github.io/open-source-guide/how-to-contribute/)
-- [ ] 十三 /2018-04-11 开源指南 [GitHub 开源指南系列之二——如何创建一个开源项目](https://ocselected.github.io/open-source-guide/starting-a-project/)
-- [ ] 十四 /2018-04-18 开源指南 [GitHub 开源指南系列之三——为项目寻找合适的用户](https://ocselected.github.io/open-source-guide/finding-users/)
+- [x] 十三 /2018-04-11 开源指南 [GitHub 开源指南系列之二——如何创建一个开源项目](https://ocselected.github.io/open-source-guide/starting-a-project/)
+- [x] 十四 /2018-04-18 开源指南 [GitHub 开源指南系列之三——为项目寻找合适的用户](https://ocselected.github.io/open-source-guide/finding-users/)
 - [ ] 十五 /2018-04-25 开源指南 [GitHub 开源指南系列之四——打造受欢迎的开源社区](https://ocselected.github.io/open-source-guide/building-community/)
-- [ ] 十六 /2018-04- 开源指南 [GitHub 开源指南系列之五——开源项目维护者最佳实践](https://ocselected.github.io/open-source-guide/best-practices/)
-- [ ] 十七 /2018-05-02 开源指南 [GitHub 开源指南系列之六——领导力和治理](https://ocselected.github.io/open-source-guide/leadership-and-governance/)
-- [ ] 十八 /2018-04-11 开源指南 [GitHub 开源指南系列之七——谈谈个人如何在开源的贡献中赚取金钱上的报酬](https://ocselected.github.io/open-source-guide/getting-paid/)
-- [ ] 十九 /2018-05-09 开源指南 [GitHub 开源指南系列之八——聊聊开源的社会行为守则](https://ocselected.github.io/open-source-guide/code-of-conduct/)
-- [ ] 二十 /2018-05-16 开源指南 [GitHub 开源指南系列之九——开源项目/社区的度量](https://ocselected.github.io/open-source-guide/metrics/)
-- [ ] 二十一 /2018-05-23 开源指南 [GitHub 开源指南系列之十——开源中的法律知识](https://ocselected.github.io/open-source-guide/legal/)
-- [ ] 二十一 /2018-05-23 基金会探秘 [Apache 基金会是如何运作的](./posts/foundation_introduce/how_apache_works/)
-- [ ] 二十二 ／2018-05-30 社区治理 [精心布局的开源](./posts/opensource/open_by_design/)
-- [ ] 二十三 ／2018-06-13 商业模式 [红帽成功背后的秘诀是什么？]() 来自英文：[What is the secret of Red Hat's Success?](http://timreview.ca/sites/default/files/article_PDF/Suehle_TIMReview_January2012_0.pdf)
-- [ ] 二十四 ／2018-06-20 [Linux基金会企业开源指南系列之一——公司如何创建开源项目办公室]()来自英文：[Creating an Open Source Program](https://www.linuxfoundation.org/creating-an-open-source-program/)
-- [ ] 二十五 ／2018-06-27 [Linux基金会企业开源指南系列之二——开源管理工具集介绍和使用]() 来自英文：[
+- [ ] 十六 /2018-05-02 开源指南 [GitHub 开源指南系列之五——开源项目维护者最佳实践](https://ocselected.github.io/open-source-guide/best-practices/)
+- [ ] 十七 /2018-05-09 开源指南 [GitHub 开源指南系列之六——领导力和治理](https://ocselected.github.io/open-source-guide/leadership-and-governance/)
+- [ ] 十八 /2018-05-16 开源指南 [GitHub 开源指南系列之七——谈谈个人如何在开源的贡献中赚取金钱上的报酬](https://ocselected.github.io/open-source-guide/getting-paid/)
+- [ ] 十九 /2018-05-23 开源指南 [GitHub 开源指南系列之八——聊聊开源的社会行为守则](https://ocselected.github.io/open-source-guide/code-of-conduct/)
+- [ ] 二十 /2018-05-30 开源指南 [GitHub 开源指南系列之九——开源项目/社区的度量](https://ocselected.github.io/open-source-guide/metrics/)
+- [ ] 二十一 /2018-06-06 开源指南 [GitHub 开源指南系列之十——开源中的法律知识](https://ocselected.github.io/open-source-guide/legal/)
+- [ ] 二十一 /2018-06-13 基金会探秘 [Apache 基金会是如何运作的](./posts/foundation_introduce/how_apache_works/)
+- [ ] 二十二 ／2018-06-20 社区治理 [精心布局的开源](./posts/opensource/open_by_design/)
+- [ ] 二十三 ／2018-06-27 商业模式 [红帽成功背后的秘诀是什么？]() 来自英文：[What is the secret of Red Hat's Success?](http://timreview.ca/sites/default/files/article_PDF/Suehle_TIMReview_January2012_0.pdf)
+- [ ] 二十四 ／2018-07-04 [Linux基金会企业开源指南系列之一——公司如何创建开源项目办公室]()来自英文：[Creating an Open Source Program](https://www.linuxfoundation.org/creating-an-open-source-program/)
+- [ ] 二十五 ／2018-07-11 [Linux基金会企业开源指南系列之二——开源管理工具集介绍和使用]() 来自英文：[
 Tools for Managing Open Source Programs](https://www.linuxfoundation.org/tools-managing-open-source-programs/)
-- [ ] 二十六 ／2018-07-04 [Linux基金会企业开源指南系列之三——度量开源项目的成功要素]() 来自英文：[
+- [ ] 二十六 ／2018-07-18 [Linux基金会企业开源指南系列之三——度量开源项目的成功要素]() 来自英文：[
 Measuring Your Open Source Program’s Success](https://www.linuxfoundation.org/measuring-your-open-source-program-success/)
-- [ ] 二十七 ／2018-07-11 [Linux基金会企业开源指南系列之四——正确的招聘开源人才]() 来自英文：[Recruiting Open Source Developers](https://www.linuxfoundation.org/recruiting-open-source-developers/)
-- [ ] 二十八 ／2018-07-18 [Linux基金会企业开源指南系列之五——公司如何以利益最大化的姿态参与开源社区]() 来自英文：[
+- [ ] 二十七 ／2018-07-25 [Linux基金会企业开源指南系列之四——正确的招聘开源人才]() 来自英文：[Recruiting Open Source Developers](https://www.linuxfoundation.org/recruiting-open-source-developers/)
+- [ ] 二十八 ／2018-08-01 [Linux基金会企业开源指南系列之五——公司如何以利益最大化的姿态参与开源社区]() 来自英文：[
 Participating in Open Source Communities](https://www.linuxfoundation.org/participating-open-source-communities/)
-- [ ] 二十九 ／2018-07-25 [Linux基金会企业开源指南系列之六——公司如何正确的使用开源代码]() 来自英文：[
+- [ ] 二十九 ／2018-08-08 [Linux基金会企业开源指南系列之六——公司如何正确的使用开源代码]() 来自英文：[
 Using Open Source Code](https://www.linuxfoundation.org/using-open-source-code/)
-- [ ] 三十 ／2018-06-20 [Linux基金会企业开源指南系列之七——企业如何启动自己的开源项目]() 来自英文：[Launching an Open Source Project: A Free Guide](https://www.linuxfoundation.org/blog/launching-open-source-project-free-guide/)
-- [ ] 三十一 ／2018-08-01 [Linux基金会企业开源指南系列之八——公司如何改进自己的开源开发流程]() 来自英文：[
+- [ ] 三十 ／2018-08-15 [Linux基金会企业开源指南系列之七——企业如何启动自己的开源项目]() 来自英文：[Launching an Open Source Project: A Free Guide](https://www.linuxfoundation.org/blog/launching-open-source-project-free-guide/)
+- [ ] 三十一 ／2018-08-22 [Linux基金会企业开源指南系列之八——公司如何改进自己的开源开发流程]() 来自英文：[
 Improving Your Open Source Development Impact](https://www.linuxfoundation.org/resources/open-source-guides/improving-your-open-source-development-impact/)
-- [ ] 三十二 ／2018-08-08 [Linux基金会企业开源指南系列之九——开源相关书单]() 来自英文：[Open Source Guides Reading List](https://www.linuxfoundation.org/resources/open-source-guides/open-source-guides-reading-list/)
-- [ ] 三十三 ／2018-08-15 [Linux基金会企业开源指南系列之十——企业如何优雅的关闭一个失败的开源项目]() 来自英文：[
+- [ ] 三十二 ／2018-08-29 [Linux基金会企业开源指南系列之九——开源相关书单]() 来自英文：[Open Source Guides Reading List](https://www.linuxfoundation.org/resources/open-source-guides/open-source-guides-reading-list/)
+- [ ] 三十三 ／2018-09-05 [Linux基金会企业开源指南系列之十——企业如何优雅的关闭一个失败的开源项目]() 来自英文：[
 Winding Down an Open Source Project](https://www.linuxfoundation.org/resources/open-source-guides/winding-down-an-open-source-project/)
-- [ ] 三十四 ／2018-08-22 []() 来自英文：[Estimating the Total Cost of a Linux Distribution](https://www.linux.com/publications/estimating-total-cost-linux-distribution)
-- [ ] 三十五 ／2018-08-29 开源技术 [Kubernetes 是如何成为传统应用迁移的终极方案的](./posts/opensource_technology/how-kubernetes-became-solution-migrating-legacy-applications/) 来自英文：[How Kubernetes became the solution for migrating legacy applications](https://opensource.com/article/18/2/how-kubernetes-became-solution-migrating-legacy-applications)
-- [x] 三十六 ／2018-09-05 商业模式 [如何为开源项目做市场](posts/business_model/marketing-open-source-project) 来自英文：[How to Market an Open Source Project](https://www.linuxfoundation.org/blog/marketing-open-source-project/)
+- [ ] 三十四 ／2018-09-12 []() 来自英文：[Estimating the Total Cost of a Linux Distribution](https://www.linux.com/publications/estimating-total-cost-linux-distribution)
+- [ ] 三十五 ／2018-09-17 开源技术 [Kubernetes 是如何成为传统应用迁移的终极方案的](./posts/opensource_technology/how-kubernetes-became-solution-migrating-legacy-applications/) 来自英文：[How Kubernetes became the solution for migrating legacy applications](https://opensource.com/article/18/2/how-kubernetes-became-solution-migrating-legacy-applications)
+- [x] 三十六 ／2018-09-24 商业模式 [如何为开源项目做市场](posts/business_model/marketing-open-source-project) 来自英文：[How to Market an Open Source Project](https://www.linuxfoundation.org/blog/marketing-open-source-project/)
 
 - [ ] 来自英文：[Growing a contributor base in modern open source](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
 - [ ] ／2017-06-2 []() 来自英文：[New Initiatives to Create Sustainable Open Source Projects at The Linux Foundation](https://www.linuxfoundation.org/blog/new-initiatives-to-create-sustainable-open-source-projects-at-the-linux-foundation/)
