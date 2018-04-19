@@ -86,6 +86,7 @@ Winding Down an Open Source Project](https://www.linuxfoundation.org/resources/o
 
 - [ ] []() 来自英文：[How inner sourcing saved our IT department](https://opensource.com/open-organization/18/1/open-orgs-and-inner-source-it)
 - [ ] 开源文化 [开源的最大阻力竟然是技术人员]()
+- [ ] []() Come from English :[How to develop the FOSS leaders of the future](https://opensource.com/article/18/4/succession-planning-how-develop-foss-leaders-future)
 
 
 ## 可能要做的事情
