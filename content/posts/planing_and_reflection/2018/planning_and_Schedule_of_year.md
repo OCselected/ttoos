@@ -48,7 +48,7 @@ url: ""
 - [x] 二十一 /2018-06-06 开源指南 [GitHub 开源指南系列之十——开源中的法律知识](https://ocselected.github.io/open-source-guide/legal/)
 - [x] 二十一 /2018-06-13 基金会探秘 [Apache 基金会是如何运作的](./posts/foundation_introduce/how_apache_works/)
 - [x] 二十二 ／2018-06-20 社区治理 [精心布局的开源](./posts/opensource/open_by_design/)
-- [ ] 二十三 ／2018-06-27 商业模式 [红帽成功背后的秘诀是什么？]() 来自英文：[What is the secret of Red Hat's Success?](http://timreview.ca/sites/default/files/article_PDF/Suehle_TIMReview_January2012_0.pdf)
+- [ ] 二十三 ／2018-06-27 商业模式 [红帽成功背后的秘密武器是什么？](./posts/business_model/what_is_the_secret_of_redhat_success) 来自英文：[What is the secret of Red Hat's Success?](http://timreview.ca/sites/default/files/article_PDF/Suehle_TIMReview_January2012_0.pdf)
 - [ ] 二十四 ／2018-07-04 [Linux基金会企业开源指南系列之一——公司如何创建开源项目办公室]()来自英文：[Creating an Open Source Program](https://www.linuxfoundation.org/creating-an-open-source-program/)
 - [ ] 二十五 ／2018-07-11 [Linux基金会企业开源指南系列之二——开源管理工具集介绍和使用]() 来自英文：[
 Tools for Managing Open Source Programs](https://www.linuxfoundation.org/tools-managing-open-source-programs/)
@@ -69,9 +69,13 @@ Winding Down an Open Source Project](https://www.linuxfoundation.org/resources/o
 - [x] 三十五 ／2018-09-17 开源技术 [Kubernetes 是如何成为传统应用迁移的终极方案的](./posts/opensource_technology/how-kubernetes-became-solution-migrating-legacy-applications/) 来自英文：[How Kubernetes became the solution for migrating legacy applications](https://opensource.com/article/18/2/how-kubernetes-became-solution-migrating-legacy-applications)
 - [x] 三十六 ／2018-09-24 商业模式 [如何为开源项目做市场](posts/business_model/marketing-open-source-project) 来自英文：[How to Market an Open Source Project](https://www.linuxfoundation.org/blog/marketing-open-source-project/)
 - [x] 三十七 /2018-10-2 [Linux基金会介绍](posts/foundation_introduce/linux_foundation_introduce)
+- [x] 三十八 /2018-10-9 基金会探秘 [CNCF 基金会是如何运作的](./posts/foundation_introduce/how_cncf_works/)
+- [ ] [如何决定是否开源您的SaaS解决方案](https://opensource.com/article/18/5/open-source-saas-y-world)
+- [ ] [将SaaS开源之后所面临的可能挑战](https://opensource.com/article/18/5/open-source-saas-y-world-part-2)
 
 - [ ] 来自英文：[Growing a contributor base in modern open source](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
-- [ ] ／2017-06-2 []() 来自英文：[New Initiatives to Create Sustainable Open Source Projects at The Linux Foundation](https://www.linuxfoundation.org/blog/new-initiatives-to-create-sustainable-open-source-projects-at-the-linux-foundation/)
+- [ ] 来自英文：[FOSS as a Part of a Corporate Sustainability Plan](https://www.linuxjournal.com/content/foss-part-corporate-sustainability-plan)
+- [ ] ／201 []() 来自英文：[New Initiatives to Create Sustainable Open Source Projects at The Linux Foundation](https://www.linuxfoundation.org/blog/new-initiatives-to-create-sustainable-open-source-projects-at-the-linux-foundation/)
 - [ ] []() 职业生涯 来自英文：[Lessons from a brief career in open source](https://opensource.com/article/17/2/preparing-career-open-source)
 - [ ] []() 来自英文：[6 reasons open source is good for business](https://opensource.com/article/17/10/6-reasons-choose-open-source-software)
 - [ ] []() 来自英文：[Why events matter and how to do them right](https://opensource.com/article/17/1/drupal-sibera)
@@ -86,7 +90,7 @@ Winding Down an Open Source Project](https://www.linuxfoundation.org/resources/o
 - [ ] []() 来自英文：[Effective Ways to Get Help from Maintainers](https://www.snoyman.com/blog/2017/10/effective-ways-help-from-maintainers)
 
 - [ ] []() 来自英文：[How inner sourcing saved our IT department](https://opensource.com/open-organization/18/1/open-orgs-and-inner-source-it)
-- [ ] 开源文化 [开源的最大阻力竟然是技术人员]()
+- [x] 开源文化 [开源的最大阻力竟然是技术人员](posts/opensource_culture/why_said_obstacle_adoption_oss_is_engineer)
 - [ ] []() Come from English :[How to develop the FOSS leaders of the future](https://opensource.com/article/18/4/succession-planning-how-develop-foss-leaders-future)
 - [ ] 年度开源人物奖[](https://en.wikipedia.org/wiki/O%27Reilly_Open_Source_Award)
 
