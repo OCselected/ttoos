@@ -92,6 +92,7 @@ Winding Down an Open Source Project](https://www.linuxfoundation.org/resources/o
 - [ ] []() 来自英文：[How inner sourcing saved our IT department](https://opensource.com/open-organization/18/1/open-orgs-and-inner-source-it)
 - [x] 开源文化 [开源的最大阻力竟然是技术人员](posts/opensource_culture/why_said_obstacle_adoption_oss_is_engineer)
 - [ ] []() Come from English :[How to develop the FOSS leaders of the future](https://opensource.com/article/18/4/succession-planning-how-develop-foss-leaders-future)
+- [ ] []() Come from English :[5 rules for having genuine community relationships](https://opensource.com/open-organization/18/2/why-build-community-2)
 - [ ] 年度开源人物奖[](https://en.wikipedia.org/wiki/O%27Reilly_Open_Source_Award)
 
 
