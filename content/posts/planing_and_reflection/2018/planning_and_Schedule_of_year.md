@@ -45,19 +45,24 @@ url: ""
 - [x] 十八 /2018-05-16 开源指南 [GitHub 开源指南系列之七——谈谈个人如何在开源的贡献中赚取金钱上的报酬](https://ocselected.github.io/open-source-guide/getting-paid/)
 - [x] 十九 /2018-05-23 开源指南 [GitHub 开源指南系列之八——聊聊开源的社会行为守则](https://ocselected.github.io/open-source-guide/code-of-conduct/)
 - [x] 二十 /2018-05-30 开源指南 [GitHub 开源指南系列之九——开源项目/社区的度量](https://ocselected.github.io/open-source-guide/metrics/)
-- [x] 二十一 /2018-06-06 开源指南 [GitHub 开源指南系列之十——开源中的法律知识](https://ocselected.github.io/open-source-guide/legal/)
-- [x] 二十一 /2018-06-13 基金会探秘 [Apache 基金会是如何运作的](./posts/foundation_introduce/how_apache_works/)
-- [x] 二十二 ／2018-06-20 社区治理 [精心布局的开源](./posts/opensource/open_by_design/)
-- [ ] 二十三 ／2018-06-27 商业模式 [红帽成功背后的秘密武器是什么？](./posts/business_model/what_is_the_secret_of_redhat_success) 来自英文：[What is the secret of Red Hat's Success?](http://timreview.ca/sites/default/files/article_PDF/Suehle_TIMReview_January2012_0.pdf)
-- [ ] 二十四 ／2018-07-04 [Linux基金会企业开源指南系列之一——公司如何创建开源项目办公室]()来自英文：[Creating an Open Source Program](https://www.linuxfoundation.org/creating-an-open-source-program/)
-- [ ] 二十五 ／2018-07-11 [Linux基金会企业开源指南系列之二——开源管理工具集介绍和使用]() 来自英文：[
+- [x] 二十一 /2018-06-13 开源指南 [GitHub 开源指南系列之十——开源中的法律知识](https://ocselected.github.io/open-source-guide/legal/)
+- [x] 二十一 /2018-06-21 基金会探秘 [Apache 基金会是如何运作的](./posts/foundation_introduce/how_apache_works/)
+- [x] 二十二 ／2018-06-27 社区治理 [精心布局的开源](./posts/opensource/open_by_design/)
+- [x] 二十三 ／2018-07-04 开源文化 [开源的最大阻力竟然是技术人员](posts/opensource_culture/why_said_obstacle_adoption_oss_is_engineer)
+- [x] 二十四 ／2018-07-11 [Linux基金会介绍](posts/foundation_introduce/linux_foundation_introduce)
+- [x] 二十五 ／2018-07-18 基金会探秘 [CNCF 基金会是如何运作的](./posts/foundation_introduce/how_cncf_works/)
+- [x] 二十六 ／2018-07-25 开源技术 [Kubernetes 是如何成为传统应用迁移的终极方案的](./posts/opensource_technology/how-kubernetes-became-solution-migrating-legacy-applications/) 来自英文：[How Kubernetes became the solution for migrating legacy applications](https://opensource.com/article/18/2/how-kubernetes-became-solution-migrating-legacy-applications)
+- [x] 二十七 ／2018-08-01 商业模式 [如何为开源项目做市场](posts/business_model/marketing-open-source-project) 来自英文：[How to Market an Open Source Project](https://www.linuxfoundation.org/blog/marketing-open-source-project/)
+- [x] 二十八 ／2018-08-08 商业模式 [红帽成功背后的秘密武器是什么？](./posts/business_model/what_is_the_secret_of_redhat_success) 来自英文：[What is the secret of Red Hat's Success?](http://timreview.ca/sites/default/files/article_PDF/Suehle_TIMReview_January2012_0.pdf)
+- [ ]  ／2018-07-04 [Linux基金会企业开源指南系列之一——公司如何创建开源项目办公室]()来自英文：[Creating an Open Source Program](https://www.linuxfoundation.org/creating-an-open-source-program/)
+- [ ]   [Linux基金会企业开源指南系列之二——开源管理工具集介绍和使用]() 来自英文：[
 Tools for Managing Open Source Programs](https://www.linuxfoundation.org/tools-managing-open-source-programs/)
-- [ ] 二十六 ／2018-07-18 [Linux基金会企业开源指南系列之三——度量开源项目的成功要素]() 来自英文：[
+- [ ]   [Linux基金会企业开源指南系列之三——度量开源项目的成功要素]() 来自英文：[
 Measuring Your Open Source Program’s Success](https://www.linuxfoundation.org/measuring-your-open-source-program-success/)
-- [ ] 二十七 ／2018-07-25 [Linux基金会企业开源指南系列之四——正确的招聘开源人才]() 来自英文：[Recruiting Open Source Developers](https://www.linuxfoundation.org/recruiting-open-source-developers/)
-- [ ] 二十八 ／2018-08-01 [Linux基金会企业开源指南系列之五——公司如何以利益最大化的姿态参与开源社区]() 来自英文：[
+- [ ]   [Linux基金会企业开源指南系列之四——正确的招聘开源人才]() 来自英文：[Recruiting Open Source Developers](https://www.linuxfoundation.org/recruiting-open-source-developers/)
+- [ ]   [Linux基金会企业开源指南系列之五——公司如何以利益最大化的姿态参与开源社区]() 来自英文：[
 Participating in Open Source Communities](https://www.linuxfoundation.org/participating-open-source-communities/)
-- [ ] 二十九 ／2018-08-08 [Linux基金会企业开源指南系列之六——公司如何正确的使用开源代码]() 来自英文：[
+- [ ] 二十九  [Linux基金会企业开源指南系列之六——公司如何正确的使用开源代码]() 来自英文：[
 Using Open Source Code](https://www.linuxfoundation.org/using-open-source-code/)
 - [ ] 三十 ／2018-08-15 [Linux基金会企业开源指南系列之七——企业如何启动自己的开源项目]() 来自英文：[Launching an Open Source Project: A Free Guide](https://www.linuxfoundation.org/blog/launching-open-source-project-free-guide/)
 - [ ] 三十一 ／2018-08-22 [Linux基金会企业开源指南系列之八——公司如何改进自己的开源开发流程]() 来自英文：[
@@ -66,10 +71,6 @@ Improving Your Open Source Development Impact](https://www.linuxfoundation.org/r
 - [ ] 三十三 ／2018-09-05 [Linux基金会企业开源指南系列之十——企业如何优雅的关闭一个失败的开源项目]() 来自英文：[
 Winding Down an Open Source Project](https://www.linuxfoundation.org/resources/open-source-guides/winding-down-an-open-source-project/)
 - [ ] 三十四 ／2018-09-12 []() 来自英文：[Estimating the Total Cost of a Linux Distribution](https://www.linux.com/publications/estimating-total-cost-linux-distribution)
-- [x] 三十五 ／2018-09-17 开源技术 [Kubernetes 是如何成为传统应用迁移的终极方案的](./posts/opensource_technology/how-kubernetes-became-solution-migrating-legacy-applications/) 来自英文：[How Kubernetes became the solution for migrating legacy applications](https://opensource.com/article/18/2/how-kubernetes-became-solution-migrating-legacy-applications)
-- [x] 三十六 ／2018-09-24 商业模式 [如何为开源项目做市场](posts/business_model/marketing-open-source-project) 来自英文：[How to Market an Open Source Project](https://www.linuxfoundation.org/blog/marketing-open-source-project/)
-- [x] 三十七 /2018-10-2 [Linux基金会介绍](posts/foundation_introduce/linux_foundation_introduce)
-- [x] 三十八 /2018-10-9 基金会探秘 [CNCF 基金会是如何运作的](./posts/foundation_introduce/how_cncf_works/)
 - [ ] [如何决定是否开源您的SaaS解决方案](https://opensource.com/article/18/5/open-source-saas-y-world)
 - [ ] [将SaaS开源之后所面临的可能挑战](https://opensource.com/article/18/5/open-source-saas-y-world-part-2)
 
@@ -90,7 +91,7 @@ Winding Down an Open Source Project](https://www.linuxfoundation.org/resources/o
 - [ ] []() 来自英文：[Effective Ways to Get Help from Maintainers](https://www.snoyman.com/blog/2017/10/effective-ways-help-from-maintainers)
 
 - [ ] []() 来自英文：[How inner sourcing saved our IT department](https://opensource.com/open-organization/18/1/open-orgs-and-inner-source-it)
-- [x] 开源文化 [开源的最大阻力竟然是技术人员](posts/opensource_culture/why_said_obstacle_adoption_oss_is_engineer)
+
 - [ ] []() Come from English :[How to develop the FOSS leaders of the future](https://opensource.com/article/18/4/succession-planning-how-develop-foss-leaders-future)
 - [ ] []() Come from English :[5 rules for having genuine community relationships](https://opensource.com/open-organization/18/2/why-build-community-2)
 - [ ] 年度开源人物奖[](https://en.wikipedia.org/wiki/O%27Reilly_Open_Source_Award)
