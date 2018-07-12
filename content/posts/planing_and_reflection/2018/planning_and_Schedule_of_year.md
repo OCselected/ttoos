@@ -54,6 +54,7 @@ url: ""
 - [x] 二十六 ／2018-07-25 开源技术 [Kubernetes 是如何成为传统应用迁移的终极方案的](./posts/opensource_technology/how-kubernetes-became-solution-migrating-legacy-applications/) 来自英文：[How Kubernetes became the solution for migrating legacy applications](https://opensource.com/article/18/2/how-kubernetes-became-solution-migrating-legacy-applications)
 - [x] 二十七 ／2018-08-01 商业模式 [如何为开源项目做市场](posts/business_model/marketing-open-source-project) 来自英文：[How to Market an Open Source Project](https://www.linuxfoundation.org/blog/marketing-open-source-project/)
 - [x] 二十八 ／2018-08-08 商业模式 [红帽成功背后的秘密武器是什么？](./posts/business_model/what_is_the_secret_of_redhat_success) 来自英文：[What is the secret of Red Hat's Success?](http://timreview.ca/sites/default/files/article_PDF/Suehle_TIMReview_January2012_0.pdf)
+- [x] 二十九 ／2018-08-15 开源文化 [开源之道](posts/open_source_way)
 - [ ]  ／2018-07-04 [Linux基金会企业开源指南系列之一——公司如何创建开源项目办公室]()来自英文：[Creating an Open Source Program](https://www.linuxfoundation.org/creating-an-open-source-program/)
 - [ ]   [Linux基金会企业开源指南系列之二——开源管理工具集介绍和使用]() 来自英文：[
 Tools for Managing Open Source Programs](https://www.linuxfoundation.org/tools-managing-open-source-programs/)
@@ -62,9 +63,9 @@ Measuring Your Open Source Program’s Success](https://www.linuxfoundation.org/
 - [ ]   [Linux基金会企业开源指南系列之四——正确的招聘开源人才]() 来自英文：[Recruiting Open Source Developers](https://www.linuxfoundation.org/recruiting-open-source-developers/)
 - [ ]   [Linux基金会企业开源指南系列之五——公司如何以利益最大化的姿态参与开源社区]() 来自英文：[
 Participating in Open Source Communities](https://www.linuxfoundation.org/participating-open-source-communities/)
-- [ ] 二十九  [Linux基金会企业开源指南系列之六——公司如何正确的使用开源代码]() 来自英文：[
+- [ ]   [Linux基金会企业开源指南系列之六——公司如何正确的使用开源代码]() 来自英文：[
 Using Open Source Code](https://www.linuxfoundation.org/using-open-source-code/)
-- [ ] 三十 ／2018-08-15 [Linux基金会企业开源指南系列之七——企业如何启动自己的开源项目]() 来自英文：[Launching an Open Source Project: A Free Guide](https://www.linuxfoundation.org/blog/launching-open-source-project-free-guide/)
+- [ ] 三十  [Linux基金会企业开源指南系列之七——企业如何启动自己的开源项目]() 来自英文：[Launching an Open Source Project: A Free Guide](https://www.linuxfoundation.org/blog/launching-open-source-project-free-guide/)
 - [ ] 三十一 ／2018-08-22 [Linux基金会企业开源指南系列之八——公司如何改进自己的开源开发流程]() 来自英文：[
 Improving Your Open Source Development Impact](https://www.linuxfoundation.org/resources/open-source-guides/improving-your-open-source-development-impact/)
 - [ ] 三十二 ／2018-08-29 [Linux基金会企业开源指南系列之九——开源相关书单]() 来自英文：[Open Source Guides Reading List](https://www.linuxfoundation.org/resources/open-source-guides/open-source-guides-reading-list/)
