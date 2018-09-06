@@ -72,9 +72,11 @@ Improving Your Open Source Development Impact](https://www.linuxfoundation.org/r
 - [ ] 三十九 /2018-10-22[Linux基金会企业开源指南系列之十——企业如何优雅的关闭一个失败的开源项目]() 来自英文：[
 Winding Down an Open Source Project](https://www.linuxfoundation.org/resources/open-source-guides/winding-down-an-open-source-project/)
 - [ ] 四十 /2018-10-29 []() 来自英文：[Estimating the Total Cost of a Linux Distribution](https://www.linux.com/publications/estimating-total-cost-linux-distribution)
+- [ ]  来自英文：[What Does "Ethical" AI Mean for Open Source?](https://www.linuxjournal.com/content/what-does-ethical-ai-mean-open-source)
+- [ ]  来自英文：[How blockchain will influence open source](https://opensource.com/article/18/8/open-source-tokenomics)
+- [ ]  来自英文：[6 ways a thriving community will help your project succeed](https://opensource.com/open-organization/18/3/why-build-community-3)
 - [ ] [如何决定是否开源您的SaaS解决方案](https://opensource.com/article/18/5/open-source-saas-y-world)
 - [ ] [将SaaS开源之后所面临的可能挑战](https://opensource.com/article/18/5/open-source-saas-y-world-part-2)
-
 - [ ] 来自英文：[Growing a contributor base in modern open source](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
 - [ ] 来自英文：[FOSS as a Part of a Corporate Sustainability Plan](https://www.linuxjournal.com/content/foss-part-corporate-sustainability-plan)
 - [ ] ／201 []() 来自英文：[New Initiatives to Create Sustainable Open Source Projects at The Linux Foundation](https://www.linuxfoundation.org/blog/new-initiatives-to-create-sustainable-open-source-projects-at-the-linux-foundation/)
