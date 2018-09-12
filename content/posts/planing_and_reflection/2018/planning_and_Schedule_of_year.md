@@ -55,20 +55,21 @@ url: ""
 - [x] 二十七 ／2018-08-01 开源技术 [Kubernetes 是如何成为传统应用迁移的终极方案的](./posts/opensource_technology/how-kubernetes-became-solution-migrating-legacy-applications/) 来自英文：[How Kubernetes became the solution for migrating legacy applications](https://opensource.com/article/18/2/how-kubernetes-became-solution-migrating-legacy-applications)
 - [x] 二十八 ／2018-08-08 商业模式 [如何为开源项目做市场](posts/business_model/marketing-open-source-project) 来自英文：[How to Market an Open Source Project](https://www.linuxfoundation.org/blog/marketing-open-source-project/)
 - [x] 二十九 ／2018-08-15 开源文化 [开源之道](posts/open_source_way)
-- [x] 三十 ／2018-08-22 ／2018-07-04 [Linux基金会企业开源指南系列之一——公司如何创建开源项目办公室](posts/opensource_enterprise_guide/creating-an-open-source-program)来自英文：[Creating an Open Source Program](https://www.linuxfoundation.org/creating-an-open-source-program/)
-- [ ] 三十一 ／2018-08-29  [Linux基金会企业开源指南系列之二——开源管理工具集介绍和使用]() 来自英文：[
+- [x] 三十 ／2018-08-22 /2018-08-29 [Linux基金会企业开源指南系列之一——公司如何创建开源项目办公室](posts/opensource_enterprise_guide/creating-an-open-source-program)来自英文：[Creating an Open Source Program](https://www.linuxfoundation.org/creating-an-open-source-program/)
+- [x] 三十一 /2018-09-05  [Linux基金会企业开源指南系列之二——企业如何启动自己的开源项目（上)](posts/opensource_enterprise_guide/starting_open_source_project/) 来自英文：[Starting an Open Source Project](https://www.linuxfoundation.org/resources/open-source-guides/starting-open-source-project/)
+- [x] 三十二 /2018-09-12  [Linux基金会企业开源指南系列之二——企业如何启动自己的开源项目(中下)](posts/opensource_enterprise_guide/starting_open_source_project/) 来自英文：[Starting an Open Source Project](https://www.linuxfoundation.org/resources/open-source-guides/starting-open-source-project/)
+- [ ] 三十三 /2018-10-15[Linux基金会企业开源指南系列之三-—开源相关书单]() 来自英文：[Open Source Guides Reading List](https://www.linuxfoundation.org/resources/open-source-guides/open-source-guides-reading-list/)
+- [ ] 三十一 ／  [Linux基金会企业开源指南系列之二——开源管理工具集介绍和使用]() 来自英文：[
 Tools for Managing Open Source Programs](https://www.linuxfoundation.org/tools-managing-open-source-programs/)
-- [ ] 三十二 ／2018-009-05  [Linux基金会企业开源指南系列之三——度量开源项目的成功要素]() 来自英文：[
+- [ ] 三十二 ／  [Linux基金会企业开源指南系列之三——度量开源项目的成功要素]() 来自英文：[
 Measuring Your Open Source Program’s Success](https://www.linuxfoundation.org/measuring-your-open-source-program-success/)
 - [ ]  三十三 ／2018-09-12  [Linux基金会企业开源指南系列之四——正确的招聘开源人才]() 来自英文：[Recruiting Open Source Developers](https://www.linuxfoundation.org/recruiting-open-source-developers/)
 - [ ] 三十四 ／2018-09-17  [Linux基金会企业开源指南系列之五——公司如何以利益最大化的姿态参与开源社区]() 来自英文：[
 Participating in Open Source Communities](https://www.linuxfoundation.org/participating-open-source-communities/)
 - [ ] 三十五 ／2018-09-24  [Linux基金会企业开源指南系列之六——公司如何正确的使用开源代码]() 来自英文：[
 Using Open Source Code](https://www.linuxfoundation.org/using-open-source-code/)
-- [ ] 三十六 /2018-10-01  [Linux基金会企业开源指南系列之七——企业如何启动自己的开源项目]() 来自英文：[Launching an Open Source Project: A Free Guide](https://www.linuxfoundation.org/blog/launching-open-source-project-free-guide/)
 - [ ] 三十七 /2018-10-08 ／2018-09-12 [Linux基金会企业开源指南系列之八——公司如何改进自己的开源开发流程]() 来自英文：[
 Improving Your Open Source Development Impact](https://www.linuxfoundation.org/resources/open-source-guides/improving-your-open-source-development-impact/)
-- [ ] 三十八 /2018-10-15[Linux基金会企业开源指南系列之九——开源相关书单]() 来自英文：[Open Source Guides Reading List](https://www.linuxfoundation.org/resources/open-source-guides/open-source-guides-reading-list/)
 - [ ] 三十九 /2018-10-22[Linux基金会企业开源指南系列之十——企业如何优雅的关闭一个失败的开源项目]() 来自英文：[
 Winding Down an Open Source Project](https://www.linuxfoundation.org/resources/open-source-guides/winding-down-an-open-source-project/)
 - [ ] 四十 /2018-10-29 []() 来自英文：[Estimating the Total Cost of a Linux Distribution](https://www.linux.com/publications/estimating-total-cost-linux-distribution)
