@@ -12,7 +12,7 @@ keywords:
 tags:
 - 开源企业指南
 - 开源之道
-title: "Linux基金会企业开源指南系列之"
+title: "Linux基金会企业开源指南系列之三--一份让你彻底理解开源的读书列表"
 url: ""
 ---
 ## 特别声明
@@ -23,7 +23,7 @@ url: ""
 
 本阅读列表大名鼎鼎的 [TODO Group](http://todogroup.org/) 社区针对开源办公室相关人员所强烈推荐的图书列表。
 
-![New Frontiers in Open Innovation](images/open-source-reading-list1.jpg)
+![New Frontiers in Open Innovation](./images/open-source-reading-list1.jpg)
 
 
 英文原版：[New Frontiers in Open Innovation](https://www.amazon.com/Frontiers-Open-Innovation-Henry-Chesbrough/dp/0198803990/ref=sr_1_cc_1?s=aps&ie=UTF8&qid=1507753139&sr=1-1-catcorr&keywords=New+Frontiers+in+open+innovation), OUP Oxford, Henry William Chesbrough 著 (2014）
@@ -34,7 +34,7 @@ url: ""
 
 开放式创新是一种新出现的管理范式，强调在创新过程中，运用超越企业边界的内外部知识来引入新事物。在理解和从事开放式创新过程中，我们会面对各种各样的困惑，如公司怎样才能走出传统的知识封锁，超越其组织管理的边界？企业怎样才能敞开吸收来自外部的知识？企业怎样才能向外部提供对方需要的知识？
 
-![The Open Organization: Igniting Passion and Performance](images/open-source-reading-list2.jpg)
+![The Open Organization: Igniting Passion and Performance](./images/open-source-reading-list2.jpg)
 
 英文版：[The Open Organization: Igniting Passion and Performance](https://hbr.org/product/the-open-organization-igniting-passion-and-performance/13980-HBK-ENG), Harvard Business Review 出版社,  Jim Whitehurst 著 (2015)
 
@@ -45,7 +45,7 @@ url: ""
 
 以下内容是著名社区opensource.com根据 **开放式组织** 专门写的几个系列，以小书的形式发布，目前有5本，可以自由浏览。汇总地址：[开放式组织小书系列](https://opensource.com/open-organization/resources/book-series)，以下分别介绍：
 
-![](https://opensource.com/sites/default/files/lead-images/openorg_fieldguide_cover.png)
+![](https://opensource.com/sites/default/files/lead-./images/openorg_fieldguide_cover.png)
 
 英文版：[The Open Organization Field Guide](https://opensource.com/open-organization/resources/field-guide)
 
@@ -57,27 +57,27 @@ url: ""
 
 此书直译为中文是： 《开放组织领导者参考》，是任何想要利用开放的力量的参考手册，让自己的团队更加的透明、灵活、而且良好的协作，能够达到自下而上的任务驱动。
 
-![](https://opensource.com/sites/default/files/images/openorg_it_culture_change.png)
+![](https://opensource.com/sites/default/files/./images/openorg_it_culture_change.png)
 
 英文版：[The Open Organization Guide to IT Culture Change
 ](https://opensource.com/open-organization/resources/culture-change)
 
 此书直译为中文是：《转变为开放组织的文化变更指南》，顾名思义，即关于文化的变更，该书的贡献者有超过25名来自开源社区、公司企业，该书提供了这些资深人士的切身经验和实用建议，为创造一个开放的IT部分提供良好的、能够快速得到好的结果的、无与伦比的业务价值。
 
-![](https://opensource.com/sites/default/files/images/open-org/banner_2.png)
+![](https://opensource.com/sites/default/files/./images/open-org/banner_2.png)
 
 英文版：[The Open Organization Workbook
 ](https://opensource.com/open-organization/resources/workbook)
 
 此书直译为中文是：《开放组织工作手记》，该书的编写汇集了30多位专家的真知灼见，他们的角色有企业管理者、教育工作者、技术大拿、咨询师、等等。该书提供了将透明度，包容性，适应性，协作和社区原则付诸实践的具体和可行的战略。
 
-![](https://opensource.com/sites/default/files/lead-images/organize_innovation_social_scaled.png)
+![](https://opensource.com/sites/default/files/lead-./images/organize_innovation_social_scaled.png)
 
 英文版：[Organize for Innovation](https://opensource.com/open-organization/resources/organize-innovation)
 
 此书直译为中文是：《组织的创新》或《创新的组织》，红帽主席和CEO Jim Whitehurst 的集达成之作，其对于技术、社会、经济等力量如何影响我们的日常工作进行了反思，指出了解决目前企业遇到的难题的办法，那就是通过新的组织哲学、模式以及更具动态的方式来解决。Whitehurst 诠释了公司上下任何人都可以是领导者，这样可以让我们重新思考该如何利用数据、多去尝试失败、团队的架构、以及迅速设定目标等等，简而言之：如果让公司所有人变得更具创造力。
 
-![Open Innovation: The New Imperative for Creating And Profiting from Technology](images/open-source-reading-list3.jpg)
+![Open Innovation: The New Imperative for Creating And Profiting from Technology](./images/open-source-reading-list3.jpg)
 
 
 英文版：[Open Innovation: The New Imperative for Creating And Profiting from Technology](https://www.amazon.com/Open-Innovation-Imperative-Profiting-Technology/dp/1422102831), Harvard Business School Press, by Henry Chesbrough (2005)
@@ -86,7 +86,7 @@ url: ""
 
 
 
-![Open Business Models: How to Thrive in the New Innovation Landscape](images/open-source-reading-list4.jpg)
+![Open Business Models: How to Thrive in the New Innovation Landscape](./images/open-source-reading-list4.jpg)
 
 英文版：[Open Business Models: How to Thrive in the New Innovation Landscape](https://hbr.org/product/open-business-models-how-to-thrive-in-the-new-inno/an/4273-HBK-ENG), Harvard Business School Press, by Henry Chesbrough (2006)
 
@@ -106,7 +106,7 @@ url: ""
 
 这些重要的资源可为经理人提供大量的将创新和知识产权管理联系起来的路线图。通过有效地掌握开放型商业模式，公司可从创意和技术中发现和获得价值。
 
-![Wikinomics: How Mass Collaboration Changes Everything](images/open-source-reading-list5.jpg)
+![Wikinomics: How Mass Collaboration Changes Everything](./images/open-source-reading-list5.jpg)
 
 英文版：[Wikinomics: How Mass Collaboration Changes Everything](https://www.amazon.com/dp/B000QBYEH8/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)， Don Tapscott 和 Anthony D. Williams合著(2006)
 
@@ -118,7 +118,7 @@ url: ""
 
 这种利用大规模协作生产产品和提供服务的新方式，正颠覆我们对于传统知识创造模式的认识。面对变化激烈的未来，企业和个人必须更有远见，掌握维基技术，拥抱维基理念，是21世纪最重要的商业素质。
 
-![The Cathedral and the Bazaar](images/open-source-reading-list6.jpg)
+![The Cathedral and the Bazaar](./images/open-source-reading-list6.jpg)
 
 英文版：[The Cathedral and the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary](http://shop.oreilly.com/product/9780596001087.do), O’Reilly Media, Eric Raymond 著 (1999)
 
@@ -130,14 +130,14 @@ url: ""
 
 开源运动对软件业和互联网带来了巨大影响，本书作为开源运动的独立宣言，其影响力远远超出编程领域，如果想在互联网时代做生意，这本书是必读经典。
 
-![The Magic Cauldron](images/open-source-reading-list22.jpg)
+![The Magic Cauldron](./images/open-source-reading-list22.jpg)
 
 英文版：[The Magic Cauldron](http://www.catb.org/esr/writings/magic-cauldron/)， Eric Raymond 著(1999)
 
 此文章的中文版已经纳入[大教堂与集市](https://book.douban.com/subject/25881855/)，有关开源的经济学内容。
 
 
-![Philosophy of the GNU Project](images/open-source-reading-list21.jpg)
+![Philosophy of the GNU Project](./images/open-source-reading-list21.jpg)
 
 英文版：[Philosophy of the GNU Project](https://www.gnu.org/philosophy/philosophy.html),  Richard Stallman 著
 
@@ -146,7 +146,7 @@ url: ""
 无论同意与否，这是开源软件的起源的地方，理解Stallman先生的远见一定有助于你更加深刻的理解开源。
 
 
-![Producing Open Source Software](images/open-source-reading-list7.jpg)
+![Producing Open Source Software](./images/open-source-reading-list7.jpg)
 
 英文版: [Producing Open Source Software：How to Run a Successful Free Software Project](http://producingoss.com/en/index.html)， O’Reilly Media,  Karl Fogel 著 (2018)
 
@@ -155,7 +155,7 @@ url: ""
 如何成功运营项目的向导指南，无论你是用户还是开发者，本书都可以满足你的期望，当然本书还包括了自由软件文化的介绍。
 
 
-![Open Sources 2.0](images/open-source-reading-list8.jpg)
+![Open Sources 2.0](./images/open-source-reading-list8.jpg)
 
 
 英文版：[Open Sources 2.0](http://shop.oreilly.com/product/9780596008024.do): The Continuing Evolution, O’Reilly Media,  Chris DiBona, Mark Stone, Danese Cooper 等著
@@ -165,20 +165,20 @@ url: ""
 这是《开源：来自开源革命的声音》姊妹篇，是深刻被开源所驱动的业界代表们的文章合集，这些被选中的代表均是大家所耳能生详的开源界活跃大拿，有的是来自企业的开源经理，有的是开源布道师。精彩纷呈，不容错过。
 
 
-![The New Kingmakers](images/open-source-reading-list9.jpg)
+![The New Kingmakers](./images/open-source-reading-list9.jpg)
 
 英文版：[The New Kingmakers：How Developers Conquered the World](https://www.amazon.com/New-Kingmakers-Developers-Conquered-World-ebook/dp/B0097E4MEU), O’Reilly Media, Stephen O'Grady 著(2013)
 
 如果你对当前技术决策一切的时代下如何理解开发者这个角色，此书绝对不能错过。
 
-![The Software Paradox](images/open-source-reading-list10.jpg)
+![The Software Paradox](./images/open-source-reading-list10.jpg)
 
 英文版：[The Software Paradox：商业软件市场的崛起与陨落](https://www.amazon.com/Software-Paradox-Rise-Commercial-Market/dp/1491900938), O’Reilly Media, Stephen O’Grady 著(2015)
 
 来自 RedMonk 的分析，学习下为何商业软件市场已经改变。
 
 
-![The Art of Community: Building the New Age of Participation](images/open-source-reading-list11.jpg)
+![The Art of Community: Building the New Age of Participation](./images/open-source-reading-list11.jpg)
 
 英文版：[The Art of Community: Building the New Age of Participation](https://www.amazon.com/Art-Community-Building-New-Participation/dp/1449312063), O’Reilly Media, Jono Bacon 著 (2012)
 
@@ -187,7 +187,7 @@ url: ""
 由全球最大开源社区Ubuntu社区前社区经理 Jono Bacon的执笔，社区运营的圣经级书籍，本文是如何创建和运营开源社区的向导。
 
 
-![Open Sources: Voices from the Open Source Revolution](images/open-source-reading-list12.jpg)
+![Open Sources: Voices from the Open Source Revolution](./images/open-source-reading-list12.jpg)
 
 英文版：[Open Sources: Voices from the Open Source Revolution](http://www.oreilly.com/openbook/opensources/book/index.html), O’Reilly Media, by Eric S. Raymond (1999)
 
@@ -197,7 +197,7 @@ url: ""
 
 **开源之道重点推荐图书**
 
-![](images/open-source-reading-list13.jpg)
+![](./images/open-source-reading-list13.jpg)
 
 英文版：[Codev2](http://codev2.cc/),  Larry Lessig 著 (2005)
 
@@ -208,31 +208,31 @@ url: ""
 > 该书可以免费下载，遵循[Creative Commons Attribution-ShareAlike 2.5 License](http://creativecommons.org/licenses/by-sa/2.5/)。
 
 
-![Open Source for Business](images/open-source-reading-list14.jpg)
+![Open Source for Business](./images/open-source-reading-list14.jpg)
 
 英文版：[Open Source for Business: A Practical Guide to Open Source Software Licensing, 2nd Edition](http://www.pdffull.co/files/book.php?id=1544737645) ， Heather Meeker 著
 
 欲理解开源软件许可证，必读书之一。
 
-![The Open Source Alternative](images/open-source-reading-list15.jpg)
+![The Open Source Alternative](./images/open-source-reading-list15.jpg)
 
 英文版：[The Open Source Alternative](https://www.amazon.com/Open-Source-Alternative-Understanding-Opportunities/dp/0470194952/ref=pd_sim_14_2?_encoding=UTF8&psc=1&refRID=TRNY5HWZJ8WXZJFPW2A1), Wiley, Heather Meeker 著(2008)
 
 该书算是一本用户手册，旨在让人们去了解企业使用开源软件是的开源许可证问题。
 
-![The Success of Open Source](images/open-source-reading-list16.jpg)
+![The Success of Open Source](./images/open-source-reading-list16.jpg)
 
 英文版：[The Success of Open Source](https://www.amazon.com/dp/B002OSXS0U/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1), Steven Weber 著，Harvard University Press (2005年10月4日)
 
 非常适合从局外人的角度理解开源的重要性。
 
-![Intellectual Property and Open Source](images/open-source-reading-list18.jpg)
+![Intellectual Property and Open Source](./images/open-source-reading-list18.jpg)
 
 [Intellectual Property and Open Source](https://www.amazon.cn/dp/0596517963/ref=sr_1_1?ie=UTF8&qid=1536763039&sr=8-1&keywords=Intellectual-Property-Open-Source-Protecting)， O'Reilly Media, Inc,，Van Lindberg 著， (2008年7月29日)
 
 该书通过工程师的视角来看待开源的许可协议，没有基于律师的视野也是令人陶醉的决定。既然是给“外行人”看的，那么就会涉及到一点关于相关法律的历史介绍，诸如为什么我们需要商标？为什么我们需要版权所有？等等。
 
-![Managing 3rd-Party Software Licenses](images/open-source-reading-list19.jpg)
+![Managing 3rd-Party Software Licenses](./images/open-source-reading-list19.jpg)
 
 英文版：[Managing 3rd-Party Software Licenses,](https://www.amazon.com/Managing-3rd-Party-Software-Licences-ebook/dp/B01JJC7LD8) 自助出版， Giles Middleton 著(2016)
 
@@ -241,7 +241,7 @@ url: ""
 该书涵盖了很多内容，当然内容是适合哪种快速浏览的。
 
 
-![The International Free and Open Source Software Law Book](images/open-source-reading-list20.jpg)
+![The International Free and Open Source Software Law Book](./images/open-source-reading-list20.jpg)
 
 英文版：[The International Free and Open Source Software Law Book](http://ifosslawbook.org/), 开源出版, Ywein Van den Brande, Shane Coughlan, 和 Till Jaeger 合著(2014)
 
