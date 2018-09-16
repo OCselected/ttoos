@@ -45,7 +45,7 @@ url: ""
 
 以下内容是著名社区opensource.com根据 **开放式组织** 专门写的几个系列，以小书的形式发布，目前有5本，可以自由浏览。汇总地址：[开放式组织小书系列](https://opensource.com/open-organization/resources/book-series)，以下分别介绍：
 
-![](https://opensource.com/sites/default/files/lead-./images/openorg_fieldguide_cover.png)
+![](https://opensource.com/sites/default/files/lead-images/openorg_fieldguide_cover.png)
 
 英文版：[The Open Organization Field Guide](https://opensource.com/open-organization/resources/field-guide)
 
@@ -57,21 +57,21 @@ url: ""
 
 此书直译为中文是： 《开放组织领导者参考》，是任何想要利用开放的力量的参考手册，让自己的团队更加的透明、灵活、而且良好的协作，能够达到自下而上的任务驱动。
 
-![](https://opensource.com/sites/default/files/./images/openorg_it_culture_change.png)
+![](https://opensource.com/sites/default/files/images/openorg_it_culture_change.png)
 
 英文版：[The Open Organization Guide to IT Culture Change
 ](https://opensource.com/open-organization/resources/culture-change)
 
 此书直译为中文是：《转变为开放组织的文化变更指南》，顾名思义，即关于文化的变更，该书的贡献者有超过25名来自开源社区、公司企业，该书提供了这些资深人士的切身经验和实用建议，为创造一个开放的IT部分提供良好的、能够快速得到好的结果的、无与伦比的业务价值。
 
-![](https://opensource.com/sites/default/files/./images/open-org/banner_2.png)
+![](https://opensource.com/sites/default/files/images/open-org/banner_2.png)
 
 英文版：[The Open Organization Workbook
 ](https://opensource.com/open-organization/resources/workbook)
 
 此书直译为中文是：《开放组织工作手记》，该书的编写汇集了30多位专家的真知灼见，他们的角色有企业管理者、教育工作者、技术大拿、咨询师、等等。该书提供了将透明度，包容性，适应性，协作和社区原则付诸实践的具体和可行的战略。
 
-![](https://opensource.com/sites/default/files/lead-./images/organize_innovation_social_scaled.png)
+![](https://opensource.com/sites/default/files/lead-images/organize_innovation_social_scaled.png)
 
 英文版：[Organize for Innovation](https://opensource.com/open-organization/resources/organize-innovation)
 
