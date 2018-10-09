@@ -58,7 +58,9 @@ url: ""
 - [x] 三十 ／2018-08-22 /2018-08-29 [Linux基金会企业开源指南系列之一——公司如何创建开源项目办公室](posts/opensource_enterprise_guide/creating-an-open-source-program)来自英文：[Creating an Open Source Program](https://www.linuxfoundation.org/creating-an-open-source-program/)
 - [x] 三十一 /2018-09-05  [Linux基金会企业开源指南系列之二——企业如何启动自己的开源项目（上)](posts/opensource_enterprise_guide/starting_open_source_project/) 来自英文：[Starting an Open Source Project](https://www.linuxfoundation.org/resources/open-source-guides/starting-open-source-project/)
 - [x] 三十二 /2018-09-12  [Linux基金会企业开源指南系列之二——企业如何启动自己的开源项目(中下)](posts/opensource_enterprise_guide/starting_open_source_project/) 来自英文：[Starting an Open Source Project](https://www.linuxfoundation.org/resources/open-source-guides/starting-open-source-project/)
-- [ ] 三十三 /2018-10-15[Linux基金会企业开源指南系列之三-—开源相关书单]() 来自英文：[Open Source Guides Reading List](https://www.linuxfoundation.org/resources/open-source-guides/open-source-guides-reading-list/)
+- [x] 三十三 /2018-09-20 [Linux基金会企业开源指南系列之三-—开源相关书单](posts/opensource_enterprise_guide/open_source_reading_list/) 来自英文：[Open Source Guides Reading List](https://www.linuxfoundation.org/resources/open-source-guides/open-source-guides-reading-list/)
+- [ ] 三十四 ／2018-10-10  [Linux基金会企业开源指南系列之四——度量开源项目的成功要素（上）](posts/opensource_enterprise_guide/measuring_open_source_program) 来自英文：[Measuring Your Open Source Program’s Success](https://www.linuxfoundation.org/measuring-your-open-source-program-success/)
+
 - [ ] 三十一 ／  [Linux基金会企业开源指南系列之二——开源管理工具集介绍和使用]() 来自英文：[
 Tools for Managing Open Source Programs](https://www.linuxfoundation.org/tools-managing-open-source-programs/)
 - [ ] 三十二 ／  [Linux基金会企业开源指南系列之三——度量开源项目的成功要素]() 来自英文：[
