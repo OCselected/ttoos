@@ -59,12 +59,11 @@ url: ""
 - [x] 三十一 /2018-09-05  [Linux基金会企业开源指南系列之二——企业如何启动自己的开源项目（上)](posts/opensource_enterprise_guide/starting_open_source_project/) 来自英文：[Starting an Open Source Project](https://www.linuxfoundation.org/resources/open-source-guides/starting-open-source-project/)
 - [x] 三十二 /2018-09-12  [Linux基金会企业开源指南系列之二——企业如何启动自己的开源项目(中下)](posts/opensource_enterprise_guide/starting_open_source_project/) 来自英文：[Starting an Open Source Project](https://www.linuxfoundation.org/resources/open-source-guides/starting-open-source-project/)
 - [x] 三十三 /2018-09-20 [Linux基金会企业开源指南系列之三-—开源相关书单](posts/opensource_enterprise_guide/open_source_reading_list/) 来自英文：[Open Source Guides Reading List](https://www.linuxfoundation.org/resources/open-source-guides/open-source-guides-reading-list/)
-- [ ] 三十四 ／2018-10-10  [Linux基金会企业开源指南系列之四——度量开源项目的成功要素（上）](posts/opensource_enterprise_guide/measuring_open_source_program) 来自英文：[Measuring Your Open Source Program’s Success](https://www.linuxfoundation.org/measuring-your-open-source-program-success/)
-
+- [x] 三十四 ／2018-10-10  [Linux基金会企业开源指南系列之四——度量开源项目的成功要素（上）](posts/opensource_enterprise_guide/measuring_open_source_program) 来自英文：[Measuring Your Open Source Program’s Success](https://www.linuxfoundation.org/measuring-your-open-source-program-success/)
+- [x] 三十五 ／  [Linux基金会企业开源指南系列之三——度量开源项目的成功要素（下）](posts/opensource_enterprise_guide/measuring_open_source_program) 来自英文：[
+Measuring Your Open Source Program’s Success](https://www.linuxfoundation.org/measuring-your-open-source-program-success/)
 - [ ] 三十一 ／  [Linux基金会企业开源指南系列之二——开源管理工具集介绍和使用]() 来自英文：[
 Tools for Managing Open Source Programs](https://www.linuxfoundation.org/tools-managing-open-source-programs/)
-- [ ] 三十二 ／  [Linux基金会企业开源指南系列之三——度量开源项目的成功要素]() 来自英文：[
-Measuring Your Open Source Program’s Success](https://www.linuxfoundation.org/measuring-your-open-source-program-success/)
 - [ ]  三十三 ／2018-09-12  [Linux基金会企业开源指南系列之四——正确的招聘开源人才]() 来自英文：[Recruiting Open Source Developers](https://www.linuxfoundation.org/recruiting-open-source-developers/)
 - [ ] 三十四 ／2018-09-17  [Linux基金会企业开源指南系列之五——公司如何以利益最大化的姿态参与开源社区]() 来自英文：[
 Participating in Open Source Communities](https://www.linuxfoundation.org/participating-open-source-communities/)
