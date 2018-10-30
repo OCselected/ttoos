@@ -63,7 +63,7 @@ url: ""
 - [x] 三十五 ／  [Linux基金会企业开源指南系列之三——度量开源项目的成功要素（下）](posts/opensource_enterprise_guide/measuring_open_source_program) 来自英文：[
 Measuring Your Open Source Program’s Success](https://www.linuxfoundation.org/measuring-your-open-source-program-success/)
 - [x] 三十六 / 2018-10-24 [开源之道 -- COSCon18 主题分享](posts/the_way_of_open_source/coscon18_shared_topic)
-- [ ] 三十七 ／2018-10-31 [Linux基金会企业开源指南系列之五——公司如何以利益最大化的姿态参与开源社区]() 来自英文：[
+- [ ] 三十七 ／2018-10-31 [Linux基金会企业开源指南系列之五——公司如何以利益最大化的姿态参与开源社区](posts/opensource_enterprise_guide/participating-in-open-source) 来自英文：[
 Participating in Open Source Communities](https://www.linuxfoundation.org/participating-open-source-communities/)
 - [ ] 三十一 ／  [Linux基金会企业开源指南系列之二——开源管理工具集介绍和使用]() 来自英文：[
 Tools for Managing Open Source Programs](https://www.linuxfoundation.org/tools-managing-open-source-programs/)
