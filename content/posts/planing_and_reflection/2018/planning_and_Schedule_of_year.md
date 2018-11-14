@@ -62,7 +62,7 @@ url: ""
 - [x] 三十四 / 2018-10-24 [开源之道 -- COSCon18 主题分享](posts/the_way_of_open_source/coscon18_shared_topic)
 - [x] 三十七 ／2018-10-31 [Linux基金会企业开源指南系列之五——公司如何以利益最大化的姿态参与开源社区](posts/opensource_enterprise_guide/participating-in-open-source) 来自英文：[
 Participating in Open Source Communities](https://www.linuxfoundation.org/participating-open-source-communities/)
-- [ ] 三十一 ／  [Linux基金会企业开源指南系列之六——开源管理工具集介绍和使用]() 来自英文：[
+- [x] 三十八 ／ 2018-11-14  [Linux基金会企业开源指南系列之六——开源管理工具集介绍和使用](posts/opensource_enterprise_guide/tools-for-managing-open-source-programs) 来自英文：[
 Tools for Managing Open Source Programs](https://www.linuxfoundation.org/tools-managing-open-source-programs/)
 - [ ]  三十三 ／2018-09-12  [Linux基金会企业开源指南系列之七——正确的招聘开源人才]() 来自英文：[Recruiting Open Source Developers](https://www.linuxfoundation.org/recruiting-open-source-developers/)
 - [ ] 三十五 ／2018-09-24  [Linux基金会企业开源指南系列之八——公司如何正确的使用开源代码]() 来自英文：[
@@ -100,11 +100,12 @@ Winding Down an Open Source Project](https://www.linuxfoundation.org/resources/o
 - [ ] []() Come from English :[5 rules for having genuine community relationships](https://opensource.com/open-organization/18/2/why-build-community-2)
 - [ ] []() Come from English :[What is open source programming?](https://opensource.com/article/18/3/what-open-source-programming)
 - [ ] 年度开源人物奖[](https://en.wikipedia.org/wiki/O%27Reilly_Open_Source_Award)
-- [ ] 世界知名基于开源的商业公司系列（）可参考：[Joseph Jacks 系列文章](https://medium.com/@asynchio)
+- [ ] 世界知名基于开源的商业公司系列（）可参考：[Joseph Jacks 系列文章](https://medium.com/@asynchio)（这个可以重点关注一下，每家公司的历史都可以成为一篇文章的。）
 - [ ] [Apache 基金会未来5年计划]() 来自英文：[Five-year Strategic Plan for the Apache Software Foundation](https://www.apache.org/board/plan.html)
 - [ ] []() 来自英文：[为什么说开源失败了？](https://medium.com/@johnmark/why-open-source-failed-6cae5d6a9f6)
 - [ ] []() 来自英文：[Why Decentralization Matters](https://medium.com/@cdixon/why-decentralization-matters-5e3f79f7638e)
 - [ ] [开源女神：Danese Cooper]() 来自英文：[Danese Cooper](https://en.wikipedia.org/wiki/Danese_Cooper)
+- [ ] 来自英文：[Why There Will Never Be Another Red Hat: The Economics of Open Source](https://a16z.com/2014/02/14/why-there-will-never-be-another-redhat-the-economics-of-open-source)
 - [ ] []() 来自英文：[]()
 
 ## 可能要做的事情
