@@ -66,7 +66,7 @@ Participating in Open Source Communities](https://www.linuxfoundation.org/partic
 Tools for Managing Open Source Programs](https://www.linuxfoundation.org/tools-managing-open-source-programs/)
 - [x] 2018-11-28 [开源之道图书与文档共读申明](posts/paper_or_book_reading/establish_reading_os_community)
 - [x] 2018-12-05/12  [Linux基金会企业开源指南系列之七——正确的招聘开源人才](posts/opensource_enterprise_guide/recruiting-developers) 来自英文：[Recruiting Open Source Developers](https://www.linuxfoundation.org/recruiting-open-source-developers/)
-- [ ] 2018-12-19/26  [Linux基金会企业开源指南系列之八——公司如何正确的使用开源代码]() 来自英文：[
+- [x] 2018-12-19/26  [Linux基金会企业开源指南系列之八——公司如何正确的使用开源代码](posts/opensource_enterprise_guide/using-open-source) 来自英文：[
 Using Open Source Code](https://www.linuxfoundation.org/using-open-source-code/)
 
 ## 可能要做的事情
