@@ -3,8 +3,8 @@ categories:
 - 开源
 - 感悟
 - 读后感
-date: 2018-11-17T22:55:45+08:00
-description: "梁文道曾在一个叫做《伟大的思想》书系里的推荐语里写到:几乎所有人类史上最重大的变革，首先都是一种观念的变革。然而观念的变革往往是最难的，而其中最为重要的就是莫过于提高认知，知识是转变观念的重要的一条途径。开源能够今天的成绩，绝不是看起来那么的简单，背后有着无数的智慧和知识驱动，开源之道理应去挖掘。"
+date: 2018-11-26T22:55:45+08:00
+description: "梁文道曾在一个叫做《伟大的思想》书系里的推荐语里写到:几乎所有人类史上最重大的变革，首先都是一种观念的变革。然而观念的变革往往是最难的，而其中最为重要的就是莫过于提高认知，知识是转变观念的重要的一条途径。开源能够有今天的成绩，绝不是看起来那么的简单，背后有着无数的智慧和知识驱动，开源之道理应去挖掘。"
 keywords:
 - Open Source
 - Culture
@@ -103,15 +103,21 @@ url: ""
 
 ### 图书和文献选定
 
- 最初的几期由开源之道来精心选择，主要参考的有：[Linux基金会企业开源指南系列之三-—开源相关书单](posts/opensource_enterprise_guide/open_source_reading_list/)，文献呢则是日常的积累了，具体请参考页面：[开源之道文献推荐列表](posts/the_way_of_open_source/opensource_paper_list)。
+最初的几期由开源之道来精心选择，主要参考的有：
 
- * 每月初会在公众号和相关群组、邮件列表等地公布本月要读的图书。
+* 开源之道主要作译者在接受《赢在中国》系列的[采访](https://mp.weixin.qq.com/s/boDb0CvQe6bXBqW3wraN7A)中所推荐的书单
+* [Linux基金会企业开源指南系列之三-—开源相关书单](posts/opensource_enterprise_guide/open_source_reading_list/)。
+* 由 Bold&Open Jaime Arredondo 所推荐的[每位工作在社区或开源的人应该读的10本书](http://boldandopen.com/open-source-community-building-reading-list/)。
+
+至于文献呢则是日常的积累了，具体请参考页面：[开源之道文献推荐列表](posts/the_way_of_open_source/opensource_paper_list)。
+
+* 每月初会在公众号和相关群组、邮件列表等地公布本月要读的图书。
 
 ## 如何参与
 
 1. 通过开源之道公众号在留言区留言，发表你的评论和反馈。
 2. 到开源之道的 GitHub 项目，提交[新的 issue](https://github.com/OCselected/ttoos/issues/new) 来反馈并参与项目贡献。
-3. 添加 johnwoo_lee 的微信，并注明：“开源之道图书与文献共读”，他会将你拉入成立的微信群。讨论问题时，请遵守中华人民共和国相关法律法规，以及[社区行为准则](https://ocselected.github.io/open-source-guide/code-of-conduct/)。
+3. 添加 **johnwoo_lee** 的微信，并注明：“开源之道图书与文献共读”，他会将你拉入成立的微信群。讨论问题时，请遵守中华人民共和国相关法律法规，以及[社区行为准则](https://ocselected.github.io/open-source-guide/code-of-conduct/)。
 
 
 ## 以上内容从2019年1月1日起开始执行
