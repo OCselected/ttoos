@@ -22,7 +22,7 @@ url: ""
 
 - [ ] 2019.1 [“The Role of Participation Architecture in Growing Sponsored Open Source Communities,”](http://www.joelwest.org/Papers/WestOMahony2008-WP.pdf)
 
-- [ ]  2019.2 ["Learning by Contributing: Gaining Competitive Advantage Through Contribution to Crowdsourced Public Goods."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3091831k) 
+- [ ]  2019.2 ["Learning by Contributing: Gaining Competitive Advantage Through Contribution to Crowdsourced Public Goods."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3091831) 
 
 - [ ] 2019.3 [The Rise and Evolution of the Open Source Software Foundation](https://www.slideshare.net/stephenrwalli/the-rise-and-evolution-of-the-open-source-software-foundation)
 
