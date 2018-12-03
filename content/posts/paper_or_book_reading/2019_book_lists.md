@@ -54,7 +54,7 @@ In Subscribed, you'll learn how these companies made the shift, and how you can 
 
 ### 2019 年五月 第五期
 
-![](https://img3.doubanio.com/view/subject/l/public/s28270616.jpg)
+![](https://images-na.ssl-images-amazon.com/images/I/61zimm3h9LL.jpg)
 
 [匠人(The Craftsman)](https://book.douban.com/subject/26388428/) ,上海译文出版社, [美] 理查德·桑内特
 
@@ -63,6 +63,20 @@ In Subscribed, you'll learn how these companies made the shift, and how you can 
 > 本书堪称作者的巅峰巨著，这位当代顶尖的公共知识分子在书中探讨了过去和现在的匠人的工作；他把身体劳动和伦理道德联系起来，他质疑当今公认的衡量工作好坏的标准。
 
 > 理查德•桑内特在《匠人》中跨越了时空，从古罗马的制砖工人到文艺复兴时期的金匠，从巴黎的印刷社到伦敦的工厂，都是他笔下探讨的对象。历史在实践和理论、技艺和表达、匠人与艺术家、制造者与使用者之间划下了一道错误的界线；现代社会仍然没有摆脱这种历史遗存的折磨。但从前那些匠人的生活和他们的匠艺也揭示了一些使用工具、安排工作和思考材料的方法，进而为我们如何利用技能来指导生活提供了各种可行的方案。
+
+### 2019 年六月 第六期
+
+![](https://imagery.pragprog.com/products/542/vbopens_xlargecover.jpg?1516635915)
+
+[Forge Your Future with Open Source](https://pragprog.com/book/vbopens/forge-your-future-with-open-source),VM (Vicky) Brasseur
+
+>Free and open source is the foundation of software development, and it’s built by people just like you. Discover the fundamental tenets that drive the movement. Take control of your career by selecting the right project to meet your professional goals. Master the language and avoid the pitfalls that typically ensnare new contributors. Join a community of like-minded people and change the world. Programmers, writers, designers, and everyone interested in software will make their mark through free and open source software contributions.
+
+> This book doesn’t assume that you’re a programmer, or even that you have prior experience with free and open source software. Learn what open source is, where it came from, and why it’s important. Start on the right foot by mastering the structure and tools you need before you contribute. Choose the right project for you, amplifying the impact of your contribution. Submit your first contribution, whether it’s code, writing, design, or community organizing. Find out what to do when things don’t go the way you expect. Discover how to start your own project and make it friendly and welcoming to contributors.
+
+> Anyone can contribute! Make your mark today and help others while also helping yourself.
+
+
 
 ## 2019 第三季度 主题：开源的生产方式，技术架构与开源协作之间的关系
 
