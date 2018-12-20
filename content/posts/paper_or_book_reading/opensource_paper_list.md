@@ -27,3 +27,5 @@ url: ""
 - [ ] 2019.3 [The Rise and Evolution of the Open Source Software Foundation](https://www.slideshare.net/stephenrwalli/the-rise-and-evolution-of-the-open-source-software-foundation)
 
 - [ ] 2019.4 [How to Succeed in Business by Bundling – and Unbundling](https://hbr.org/2014/06/how-to-succeed-in-business-by-bundling-and-unbundling)
+
+- [ ] 2019.5 [Enterprise Open Source: A Practical Introduction](https://www.linuxfoundation.org/open-source-management/2018/08/enterprise-open-source-practical-introduction/)
