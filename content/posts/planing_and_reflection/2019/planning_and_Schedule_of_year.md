@@ -20,11 +20,11 @@ url: ""
 
 
 ## 具体事项
-- [ ] 三十七 /2018-10-08 ／2018-09-12 [Linux基金会企业开源指南系列之九——公司如何改进自己的开源开发流程]() 来自英文：[
+- [ ] 一 /2019-01-03 [Linux基金会企业开源指南系列之九——公司如何改进自己的开源开发流程]() 来自英文：[
 Improving Your Open Source Development Impact](https://www.linuxfoundation.org/resources/open-source-guides/improving-your-open-source-development-impact/)
-- [ ] 三十九 /2018-10-22[Linux基金会企业开源指南系列之十 —— 企业如何优雅的关闭一个失败的开源项目]() 来自英文：[
+- [ ] 二 /2019-01-10 [Linux基金会企业开源指南系列之十 —— 企业如何优雅的关闭一个失败的开源项目]() 来自英文：[
 Winding Down an Open Source Project](https://www.linuxfoundation.org/resources/open-source-guides/winding-down-an-open-source-project/)
-- [ ] 四十 /2018-10-29 []() 来自英文：[Estimating the Total Cost of a Linux Distribution](https://www.linux.com/publications/estimating-total-cost-linux-distribution)
+- [ ] 三 /2019-01-17 []() 来自英文：[Estimating the Total Cost of a Linux Distribution](https://www.linux.com/publications/estimating-total-cost-linux-distribution)
 - [ ]  来自英文：[What Does "Ethical" AI Mean for Open Source?](https://www.linuxjournal.com/content/what-does-ethical-ai-mean-open-source)
 - [ ]  来自英文：[How blockchain will influence open source](https://opensource.com/article/18/8/open-source-tokenomics)
 - [ ]  来自英文：[How to Participate in the Linux Community](https://www.linux.com/publications/how-participate-linux-community)
