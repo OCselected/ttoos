@@ -20,7 +20,7 @@ url: ""
 
 
 ## 具体事项
-- [ ] 一 /2019-01-03 [Linux基金会企业开源指南系列之九——公司如何提升开源开发的影响力]() 来自英文：[
+- [x] 一 /2019-01-03 [Linux基金会企业开源指南系列之九——公司如何提升开源开发的影响力]() 来自英文：[
 Improving Your Open Source Development Impact](https://www.linuxfoundation.org/resources/open-source-guides/improving-your-open-source-development-impact/)
 - [ ] 二 /2019-01-10 [Linux基金会企业开源指南系列之十 —— 企业如何优雅的关闭一个失败的开源项目]() 来自英文：[
 Winding Down an Open Source Project](https://www.linuxfoundation.org/resources/open-source-guides/winding-down-an-open-source-project/)
