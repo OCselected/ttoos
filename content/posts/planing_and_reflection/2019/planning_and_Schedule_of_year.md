@@ -24,7 +24,9 @@ url: ""
 Improving Your Open Source Development Impact](https://www.linuxfoundation.org/resources/open-source-guides/improving-your-open-source-development-impact/)
 - [ ] 二 /2019-01-10 [Linux基金会企业开源指南系列之十 —— 企业如何优雅的关闭一个失败的开源项目]() 来自英文：[
 Winding Down an Open Source Project](https://www.linuxfoundation.org/resources/open-source-guides/winding-down-an-open-source-project/)
-- [ ] 三 /2019-01-17 []() 来自英文：[Estimating the Total Cost of a Linux Distribution](https://www.linux.com/publications/estimating-total-cost-linux-distribution)
+- [ ] 三 /2019-01-17 [Linux基金会企业开源指南系列之十一 —— 在开源社区中树立领导力]() 来自英文：[Building Leadership in an Open Source Community](https://www.linuxfoundation.org/resources/open-source-guides/building-leadership-in-an-open-source-community/)
+- [ ] [Linux基金会企业开源指南系列之十二 —— 制定企业开源战略]() 来自英文：[Setting an Open Source Strategy](https://www.linuxfoundation.org/resources/open-source-guides/setting-an-open-source-strategy/)
+- [ ]  []() 来自英文：[Estimating the Total Cost of a Linux Distribution](https://www.linux.com/publications/estimating-total-cost-linux-distribution)
 - [ ]  来自英文：[What Does "Ethical" AI Mean for Open Source?](https://www.linuxjournal.com/content/what-does-ethical-ai-mean-open-source)
 - [ ]  来自英文：[How blockchain will influence open source](https://opensource.com/article/18/8/open-source-tokenomics)
 - [ ]  来自英文：[How to Participate in the Linux Community](https://www.linux.com/publications/how-participate-linux-community)
