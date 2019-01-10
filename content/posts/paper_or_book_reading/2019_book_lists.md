@@ -37,7 +37,15 @@ url: ""
 
 In Subscribed, you'll learn how these companies made the shift, and how you can transform your own product into a valuable service with a practical, step-by-step framework. Find out how how you can prepare and prosper now, rather than trying to catch up later.
 
+### 2019 年3月 第三期
 
+![](https://images-cn.ssl-images-amazon.com/images/I/41mK9tmdzHL._SX352_BO1,204,203,200_.jpg)
+
+这本书很是奇特，在国内也是少见的，看看作者的背景就知道了：
+
+>丹麦奥胡斯大学经济学博士，现为南京大学商学院讲师。研究方向为博弈论、创新经济学以及信息产业的竞争策略等。近年来，在FrontiersofEcoiaomics in China，《数量经济技术经济研究》、《中国工业经济》、《当代财经》、《管理学报》、AgriculturaIvEconomics—Zemedelska Ekonomika等杂志公开发表论文多篇。主持或参与过“开源创新：基于互联网开放社区的分散创新模式”(国家自然科学基金青年项目)、“以全球价值链引导我国经济结构转型升级”(国家社科基金重点课题)、“以产业集群促进长三角战略性新兴产业创业发展”(教育部人文社科重点研究基地)、“现代服务业发展战略研究”(国家社科基金重点课题)等多项科研项目。
+
+就开源之道的发起人适兕而言，遇到的绝大多数开源圈的人都是技术出身，再不济也是法律出身，经济学家王宇先生的研究方向确实独特。开源之道图书共读的朋友们，不妨和我一样，放下已有的知识，换一个角度来看开源，是有经济学道理的。
 
 ## 2019 第二季度 主题：开发者关系、顶级的开源开发者究竟在想什么？是怎样的一群人？
 
@@ -76,8 +84,14 @@ In Subscribed, you'll learn how these companies made the shift, and how you can 
 
 > Anyone can contribute! Make your mark today and help others while also helping yourself.
 
-
-
 ## 2019 第三季度 主题：开源的生产方式，技术架构与开源协作之间的关系
 
 ## 2019 第四季度 主题： 开源的思想价值
+
+### 2019 年10月 第十期
+
+![](https://covers.oreillystatic.com/images/9781565925823/lrg.jpg)
+
+如果说开源最初的发起者们，没有比这本文章合集所表达的内容更为震撼的了，看看作者和编者：Brian Behlendorf (Apache)、Kirk McKusick (Berkeley Unix)、Tim O'Reilly (Publisher, O'Reilly & Associates)、Bruce Perens (Debian Project, Open Source Initiative)、Tom Paquin and Jim Hamerly (mozilla.org, Netscape)、Eric Raymond (Open Source Initiative)、Richard Stallman (GNU, Free Software Foundation, Emacs)、Michael Tiemann (Cygnus Solutions)、Linus Torvalds (Linux)、Paul Vixie (Bind)、Larry Wall (Perl)、Chris DiBona（Google）
+
+开源之道向来推崇该书。
