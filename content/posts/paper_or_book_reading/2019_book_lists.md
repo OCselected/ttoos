@@ -78,7 +78,7 @@ In Subscribed, you'll learn how these companies made the shift, and how you can 
 
 [Forge Your Future with Open Source](https://pragprog.com/book/vbopens/forge-your-future-with-open-source),VM (Vicky) Brasseur
 
->Free and open source is the foundation of software development, and it’s built by people just like you. Discover the fundamental tenets that drive the movement. Take control of your career by selecting the right project to meet your professional goals. Master the language and avoid the pitfalls that typically ensnare new contributors. Join a community of like-minded people and change the world. Programmers, writers, designers, and everyone interested in software will make their mark through free and open source software contributions.
+> Free and open source is the foundation of software development, and it’s built by people just like you. Discover the fundamental tenets that drive the movement. Take control of your career by selecting the right project to meet your professional goals. Master the language and avoid the pitfalls that typically ensnare new contributors. Join a community of like-minded people and change the world. Programmers, writers, designers, and everyone interested in software will make their mark through free and open source software contributions.
 
 > This book doesn’t assume that you’re a programmer, or even that you have prior experience with free and open source software. Learn what open source is, where it came from, and why it’s important. Start on the right foot by mastering the structure and tools you need before you contribute. Choose the right project for you, amplifying the impact of your contribution. Submit your first contribution, whether it’s code, writing, design, or community organizing. Find out what to do when things don’t go the way you expect. Discover how to start your own project and make it friendly and welcoming to contributors.
 
@@ -86,12 +86,37 @@ In Subscribed, you'll learn how these companies made the shift, and how you can 
 
 ## 2019 第三季度 主题：开源的生产方式，技术架构与开源协作之间的关系
 
+### 2019 年七月 第七期
+
+![The Cathedral and the Bazaar](./images/open-source-reading-list6.jpg)
+
+英文版：[The Cathedral and the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary](http://shop.oreilly.com/product/9780596001087.do), O’Reilly Media, Eric Raymond 著 (1999)
+
+中文版：[大教堂与集市](https://book.douban.com/subject/25881855/),机械工业出版社，Eric Raymond 著，译者: 卫剑钒 （2014-5）
+
+当代软件技术领域最重要的著作！
+
+《大教堂与集市》是开源运动的《圣经》，颠覆了传统的软件开发思路，影响了整个软件开发领域。作者Eric S. Raymond是开源运动的旗手、黑客文化第一理论家，他讲述了开源运动中惊心动魄的故事，提出了大量充满智慧的观念和经过检验的知识，给所有软件开发人员带来启迪。本书囊括了作者最著名的“五部曲”，并经过作者的全面更新，增加了大量注释，提高了可读性，是经典收藏。
+
+开源运动对软件业和互联网带来了巨大影响，本书作为开源运动的独立宣言，其影响力远远超出编程领域，如果想在互联网时代做生意，这本书是必读经典。
+
+
 ## 2019 第四季度 主题： 开源的思想价值
 
 ### 2019 年10月 第十期
 
 ![](https://covers.oreillystatic.com/images/9781565925823/lrg.jpg)
 
+[Open Sources: Voices from the Open Source Revolution](https://www.oreilly.com/openbook/opensources/book/index.html)， O'Reilly Media，July 2008
+
 如果说开源最初的发起者们，没有比这本文章合集所表达的内容更为震撼的了，看看作者和编者：Brian Behlendorf (Apache)、Kirk McKusick (Berkeley Unix)、Tim O'Reilly (Publisher, O'Reilly & Associates)、Bruce Perens (Debian Project, Open Source Initiative)、Tom Paquin and Jim Hamerly (mozilla.org, Netscape)、Eric Raymond (Open Source Initiative)、Richard Stallman (GNU, Free Software Foundation, Emacs)、Michael Tiemann (Cygnus Solutions)、Linus Torvalds (Linux)、Paul Vixie (Bind)、Larry Wall (Perl)、Chris DiBona（Google）
 
 开源之道向来推崇该书。
+
+### 2019年11月 第十一期
+
+![](https://mitpress.mit.edu/sites/default/files/styles/large_book_cover/http/mitp-content-server.mit.edu%3A18180/books/covers/cover/%3Fcollid%3Dbooks_covers_0%26isbn%3D9780262062466%26type%3D.jpg?itok=wxEOCN0t)
+
+[Perspectives on Free and Open Source Software (The MIT Press)](https://www.amazon.com/Perspectives-Free-Source-Software-Press/dp/0262562278)，The MIT Press (January 26, 2007)， Joseph Feller  (Editor), Brian Fitzgerald (Editor), Scott A. Hissam (Editor)，
+
+The book analyzes a number of key topics: the motivation behind F/OSS―why highly skilled software developers devote large amounts of time to the creation of "free" products and services; the objective, empirically grounded evaluation of software―necessary to counter what one chapter author calls the "steamroller" of F/OSS hype; the software engineering processes and tools used in specific projects, including Apache, GNOME, and Mozilla; the economic and business models that reflect the changing relationships between users and firms, technical communities and firms, and between competitors; and legal, cultural, and social issues, including one contribution that suggests parallels between "open code" and "open society" and another that points to the need for understanding the movement's social causes and consequences.
