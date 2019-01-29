@@ -4,7 +4,7 @@ categories:
 - 感悟
 - 读后感
 date: 2019-01-17T10:16:30+08:00
-description: "每一家公司都是软件公司，软件对于现代企业是越发的重要，但是围绕软件来赚取利润却越来越难了！这其中究竟蕴含着什么道理？公有云提供商的巨头们是否会是开源软件的杀手？软件的商品化的历程又是如何？为什么说开发者逐步的占据决策链的顶端？基于开源项目的商业公司为何更改许可协议？如果你带着这些问题，不妨深入阅读这本优质的小书《软件悖论》。"
+description: "每一家公司都是软件公司，软件对于现代企业是越发的重要，但是围绕软件来赚取利润却越来越难了！这其中究竟蕴含着什么道理？公有云提供商的巨头们是否会是基于开源项目的商业软件公司的杀手？软件的商品化的历程又是如何？为什么说开发者逐步的占据决策链的顶端？基于开源项目的商业公司为何更改许可协议？如果你带着这些问题，不妨深入阅读这本优质的小书《软件悖论》。"
 keywords:
 - Open Source
 - Culture
@@ -14,20 +14,21 @@ tags:
 - 图书推荐
 - 开源之道
 - 论文阅读
-title: "《软件悖论:商业软件的崛起与陨落》书评"
+title: "《软件悖论:商业软件的崛起与陨落》导读+书评"
 url: ""
-draft: true
 ---
 
 ![](https://softwareparadox.files.wordpress.com/2014/05/cover-w-border.png?w=400&h=600)
 
 ## 开源之道共读圈精彩评论
 
-> 很是认同 ”The Challenge of Developer Empowerment” 的讨论。我很认同 Enterprise-focused sales forces -> technical evangelists and developer engagement professionals 的转变。  以前企业卖产品，由于信息不对称，只需要搞定CIO就可以了，卖得再贵都没有关系。 现在开源来了，客户的能力也提升了， 虽然开发者手里没有钱，但是利用开源项目可以攒出来很多解决方案，企业级软件产品销售模式发生了改变，越来越向围绕着开发者进行公关。开发者生态，社区的价值就越来越大。  ———— Apache PMC 姜宁
+> 很是认同 ”The Challenge of Developer Empowerment” 的讨论。我很认同 Enterprise-focused sales forces -> technical evangelists and developer engagement professionals 的转变。  以前企业卖产品，由于信息不对称，只需要搞定CIO就可以了，卖得再贵都没有关系。 现在开源来了，客户的能力也提升了， 虽然开发者手里没有钱，但是利用开源项目可以攒出来很多解决方案，企业级软件产品销售模式发生了改变，越来越向围绕着开发者进行公关。开发者生态，社区的价值就越来越大。  ———— Apache Member 姜宁
 
-> 这是一本提高软件工程师对于软件认知的不可多得的好书，随着软件的复杂度的上升，作为个体的开发者或工程师越发的渺小，更可怕的是软件到底在社会中起着什么样的作用？在资本商业的时代，软件究竟是如何来被商业所利用的？直接的交易？间接的服务？开源软件为什么没有人给钱，就冲这一点就让人忿忿不平，然而，世界何其大，不妨了解一下，准确定位自己的位置。 ———— 开源之道作者  适兕
+> 这是一本提高软件工程师对于软件认知的不可多得的好书，随着软件的复杂度的上升，作为个体的开发者或工程师越发的重要，更可怕的是软件到底在社会中起着什么样的作用？在资本商业的时代，软件究竟是如何来被商业所利用的？直接的交易？间接的服务？开源软件为什么没有人给钱，就冲这一点就让人忿忿不平，然而，世界何其大，不妨了解一下，准确定位自己的位置。 ———— 开源之道主要作者、图书共读发起人  适兕
 
->
+> A must for anyone worried about making money with software, specially for startups that need to design a business model. -- 亚马逊读者	Raul
+
+> Best part of the book was the discussion of shift towards making money with software instead of from software. Good points about the influence of Open Source on that shift.  -- 亚马逊读者 Greg Borchers
 
 ## 作者和图书背景介绍
 
@@ -45,8 +46,9 @@ Stephen 的主要研究领域在开发者和开发者基础设施这块，从纵
 * [编程语言碎片化](http://redmonk.com/sogrady/2009/04/02/what-are-we-writing-to/)（2009）
 * web 公司的[优先许可协议](http://redmonk.com/sogrady/2010/05/17/beyond-cassandra/)（2010）
 * [开源的循环理论](https://redmonk.com/sogrady/2018/12/21/cycles-oss/)（2018）
+* [开源在云API时代意味着什么？](https://redmonk.com/sogrady/2019/01/25/open-source-cloud-apis/) (2019)
 
-在创立RedMonk之前，Stephen 是 Illuminata 的分析师，并曾担任领先系统集成商的高级职位。作为一名终身红袜队球迷，斯蒂芬是威廉姆斯学院的毕业生，与家人一起住在缅因州中部。
+在创立 RedMonk 之前，Stephen 是 Illuminata 的分析师，并曾担任领先系统集成商的高级职位。作为一名终身红袜队球迷，斯蒂芬是威廉姆斯学院的毕业生，与家人一起住在缅因州中部。
 
 ### 关于RedMonk公司
 
@@ -93,7 +95,6 @@ Stephen O'Grady 在本书出版后，在RedMonk上撰文：[《软件悖论—�
 * 来自客户本身的挑战
 * 来自开发者本身
 
-
 > The success of open source code is perhaps the only thing in the computer field that hasn’t surprised me during the past several decades. But it still hasn’t reached its full potential; I believe that open-source programs will begin to be completely dominant as the economy moves more and more from products towards services, and as more and more volunteers arise to improve the code.               
                                     —    Donald Knuth Professor Emeritus at Stanford University
 
@@ -115,28 +116,29 @@ Stephen O'Grady 在本书出版后，在RedMonk上撰文：[《软件悖论—�
 
 开源之道既然荐读，就暂时先把当下发生的事件不妨整理一番：InfoQ 旗下电子杂志新年的卷首语是[开源路在何方？](https://mp.weixin.qq.com/s/JHY9cMz1jxQYS11YmMAXFA)阐述了近来几家 Open Core 的公司更改许可证的故事？IBM 以高达349亿美元收购开源软件厂商红帽公司，创造了史上最贵收购案例；微软以75亿美元收购基于社交的代码托管站点GitHub；Linux 基金会的注册会员高达1000多家，并在去年成立了Ceph基金会、GraphQL基金会、（好莱坞动画）Academy软件基金会......
 
-所有的事情似乎都指向了一条路径：**开源正在成为现代企业的主要软件开发生产方式** 作为副作用，它也蚕食了传统意义上的销售授权的软件公司。软件的开发，从来就是一件很难的事情，历史上无数的工程和项目证明，软件工程是极为耗资源的工程。开放式创新和协作、开发者的觉醒、以及作为资产的非盈利机构托管似乎是一条很不错的路径，这样公司就可以专心的放到业务上了。
+所有的事情似乎都指向了一条路径：**开源正在成为现代企业的主要软件开发生产方式** 作为副作用，它也蚕食了传统意义上的销售授权的软件公司。软件的开发，从来就是一件很难的事情，历史上无数的工程和项目证明，软件工程是极为耗资源的工程。开放式创新和协作、开发者的觉醒、以及作为资产的非盈利机构托管似乎是一条很不错的有效降低风险和创新的路径，这样公司就可以专心的放到业务上了。
 
 开源的发展和壮大，无论从思想，还是方法论，都是史前的，有很多的内容值得去挖掘！而这也恰是开源之道的使命和价值所在。
 
 开源之道还认为《软件悖论:商业软件的崛起与陨落》没有论及两件事：
 
-### 技术的缺失
+### 技术的补充
 
 本文是分析师从整个的商业来进行分析的，而不是一名工程师所看到那样，从技术架构来探讨软件的未来的。这不得不说是一种缺憾，但是也是给技术人员们一个机会去补充。开源之道从两个角度来思考这个过程：
 
-1. 开源技术栈的持续“腐蚀”性
+#### 开源技术栈的持续“腐蚀”性
 
-正如书中所说： 如果每个业务都有三种类型的客户 —— 会付钱的、可能会付钱的、永远不会付钱的 —— 有可能使用软件来提取实际价值，即使是实际上从未支付过客户的客户也是如此。
-If every business has three types of customers — those that will pay, those that might pay, and those that will never pay — it’s possible to use software to extract real value even out of customers that will never in fact be paying customers.
+正如书中所说：
 
-从编译器、操作系统、编程语言，再到开发框架、中间件、数据库，乃至客户端的SDK、IDE、浏览器，这样一整套完整的交付业务或客户价值的供应链条，有一样是采用了开源的项目，则就有可能慢慢的全部吞噬掉，可能的原因目前能考虑的有两条：
+> If every business has three types of customers — those that will pay, those that might pay, and those that will never pay — it’s possible to use software to extract real value even out of customers that will never in fact be paying customers.
 
-* 开发者愿意采用开源的代码和项目，来作为自己工作的。
+从编译器、操作系统、编程语言，再到开发框架、中间件、数据库，乃至客户端的SDK、IDE、浏览器，这样一整套完整的交付业务或客户价值的供应链条，有一样是采用了开源的项目，则就有可能慢慢的全部吞噬掉，可能的原因目前能考虑的有三条：
+
+* 开发者愿意采用开源的代码和项目，来作为自己提供工作效率的途径，只有在最后一条路才去“重新发明轮子”。
 * 开源社区的开放性，让开发者和用户可以任意的探讨、反馈、定制和改进。
-* 没有人能在开始的时候拒绝得了几乎零成本的解决方案
+* 没有人能在开始的时候拒绝得了几乎零成本的解决方案。
 
-于是乎，不论是从应用软件提供商，还是最终的各种行业用户，乃至个人的开发栈，纵观过去20年的发展，逐步的被开源所取代。如下几张技术发展图：
+于是乎，不论是从应用软件提供商，还是最终的各种行业用户，乃至个人的开发栈，纵观过去20年的发展，逐步的被开源所取代。如下几张技术发展图（大历史视野必需）：
 
 1、操作系统
 
@@ -150,20 +152,66 @@ If every business has three types of customers — those that will pay, those th
 
 3、编程语言
 
+![](images/programing_language_trend.png)
+
+排名靠前的几乎被开放源代码的编程语言所替代。尤其是以微软的.Net和Apple的Swift为代表的商业具体的开源，最具说服力。
+
 4、大数据生态
 
+![](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2016/10/HADOOP-ECOSYSTEM-Edureka.png)
 
-2. 分布式、微服务架构的崛起
+以Apache Hadoop 为中心的大数据处理相关开源项目，甚至没有对应的商业产品。
+
+5、浏览器
+
+![](http://gs.statcounter.com/download/ww-desktop-browser-apr-2016.png)
+
+微软Edge浏览器彻底放弃IE核心，而转向和Chrome同为上游开源项目的[Chromium](https://www.chromium.org/)，也就意味着浏览器全面走向开源时代！
+
+6、IDE
+
+![](images/Top_IDE_Index.png)
+
+以微软的集成开发环境Visual Studio 开源为标志性里程碑，开源的IDE彻底征服开发者！
+
+7、容器及容器编排
+
+不言而喻，以Docker和Kubernetes为代表的开源项目，从出身那天起，就代表着开源的创新能力远远超越任何一家软件厂商，而在短短的4年多时间构筑起来的云原生生态。以火箭上升般的速度征服世人。每每看到landscape的扩张：
+
+![](https://landscape.cncf.io/images/landscape.png)
+
+####
+
+在云计算的时代，人们很难找到一个软件栈是没有开源软件项目没有参与的，没有走出下图中的类型。
+
+![](images/open_source_business_model.png)
+
+**开源软件正在吞噬世界！！！**
+
+#### 分布式、微服务架构的崛起
+
+在物质生活不断提高，节奏不断加快的现代，业务模式也在紧随这样的节奏，这就对IT提出更高的要求，几乎所有想继续站稳脚跟的公司都在进行着数字化转型，那么IT架构就需要变得更为敏捷、随需急速而生。于是分布式、微服务架构应势而生，容器技术带来的变化是这样的IT成为可能。
+
+![](https://cdn-images-1.medium.com/max/1600/0*gzedDXtpe_nJQim0.jpg)
+
+这样就进一步的将IT架构细分化、分布式化，那么这也带给软件开发的组织架构发起了挑战，康威定律再经历了几十年之后，逐渐被证明有效，倒逼开发想出更为创新的方法。而开源开发无疑是这一方面的最佳实践和最好的选择。
+
+很难想象在需求变更如此频繁的情况下，采用封闭式的、自顶向下的开发方式和架构设计，无疑是一场软件的灾难。
 
 ### 本土的对照
 
 想要理解商业，就不能离开一个地区的独特的文化和风俗环境。这是商业课的必修内容。本土有着独特的环境和文化，所有软件悖论一书所列举的内容，没有任何一家本土的公司。所以软件悖论在本土则会引入其它的一些外延现象，需要具体问题具体分析，不可生搬硬套。
 
+正如适兕在其文章[历史的维度——开源、拿来主义与自主可控的历史对比](http://www.ocselected.org/posts/opensource/open_source_tao_and_way/latitude_of_history/)所描述的那样：其中混杂着太多的因素，再多的视野和观点进来，也只是多了一份不足以撼动根基的小小缘由，和很多其它产业一样，要区分国际/欧美和本土，本土的环境有太多的难以言说的东西，比如招投标，比如前不久发改委废弃的软件集成资格等等。
+
+举例来说，比如书中提到的Top25软件公司，基本上和本土的公司没有多大关系。
+
+所以，本土的软件悖论应该是：既然软件是如此的重要，甚至都是每家公司都是软件公司的时代，为什么《软件悖论》完全无法在本土站稳脚跟？既然软件的开发方式往开放式转变，尤其是基础设施软件，为什么本土却摸不着套路？
 
 ## 推荐阅读
 
 0.  Marc Andreessen 著名的文章：Software Is Eating the World! 号称是软件界引用最多的文章。
-1. 《创新者的窘境》
+1. 《创新者的窘境》系列，作者克莱顿·克里斯坦森 (Clayton Christensen)
 2. SaaS 的真相，为什么说权威人士错了  https://a16z.com/2014/05/13/understanding-saas-valuation-primer
 3. 卖掉你的副产品：https://signalvnoise.com/posts/1620-sell-your-by-products
 4. GitHub 创始人Tom Preston-Werner 的文章：几乎一切都会开源（http://tom.preston-werner.com/2011/11/22/open-source-everything.html）
@@ -175,3 +223,5 @@ If every business has three types of customers — those that will pay, those th
 10. 对于软件订阅的制度思考: Adobe’s Software Subscription Model Means You Can’t Own Your Software (https://www.scientificamerican.com/article/adobe-software-subscription-model-means-you-cant-own-your-software/)
 11. 历史有的时候蛮有意思，十年前微软首席软件架构师的采访：https://gigaom.com/2008/03/10/the-gigaom-interview-ray-ozzie-microsoft-corp/
 12. 看一家公司不仅要看当下的利润，还要看未来赚钱的能力：https://avc.com/2013/10/they-dont-make-any-money/
+13. [开源的循环理论](https://redmonk.com/sogrady/2018/12/21/cycles-oss/)（2018）
+14. [开源在云API时代意味着什么？](https://redmonk.com/sogrady/2019/01/25/open-source-cloud-apis/) (2019)
