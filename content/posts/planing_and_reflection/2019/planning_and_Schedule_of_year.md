@@ -23,7 +23,7 @@ url: ""
 - [x] 一 /2019-01-03 [Linux基金会企业开源指南系列之九——公司如何提升开源开发的影响力](posts/opensource_enterprise_guide/improve-open-source-dev-impact/) 来自英文：[Improving Your Open Source Development Impact](https://www.linuxfoundation.org/resources/open-source-guides/improving-your-open-source-development-impact/)
 - [x] 二 /2019-01-10 [Linux基金会企业开源指南系列之十 —— 企业如何优雅的关闭一个失败的开源项目](posts/opensource_enterprise_guide/shutting-down-an-open-source-project) 来自英文：[Winding Down an Open Source Project](https://www.linuxfoundation.org/resources/open-source-guides/winding-down-an-open-source-project/)
 - [x] 三 /2019-01-17 [Linux基金会企业开源指南系列之十一 —— 在开源社区中树立领导力](posts/opensource_enterprise_guide/building-leadership-in-an-open-source-community) 来自英文：[Building Leadership in an Open Source Community](https://www.linuxfoundation.org/resources/open-source-guides/building-leadership-in-an-open-source-community/)
-- [ ] [Linux基金会企业开源指南系列之十二 —— 制定企业开源战略]() 来自英文：[Setting an Open Source Strategy](https://www.linuxfoundation.org/resources/open-source-guides/setting-an-open-source-strategy/)
+- [x] 四/2019-01-31[Linux基金会企业开源指南系列之十二 —— 制定企业开源战略](posts/opensource_enterprise_guide/Setting-an-Open-Source-Strategy) 来自英文：[Setting an Open Source Strategy](https://www.linuxfoundation.org/resources/open-source-guides/setting-an-open-source-strategy/)
 - [ ]  []() 来自英文：[Estimating the Total Cost of a Linux Distribution](https://www.linux.com/publications/estimating-total-cost-linux-distribution)
 - [ ]  来自英文：[What Does "Ethical" AI Mean for Open Source?](https://www.linuxjournal.com/content/what-does-ethical-ai-mean-open-source)
 - [ ]  来自英文：[How blockchain will influence open source](https://opensource.com/article/18/8/open-source-tokenomics)
@@ -48,6 +48,7 @@ url: ""
 - [ ] []() 来自英文：[Effective Ways to Get Help from Maintainers](https://www.snoyman.com/blog/2017/10/effective-ways-help-from-maintainers)
 
 - [ ] []() 来自英文：[How inner sourcing saved our IT department](https://opensource.com/open-organization/18/1/open-orgs-and-inner-source-it)
+- [ ] []() 来自英文：[Squashing inclusivity bugs in open source software](https://opensource.com/article/18/8/inclusivity-bugs-open-source-software)
 
 - [ ] []() Come from English :[How to develop the FOSS leaders of the future](https://opensource.com/article/18/4/succession-planning-how-develop-foss-leaders-future)
 - [ ] []() Come from English :[5 rules for having genuine community relationships](https://opensource.com/open-organization/18/2/why-build-community-2)
