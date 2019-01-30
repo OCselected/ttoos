@@ -80,7 +80,7 @@ Stephen O'Grady 在本书出版后，在RedMonk上撰文：[《软件悖论—�
 
 ## 内容梗概
 
-该书甚至都不能称之为一本书，但是又比小册子的内容多了点，篇幅不大，却振聋发聩。全书公有六章内容。
+该书甚至都不能称之为一本书，但是又比小册子的内容多了点，篇幅不大，却振聋发聩。全书共六章内容。
 
 第一章，作为开篇，像很多好书一样，讲了一个精彩的故事，引起读者的思考。
 
@@ -90,10 +90,10 @@ Stephen O'Grady 在本书出版后，在RedMonk上撰文：[《软件悖论—�
 
 第三章，开始具体的阐述软件市场沉浮的背后运行机制。如
 
-* 没有谁能挑战得了免费。
-* 来自X as  a service 的挑战
+* 没有谁能挑战得了免费？
+* 来自 X as  a service 的挑战
 * 来自客户本身的挑战
-* 来自开发者本身
+* 来自开发者本身的觉醒与诉求
 
 > The success of open source code is perhaps the only thing in the computer field that hasn’t surprised me during the past several decades. But it still hasn’t reached its full potential; I believe that open-source programs will begin to be completely dominant as the economy moves more and more from products towards services, and as more and more volunteers arise to improve the code.               
                                     —    Donald Knuth Professor Emeritus at Stanford University
@@ -116,7 +116,7 @@ Stephen O'Grady 在本书出版后，在RedMonk上撰文：[《软件悖论—�
 
 开源之道既然荐读，就暂时先把当下发生的事件不妨整理一番：InfoQ 旗下电子杂志新年的卷首语是[开源路在何方？](https://mp.weixin.qq.com/s/JHY9cMz1jxQYS11YmMAXFA)阐述了近来几家 Open Core 的公司更改许可证的故事？IBM 以高达349亿美元收购开源软件厂商红帽公司，创造了史上最贵收购案例；微软以75亿美元收购基于社交的代码托管站点GitHub；Linux 基金会的注册会员高达1000多家，并在去年成立了Ceph基金会、GraphQL基金会、（好莱坞动画）Academy软件基金会......
 
-所有的事情似乎都指向了一条路径：**开源正在成为现代企业的主要软件开发生产方式** 作为副作用，它也蚕食了传统意义上的销售授权的软件公司。软件的开发，从来就是一件很难的事情，历史上无数的工程和项目证明，软件工程是极为耗资源的工程。开放式创新和协作、开发者的觉醒、以及作为资产的非盈利机构托管似乎是一条很不错的有效降低风险和创新的路径，这样公司就可以专心的放到业务上了。
+所有的事情似乎都指向了一条路径：**开源正在成为现代企业的主要软件开发生产方式**！ 同理，作为”副作用”，它也蚕食了传统意义上的销售授权的软件公司。软件的开发，从来就是一件很难的事情，历史上无数的工程和项目证明，软件工程是极为耗资源的工程。开放式创新和协作、开发者的觉醒、以及作为资产的非盈利机构托管似乎是一条很不错的有效降低风险和创新的路径，这样公司就可以专心的放到业务上了。
 
 开源的发展和壮大，无论从思想，还是方法论，都是史前的，有很多的内容值得去挖掘！而这也恰是开源之道的使命和价值所在。
 
@@ -176,13 +176,13 @@ Stephen O'Grady 在本书出版后，在RedMonk上撰文：[《软件悖论—�
 
 7、容器及容器编排
 
-不言而喻，以Docker和Kubernetes为代表的开源项目，从出身那天起，就代表着开源的创新能力远远超越任何一家软件厂商，而在短短的4年多时间构筑起来的云原生生态。以火箭上升般的速度征服世人。每每看到landscape的扩张：
+不言而喻，以 Docker 和 Kubernetes 为代表的开源项目，从出身那天起，就代表着开源的创新能力远远超越任何一家软件厂商，而在短短的4年多时间构筑起来的云原生生态，以火箭上升般的速度征服世人。每每看到landscape的扩张，除了惊叹之外，还能说什么？
 
 ![](https://landscape.cncf.io/images/landscape.png)
 
-####
+#### 开源的最终呈现
 
-在云计算的时代，人们很难找到一个软件栈是没有开源软件项目没有参与的，没有走出下图中的类型。
+在当今的软件技术栈当中，人们很难找到一个软件栈是没有开源软件项目没有参与的。
 
 ![](images/open_source_business_model.png)
 
@@ -192,7 +192,7 @@ Stephen O'Grady 在本书出版后，在RedMonk上撰文：[《软件悖论—�
 
 在物质生活不断提高，节奏不断加快的现代，业务模式也在紧随这样的节奏，这就对IT提出更高的要求，几乎所有想继续站稳脚跟的公司都在进行着数字化转型，那么IT架构就需要变得更为敏捷、随需急速而生。于是分布式、微服务架构应势而生，容器技术带来的变化是这样的IT成为可能。
 
-![](https://cdn-images-1.medium.com/max/1600/0*gzedDXtpe_nJQim0.jpg)
+![](images/microservice_arch.jpg)
 
 这样就进一步的将IT架构细分化、分布式化，那么这也带给软件开发的组织架构发起了挑战，康威定律再经历了几十年之后，逐渐被证明有效，倒逼开发想出更为创新的方法。而开源开发无疑是这一方面的最佳实践和最好的选择。
 
