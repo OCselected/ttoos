@@ -24,11 +24,13 @@ url: ""
 
 > 很是认同 ”The Challenge of Developer Empowerment” 的讨论。我很认同 Enterprise-focused sales forces -> technical evangelists and developer engagement professionals 的转变。  以前企业卖产品，由于信息不对称，只需要搞定CIO就可以了，卖得再贵都没有关系。 现在开源来了，客户的能力也提升了， 虽然开发者手里没有钱，但是利用开源项目可以攒出来很多解决方案，企业级软件产品销售模式发生了改变，越来越向围绕着开发者进行公关。开发者生态，社区的价值就越来越大。  ———— Apache Member 姜宁
 
-> 这是一本提高软件工程师对于软件认知的不可多得的好书，随着软件的复杂度的上升，作为个体的开发者或工程师越发的重要，更可怕的是软件到底在社会中起着什么样的作用？在资本商业的时代，软件究竟是如何来被商业所利用的？直接的交易？间接的服务？开源软件为什么没有人给钱，就冲这一点就让人忿忿不平，然而，世界何其大，不妨了解一下，准确定位自己的位置。 ———— 开源之道主要作者、图书共读发起人  适兕
+> 这是一本每位计算机相关专业同学和职场人士都应该读的书，开源正在成为一把打开未来之门的钥匙，拥有了它，你才能更好的理解这个软件定义一切的世界，进而在这个数字时代安身立命；除了开发者，创业者和投资人也应该读，开源同时作为一种科学与人文精神开始渗透到整个IT产业中，有了它你可以更好的掌握时代脉搏、构建你的产品、打造你的商业模式，进而在整个行业中生存与发展。             ———— 开源社理事，华东师范大学研究员   王伟
 
 > A must for anyone worried about making money with software, specially for startups that need to design a business model. -- 亚马逊读者	Raul
 
 > Best part of the book was the discussion of shift towards making money with software instead of from software. Good points about the influence of Open Source on that shift.  -- 亚马逊读者 Greg Borchers
+
+> 这是一本提高软件工程师对于软件认知的不可多得的好书，随着软件的复杂度的上升，作为个体的开发者或工程师越发的重要，更可怕的是软件到底在社会中起着什么样的作用？在资本商业的时代，软件究竟是如何来被商业所利用的？直接的交易？间接的服务？开源软件为什么没有人给钱，就冲这一点就让人忿忿不平，然而，世界何其大，不妨了解一下，准确定位自己的位置。 ———— 开源之道主要作者、图书共读发起人  适兕
 
 ## 作者和图书背景介绍
 
