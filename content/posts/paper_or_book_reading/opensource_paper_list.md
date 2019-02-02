@@ -20,7 +20,7 @@ url: ""
 
 ## 2019年开源文献共读列表
 
-- [ ] 2019.1 [“The Role of Participation Architecture in Growing Sponsored Open Source Communities,”](http://www.joelwest.org/Papers/WestOMahony2008-WP.pdf)
+- [x] 2019.1 [“The Role of Participation Architecture in Growing Sponsored Open Source Communities,”](http://www.joelwest.org/Papers/WestOMahony2008-WP.pdf)
 
 - [ ]  2019.2 ["Learning by Contributing: Gaining Competitive Advantage Through Contribution to Crowdsourced Public Goods."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3091831) 
 
@@ -36,7 +36,7 @@ url: ""
 
 1. [Contrasting Community Building in Sponsored and Community Founded Open Source Projects]
 2. [Why do commercial companies contribute to open source software](https://www.sciencedirect.com/science/article/pii/S026840121100123X)
-3. 
+3. [Nonprofit Foundations and Their Role in Community-Firm Software Collaboration]
 
 ### 开源社区（临时）志愿者研究系列
 
