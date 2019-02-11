@@ -100,6 +100,28 @@ In Subscribed, you'll learn how these companies made the shift, and how you can 
 
 开源运动对软件业和互联网带来了巨大影响，本书作为开源运动的独立宣言，其影响力远远超出编程领域，如果想在互联网时代做生意，这本书是必读经典。
 
+### 2019 年八月 第八期
+
+![Producing Open Source Software](./images/open-source-reading-list7.jpg)
+
+英文版: [Producing Open Source Software：How to Run a Successful Free Software Project](http://producingoss.com/en/index.html)， O’Reilly Media,  Karl Fogel 著 (2018)
+
+中文版：[制造开源软件:如何成功运营自由软件项目](https://producingoss.com/zh),基于CreativeCommons Attribution-ShareAlike (3.0) 许可协议，Karl Fogel 著
+
+如何成功运营项目的向导指南，无论你是用户还是开发者，本书都可以满足你的期望，当然本书还包括了自由软件文化的介绍。
+
+### 2019 年九月 第九期
+
+![](https://images.springer.com/sgw/books/medium/9781484238936.jpg)
+
+英文版：[How Open Source Ate Software](https://www.apress.com/us/book/9781484238936)，Apress，Gordon Haff 著，2018
+
+Learn how free software became open source and how you can sell open source software. This book provides a historical context of how open source has thoroughly transformed how we write software, how we cooperate, how we communicate, how we organize, and, ultimately, how we think about business values.
+
+You’ll look at project and community examples including Linux, BSD, Apache, and Kubernetes, understand the open source development model, and how open source has influenced approaches more broadly, even proprietary software, such as open betas. You'll also examine the flipside, the "Second Machine Age," and the challenges of open source-based business models.
+
+Today, open source serves as shorthand for much broader trends and behaviors. It’s not just about a free (in all senses of the word) alternative to commercial software. It increasingly is the new commercial software. How Open Source Ate Software reveals how open source has much in common, and is often closely allied, with many other trends in business and society. You'll see how it enables projects that go beyond any individual company. That makes open source not just a story about software, but a story about almost everything.
+
 
 ## 2019 第四季度 主题： 开源的思想价值
 
