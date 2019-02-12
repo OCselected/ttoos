@@ -17,6 +17,11 @@ tags:
 title: "开源之道共读图书列表（2019版）"
 url: ""
 ---
+
+## 共读之申明篇
+
+**本文列举的是2019年所精心选择的12本开源相关图书**，关于共读的初衷，以及参与方式，请看官移步：[开源之道图书和文献共读申明](posts/paper_or_book_reading/establish_reading_os_community)，有更多详细的内容。
+
 ## 2019 第一季度 主题：软件的形态、商业化以及开源软件的商业化的合理性探讨
 
 ### 2019 年1月 第一期
@@ -142,3 +147,17 @@ Today, open source serves as shorthand for much broader trends and behaviors. It
 [Perspectives on Free and Open Source Software (The MIT Press)](https://www.amazon.com/Perspectives-Free-Source-Software-Press/dp/0262562278)，The MIT Press (January 26, 2007)， Joseph Feller  (Editor), Brian Fitzgerald (Editor), Scott A. Hissam (Editor)，
 
 The book analyzes a number of key topics: the motivation behind F/OSS―why highly skilled software developers devote large amounts of time to the creation of "free" products and services; the objective, empirically grounded evaluation of software―necessary to counter what one chapter author calls the "steamroller" of F/OSS hype; the software engineering processes and tools used in specific projects, including Apache, GNOME, and Mozilla; the economic and business models that reflect the changing relationships between users and firms, technical communities and firms, and between competitors; and legal, cultural, and social issues, including one contribution that suggests parallels between "open code" and "open society" and another that points to the need for understanding the movement's social causes and consequences.
+
+
+## 2019 推荐阅读番外篇
+
+### 开放式组织、领导力、价值观
+
+![The Open Organization: Igniting Passion and Performance](./images/open-source-reading-list2.jpg)
+
+英文版：[The Open Organization: Igniting Passion and Performance](https://hbr.org/product/the-open-organization-igniting-passion-and-performance/13980-HBK-ENG), Harvard Business Review 出版社,  Jim Whitehurst 著 (2015)
+
+中文版：[开放式组织](https://www.amazon.cn/dp/B01LW40QLD/ref=sr_1_1?ie=UTF8&qid=1536849012&sr=8-1&keywords=The+Open+Organization),机械工业出版社; 第1版 (2016年9月8日),Jim Whitehurst (作者), 王洋 (译者)
+
+在《开放式组织》中，开放源代码的巨人——红帽公司的总裁和CEO -- 吉姆·怀特赫斯特根据他在开源领域的亲身经历，绘出了一份领导力的蓝图。通过真实记录他从传统经理人转变为 “首席问题解决者”的过程，吉姆清晰地展示了如何让员工、合作伙伴和客户热情高涨地参与到社区当中，如何借此点燃大家的热情、鼓励创新，从而在真正的开放、合作和共同使命的基础上，将现代企业带向成功。
+《开放式组织》写给大公司、小公司、成熟型公司、艰难成长的创业型公司的领导者和期待成为领导者的人们，展示如何打造一个新型的开放式组织模式，获得当今企业必须具备的速度和灵活性。

@@ -73,6 +73,8 @@ url: ""
 
 ### ...... 开源学充满了无数迷人的问题，尚待人们去解决。
 
+Happy Hacking！
+
 ### 人们究竟投入多少资源到上游的开源项目?
 
 开源界一直以来都在担心搭便车，当然现实中也不乏搭便车，顺便赚点钱的个人和企业。然而，学术界/经济圈发来了声音，来自哈佛商学院战略部门的 Frank Nagle 教授，刚刚发表了一篇长达40页的论文：["Learning by Contributing: Gaining Competitive Advantage Through Contribution to Crowdsourced Public Goods."](http://www.hbs.edu/faculty/product/54809 \t _blank)  从商业的角度论证了，为上游社区做贡献对于企业是大大有利的，这要比工程师布道用干巴巴的软件工程理论要有说服力的多，因为懂的算经济账的未必都懂得软件工程。
@@ -94,7 +96,7 @@ url: ""
 
 开源之道这些年来一直在收集、阅读开源相关的内容，包括图书、文献、报告、博客、访谈等等形式的内容，**独乐乐，不如众乐乐。** 希望能够在阅读的过程中，学习知识，洞察思想，最终为人们各取所需的呈现价值。
 
-于是，在201年推出开源图书和文献的共读计划。具体内容如下：
+于是，在2019年推出开源图书和文献的共读计划。具体内容如下：
 
 ## 一些原则
 
@@ -111,7 +113,9 @@ url: ""
 * [Linux基金会企业开源指南系列之三-—开源相关书单](posts/opensource_enterprise_guide/open_source_reading_list/)。
 * 由 Bold&Open Jaime Arredondo 所推荐的[每位工作在社区或开源的人应该读的10本书](http://boldandopen.com/open-source-community-building-reading-list/)。
 
-至于文献呢则是日常的积累了，具体请参考页面：[开源之道文献推荐列表](posts/the_way_of_open_source/opensource_paper_list)。
+2019年度开源之道所精心挑选的图书列表：[开源之道共读图书列表（2019版）](posts/paper_or_book_reading/2019_book_lists.md)
+
+至于文献呢则是日常的积累了，具体请参考页面：[开源之道文献推荐列表](posts/paper_or_book_reading/opensource_paper_list/)。
 
 * 每月初会在公众号和相关群组、邮件列表等地公布本月要读的图书。
 
