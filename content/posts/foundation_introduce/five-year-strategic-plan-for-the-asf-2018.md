@@ -14,7 +14,6 @@ tags:
 - 开源之道
 title: "Apache 软件基金会未来的5年战略规划"
 url: ""
-draft: true
 ---
 
 ## 引言

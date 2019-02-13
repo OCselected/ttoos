@@ -24,8 +24,10 @@ url: ""
 - [x] 二 /2019-01-10 [Linux基金会企业开源指南系列之十 —— 企业如何优雅的关闭一个失败的开源项目](posts/opensource_enterprise_guide/shutting-down-an-open-source-project) 来自英文：[Winding Down an Open Source Project](https://www.linuxfoundation.org/resources/open-source-guides/winding-down-an-open-source-project/)
 - [x] 三 /2019-01-17 [Linux基金会企业开源指南系列之十一 —— 在开源社区中树立领导力](posts/opensource_enterprise_guide/building-leadership-in-an-open-source-community) 来自英文：[Building Leadership in an Open Source Community](https://www.linuxfoundation.org/resources/open-source-guides/building-leadership-in-an-open-source-community/)
 - [x] 四/2019-01-31 [Linux基金会企业开源指南系列之十二 —— 制定企业开源战略](posts/opensource_enterprise_guide/Setting-an-Open-Source-Strategy) 来自英文：[Setting an Open Source Strategy](https://www.linuxfoundation.org/resources/open-source-guides/setting-an-open-source-strategy/)
-- [ ] 五/2019-02-07 [如何评估一个 Linux 发行版的总体成本](posts/open-source-economic/estimating-the-total-cost-of-linux-distribution) 来自英文：[Estimating the Total Cost of a Linux Distribution](https://www.linux.com/publications/estimating-total-cost-linux-distribution)
-- [ ] [Apache 基金会未来5年计划]() 来自英文：[Five-year Strategic Plan for the Apache Software Foundation](https://www.apache.org/board/plan.html)
+- [x] 五/2019-02-07  [Apache 基金会未来5年计划](posts/foundation_introduce/five-year-strategic-plan-for-the-asf-2018) 来自英文：[Five-year Strategic Plan for the Apache Software Foundation](https://www.apache.org/board/plan.html)
+- [x] 六/2019-02-13 [如何评估一个 Linux 发行版的总体成本](posts/open-source-economic/estimating-the-total-cost-of-linux-distribution) 来自英文：[Estimating the Total Cost of a Linux Distribution](https://www.linux.com/publications/estimating-total-cost-linux-distribution)
+- [ ] 七/2019-02-13[一份被忽略的开源经济学报告 —— 再读 Bruce Perens](posts/open-source-economic/review-the-emerging-economic-paradigm-of-open-source)
+- [ ] 八/2019-02-14[云原生的旭日东升 —— CNCF 2018年度报告解读](posts/foundation_introduce/review-cncf-2018-annual-report)
 - [ ]  来自英文：[How blockchain will influence open source](https://opensource.com/article/18/8/open-source-tokenomics)
 - [ ]  来自英文：[How to Participate in the Linux Community](https://www.linux.com/publications/how-participate-linux-community)
 - [ ]  来自英文：[6 ways a thriving community will help your project succeed](https://opensource.com/open-organization/18/3/why-build-community-3)
@@ -49,7 +51,6 @@ url: ""
 
 - [ ] []() 来自英文：[How inner sourcing saved our IT department](https://opensource.com/open-organization/18/1/open-orgs-and-inner-source-it)
 - [ ] []() 来自英文：[Squashing inclusivity bugs in open source software](https://opensource.com/article/18/8/inclusivity-bugs-open-source-software)
-
 - [ ] []() Come from English :[How to develop the FOSS leaders of the future](https://opensource.com/article/18/4/succession-planning-how-develop-foss-leaders-future)
 - [ ] []() Come from English :[5 rules for having genuine community relationships](https://opensource.com/open-organization/18/2/why-build-community-2)
 - [ ] []() Come from English :[What is open source programming?](https://opensource.com/article/18/3/what-open-source-programming)
