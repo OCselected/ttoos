@@ -34,6 +34,15 @@ url: ""
 
 > 来自 RedMonk 的分析，学习下为何商业软件市场已经改变。
 
+> 每一家公司都是软件公司，软件对于现代企业是越发的重要，但是围绕软件来赚取利润却越来越难了！这其中究竟蕴含着什么道理？公有云提供商的巨头们是否会是基于开源项目的商业软件公司的杀手？软件的商品化的历程又是如何？为什么说开发者逐步的占据决策链的顶端？基于开源项目的商业公司为何更改许可协议？如果你带着这些问题，不妨深入阅读这本优质的小书《软件悖论》。
+
+**开源之道推荐短评：**
+
+> 通过软件商品化的历程，进而诠释为何开源成为云计算时代的主流模式。
+
+
+更多内容，请参考完整版开源之道共读导读与书评：[《软件悖论:商业软件的崛起与陨落》](posts/paper_or_book_reading/the-software-paradox-book-review/)。
+
 ### 2019 年2月 第二期
 
 ![](https://images-cn.ssl-images-amazon.com/images/I/417draRI8zL.jpg)
@@ -41,6 +50,13 @@ url: ""
 [Subscribed: Why the Subscription Model Will Be Your Company's Future - and What to Do About It](https://www.amazon.cn/dp/B078GCWL9D/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1543703677&sr=8-2)
 
 In Subscribed, you'll learn how these companies made the shift, and how you can transform your own product into a valuable service with a practical, step-by-step framework. Find out how how you can prepare and prosper now, rather than trying to catch up later.
+
+
+**开源之道推荐短评：**
+
+> 订阅一切的时代：知识、健康、软件、出行，乃至时间本身，那么不妨读完再来理解开源。
+
+更多内容，请参考完整版开源之道共读导读与书评：[Subscribed：为什么说订阅才是塑造贵司的未来的模式，如何实现它](posts/paper_or_book_reading/subscribed-why-subsctiption-it-your-future)
 
 ### 2019 年3月 第三期
 
@@ -51,6 +67,12 @@ In Subscribed, you'll learn how these companies made the shift, and how you can 
 >丹麦奥胡斯大学经济学博士，现为南京大学商学院讲师。研究方向为博弈论、创新经济学以及信息产业的竞争策略等。近年来，在FrontiersofEcoiaomics in China，《数量经济技术经济研究》、《中国工业经济》、《当代财经》、《管理学报》、AgriculturaIvEconomics—Zemedelska Ekonomika等杂志公开发表论文多篇。主持或参与过“开源创新：基于互联网开放社区的分散创新模式”(国家自然科学基金青年项目)、“以全球价值链引导我国经济结构转型升级”(国家社科基金重点课题)、“以产业集群促进长三角战略性新兴产业创业发展”(教育部人文社科重点研究基地)、“现代服务业发展战略研究”(国家社科基金重点课题)等多项科研项目。
 
 就开源之道的发起人适兕而言，遇到的绝大多数开源圈的人都是技术出身，再不济也是法律出身，经济学家王宇先生的研究方向确实独特。开源之道图书共读的朋友们，不妨和我一样，放下已有的知识，换一个角度来看开源，是有经济学道理的。
+
+**开源之道推荐短评：**
+
+> 抛开程序、语言、架构、项目等技术细节，完全从软件、管理、成本、协作等经济学视野来看待开源。
+
+更多内容，请参考完整版开源之道共读导读与书评：[]()
 
 ## 2019 第二季度 主题：开发者关系、顶级的开源开发者究竟在想什么？是怎样的一群人？
 
