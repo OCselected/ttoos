@@ -24,11 +24,11 @@ url: ""
 
 - [ ]  2019.2 ["Learning by Contributing: Gaining Competitive Advantage Through Contribution to Crowdsourced Public Goods."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3091831) 
 
-- [ ] 2019.3 [The Rise and Evolution of the Open Source Software Foundation](https://www.slideshare.net/stephenrwalli/the-rise-and-evolution-of-the-open-source-software-foundation)
+- [ ] 2019.3  [Enterprise Open Source: A Practical Introduction](https://www.linuxfoundation.org/open-source-management/2018/08/enterprise-open-source-practical-introduction/)
 
 - [ ] 2019.4 [How to Succeed in Business by Bundling – and Unbundling](https://hbr.org/2014/06/how-to-succeed-in-business-by-bundling-and-unbundling)
 
-- [ ] 2019.5 [Enterprise Open Source: A Practical Introduction](https://www.linuxfoundation.org/open-source-management/2018/08/enterprise-open-source-practical-introduction/)
+- [ ] 2019.5 开源软件开发计划的组织与结构 [Organization & Structure of Open Source Software Development Initiatives](http://clinic.cyber.harvard.edu/files/2017/03/2017-03_governance-FINAL.pdf)
 
 ## 2019年开源文献番外阅读列表
 
@@ -37,6 +37,10 @@ url: ""
 1. [Contrasting Community Building in Sponsored and Community Founded Open Source Projects]
 2. [Why do commercial companies contribute to open source software](https://www.sciencedirect.com/science/article/pii/S026840121100123X)
 3. [Nonprofit Foundations and Their Role in Community-Firm Software Collaboration]
+
+### 2019.2 参考文献“扫荡”之文
+
+1. [The Rise and Evolution of the Open Source Software Foundation](https://www.slideshare.net/stephenrwalli/the-rise-and-evolution-of-the-open-source-software-foundation) （该文在撰写[《云原生的旭日东升 —— CNCF 2018年度报告解读》](posts/foundation_introduce/review-cncf-2018-annual-report/) 时阅读过来，就从预计的三月份中取消了。请知晓！）
 
 ### 开源社区（临时）志愿者研究系列
 
