@@ -492,7 +492,41 @@ SurveyMonkey，成功的案例！
 以下这个数据蛮有意思，每年20%的增长率！！
 According to McKinsey, if a software company grows less than 20 percent annually, it has a 92 percent chance of failure. Because at the end of the day, it’s grow or die.
 
+# 第十五章 使用 PADRE 运营模式来构建订阅文化
+
+哦，看了这么多，各个团队是不是已经摩拳擦掌了？ 不要着急，没有相应的文化，说啥都是扯淡。
+
+### 订阅文化
+
+说起来容易，做起来难！什么是以客户中心？It turns out that being a “customer-focused company” is a simple concept that is, in fact, very difficult to realize.
+
+首当其冲的就是组织架构，因为这是做事情的根本。正如我们前面讲到的竖井式的组织结构一样，是难以满足需求的，而客户才管不了你这些了。But today’s customers are telling you to do things differently, and they couldn’t care less about your org structure.
+
+We wanted clear functional roles, but also a way of looking at our company that transcended org charts and put the customer squarely in the middle. We also wanted every employee to feel a sense of ownership over the entire company. 订阅对于公司的组织要求是非常高的。所以需要做很多的创新和变革。
+
+### PADRE 介绍
+
+* Pipeline： The key goal of the pipeline subsystem is to build market awareness and translate that into demand.
+
+你是谁？你为何而存在？你做什么？能够提供什么有益的内容？
+
+* Acquire： encompasses the so-called buyer’s journey.
+* Deploy：The key is to get your subscribers up and running, so they can quickly get invested in your service.
+* Run： Anything you do that doesn’t feed into the customer success flywheel is detrimental to the growth and value of your business.
+* Expand： You want three things out of your subscribers: retention, growth, and advocacy.就要不断的扩展自己的边界。
+
+团队要有跨功能的交付能力。
+
+### 组织 PADRE
+
+作者开始分享 Zuora 的组织上的经验！
+
+### 快乐Business 的新世界
+
+Because subscriptions are the only business model that is entirely based on the happiness of your customers.
+
 
 ## 好文荐读
 
 1.  The Thought Leader Interview: Henry Chesbrough   https://www.strategy-business.com/article/11210?gko=af24f
+2.  Grow fast or die slow https://www.mckinsey.com/industries/high-tech/our-insights/grow-fast-or-die-slow
