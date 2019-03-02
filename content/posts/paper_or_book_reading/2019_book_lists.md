@@ -101,15 +101,22 @@ In Subscribed, you'll learn how these companies made the shift, and how you can 
 
 ### 2019 年六月 第六期
 
-![](https://imagery.pragprog.com/products/542/vbopens_xlargecover.jpg?1516635915)
+![](https://www.stevenlevy.com/wp-content/uploads/2006/09/steven-levy-hackers-heroes-of-the-computer-revolution.jpg)
 
-[Forge Your Future with Open Source](https://pragprog.com/book/vbopens/forge-your-future-with-open-source),VM (Vicky) Brasseur
+英文版：[Hackers – Heroes of the Computer Revolution](https://www.stevenlevy.com/index.php/books/hackers)
 
-> Free and open source is the foundation of software development, and it’s built by people just like you. Discover the fundamental tenets that drive the movement. Take control of your career by selecting the right project to meet your professional goals. Master the language and avoid the pitfalls that typically ensnare new contributors. Join a community of like-minded people and change the world. Programmers, writers, designers, and everyone interested in software will make their mark through free and open source software contributions.
+中文版：[黑客：计算机革命的英雄(二十五周年新版)](https://book.douban.com/subject/6860890/)， Steven Levy ，机械工业出版社华章公司，2011-10-31
 
-> This book doesn’t assume that you’re a programmer, or even that you have prior experience with free and open source software. Learn what open source is, where it came from, and why it’s important. Start on the right foot by mastering the structure and tools you need before you contribute. Choose the right project for you, amplifying the impact of your contribution. Submit your first contribution, whether it’s code, writing, design, or community organizing. Find out what to do when things don’t go the way you expect. Discover how to start your own project and make it friendly and welcoming to contributors.
+黑客文化和伦理的奠基之作，计算机专业人士必读。
 
-> Anyone can contribute! Make your mark today and help others while also helping yourself.
+二十五周年新版，涵盖比尔·盖茨、马克·扎克伯格、理查德·斯托曼、史蒂夫·沃兹尼克等著名黑客的最新资料。
+
+多年前，射击游戏之父、Doom游戏的作者约翰·卡马克由于读到本书，坚定了游戏开发的决心。
+
+谷歌首席信息官本·弗里德也是本书的忠实读者。
+
+探寻黑客文化的本质，体会黑客精神的精髓。
+
 
 ## 2019 第三季度 主题：开源的生产方式，技术架构与开源协作之间的关系
 
@@ -170,6 +177,14 @@ Today, open source serves as shorthand for much broader trends and behaviors. It
 
 The book analyzes a number of key topics: the motivation behind F/OSS―why highly skilled software developers devote large amounts of time to the creation of "free" products and services; the objective, empirically grounded evaluation of software―necessary to counter what one chapter author calls the "steamroller" of F/OSS hype; the software engineering processes and tools used in specific projects, including Apache, GNOME, and Mozilla; the economic and business models that reflect the changing relationships between users and firms, technical communities and firms, and between competitors; and legal, cultural, and social issues, including one contribution that suggests parallels between "open code" and "open society" and another that points to the need for understanding the movement's social causes and consequences.
 
+### 2019年12月 第十二期
+
+![](http://openlife.cc/system/files/images/OpenLife-cover.png)
+
+[Open Life: The Philosophy of Open Source](http://www.openlife.cc/online) Henrik Ingo （2005) Copy and download freely on Open Source terms
+
+Divided into four parts, Open Life starts rather philosophically by comparing the concepts of openness and mean-spiritedness with a clarity that highlights the latter's devious impact on our everyday life. Part Two explores the Open Source culture from the time Linus Torvalds began writing code for his new operating system, how he behaves as a leader, and stating the virtues of a programmer. Part Three comprehensively reviews some Open Source business models and evaluates both their economic and ethical sustainability. Leaving the world of software behind, Part Four considers how successfully open business models can be applied in fields as diverse and wide-ranging as mining, literature, and fashion design.
+
 
 ## 2019 推荐阅读番外篇
 
@@ -183,3 +198,15 @@ The book analyzes a number of key topics: the motivation behind F/OSS―why high
 
 在《开放式组织》中，开放源代码的巨人——红帽公司的总裁和CEO -- 吉姆·怀特赫斯特根据他在开源领域的亲身经历，绘出了一份领导力的蓝图。通过真实记录他从传统经理人转变为 “首席问题解决者”的过程，吉姆清晰地展示了如何让员工、合作伙伴和客户热情高涨地参与到社区当中，如何借此点燃大家的热情、鼓励创新，从而在真正的开放、合作和共同使命的基础上，将现代企业带向成功。
 《开放式组织》写给大公司、小公司、成熟型公司、艰难成长的创业型公司的领导者和期待成为领导者的人们，展示如何打造一个新型的开放式组织模式，获得当今企业必须具备的速度和灵活性。
+
+### 利用开源打造你的职业生涯
+
+![](https://imagery.pragprog.com/products/542/vbopens_xlargecover.jpg?1516635915)
+
+[Forge Your Future with Open Source](https://pragprog.com/book/vbopens/forge-your-future-with-open-source),VM (Vicky) Brasseur
+
+> Free and open source is the foundation of software development, and it’s built by people just like you. Discover the fundamental tenets that drive the movement. Take control of your career by selecting the right project to meet your professional goals. Master the language and avoid the pitfalls that typically ensnare new contributors. Join a community of like-minded people and change the world. Programmers, writers, designers, and everyone interested in software will make their mark through free and open source software contributions.
+
+> This book doesn’t assume that you’re a programmer, or even that you have prior experience with free and open source software. Learn what open source is, where it came from, and why it’s important. Start on the right foot by mastering the structure and tools you need before you contribute. Choose the right project for you, amplifying the impact of your contribution. Submit your first contribution, whether it’s code, writing, design, or community organizing. Find out what to do when things don’t go the way you expect. Discover how to start your own project and make it friendly and welcoming to contributors.
+
+> Anyone can contribute! Make your mark today and help others while also helping yourself.
