@@ -4,7 +4,7 @@ categories:
 - 感悟
 - 读后感
 date: 2019-02-23T19:14:41+08:00
-description: ""
+description: "平日里读书的摘要和笔记。"
 keywords:
 - Open Source
 - Culture
@@ -16,6 +16,7 @@ tags:
 - 论文阅读
 title: "《Subscribed》读书笔记（草稿类）"
 url: ""
+draft: true
 ---
 
 > 开源之道声明：这是一本有关产品、服务、消费者、公司、管理、信息技术等的商业类图书，宏观的视野也有，微观的细节也有所涉猎。重要的是和现在的生活息息相关，能引起思考最好！其实开源又何尝不是呢？
@@ -48,12 +49,12 @@ After all, competitors can steal your product features, but they can’t steal t
 more than half of the companies that appeared on the Fortune 500 list in the year 2000 are now gone.In fact, 12 percent of the companies on the 1955 Fortune 500 list are still on it today, and most of them have similarly transformed.
 
 |  公司名称    |     过去业务      | 转型后 | 备注|
-| -------------  | ------------- |:-------------:| -----:| -----:|
+| -------------  | ------------- |:-------------:| -----:|
 |GE|lightbulbs, electrical fixtures, and dynamos.|“The digital company. That’s also an industrial company.”||
 |IBM   |commercial scales and punch card tabulators.   |sells IT and quantum computing services.cognitive service。   |   |
 |Xerox   |manufacturing photographic paper and equipment   |信息服务   |   |
 |McGraw-Hill   |printing textbooks and magazines   | financial services and adaptive learning systems.  |   |
-|NCR   |selling cash registers to saloons   |creating digital payment services   |   |
+|NCR   |selling cash registers to saloons   |creating digital payment services   |   
 
 >“It’s one thing to be as fortunate as we are to have Disney, ABC, ESPN, Pixar, Marvel, Star Wars and Lucasfilm, but in today’s world, it’s almost not enough to have all that stuff unless you have access to your consumer.”  —— Bob Iger ，CEO 迪士尼
 
