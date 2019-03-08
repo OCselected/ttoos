@@ -72,7 +72,7 @@ In Subscribed, you'll learn how these companies made the shift, and how you can 
 
 > 抛开程序、语言、架构、项目等技术细节，完全从软件、管理、成本、协作等经济学视野来看待开源。
 
-更多内容，请参考完整版开源之道共读导读与书评：[]()
+更多内容，请参考完整版开源之道共读导读与书评：[开放的无尽魅力 —— 《开放与共享》导读与书评](posts/paper_or_book_reading/thinking_of_open_source_innovation_economic.md)
 
 ## 2019 第二季度 主题：开发者关系、顶级的开源开发者究竟在想什么？是怎样的一群人？
 
@@ -86,6 +86,11 @@ In Subscribed, you'll learn how these companies made the shift, and how you can 
 
 > 如果你对当前技术决策一切的时代下如何理解开发者这个角色，此书绝对不能错过。
 
+**开源之道推荐短评：**
+
+> 开发者，新时代的理想王国缔造者，以前所未有的自由状态来完成这一使命。
+
+更多内容，请参考完整版开源之道共读导读与书评：[]()
 
 ### 2019 年五月 第五期
 
@@ -98,6 +103,13 @@ In Subscribed, you'll learn how these companies made the shift, and how you can 
 > 本书堪称作者的巅峰巨著，这位当代顶尖的公共知识分子在书中探讨了过去和现在的匠人的工作；他把身体劳动和伦理道德联系起来，他质疑当今公认的衡量工作好坏的标准。
 
 > 理查德•桑内特在《匠人》中跨越了时空，从古罗马的制砖工人到文艺复兴时期的金匠，从巴黎的印刷社到伦敦的工厂，都是他笔下探讨的对象。历史在实践和理论、技艺和表达、匠人与艺术家、制造者与使用者之间划下了一道错误的界线；现代社会仍然没有摆脱这种历史遗存的折磨。但从前那些匠人的生活和他们的匠艺也揭示了一些使用工具、安排工作和思考材料的方法，进而为我们如何利用技能来指导生活提供了各种可行的方案。
+
+**开源之道推荐短评：**
+
+>
+
+更多内容，请参考完整版开源之道共读导读与书评：[]()
+
 
 ### 2019 年六月 第六期
 
@@ -118,6 +130,13 @@ In Subscribed, you'll learn how these companies made the shift, and how you can 
 探寻黑客文化的本质，体会黑客精神的精髓。
 
 
+**开源之道推荐短评：**
+
+>
+
+更多内容，请参考完整版开源之道共读导读与书评：[]()
+
+
 ## 2019 第三季度 主题：开源的生产方式，技术架构与开源协作之间的关系
 
 ### 2019 年七月 第七期
@@ -134,6 +153,13 @@ In Subscribed, you'll learn how these companies made the shift, and how you can 
 
 开源运动对软件业和互联网带来了巨大影响，本书作为开源运动的独立宣言，其影响力远远超出编程领域，如果想在互联网时代做生意，这本书是必读经典。
 
+**开源之道推荐短评：**
+
+>
+
+更多内容，请参考完整版开源之道共读导读与书评：[]()
+
+
 ### 2019 年八月 第八期
 
 ![Producing Open Source Software](./images/open-source-reading-list7.jpg)
@@ -143,6 +169,13 @@ In Subscribed, you'll learn how these companies made the shift, and how you can 
 中文版：[制造开源软件:如何成功运营自由软件项目](https://producingoss.com/zh),基于CreativeCommons Attribution-ShareAlike (3.0) 许可协议，Karl Fogel 著
 
 如何成功运营项目的向导指南，无论你是用户还是开发者，本书都可以满足你的期望，当然本书还包括了自由软件文化的介绍。
+
+**开源之道推荐短评：**
+
+>
+
+更多内容，请参考完整版开源之道共读导读与书评：[]()
+
 
 ### 2019 年九月 第九期
 
@@ -155,6 +188,13 @@ Learn how free software became open source and how you can sell open source soft
 You’ll look at project and community examples including Linux, BSD, Apache, and Kubernetes, understand the open source development model, and how open source has influenced approaches more broadly, even proprietary software, such as open betas. You'll also examine the flipside, the "Second Machine Age," and the challenges of open source-based business models.
 
 Today, open source serves as shorthand for much broader trends and behaviors. It’s not just about a free (in all senses of the word) alternative to commercial software. It increasingly is the new commercial software. How Open Source Ate Software reveals how open source has much in common, and is often closely allied, with many other trends in business and society. You'll see how it enables projects that go beyond any individual company. That makes open source not just a story about software, but a story about almost everything.
+
+**开源之道推荐短评：**
+
+>
+
+更多内容，请参考完整版开源之道共读导读与书评：[]()
+
 
 
 ## 2019 第四季度 主题： 开源的思想价值
@@ -169,6 +209,13 @@ Today, open source serves as shorthand for much broader trends and behaviors. It
 
 开源之道向来推崇该书。
 
+**开源之道推荐短评：**
+
+>
+
+更多内容，请参考完整版开源之道共读导读与书评：[]()
+
+
 ### 2019年11月 第十一期
 
 ![](https://mitpress.mit.edu/sites/default/files/styles/large_book_cover/http/mitp-content-server.mit.edu%3A18180/books/covers/cover/%3Fcollid%3Dbooks_covers_0%26isbn%3D9780262062466%26type%3D.jpg?itok=wxEOCN0t)
@@ -177,6 +224,13 @@ Today, open source serves as shorthand for much broader trends and behaviors. It
 
 The book analyzes a number of key topics: the motivation behind F/OSS―why highly skilled software developers devote large amounts of time to the creation of "free" products and services; the objective, empirically grounded evaluation of software―necessary to counter what one chapter author calls the "steamroller" of F/OSS hype; the software engineering processes and tools used in specific projects, including Apache, GNOME, and Mozilla; the economic and business models that reflect the changing relationships between users and firms, technical communities and firms, and between competitors; and legal, cultural, and social issues, including one contribution that suggests parallels between "open code" and "open society" and another that points to the need for understanding the movement's social causes and consequences.
 
+**开源之道推荐短评：**
+
+>
+
+更多内容，请参考完整版开源之道共读导读与书评：[]()
+
+
 ### 2019年12月 第十二期
 
 ![](http://openlife.cc/system/files/images/OpenLife-cover.png)
@@ -184,6 +238,13 @@ The book analyzes a number of key topics: the motivation behind F/OSS―why high
 [Open Life: The Philosophy of Open Source](http://www.openlife.cc/online) Henrik Ingo （2005) Copy and download freely on Open Source terms
 
 Divided into four parts, Open Life starts rather philosophically by comparing the concepts of openness and mean-spiritedness with a clarity that highlights the latter's devious impact on our everyday life. Part Two explores the Open Source culture from the time Linus Torvalds began writing code for his new operating system, how he behaves as a leader, and stating the virtues of a programmer. Part Three comprehensively reviews some Open Source business models and evaluates both their economic and ethical sustainability. Leaving the world of software behind, Part Four considers how successfully open business models can be applied in fields as diverse and wide-ranging as mining, literature, and fashion design.
+
+
+**开源之道推荐短评：**
+
+>
+
+更多内容，请参考完整版开源之道共读导读与书评：[]()
 
 
 ## 2019 推荐阅读番外篇
@@ -199,6 +260,13 @@ Divided into four parts, Open Life starts rather philosophically by comparing th
 在《开放式组织》中，开放源代码的巨人——红帽公司的总裁和CEO -- 吉姆·怀特赫斯特根据他在开源领域的亲身经历，绘出了一份领导力的蓝图。通过真实记录他从传统经理人转变为 “首席问题解决者”的过程，吉姆清晰地展示了如何让员工、合作伙伴和客户热情高涨地参与到社区当中，如何借此点燃大家的热情、鼓励创新，从而在真正的开放、合作和共同使命的基础上，将现代企业带向成功。
 《开放式组织》写给大公司、小公司、成熟型公司、艰难成长的创业型公司的领导者和期待成为领导者的人们，展示如何打造一个新型的开放式组织模式，获得当今企业必须具备的速度和灵活性。
 
+**开源之道推荐短评：**
+
+>
+
+更多内容，请参考完整版开源之道共读导读与书评：[]()
+
+
 ### 利用开源打造你的职业生涯
 
 ![](https://imagery.pragprog.com/products/542/vbopens_xlargecover.jpg?1516635915)
@@ -210,3 +278,9 @@ Divided into four parts, Open Life starts rather philosophically by comparing th
 > This book doesn’t assume that you’re a programmer, or even that you have prior experience with free and open source software. Learn what open source is, where it came from, and why it’s important. Start on the right foot by mastering the structure and tools you need before you contribute. Choose the right project for you, amplifying the impact of your contribution. Submit your first contribution, whether it’s code, writing, design, or community organizing. Find out what to do when things don’t go the way you expect. Discover how to start your own project and make it friendly and welcoming to contributors.
 
 > Anyone can contribute! Make your mark today and help others while also helping yourself.
+
+**开源之道推荐短评：**
+
+>
+
+更多内容，请参考完整版开源之道共读导读与书评：[]()
