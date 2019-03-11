@@ -53,6 +53,8 @@ url: ""
 ### 2019.4 参考文献“扫荡”之文
 
 - [ ] 1. [How to Succeed in Business by Bundling – and Unbundling](https://hbr.org/2014/06/how-to-succeed-in-business-by-bundling-and-unbundling)
+- [ ] 2. [Open Source the year of book](https://opensource.com/sites/default/files/gated-content/2018_open_source_yearbook.pdf)
+
 
 ## 专题篇
 
@@ -61,7 +63,7 @@ url: ""
 - [X] 0. Jean Tirole,Josh Lerner ,The Simple Economics of Open Source,2000.
 - [ ] 1. Zoncita Norman, Situated Learning: A Legitimate Peripheral Participation in Learning Mathematics in Public Schools ,2015
 - [ ] 2. Matthew Floding,Glenn Swier ,Legitimate Peripheral Participation: Entering A Community of Practice
-- [ ] 3.
+- [x] 3. Kasper Edwards, [Epistemic Communities, Situated Learning and Open Source Software Development](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.24.7873&rep=rep1&type=pdf),2001
 
 ### 二、 开源社区（临时）志愿者研究系列
 
