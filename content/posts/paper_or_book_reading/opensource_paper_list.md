@@ -16,7 +16,7 @@ tags:
 - 论文阅读
 title: "开源之道文献推荐列表"
 url: ""
-draft:true
+draft: true
 ---
 
 ## 2019年开源文献共读列表
