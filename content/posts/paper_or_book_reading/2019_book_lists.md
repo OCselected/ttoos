@@ -72,7 +72,7 @@ In Subscribed, you'll learn how these companies made the shift, and how you can 
 
 > 抛开程序、语言、架构、项目等技术细节，完全从软件、管理、成本、协作等经济学视野来看待开源。
 
-更多内容，请参考完整版开源之道共读导读与书评：[开放的无尽魅力 —— 《开放与共享》导读与书评](posts/paper_or_book_reading/thinking_of_open_source_innovation_economic.md)
+更多内容，请参考完整版开源之道共读导读与书评：[我们正处于开源的黄金时代 —— 《开放与共享》导读与书评](posts/paper_or_book_reading/thinking_of_open_source_innovation_economic.md)
 
 ## 2019 第二季度 主题：开发者关系、顶级的开源开发者究竟在想什么？是怎样的一群人？
 

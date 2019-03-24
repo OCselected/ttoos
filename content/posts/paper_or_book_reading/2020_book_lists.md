@@ -20,7 +20,7 @@ url: ""
 
 ## 共读之申明篇
 
-**本文列举的是2019年所精心选择的12本开源相关图书**，关于共读的初衷，以及参与方式，请看官移步：[开源之道图书和文献共读申明](posts/paper_or_book_reading/establish_reading_os_community)，有更多详细的内容。
+**本文列举的是2020年所精心选择的12本开源相关图书**，关于共读的初衷，以及参与方式，请看官移步：[开源之道图书和文献共读申明](posts/paper_or_book_reading/establish_reading_os_community)，有更多详细的内容。
 
 ## 2020 第一季度 主题：开放式创新
 
@@ -64,3 +64,15 @@ Free innovation is already widespread in national economies and is steadily incr
 Free innovation has both advantages and drawbacks. Because free innovators are self-rewarded by such factors as personal utility, learning, and fun, they often pioneer new areas before producers see commercial potential. At the same time, because they give away their innovations, free innovators generally have very little incentive to invest in diffusing what they create, which reduces the social value of their efforts.
 
 The best solution, von Hippel and his colleagues argue, is a division of labor between free innovators and producers, enabling each to do what they do best. The result will be both increased producer profits and increased social welfare—a gain for all.
+
+## 2020 第二季度 主题：开源经济学
+
+### 2020 年4月 第四期
+
+![](https://img1.doubanio.com/view/subject/l/public/s3077608.jpg)
+
+中文版：[《开源的成功之路》](https://book.douban.com/subject/2153786/)， 史蒂文 ，外研社·哈佛科学人文译丛，2007.6
+
+英文版: [The Success of Open Source](https://book.douban.com/subject/1899468/),Steven Weber ,Harvard University Press ,2004
+
+《开源的成功之路》的编者提出的论点是，开源社区首创精神的意义尤为深远。通过探讨构成财产的基本概念，该社区重新改写了一些最基本的管理问题。与此同时，它正在重建软件世界的政治学和经济学。假如您就像编者一样深信，在未来，软件构成的一些核心工具和原则将指导人类如何协同工作，协助人们创造财富并开创美好的未来，寻求新思想和新问题的解决方案，那么，理解开源如何改变这些过程至关重要。作为一名政治学家，编者更关心社区的管理方式，而非技术本身。编者之所以对开源产生兴趣，正是因为这个新兴的技术社区似乎能够以一种非常新奇而动人的方式，解决在编者看来相当棘手但常见的基本管理问题。
