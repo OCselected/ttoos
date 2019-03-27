@@ -119,3 +119,7 @@ Apache 的软件是提供给所有人的。
 伴随着用户数量的增加，哪怕是他们没有为代码做过贡献，这对于项目仍然是有益处的，其实对于开源项目来说，多多益善。这意味着一个很简单的道理，越多的用户机会就越多，在Apache，更多的用户意味着他们在未来有极大的可能成为贡献者。
 
 作为一家在美国注册为 501(c)(3) 的公共慈善机构，Apache 软件基金会帮助独立个体和组织去理解开源是如何在一个激烈竞争的市场中发挥优势的。二十多年来，我们的重点不是生产软件，而是指导生产软件的社区。Apache 之道对于开源社区的持久发展有着显著的优势：我们所做的一切都是开源的，所有的用户都可以从中受益。Apache 是所有人的 Apache。
+
+## 原文链接
+
+本文翻译来自Apache 博客：[The Apache Way to Sustainable Open Source Success](https://blogs.apache.org/foundation/entry/the-apache-way-to-sustainable)。

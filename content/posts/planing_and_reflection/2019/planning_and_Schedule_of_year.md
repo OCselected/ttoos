@@ -30,7 +30,7 @@ url: ""
 - [x] 八/2019-02-16 [云原生的旭日东升 —— CNCF 2018年度报告解读](posts/foundation_introduce/review-cncf-2018-annual-report)
 - [x] 九/2019-03-10 [区块链将会如何影响开源](posts/opensource_technology/open-source-tokenomics/)来自英文：[How blockchain will influence open source](https://opensource.com/article/18/8/open-source-tokenomics)
 - [ ] 十/2019-03-31  [如何参与到 Linux 社区中来](posts/contribute_to_community/how_to_participate_in_the_linux_community) 来自英文：[How to Participate in the Linux Community](https://www.linux.com/publications/how-participate-linux-community)
-- [ ] 十一  来自英文：[6 ways a thriving community will help your project succeed](https://opensource.com/open-organization/18/3/why-build-community-3)
+- [x] 十一  来自英文：[6 ways a thriving community will help your project succeed](https://opensource.com/open-organization/18/3/why-build-community-3)
 - [ ] 十二 [如何决定是否开源您的SaaS解决方案](https://opensource.com/article/18/5/open-source-saas-y-world)
 - [ ] 十三 [将SaaS开源之后所面临的可能挑战](https://opensource.com/article/18/5/open-source-saas-y-world-part-2)
 - [ ] 十四 来自英文：[Growing a contributor base in modern open source](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
@@ -59,6 +59,7 @@ url: ""
 - [ ] 三十六 []() 来自英文：[Open Source Culture Starts with Programs and Policies](https://thenewstack.io/open-source-culture-starts-with-programs-and-policies/)
 - [ ] 三十七 []()[软件自由保护基金会介绍]() 来自英文：[Software Freedom Conservancy](https://sfconservancy.org/)
 - [ ] 三十八 []()[开源女神：Danese Cooper]() 来自英文：[Danese Cooper](https://en.wikipedia.org/wiki/Danese_Cooper)
+- [ ] 三十九 [Apache 之道，让开源持续成功的秘籍]() 来自英文：[The Apache Way to Sustainable Open Source Success](https://blogs.apache.org/foundation/entry/the-apache-way-to-sustainable)
 - [ ] 来自英文：[Why There Will Never Be Another Red Hat: The Economics of Open Source](https://a16z.com/2014/02/14/why-there-will-never-be-another-redhat-the-economics-of-open-source)
 - [ ]  年度开源人物奖[](https://en.wikipedia.org/wiki/O%27Reilly_Open_Source_Award)
 - [ ] 世界知名基于开源的商业公司系列（）可参考：[Joseph Jacks 系列文章](https://medium.com/@asynchio)（这个可以重点关注一下，每家公司的历史都可以成为一篇文章的。）
