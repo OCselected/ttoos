@@ -59,7 +59,8 @@ url: ""
 - [ ] 三十六 []() 来自英文：[Open Source Culture Starts with Programs and Policies](https://thenewstack.io/open-source-culture-starts-with-programs-and-policies/)
 - [ ] 三十七 []()[软件自由保护基金会介绍]() 来自英文：[Software Freedom Conservancy](https://sfconservancy.org/)
 - [ ] 三十八 []()[开源女神：Danese Cooper]() 来自英文：[Danese Cooper](https://en.wikipedia.org/wiki/Danese_Cooper)
-- [ ] 三十九 [Apache 之道，让开源持续成功的秘籍]() 来自英文：[The Apache Way to Sustainable Open Source Success](https://blogs.apache.org/foundation/entry/the-apache-way-to-sustainable)
+- [x] 三十九 [Apache 之道，让开源持续成功的秘籍](posts/foundation_introduce/the_apache_way_to_sustainable_os/) 来自英文：[The Apache Way to Sustainable Open Source Success](https://blogs.apache.org/foundation/entry/the-apache-way-to-sustainable)
+- [ ] 四十  [SSH 从开源到闭源的闹剧]() [OpenSSH](https://en.wikipedia.org/wiki/OpenSSH)
 - [ ] 来自英文：[Why There Will Never Be Another Red Hat: The Economics of Open Source](https://a16z.com/2014/02/14/why-there-will-never-be-another-redhat-the-economics-of-open-source)
 - [ ]  年度开源人物奖[](https://en.wikipedia.org/wiki/O%27Reilly_Open_Source_Award)
 - [ ] 世界知名基于开源的商业公司系列（）可参考：[Joseph Jacks 系列文章](https://medium.com/@asynchio)（这个可以重点关注一下，每家公司的历史都可以成为一篇文章的。）
