@@ -72,7 +72,7 @@ In Subscribed, you'll learn how these companies made the shift, and how you can 
 
 > 抛开程序、语言、架构、项目等技术细节，完全从软件、管理、成本、协作等经济学视野来看待开源。
 
-更多内容，请参考完整版开源之道共读导读与书评：[我们正处于开源的黄金时代 —— 《开放与共享》导读与书评](posts/paper_or_book_reading/thinking_of_open_source_innovation_economic.md)
+更多内容，请参考完整版开源之道共读导读与书评：[我们正处于开源的黄金时代 —— 《开放与共享》导读与书评](posts/paper_or_book_reading/thinking_of_open_source_innovation_economic)
 
 ## 2019 第二季度 主题：开发者关系、顶级的开源开发者究竟在想什么？是怎样的一群人？
 
@@ -90,7 +90,7 @@ In Subscribed, you'll learn how these companies made the shift, and how you can 
 
 > 开发者，新时代的理想王国缔造者，以前所未有的自由状态来完成这一使命。
 
-更多内容，请参考完整版开源之道共读导读与书评：[]()
+更多内容，请参考完整版开源之道共读导读与书评：[新时代的缔造者———— 开发者是如何征服世界的](posts/paper_or_book_reading/the_new_kingmaker_review)
 
 ### 2019 年五月 第五期
 
@@ -264,9 +264,9 @@ Divided into four parts, Open Life starts rather philosophically by comparing th
 
 **开源之道推荐短评：**
 
-> 资本(340亿美元)是衡量一家公司的外在体现，实质上是人，以及他们所组成的开放式组织。
+> “资本(340亿美元)是衡量一家公司的外在体现，而真正的价值是人本身，以及这些人所形成的开放式组织。”
 
-更多内容，请参考完整版开源之道共读导读与书评：[]()
+更多内容，请参考完整版开源之道共读导读与书评：[开源商业背后的强大力量 ———— 开放组织](posts/paper_or_book_reading/the_open_organization_review)
 
 
 ### 利用开源打造你的职业生涯
@@ -283,6 +283,6 @@ Divided into four parts, Open Life starts rather philosophically by comparing th
 
 **开源之道推荐短评：**
 
->
+> 
 
 更多内容，请参考完整版开源之道共读导读与书评：[]()
