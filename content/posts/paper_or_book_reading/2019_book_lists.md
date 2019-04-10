@@ -249,13 +249,13 @@ Divided into four parts, Open Life starts rather philosophically by comparing th
 
 ## 2019 推荐阅读番外篇
 
-### 2019年第二季度 
+### 2019年第二季度
 
 ![The Open Organization: Igniting Passion and Performance](./images/open-source-reading-list2.jpg)
 
 英文版：[The Open Organization: Igniting Passion and Performance](https://hbr.org/product/the-open-organization-igniting-passion-and-performance/13980-HBK-ENG), Harvard Business Review 出版社,  Jim Whitehurst 著 (2015)
 
-![](https://img3.doubanio.com/view/subject/l/public/s29101675.jpg)
+![](https://images-cn.ssl-images-amazon.com/images/I/61SpOj4R6BL.jpg)
 
 中文版：[开放式组织](https://www.amazon.cn/dp/B01LW40QLD/ref=sr_1_1?ie=UTF8&qid=1536849012&sr=8-1&keywords=The+Open+Organization),机械工业出版社; 第1版 (2016年9月8日),Jim Whitehurst (作者), 王洋 (译者)
 
@@ -264,7 +264,7 @@ Divided into four parts, Open Life starts rather philosophically by comparing th
 
 **开源之道推荐短评：**
 
-> 资本(340亿美元)是衡量一家公司的外在体现，核心是人的组织。
+> 资本(340亿美元)是衡量一家公司的外在体现，实质上是人，以及他们所组成的开放式组织。
 
 更多内容，请参考完整版开源之道共读导读与书评：[]()
 
