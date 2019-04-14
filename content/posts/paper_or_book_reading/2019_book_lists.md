@@ -106,7 +106,7 @@ In Subscribed, you'll learn how these companies made the shift, and how you can 
 
 **开源之道推荐短评：**
 
-> 软件开发者作为职业的至高境界，自身价值的历史体现。
+> 软件开发者作为职业的至高境界，自身价值的历史和人类学意义。
 
 更多内容，请参考完整版开源之道共读导读与书评：[]()
 
@@ -132,7 +132,7 @@ In Subscribed, you'll learn how these companies made the shift, and how you can 
 
 **开源之道推荐短评：**
 
->
+> 
 
 更多内容，请参考完整版开源之道共读导读与书评：[]()
 
@@ -283,6 +283,6 @@ Divided into four parts, Open Life starts rather philosophically by comparing th
 
 **开源之道推荐短评：**
 
-> 
+>
 
 更多内容，请参考完整版开源之道共读导读与书评：[]()
