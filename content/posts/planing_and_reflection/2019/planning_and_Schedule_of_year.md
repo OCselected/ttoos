@@ -62,6 +62,7 @@ url: ""
 - [x] 三十九 [Apache 之道，让开源持续成功的秘籍](posts/foundation_introduce/the_apache_way_to_sustainable_os/) 来自英文：[The Apache Way to Sustainable Open Source Success](https://blogs.apache.org/foundation/entry/the-apache-way-to-sustainable)
 - [ ] 四十  [SSH 从开源到闭源的闹剧]() [OpenSSH](https://en.wikipedia.org/wiki/OpenSSH)
 - [ ]  [Kubernetes 背后的三剑侠](https://siliconangle.com/2019/04/12/google-women-power-rise-kubernetes/)
+- [ ]  [NumFOCUS 基金会](https://numfocus.org/sponsored-projects)
 - [ ] 来自英文：[Why There Will Never Be Another Red Hat: The Economics of Open Source](https://a16z.com/2014/02/14/why-there-will-never-be-another-redhat-the-economics-of-open-source)
 - [ ]  年度开源人物奖[](https://en.wikipedia.org/wiki/O%27Reilly_Open_Source_Award)
 - [ ] 世界知名基于开源的商业公司系列（）可参考：[Joseph Jacks 系列文章](https://medium.com/@asynchio)（这个可以重点关注一下，每家公司的历史都可以成为一篇文章的。）
