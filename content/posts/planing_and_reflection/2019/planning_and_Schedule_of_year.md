@@ -35,7 +35,7 @@ url: ""
 - [ ] 十三 [将SaaS开源之后所面临的可能挑战](https://opensource.com/article/18/5/open-source-saas-y-world-part-2)
 - [ ] 十四 来自英文：[Growing a contributor base in modern open source](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
 - [ ] 十五 来自英文：[FOSS as a Part of a Corporate Sustainability Plan](https://www.linuxjournal.com/content/foss-part-corporate-sustainability-plan)
-- [ ] 十六 ／201 []() 来自英文：[New Initiatives to Create Sustainable Open Source Projects at The Linux Foundation](https://www.linuxfoundation.org/blog/new-initiatives-to-create-sustainable-open-source-projects-at-the-linux-foundation/)
+- [ ] 十六 ／20190419 [开源之道解读红帽企业开源调查2019](posts/Event_analysis/redhat_enterprise_open_source_survey) 来自英文：[红帽企业开源调查2019版](https://www.redhat.com/en/blog/survey-says-enterprise-open-source-inventing-future-software?source=author&term=20311)
 - [ ] 十七 []() 职业生涯 来自英文：[Lessons from a brief career in open source](https://opensource.com/article/17/2/preparing-career-open-source)
 - [ ] 十八 []() 来自英文：[6 reasons open source is good for business](https://opensource.com/article/17/10/6-reasons-choose-open-source-software)
 - [ ] 十九 []() 来自英文：[Why events matter and how to do them right](https://opensource.com/article/17/1/drupal-sibera)
