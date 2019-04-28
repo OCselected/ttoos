@@ -5,8 +5,7 @@ copyright = "Copyright (c) 2016, 适兕; all rights reserved."
 MetaDataFormat = "yaml"
 Paginate = "9"
 PaginatePath = "page"
-disableKinds=["RSS"]
-rsslimit = 100
+rssLimit = 100
 
 [author]
     name = "适兕"
