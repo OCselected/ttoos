@@ -90,7 +90,7 @@ In Subscribed, you'll learn how these companies made the shift, and how you can 
 
 > 开发者，新时代的理想王国缔造者，以前所未有的自由状态来完成这一使命。
 
-更多内容，请参考完整版开源之道共读导读与书评：[新时代的缔造者———— 开发者是如何征服世界的](posts/paper_or_book_reading/the_new_kingmaker_review)
+更多内容，请参考完整版开源之道共读导读与书评：[得开发者得天下 ———— 开发者是如何征服世界的](posts/paper_or_book_reading/the_new_kingmaker_review)
 
 ### 2019 年五月 第五期
 
@@ -106,7 +106,7 @@ In Subscribed, you'll learn how these companies made the shift, and how you can 
 
 **开源之道推荐短评：**
 
-> 软件开发者作为职业的至高境界，自身价值的历史和人类学意义。
+> 从职业的至高境界来看软件开发者；以及其自身价值在历史和人类学上的意义体现。
 
 更多内容，请参考完整版开源之道共读导读与书评：[]()
 
@@ -132,7 +132,7 @@ In Subscribed, you'll learn how these companies made the shift, and how you can 
 
 **开源之道推荐短评：**
 
-> 
+>
 
 更多内容，请参考完整版开源之道共读导读与书评：[]()
 
