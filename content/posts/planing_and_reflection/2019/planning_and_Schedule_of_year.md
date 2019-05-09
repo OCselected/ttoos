@@ -64,7 +64,7 @@ url: ""
 - [ ]  [Kubernetes 背后的三剑侠](https://siliconangle.com/2019/04/12/google-women-power-rise-kubernetes/)
 - [ ]  [NumFOCUS 基金会](https://numfocus.org/sponsored-projects)
 - [ ]  [开源治理模式]()[OSS Governance Models](http://oss-watch.ac.uk/resources/governancemodels)
-- [ ] 来自英文：[Why There Will Never Be Another Red Hat: The Economics of Open Source](https://a16z.com/2014/02/14/why-there-will-never-be-another-redhat-the-economics-of-open-source)
+- [x] 来自英文：[Why There Will Never Be Another Red Hat: The Economics of Open Source](https://a16z.com/2014/02/14/why-there-will-never-be-another-redhat-the-economics-of-open-source)
 - [ ]  年度开源人物奖[](https://en.wikipedia.org/wiki/O%27Reilly_Open_Source_Award)
 - [ ] 世界知名基于开源的商业公司系列（）可参考：[Joseph Jacks 系列文章](https://medium.com/@asynchio)（这个可以重点关注一下，每家公司的历史都可以成为一篇文章的。）
 - [ ] []() 来自英文：[]()
