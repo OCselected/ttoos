@@ -21,6 +21,6 @@ OCSelected 即 Open Culture Selected的意思，即开放文化精选，实乃�
 
 ## 贡献者
 
-- [@LiJiansheng](https://github.com/lijiangsheng1)
+- [@LiJiansheng](https://github.com/lijiangsheng1), 关于[适兕的介绍](contents/all_about_kuosi.md)
 - [@MartinForReal](https://github.com/MartinForReal)
 - [@Heming](https://github.com/heming6666)
