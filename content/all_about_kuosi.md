@@ -17,15 +17,24 @@ title: "关于适兕的简历"
 url: ""
 ---
 
-## 当前职位
+## 基本信息
+
+<p>
+<img align="right" width="200" height="260" src="http://ocselected.org/public/lijiansheng-os.jpg">
+</p>
+
+- 中文姓名：**李建盛**
+- 网络标识： **适兕**
+- GitHub: [lijiangsheng1](http://github.com/lijiangsheng1)
+
+## 当前所做的事情
 
 * [X-lab 开放实验室](http://xlab.ioedu.net/)首席开源导师
 * [开源社](http://www.kaiyuanshe.cn/)教育工作组负责人
 * [”开源之道”](http://ocselected.org/) 作者
 * [“开源之道图书共读”](posts/paper_or_book_reading/establish_reading_os_community/) 活动发起者
 * “开源之道企业培训” 主讲师
-* InfoQ 社区编辑
-* [Linux 中国专栏撰稿人](https://linux.cn/talk/ocselected/)
+* InfoQ [社区编辑](https://www.infoq.cn/profile/1277322)
 * [大学开源教程](https://github.com/kaiyuanshe/open_source_trainning_undergraduate)项目发起者、主笔
 
 
@@ -46,15 +55,11 @@ url: ""
 
 ## 职业生涯
 
-### 2002 ~ 2005 愉快的大学生涯
+### 2016 ~ 现在
 
-偶遇Linux，巧逢开源文化，自学围绕Linux的各种奇淫技巧，并贪婪的阅读一切关于开源的思想和文化内容。
+**职场经历**：自由职业、社区贡献、UMCloud咨询顾问、QingCloud产品经理等
 
-### 2005~ 2010 内向的工程师
-
-**职场经历**：河南日报报业集团、中科红旗技术有限公司。
-
-从系统管理、到技术支持、再到系统开发工程师，Linux、Shell、Python、anaconda、peacemaker等等技术的专研，让我受益匪浅。
+思想上的转变：开源不止于技术，更深的背后的思想、文化以及方法论，并以大无畏的精神，进行了风险极高的职业转变，身体力行。撰写博客、四处演讲、参与开源组织、企业培训等，赶上了开源的黄金时代。
 
 ### 2010 ~ 2015 理想主义的Team Leader
 
@@ -62,19 +67,34 @@ url: ""
 
 基于开源项目的商业化路程，无论是国产化还是创业公司，理想主义、上游优先的理念的实施，经历了CloudStack、oVirt、OpenStack、KVM、Linux等项目的锤炼，自以为是的打造了一支Geek团队。
 
-### 2016 ~ 现在
+### 2005~ 2010 内向的工程师
 
-**职场经历**：自由职业、社区贡献、UMCloud咨询顾问、QingCloud产品经理等
+**职场经历**：河南日报报业集团、中科红旗技术有限公司。
 
-思想上的转变：开源不止于技术，更深的背后的思想、文化以及方法论，并以大无畏的精神，进行了风险极高的职业转变，身体力行。撰写博客、四处演讲、参与开源组织、企业培训等，赶上了开源的黄金时代。
+从系统管理、到技术支持、再到系统开发工程师，Linux、Shell、Python、anaconda、peacemaker等等技术的专研，让我受益匪浅。
+
+### 2002 ~ 2005 愉快的大学生涯
+
+偶遇Linux，巧逢开源文化，自学围绕Linux的各项技术，并贪婪的阅读一切关于开源的思想和文化内容。
+
 
 ## 出版书籍
 
-[![](https://img30.360buyimg.com/vc/jfs/t1999/169/2115722088/125386/ae3b1534/56f25716N3acbed13.jpg)《云落谁家？OpenStack基于场景的架构设计实践》](http://item.jd.com/11887046.html) ISBN: 9787121276491 出版社：电子工业出版社
+<p>
+<img align="right" width="120" height="70" src="https://img30.360buyimg.com/vc/jfs/t1999/169/2115722088/125386/ae3b1534/56f25716N3acbed13.jpg">
+</p>
+
+
+
+
+
+[《云落谁家？OpenStack基于场景的架构设计实践》](http://item.jd.com/11887046.html) ISBN: 9787121276491 出版社：电子工业出版社
+
+
 
 ## 演讲经历
 
-演讲主题 | 会议名称 | 时间 |地点|
+|演讲主题 | 会议名称 | 时间 |地点|
 | ------------ | ------------- | ------------ | ------------ |
 |Python in Virtualization | BPUG 2010 第一次线下活动 | 2010.9.18 | douban office,BeiJing |
 |How to build geek's team | Cloud Valley World 2012 | 2012.12.13 | 北京云基地（上地）|
@@ -92,7 +112,7 @@ url: ""
 |如何从领先企业的开源项目洞察技术趋势  |中国开发者关系大会 （第二届）|2018.4.21 | 苏州.西交利物浦大学  |
 |《从Apache、OpenStack到CNCF看开源社区治理的演进》   | Open Infra China Day 2018  | 2018.6.22  |北京国家会议中心   |
 |Why Said the obstacle of enterprise adoption OSS is come from engineers?   | LC3 China  | 2018.6.26  |北京国家会议中心   |
-|略略谈开源的就业前景|郑州大学生线下meetup|2018.5.6|郑州大学|
+|略谈开源的就业前景|郑州大学生线下meetup|2018.5.6|郑州大学|
 |开源项目的软件工程方法论探讨   |Tid2018   | 2018.7.17  | 北京国家会议中心  |
-|开源之道| COSCon'2018|2018.10.22|深圳|
+|开源之道| China Open Source Conference 2018|2018.10.22|深圳|
 |大学里的开源故事 |开源社走进高校活动   | 2019.04.20  |上海.华东师范大学 |
