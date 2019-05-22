@@ -108,7 +108,7 @@ In Subscribed, you'll learn how these companies made the shift, and how you can 
 
 > 从职业的至高境界来看软件开发者；以及其自身价值在历史和人类学上的意义体现。
 
-更多内容，请参考完整版开源之道共读导读与书评：[]()
+更多内容，请参考完整版开源之道共读导读与书评：[开源开发者内在的素质：匠艺 —— 《匠人》书评与导读](posts/paper_or_book_reading/the-craftsman-book-review)
 
 
 ### 2019 年六月 第六期
@@ -118,6 +118,8 @@ In Subscribed, you'll learn how these companies made the shift, and how you can 
 英文版：[Hackers – Heroes of the Computer Revolution](https://www.stevenlevy.com/index.php/books/hackers)
 
 中文版：[黑客：计算机革命的英雄(二十五周年新版)](https://book.douban.com/subject/6860890/)， Steven Levy ，机械工业出版社华章公司，2011-10-31
+
+![](https://www.linuxidc.com/upload/2015_08/15080618141262.jpg)
 
 黑客文化和伦理的奠基之作，计算机专业人士必读。
 
@@ -132,7 +134,7 @@ In Subscribed, you'll learn how these companies made the shift, and how you can 
 
 **开源之道推荐短评：**
 
->
+> 开源之所以能够发展成为今天的样子，除了资本的因素之外，还要追溯一种更为根本的原始精神 —— Hacker！
 
 更多内容，请参考完整版开源之道共读导读与书评：[]()
 
