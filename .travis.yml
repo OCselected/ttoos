@@ -1,3 +1,28 @@
+sudo: false
+
+language: go
+
+git:
+  depth: 1
+
+install: go get -v github.com/spf13/hugo
+
+script:
+  - hugo
+
+deploy:
+  provider: pages
+  skip_cleanup: true
+  # token is set in travis-ci.org dashboard
+  github_token: $GITHUB_API_KEY
+  on:
+    branch: master
+  local_dir: public
+  repo: OCselected/ocselected.github.io
+  target_branch: master
+  email: lijiansheng@ocselected.org
+  name: ttoos articles
+
 notifications:
   slack:
     secure: WpRjUQ6ji1F3Y5hfFuPEAclg2a2WDZaUKUaJLC3uwRAr0W0b3PZ1jvxfYpvmpdMIuiWVU+wCcm5wZXO+utygaYt2xaLmU/b8IC5WV0PScxXd6EkNo2B+UqweAvHWjv7DhjJkx24+6PRuCT/2nRa2r+MKSkfDei7mSnBZ3+tcPYrUQGGQIAX0dAK7lr36c+dMrHI3NnLUo6QYeQ47jvxZ0es0kNxNOZvfINnwZ7xUgNXcxV+OoaBzJ6iclFg2S4SZgK0tp1f/K9uR5omeBdW3lgTZJILLJQIGjWaLmxYPSBmL4DeNUAbVgw69tad78Y305D41p989loVozcbIgz0W4DHQL/+ukR1gjYz1arsolu7OoZKxZUXSN4ghglymB9X0ADvD1HZkwradkgT5FP5biZGDucBFgGGpe7z/b5bw7cCBBi1ewwg7b9RGJsrSi1XTh0ishEVE6PJKRV583VbMYUzgB6pWT4go/2kilCRs+9cJsYR8msiXgqVyVmZhGxm/g17Lgeud96IULpMzOBo5WnKN3aWR83y5KW6tGvsBiPNLlhZioK4k4aS3f0shDxwcErAF1y2nuX3ijp5vx09V0u0zK+mrE7lCdBojdPj/Z/RT1CAkeXCA3ki3rrDXmYX6WiGfHD4/85DwU7QeNR9wGII8zFMTWgscXKnUzKzmHPo=
