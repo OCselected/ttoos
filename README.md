@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/OCselected/ttoos.svg?branch=master)](https://travis-ci.org/OCselected/ttoos)
+
 # ttoos
 
 * **开源乃创新之道！**
