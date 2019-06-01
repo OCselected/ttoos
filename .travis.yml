@@ -9,6 +9,7 @@ install: go get -v github.com/spf13/hugo
 
 script:
   - hugo
+  - echo "$CNAME_URL" > public/CNAME
 
 deploy:
   provider: pages
