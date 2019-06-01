@@ -15,6 +15,7 @@ deploy:
   skip_cleanup: true
   # token is set in travis-ci.org dashboard
   github_token: $GITHUB_API_KEY
+  keep_history: true
   on:
     branch: master
   local_dir: public
