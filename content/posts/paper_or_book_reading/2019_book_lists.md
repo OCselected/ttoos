@@ -157,7 +157,7 @@ In Subscribed, you'll learn how these companies made the shift, and how you can 
 
 **开源之道推荐短评：**
 
->
+> 
 
 更多内容，请参考完整版开源之道共读导读与书评：[]()
 
