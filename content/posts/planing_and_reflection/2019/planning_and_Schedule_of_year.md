@@ -40,7 +40,7 @@ url: ""
 - [ ] 十八 []() 来自英文：[6 reasons open source is good for business](https://opensource.com/article/17/10/6-reasons-choose-open-source-software)
 - [ ] 十九 []() 来自英文：[Why events matter and how to do them right](https://opensource.com/article/17/1/drupal-sibera)
 - [ ] 二十 []() 来自英文：[Be a force for good in your community](https://opensource.com/open-organization/17/1/force-for-good-community)
-- [ ] 二十一 []() 来自英文：[What engineers and marketers can learn from each other](https://opensource.com/open-organization/17/1/engineers-marketers-can-learn)
+- [ ] 二十一 [工程师和市场人员相互之间可以学习到什么？]() 来自英文：[What engineers and marketers can learn from each other](https://opensource.com/open-organization/17/1/engineers-marketers-can-learn)
 - [ ] 二十二 []() 来自英文：[Open is a means, not a movement](https://opensource.com/open-organization/16/10/open-means-not-movement)
 - [ ] 二十三 []() 来自英文：[Open core, open perimeter, and the future of enterprise software](https://opensource.com/article/17/8/open-core-vs-open-perimeter)
 - [ ] 二十四 []() 来自英文：[Openwashing: adopter beware](https://opensource.com/business/14/12/openwashing-more-prevalent)
@@ -65,7 +65,7 @@ url: ""
 - [ ]  [NumFOCUS 基金会](https://numfocus.org/sponsored-projects)
 - [ ]  [CROSS 孵化开源研究](https://cross.ucsc.edu/)
 - [x] [开源治理模式](posts/foundation_introduce/oss_governance_models/)[OSS Governance Models](http://oss-watch.ac.uk/resources/governancemodels)
-- [ ]  []()，来自英文：[Building a positive meritocracy: It's harder than it sounds](https://opensource.com/business/10/8/building-positive-meritocracy-its-harder-it-sounds)
+- [x]  [打造精英式开放组织：知易行难](posts/the_way_of_open_source/build_a_positive_meritocracy)，来自英文：[Building a positive meritocracy: It's harder than it sounds](https://opensource.com/business/10/8/building-positive-meritocracy-its-harder-it-sounds)
 - [x] 来自英文：[Why There Will Never Be Another Red Hat: The Economics of Open Source](https://a16z.com/2014/02/14/why-there-will-never-be-another-redhat-the-economics-of-open-source)
 - [ ]  年度开源人物奖[](https://en.wikipedia.org/wiki/O%27Reilly_Open_Source_Award)
 - [ ] 世界知名基于开源的商业公司系列（）可参考：[Joseph Jacks 系列文章](https://medium.com/@asynchio)（这个可以重点关注一下，每家公司的历史都可以成为一篇文章的。）
