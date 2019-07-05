@@ -136,7 +136,7 @@ In Subscribed, you'll learn how these companies made the shift, and how you can 
 
 > 开源之所以能够发展成为今天的样子，除了资本的因素之外，还要追溯一种更为根本的原始精神 —— Hacker！
 
-更多内容，请参考完整版开源之道共读导读与书评：[]()
+更多内容，请参考完整版开源之道共读导读与书评：[开源 -- 一部黑客伦理与商业资本相互妥协的融合史](posts/paper_or_book_reading/hackers-book-review)
 
 
 ## 2019 第三季度 主题：开源的生产方式，技术架构与开源协作之间的关系
@@ -157,7 +157,7 @@ In Subscribed, you'll learn how these companies made the shift, and how you can 
 
 **开源之道推荐短评：**
 
-> 
+> 在总结开源项目的开发方面，目前为止在思想上还没有超越过本书的著作出现。
 
 更多内容，请参考完整版开源之道共读导读与书评：[]()
 
