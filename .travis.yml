@@ -1,11 +1,11 @@
-sudo: false
-
-language: go
+sudo: true
 
 git:
   depth: 1
 
-install: go get -v github.com/spf13/hugo@v0.30.2
+install:
+  - wget -O /tmp/hugo.deb https://github.com/gohugoio/hugo/releases/download/v0.52/hugo_0.52_Linux-64bit.deb
+  - sudo dpkg -i /tmp/hugo.deb
 
 script:
   - hugo
