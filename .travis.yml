@@ -5,7 +5,7 @@ language: go
 git:
   depth: 1
 
-install: go get -v github.com/spf13/hugo
+install: go get -v github.com/spf13/hugo@v0.30.2
 
 script:
   - hugo
