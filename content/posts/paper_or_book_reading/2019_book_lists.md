@@ -159,7 +159,7 @@ In Subscribed, you'll learn how these companies made the shift, and how you can 
 
 > 在总结开源项目的开发方面，目前为止在思想上还没有超越过本书的著作出现。
 
-更多内容，请参考完整版开源之道共读导读与书评：[]()
+更多内容，请参考完整版开源之道共读导读与书评：[开放源代码软件的三重境界 ———— 《大教堂与集市》读后感](posts/the_way_of_open_source/the_three_realm_of_open_source_software)
 
 
 ### 2019 年八月 第八期
@@ -168,15 +168,15 @@ In Subscribed, you'll learn how these companies made the shift, and how you can 
 
 英文版: [Producing Open Source Software：How to Run a Successful Free Software Project](http://producingoss.com/en/index.html)， O’Reilly Media,  Karl Fogel 著 (2018)
 
-中文版：[制造开源软件:如何成功运营自由软件项目](https://producingoss.com/zh),基于CreativeCommons Attribution-ShareAlike (3.0) 许可协议，Karl Fogel 著
+中文版：[制造开源软件:如何成功生产自由软件项目](https://producingoss.com/zh),基于CreativeCommons Attribution-ShareAlike (3.0) 许可协议，Karl Fogel 著
 
 如何成功运营项目的向导指南，无论你是用户还是开发者，本书都可以满足你的期望，当然本书还包括了自由软件文化的介绍。
 
 **开源之道推荐短评：**
 
->
+> 开放源代码软件项目的生产究竟有何非同寻常之处？读一本书显然是不够的。
 
-更多内容，请参考完整版开源之道共读导读与书评：[]()
+更多内容，请参考完整版开源之道共读导读与书评：[开放式开发方法的指南 —— ]()
 
 
 ### 2019 年九月 第九期

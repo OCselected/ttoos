@@ -40,13 +40,13 @@ url: ""
 - [ ] 十八 []() 来自英文：[6 reasons open source is good for business](https://opensource.com/article/17/10/6-reasons-choose-open-source-software)
 - [ ] 十九 []() 来自英文：[Why events matter and how to do them right](https://opensource.com/article/17/1/drupal-sibera)
 - [ ] 二十 []() 来自英文：[Be a force for good in your community](https://opensource.com/open-organization/17/1/force-for-good-community)
-- [ ] 二十一 [工程师和市场人员相互之间可以学习到什么？]() 来自英文：[What engineers and marketers can learn from each other](https://opensource.com/open-organization/17/1/engineers-marketers-can-learn)
+- [x] 二十一 [工程师和市场人员相互之间可以学习到什么？](posts/open-source-economic/engineers-marketers-can-learn/) 来自英文：[What engineers and marketers can learn from each other](https://opensource.com/open-organization/17/1/engineers-marketers-can-learn)
 - [ ] 二十二 []() 来自英文：[Open is a means, not a movement](https://opensource.com/open-organization/16/10/open-means-not-movement)
 - [ ] 二十三 []() 来自英文：[Open core, open perimeter, and the future of enterprise software](https://opensource.com/article/17/8/open-core-vs-open-perimeter)
 - [ ] 二十四 []() 来自英文：[Openwashing: adopter beware](https://opensource.com/business/14/12/openwashing-more-prevalent)
 - [x] 二十五 [如何管理开源项目中的即兴贡献者](posts/community_management/managing-casual-contributors/) ，来自英文：[How to manage casual contributors to open source projects](https://opensource.com/article/17/10/managing-casual-contributors)
 - [ ] 二十六 []() 来自英文：[Why I love technical debt](https://opensource.com/article/17/11/why-i-love-technical-debt)
-- [ ] 二十七 []() 来自英文：[Asynchronous decision-making: Helping remote teams succeed](https://opensource.com/article/17/12/asynchronous-decision-making)
+- [ ] 二十七 [不一定非得同步做决策：远程团队成功的秘诀]() 来自英文：[Asynchronous decision-making: Helping remote teams succeed](https://opensource.com/article/17/12/asynchronous-decision-making)
 - [ ] 二十八 []() 来自英文：[Effective Ways to Get Help from Maintainers](https://www.snoyman.com/blog/2017/10/effective-ways-help-from-maintainers)
 
 - [ ] 二十九 []() 来自英文：[How inner sourcing saved our IT department](https://opensource.com/open-organization/18/1/open-orgs-and-inner-source-it)
@@ -70,3 +70,4 @@ url: ""
 - [ ]  年度开源人物奖[](https://en.wikipedia.org/wiki/O%27Reilly_Open_Source_Award)
 - [ ] 世界知名基于开源的商业公司系列（）可参考：[Joseph Jacks 系列文章](https://medium.com/@asynchio)（这个可以重点关注一下，每家公司的历史都可以成为一篇文章的。）
 - [ ] []() 来自英文：[红帽社区知识库](https://community.redhat.com/knowledge/)
+- [ ] [Mariatta Wijaya 谈 Python 社区 ]() 来自英文：[Python Community Interview With Mariatta Wijaya](https://realpython.com/interview-mariatta-wijaya/)
