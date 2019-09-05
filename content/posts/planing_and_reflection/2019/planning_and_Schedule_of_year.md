@@ -74,3 +74,4 @@ url: ""
 - [ ] [开放源代码社区对于我意味着什么？]() 来自英文： [What the open source community means to me](https://opensource.com/article/18/11/what-open-source-community-means-me)
 - [x] [开放源代码软件行业之外的故事之一 -- 一则医疗界的故事](posts/opensource_of_other_industries/the_story_of_don_berwick/)
 - [ ] [开放源代码软件行业之外的故事之二 --关于城市交通]() ,参考资料：[Why Los Angeles decided to open source its future](https://www.techrepublic.com/article/why-la-decided-to-open-source-its-future/)
+- [ ]  参考资料:[What open source is not](https://opensource.com/article/19/8/what-open-source-not)

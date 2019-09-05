@@ -76,3 +76,12 @@ The best solution, von Hippel and his colleagues argue, is a division of labor b
 英文版: [The Success of Open Source](https://book.douban.com/subject/1899468/),Steven Weber ,Harvard University Press ,2004
 
 《开源的成功之路》的编者提出的论点是，开源社区首创精神的意义尤为深远。通过探讨构成财产的基本概念，该社区重新改写了一些最基本的管理问题。与此同时，它正在重建软件世界的政治学和经济学。假如您就像编者一样深信，在未来，软件构成的一些核心工具和原则将指导人类如何协同工作，协助人们创造财富并开创美好的未来，寻求新思想和新问题的解决方案，那么，理解开源如何改变这些过程至关重要。作为一名政治学家，编者更关心社区的管理方式，而非技术本身。编者之所以对开源产生兴趣，正是因为这个新兴的技术社区似乎能够以一种非常新奇而动人的方式，解决在编者看来相当棘手但常见的基本管理问题。
+
+
+### 暂未归类
+
+![](https://mitpress.universitypressscholarship.com/view/covers/9780262017251.jpg)
+
+英文版： [Internet Success: A Study of Open-Source Software Commons](https://mitpress.universitypressscholarship.com/view/10.7551/mitpress/9780262017251.001.0001/upso-9780262017251)，Charles M. Schweik and Robert C. English， Published to MIT Press Scholarship Online，2012
+
+The use of open-source software (OSS)—readable software source code that can be copied, modified, and distributed freely—has expanded dramatically in recent years. The number of OSS projects hosted on SourceForge.net (the largest hosting Web site for OSS), for example, grew from just over 100,000 in 2006 to more than 250,000 at the beginning of 2011. But why are some projects successful—that is, able to produce usable software and sustain ongoing development over time—while others are abandoned? This book, the product of a large-scale empirical study to look at social, technical, and institutional aspects of OSS, examines factors that lead to success in OSS projects and work toward a better understanding of Internet-based collaboration. Drawing on literature from many disciplines and using a theoretical framework developed for the study of environmental commons, it examines stages of OSS development, presenting multivariate statistical models of success and abandonment. The authors argue that analyzing the conditions of OSS successes may also inform Internet collaborations in fields beyond software engineering, particularly those which aim to solve complex technical, social, and political problems.

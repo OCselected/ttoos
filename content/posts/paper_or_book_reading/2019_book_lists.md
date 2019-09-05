@@ -176,7 +176,7 @@ In Subscribed, you'll learn how these companies made the shift, and how you can 
 
 > 开放源代码软件项目的生产究竟有何非同寻常之处？读一本书显然是不够的。
 
-更多内容，请参考完整版开源之道共读导读与书评：[开放式开发方法的指南 —— ]()
+更多内容，请参考完整版开源之道共读导读与书评：[开放源代码软件的生产之道](posts/paper_or_book_reading/the_review_of_producingoss)
 
 
 ### 2019 年九月 第九期
@@ -193,7 +193,7 @@ Today, open source serves as shorthand for much broader trends and behaviors. It
 
 **开源之道推荐短评：**
 
->
+> 开放源代码开发模式是如何工作的？是如何扩展影响到整个软件工业的？
 
 更多内容，请参考完整版开源之道共读导读与书评：[]()
 
