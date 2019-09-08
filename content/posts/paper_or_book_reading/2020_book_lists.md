@@ -65,7 +65,7 @@ Free innovation has both advantages and drawbacks. Because free innovators are s
 
 The best solution, von Hippel and his colleagues argue, is a division of labor between free innovators and producers, enabling each to do what they do best. The result will be both increased producer profits and increased social welfare—a gain for all.
 
-## 2020 第二季度 主题：开源经济学
+## 2020 第二季度 主题：开源的经济、社会、政治学解释
 
 ### 2020 年4月 第四期
 
@@ -78,10 +78,43 @@ The best solution, von Hippel and his colleagues argue, is a division of labor b
 《开源的成功之路》的编者提出的论点是，开源社区首创精神的意义尤为深远。通过探讨构成财产的基本概念，该社区重新改写了一些最基本的管理问题。与此同时，它正在重建软件世界的政治学和经济学。假如您就像编者一样深信，在未来，软件构成的一些核心工具和原则将指导人类如何协同工作，协助人们创造财富并开创美好的未来，寻求新思想和新问题的解决方案，那么，理解开源如何改变这些过程至关重要。作为一名政治学家，编者更关心社区的管理方式，而非技术本身。编者之所以对开源产生兴趣，正是因为这个新兴的技术社区似乎能够以一种非常新奇而动人的方式，解决在编者看来相当棘手但常见的基本管理问题。
 
 
-### 暂未归类
 
 ![](https://mitpress.universitypressscholarship.com/view/covers/9780262017251.jpg)
 
 英文版： [Internet Success: A Study of Open-Source Software Commons](https://mitpress.universitypressscholarship.com/view/10.7551/mitpress/9780262017251.001.0001/upso-9780262017251)，Charles M. Schweik and Robert C. English， Published to MIT Press Scholarship Online，2012
 
 The use of open-source software (OSS)—readable software source code that can be copied, modified, and distributed freely—has expanded dramatically in recent years. The number of OSS projects hosted on SourceForge.net (the largest hosting Web site for OSS), for example, grew from just over 100,000 in 2006 to more than 250,000 at the beginning of 2011. But why are some projects successful—that is, able to produce usable software and sustain ongoing development over time—while others are abandoned? This book, the product of a large-scale empirical study to look at social, technical, and institutional aspects of OSS, examines factors that lead to success in OSS projects and work toward a better understanding of Internet-based collaboration. Drawing on literature from many disciplines and using a theoretical framework developed for the study of environmental commons, it examines stages of OSS development, presenting multivariate statistical models of success and abandonment. The authors argue that analyzing the conditions of OSS successes may also inform Internet collaborations in fields beyond software engineering, particularly those which aim to solve complex technical, social, and political problems.
+
+
+[THE OPEN REVOLUTION]()
+
+开放出版：https://openrevolution.net
+
+## 2020第三季度，主题：开放源代码软件中的法律问题
+
+![Open Source for Business](./images/open-source-reading-list14.jpg)
+
+英文版：[Open Source for Business: A Practical Guide to Open Source Software Licensing, 2nd Edition](http://www.pdffull.co/files/book.php?id=1544737645) ， Heather Meeker 著
+
+欲理解开源软件许可证，必读书之一。
+
+
+![Intellectual Property and Open Source](./images/open-source-reading-list18.jpg)
+
+[Intellectual Property and Open Source](https://www.amazon.cn/dp/0596517963/ref=sr_1_1?ie=UTF8&qid=1536763039&sr=8-1&keywords=Intellectual-Property-Open-Source-Protecting)， O'Reilly Media, Inc,，Van Lindberg 著， (2008年7月29日)
+
+该书通过工程师的视角来看待开源的许可协议，没有基于律师的视野也是令人陶醉的决定。既然是给“外行人”看的，那么就会涉及到一点关于相关法律的历史介绍，诸如为什么我们需要商标？为什么我们需要版权所有？等等。
+
+
+
+![The International Free and Open Source Software Law Book](./images/open-source-reading-list20.jpg)
+
+英文版：[The International Free and Open Source Software Law Book](http://ifosslawbook.org/), 开源出版, Ywein Van den Brande, Shane Coughlan, 和 Till Jaeger 合著(2014)
+
+关于自由和开源软件法律在不同国家的影响，这是一本非常引人入胜的读物。卓越律师合著。
+
+## 2020第三季度，主题：Unknow
+
+Why Open Source Software / Free Software (OSS/FS, FLOSS, or FOSS)? Look at the Numbers!
+
+https://dwheeler.com/oss_fs_why.html
