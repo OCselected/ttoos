@@ -42,7 +42,7 @@ url: ""
 - [ ] 二十 []() 来自英文：[Be a force for good in your community](https://opensource.com/open-organization/17/1/force-for-good-community)
 - [x] 二十一 [工程师和市场人员相互之间可以学习到什么？](posts/open-source-economic/engineers-marketers-can-learn/) 来自英文：[What engineers and marketers can learn from each other](https://opensource.com/open-organization/17/1/engineers-marketers-can-learn)
 - [ ] 二十二 []() 来自英文：[Open is a means, not a movement](https://opensource.com/open-organization/16/10/open-means-not-movement)
-- [ ] 二十三 []() 来自英文：[Open core, open perimeter, and the future of enterprise software](https://opensource.com/article/17/8/open-core-vs-open-perimeter)
+- [x] 二十三 []() 来自英文：[Open core, open perimeter, and the future of enterprise software](https://opensource.com/article/17/8/open-core-vs-open-perimeter)
 - [ ] 二十四 []() 来自英文：[Openwashing: adopter beware](https://opensource.com/business/14/12/openwashing-more-prevalent)
 - [x] 二十五 [如何管理开源项目中的即兴贡献者](posts/community_management/managing-casual-contributors/) ，来自英文：[How to manage casual contributors to open source projects](https://opensource.com/article/17/10/managing-casual-contributors)
 - [ ] 二十六 []() 来自英文：[Why I love technical debt](https://opensource.com/article/17/11/why-i-love-technical-debt)
@@ -70,7 +70,6 @@ url: ""
 - [ ]  年度开源人物奖[](https://en.wikipedia.org/wiki/O%27Reilly_Open_Source_Award)
 - [ ] 世界知名基于开源的商业公司系列（）可参考：[Joseph Jacks 系列文章](https://medium.com/@asynchio)（这个可以重点关注一下，每家公司的历史都可以成为一篇文章的。）
 - [ ] []() 来自英文：[红帽社区知识库](https://community.redhat.com/knowledge/)
-- [ ] [Mariatta Wijaya 谈 Python 社区 ]() 来自英文：[Python Community Interview With Mariatta Wijaya](https://realpython.com/interview-mariatta-wijaya/)
 - [ ] [开放源代码社区对于我意味着什么？]() 来自英文： [What the open source community means to me](https://opensource.com/article/18/11/what-open-source-community-means-me)
 - [x] [开放源代码软件行业之外的故事之一 -- 一则医疗界的故事](posts/opensource_of_other_industries/the_story_of_don_berwick/)
 - [ ] [开放源代码软件行业之外的故事之二 --关于城市交通]() ,参考资料：[Why Los Angeles decided to open source its future](https://www.techrepublic.com/article/why-la-decided-to-open-source-its-future/)
