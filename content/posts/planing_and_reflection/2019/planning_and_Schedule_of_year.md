@@ -64,6 +64,8 @@ url: ""
 - [ ]  [Kubernetes 背后的三剑侠](https://siliconangle.com/2019/04/12/google-women-power-rise-kubernetes/)
 - [ ]  [NumFOCUS 基金会](https://numfocus.org/sponsored-projects)
 - [ ]  [CROSS 孵化开源研究](https://cross.ucsc.edu/)
+- [ ]  [可持续的自由和开源社区介绍](https://sfosc.org/)
+- [ ]  [我们需要可持续的自由和开源社区](https://medium.com/sustainable-free-and-open-source-communities/we-need-sustainable-free-and-open-source-communities-edf92723d619)
 - [x] [开源治理模式](posts/foundation_introduce/oss_governance_models/)[OSS Governance Models](http://oss-watch.ac.uk/resources/governancemodels)
 - [x]  [打造精英式开放组织：知易行难](posts/the_way_of_open_source/build_a_positive_meritocracy)，来自英文：[Building a positive meritocracy: It's harder than it sounds](https://opensource.com/business/10/8/building-positive-meritocracy-its-harder-it-sounds)
 - [x] 来自英文：[Why There Will Never Be Another Red Hat: The Economics of Open Source](https://a16z.com/2014/02/14/why-there-will-never-be-another-redhat-the-economics-of-open-source)
