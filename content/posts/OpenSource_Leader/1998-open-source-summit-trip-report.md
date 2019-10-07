@@ -135,3 +135,5 @@ Eric Raymond 为属于“Open Source”注册了商标，并在他的网站上�
 * [Tim O'Reilly 关于Freeware的说法](http://www.oreilly.com/oreilly/press/freeware.html)
 * [Eric Raymond 的论文](http://www.earthspace.net/~esr/writings/cathedral-bazaar/)，《大教堂与集市》
 * [Eric Raymond 开源站点](http://www.opensource.org/)
+
+原文链接:[Open Source Summit Trip Report](https://linuxgazette.net/issue28/rossum.html)
