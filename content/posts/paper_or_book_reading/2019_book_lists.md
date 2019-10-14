@@ -195,7 +195,7 @@ Today, open source serves as shorthand for much broader trends and behaviors. It
 
 > 开放源代码开发模式是如何工作的？是如何扩展影响到整个软件工业的？
 
-更多内容，请参考完整版开源之道共读导读与书评：[]()
+更多内容，请参考完整版开源之道共读导读与书评：[开放源代码是如何吞噬软件的](posts/paper_or_book_reading/book_review_of_hosas)
 
 
 
@@ -213,7 +213,7 @@ Today, open source serves as shorthand for much broader trends and behaviors. It
 
 **开源之道推荐短评：**
 
->
+> 重温20年前倡导开源的开拓者和践行者们的思想表达！
 
 更多内容，请参考完整版开源之道共读导读与书评：[]()
 
@@ -228,7 +228,7 @@ The book analyzes a number of key topics: the motivation behind F/OSS―why high
 
 **开源之道推荐短评：**
 
->
+> 洞察自由/开源软件背后的缘由：激励、经济、工程、文化与社会。
 
 更多内容，请参考完整版开源之道共读导读与书评：[]()
 

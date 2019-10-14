@@ -98,3 +98,5 @@ url: ""
 
 - [ ] [开放源代码软件行业之外的故事之二 --关于城市交通]() ,参考资料：[Why Los Angeles decided to open source its future](https://www.techrepublic.com/article/why-la-decided-to-open-source-its-future/)
 - [ ]  参考资料:[What open source is not](https://opensource.com/article/19/8/what-open-source-not)
+- [ ]  参考资料：[Is DevOps compatible with part-time community teams?](https://opensource.com/article/18/4/devops-compatible-part-time-community-teams)
+- [ ]  参考资料：[When Metrics Go Wrong](http://community.redhat.com/blog/2014/07/when-metrics-go-wrong/)
