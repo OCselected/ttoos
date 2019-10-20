@@ -269,22 +269,3 @@ Divided into four parts, Open Life starts rather philosophically by comparing th
 > “资本(340亿美元)是衡量一家公司的外在体现，而真正的价值是人本身，以及这些人所形成的开放式组织。”
 
 更多内容，请参考完整版开源之道共读导读与书评：[开源商业背后的强大力量 ———— 开放组织](posts/paper_or_book_reading/the_open_organization_review)
-
-
-### 利用开源打造你的职业生涯
-
-![](https://imagery.pragprog.com/products/542/vbopens_xlargecover.jpg?1516635915)
-
-[Forge Your Future with Open Source](https://pragprog.com/book/vbopens/forge-your-future-with-open-source),VM (Vicky) Brasseur
-
-> Free and open source is the foundation of software development, and it’s built by people just like you. Discover the fundamental tenets that drive the movement. Take control of your career by selecting the right project to meet your professional goals. Master the language and avoid the pitfalls that typically ensnare new contributors. Join a community of like-minded people and change the world. Programmers, writers, designers, and everyone interested in software will make their mark through free and open source software contributions.
-
-> This book doesn’t assume that you’re a programmer, or even that you have prior experience with free and open source software. Learn what open source is, where it came from, and why it’s important. Start on the right foot by mastering the structure and tools you need before you contribute. Choose the right project for you, amplifying the impact of your contribution. Submit your first contribution, whether it’s code, writing, design, or community organizing. Find out what to do when things don’t go the way you expect. Discover how to start your own project and make it friendly and welcoming to contributors.
-
-> Anyone can contribute! Make your mark today and help others while also helping yourself.
-
-**开源之道推荐短评：**
-
->
-
-更多内容，请参考完整版开源之道共读导读与书评：[]()

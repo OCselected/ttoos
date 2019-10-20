@@ -100,3 +100,4 @@ url: ""
 - [ ]  参考资料:[What open source is not](https://opensource.com/article/19/8/what-open-source-not)
 - [ ]  参考资料：[Is DevOps compatible with part-time community teams?](https://opensource.com/article/18/4/devops-compatible-part-time-community-teams)
 - [ ]  参考资料：[When Metrics Go Wrong](http://community.redhat.com/blog/2014/07/when-metrics-go-wrong/)
+- [ ]  参考资料：[Balancing Makers and Takers to scale and sustain Open Source](https://dri.es/balancing-makers-and-takers-to-scale-and-sustain-open-source)
