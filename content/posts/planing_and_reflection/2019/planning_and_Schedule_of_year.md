@@ -94,7 +94,7 @@ url: ""
 - [ ]  年度开源人物奖[](https://en.wikipedia.org/wiki/O%27Reilly_Open_Source_Award)
 - [ ] 世界知名基于开源的商业公司系列（）可参考：[Joseph Jacks 系列文章](https://medium.com/@asynchio)（这个可以重点关注一下，每家公司的历史都可以成为一篇文章的。）
 - [ ] []() 来自英文：[红帽社区知识库](https://community.redhat.com/knowledge/)
-- [ ] [开放源代码社区对于我意味着什么？]() 来自英文： [What the open source community means to me](https://opensource.com/article/18/11/what-open-source-community-means-me)
+- [x] [开放源代码社区对于我意味着什么？](posts/OpenSource_Leader/what-open-source-community-means-me) 来自英文： [What the open source community means to me](https://opensource.com/article/18/11/what-open-source-community-means-me)
 
 - [ ] [开放源代码软件行业之外的故事之二 --关于城市交通]() ,参考资料：[Why Los Angeles decided to open source its future](https://www.techrepublic.com/article/why-la-decided-to-open-source-its-future/)
 - [ ]  参考资料:[What open source is not](https://opensource.com/article/19/8/what-open-source-not)
