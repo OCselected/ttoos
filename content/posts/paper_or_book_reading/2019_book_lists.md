@@ -215,7 +215,7 @@ Today, open source serves as shorthand for much broader trends and behaviors. It
 
 > 重温20年前倡导开源的开拓者和践行者们的思想表达！
 
-更多内容，请参考完整版开源之道共读导读与书评：[]()
+更多内容，请参考完整版开源之道共读导读与书评：[如何开源，决定于认识开源](posts/paper_or_book_reading/book_review_of_voice_from_the_osr)
 
 
 ### 2019年11月 第十一期
