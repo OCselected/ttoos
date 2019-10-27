@@ -101,3 +101,4 @@ url: ""
 - [ ]  参考资料：[Is DevOps compatible with part-time community teams?](https://opensource.com/article/18/4/devops-compatible-part-time-community-teams)
 - [ ]  参考资料：[When Metrics Go Wrong](http://community.redhat.com/blog/2014/07/when-metrics-go-wrong/)
 - [ ]  参考资料：[Balancing Makers and Takers to scale and sustain Open Source](https://dri.es/balancing-makers-and-takers-to-scale-and-sustain-open-source)
+- [ ]  参考资料：[Open Science Means Open Source--Or, at Least, It Should](https://www.linuxjournal.com/content/open-science-means-open-source-or-least-it-should)
