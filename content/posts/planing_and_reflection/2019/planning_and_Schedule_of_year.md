@@ -43,6 +43,9 @@ url: ""
 - [x] 二十七 [不一定非得同步做决策：远程团队成功的秘诀](posts/opensource_culture/asynchronous-decision-making) 来自英文：[Asynchronous decision-making: Helping remote teams succeed](https://opensource.com/article/17/12/asynchronous-decision-making)
 - [x] [开放源代码软件行业之外的故事之一 -- 一则医疗界的故事](posts/opensource_of_other_industries/the_story_of_don_berwick/)
 - [x] 十六 ／2019-04-19 [开源之道解读红帽企业开源调查2019](posts/Event_analysis/redhat_enterprise_open_source_survey) 来自英文：[红帽企业开源调查2019版](https://www.redhat.com/en/blog/survey-says-enterprise-open-source-inventing-future-software?source=author&term=20311)
+- [x] [开放源代码社区对于我意味着什么？](posts/OpenSource_Leader/what-open-source-community-means-me) 来自英文： [What the open source community means to me](https://opensource.com/article/18/11/what-open-source-community-means-me)
+
+
 - [ ] 十二 [如何决定是否开源您的SaaS解决方案](https://opensource.com/article/18/5/open-source-saas-y-world)
 - [ ] 十三 [将SaaS开源之后所面临的可能挑战](https://opensource.com/article/18/5/open-source-saas-y-world-part-2)
 
@@ -76,8 +79,6 @@ url: ""
 - [ ] []() Come from English :[Greg Kroah-Hartman: The Commander-in-Chief of the Linux Stable Branch](https://thenewstack.io/greg-kroah-hartman-commander-chief-linux-stable-branch)
  [ ] []() Come from English :[The new Fedora Project mission statement](https://lwn.net/Articles/720055/)
 - [ ] []() Come from English :[Projects that make their rules explicit would see more participation](https://opensource.com/open-organization/18/4/new-governance-model-research)
-- [ ] []() Come from English :[]()
-- [ ] []() Come from English :[]()
 - [ ] 三十四 []() 来自英文：[为什么说开源失败了？](https://medium.com/@johnmark/why-open-source-failed-6cae5d6a9f6)
 - [ ] 三十五 []() 来自英文：[Why Decentralization Matters](https://medium.com/@cdixon/why-decentralization-matters-5e3f79f7638e)
 - [ ] 三十六 []() 来自英文：[Open Source Culture Starts with Programs and Policies](https://thenewstack.io/open-source-culture-starts-with-programs-and-policies/)
@@ -94,7 +95,6 @@ url: ""
 - [ ]  年度开源人物奖[](https://en.wikipedia.org/wiki/O%27Reilly_Open_Source_Award)
 - [ ] 世界知名基于开源的商业公司系列（）可参考：[Joseph Jacks 系列文章](https://medium.com/@asynchio)（这个可以重点关注一下，每家公司的历史都可以成为一篇文章的。）
 - [ ] []() 来自英文：[红帽社区知识库](https://community.redhat.com/knowledge/)
-- [x] [开放源代码社区对于我意味着什么？](posts/OpenSource_Leader/what-open-source-community-means-me) 来自英文： [What the open source community means to me](https://opensource.com/article/18/11/what-open-source-community-means-me)
 
 - [ ] [开放源代码软件行业之外的故事之二 --关于城市交通]() ,参考资料：[Why Los Angeles decided to open source its future](https://www.techrepublic.com/article/why-la-decided-to-open-source-its-future/)
 - [ ]  参考资料:[What open source is not](https://opensource.com/article/19/8/what-open-source-not)
