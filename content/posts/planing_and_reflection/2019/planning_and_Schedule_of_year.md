@@ -46,7 +46,7 @@ url: ""
 - [x] 二十四 [开放源代码社区对于我意味着什么？](posts/OpenSource_Leader/what-open-source-community-means-me) 来自英文： [What the open source community means to me](https://opensource.com/article/18/11/what-open-source-community-means-me)
 - [x]  二十五 [开源不是什么?](posts/opensource_culture/what-open-source-not/) ，参考资料:[What open source is not](https://opensource.com/article/19/8/what-open-source-not)
 - [x] 二十六 [开源天使 ———— GitHub 赞助功能的缔造者： Devon Zuegel](posts/OpenSource_Leader/open-source-angel-Devon-Zuege) 参考资料：[想让世界变得更加美好？资助开源开发者啊](https://www.itwire.com/the-linux-distillery/want-to-make-the-world-a-better-place-fund-open-source-developers.html)
-- [ ] 二十七 []() 参考资料：[Open Science Means Open Source--Or, at Least, It Should](https://www.linuxjournal.com/content/open-science-means-open-source-or-least-it-should)
+- [x] 二十七 [从科学的开放精神来看开源](posts/opensource_culture/open-science-means-open-source-or-least-it-should) 参考资料：[Open Science Means Open Source--Or, at Least, It Should](https://www.linuxjournal.com/content/open-science-means-open-source-or-least-it-should)
 - [ ] 二十八 []() Come from English :[The Art of Community: Building Belonging](https://www.jonobacon.com/2011/05/31/the-art-of-community-building-belonging/)
 - [ ] 二十九 [开放源代码软件行业之外的故事之二 --关于城市交通]() ,参考资料：[Why Los Angeles decided to open source its future](https://www.techrepublic.com/article/why-la-decided-to-open-source-its-future/)
 
@@ -95,3 +95,5 @@ url: ""
 - [ ]  参考资料：[When Metrics Go Wrong](http://community.redhat.com/blog/2014/07/when-metrics-go-wrong/)
 - [ ]  参考资料：[Balancing Makers and Takers to scale and sustain Open Source](https://dri.es/balancing-makers-and-takers-to-scale-and-sustain-open-source)
 - [ ] [开放源代码软件行业之外的故事之三 -- 开放农业的故事]() ,参考资料：[Could open source agriculture revolutionize the industry?](https://urbanagnews.com/blog/exclusives/food-for-thought-could-open-source-agriculture-revolutionize-the-industry/)
+- [ ] Magento 的提交者魔力 [The mechanics behind Magento's contributor magic](https://www.techrepublic.com/article/the-mechanics-behind-magentos-contributor-magic/)
+- [ ] [Our Founders look back on 20 Years of the ASF!](https://blogs.apache.org/foundation/entry/our-founders-look-back-on)
