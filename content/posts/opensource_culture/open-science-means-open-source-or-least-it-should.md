@@ -19,7 +19,7 @@ url: ""
 
 ![](https://www.linuxjournal.com/sites/default/files/styles/1700x1000/public/nodeimage/story/bigstock--219930337.jpg?itok=brFQ_bH2)
 
-##  为何说开源其实发生在1965年
+## 为何说开源其实发生在1665年
 
 各位知识渊博的看官，你认为开源是从什么开始的？是1998年2月份[Christine Peterson所定义的吗](https://opensource.com/article/18/2/coining-term-open-source-software)？还是 Richard Stallman 在1989年所描绘的 GNU GPL 下的 ["subroutinized"](https://groups.google.com/forum/#!msg/gnu.announce/m0Jjj_64PeQ/8xL1xkVKJb8J)？亦或者是更早些时候的1985年，Richard Stallman 所创建的[GNU Emacs 许可证](https://github.com/larsbrinkhoff/emacs-16.56/blob/master/etc/COPYING)？还是1665年3月6日这天所发生的如下声明了呢？
 
