@@ -230,7 +230,7 @@ The book analyzes a number of key topics: the motivation behind F/OSS―why high
 
 > 洞察自由/开源软件背后的缘由：激励、经济、工程、文化与社会。
 
-更多内容，请参考完整版开源之道共读导读与书评：[]()
+更多内容，请参考完整版开源之道共读导读与书评：[近距离看开源是什么？有什么？](posts/paper_or_book_reading/book_review_of_mitfoss)
 
 
 ### 2019年12月 第十二期

@@ -147,7 +147,7 @@ The best solution, von Hippel and his colleagues argue, is a division of labor b
 
 ## 2020 第二季度 主题：开源的经济、社会、政治学解释
 
-### 2020 年4月 第四期
+### 2020 年7月 第七期
 
 ![](https://img1.doubanio.com/view/subject/l/public/s3077608.jpg)
 
@@ -163,6 +163,7 @@ The best solution, von Hippel and his colleagues argue, is a division of labor b
 
 更多内容，请参考完整版开源之道共读导读与书评：[]()
 
+### 2020 年8月 第八期
 
 ![](https://mitpress.universitypressscholarship.com/view/covers/9780262017251.jpg)
 
@@ -231,15 +232,19 @@ The use of open-source software (OSS)—readable software source code that can b
 更多内容，请参考完整版开源之道共读导读与书评：[]()
 
 
-## 2020第四季度，主题：Unknow
+## 2020第四季度，主题：Community
 
 
-### 为什么是开源/自由软件？让我们来看看数字
+### The Art of Community: Seven Principles for Belonging
 
+![](http://www.charlesvogl.com/static/img/book/cover-book.png)
 
-Why Open Source Software / Free Software (OSS/FS, FLOSS, or FOSS)? Look at the Numbers!
+>Strong cultures help people support one another, share their passions, and achieve big goals.
 
-https://dwheeler.com/oss_fs_why.html
+>And such cultures of belonging aren’t just happy accidents — they can be purposefully cultivated, whether they’re in a company, a faith institution or among friends and enthusiasts. Drawing on 3,000 years of history and his personal experience, Charles Vogl lays out seven time-tested principles for growing enduring, effective and connected communities. He provides hands-on tools for creatively adapting these principles to any group — formal or informal, mission driven or social, physical or virtual.
+
+>This book is a guide for leaders seeking to build a vibrant, living culture that will enrich lives.
+
 
 **开源之道推荐短评：**
 
@@ -259,6 +264,53 @@ https://dwheeler.com/oss_fs_why.html
 > This book doesn’t assume that you’re a programmer, or even that you have prior experience with free and open source software. Learn what open source is, where it came from, and why it’s important. Start on the right foot by mastering the structure and tools you need before you contribute. Choose the right project for you, amplifying the impact of your contribution. Submit your first contribution, whether it’s code, writing, design, or community organizing. Find out what to do when things don’t go the way you expect. Discover how to start your own project and make it friendly and welcoming to contributors.
 
 > Anyone can contribute! Make your mark today and help others while also helping yourself.
+
+**开源之道推荐短评：**
+
+>
+
+更多内容，请参考完整版开源之道共读导读与书评：[]()
+
+### People Powered: How Communities Can Supercharge Your Business, Brand, and Teams
+
+![](https://images-na.ssl-images-amazon.com/images/I/41zketWBS1L._SX326_BO1,204,203,200_.jpg)
+
+> What if you discovered a blueprint that could grow your brand’s reputation and loyalty, dramatically reduce customer service issues, produce content and technology, and cement a powerful, lasting relationship between you and your customers?
+
+> Communities have been a popular topic since the rise of the Internet and social media, but few companies have consistently harnessed their power, driven tangible value, and effectively measured their return on investment (ROI) like:
+
+* Salesforce.com has seen tremendous results with their community network of over 2 million members advocating for, supporting, and integrating Salesforce.com products
+* Star Citizen used Kickstarter to raise over $150 million to build their new video game and a community of over 2 million players.
+* Red Hat collaborated with their community to build industry-leading technology, which led to a $34 billion acquisition by IBM
+* Companies such as PayPal, Facebook, Bosch, Microsoft, CapitalOne, and Google, have also built communities inside their organizations, which have fostered innovation, broken down silos, and helped their organizations to operate more efficiently and collaboratively.
+
+> People Powered helps C-suite leaders, founders, marketers, customer advocates, and community leaders gain a competitive advantage by answering the following questions:
+
+* What is the key value proposition of building a community?
+* What kind of community do we need and how do we build and integrate it into our organization?
+* How do we incentivize and encourage people to get involved, build reliable growth, and keep community members engaged?
+* How do we develop authentic, productive relationships with community members both online and in person?
+* How do we get departmental buy-in, hire effectively, and create consistent, reliable community engagement skills in our organization?
+* What are the strategic and tactical pitfalls and roadblocks we need to avoid?
+* How do we make sure that our community continues to grow with us—and more importantly, how do we make sure that we continue to grow with them?
+
+> People Powered pulls together over 20 years of pragmatic experience into a clear, simple methodology and blueprint to not just answer these questions, but deliver results. It also includes contributions from industry leaders including Joseph Gordon-Levitt (Emmy-award winning actor), Peter H. Diamandis (Founder of XPRIZE, Singularity University), Jim Zemlin (Executive Director, The Linux Foundation), Mike Shinoda (Co-Founder, Linkin Park), Jim Whitehurst (CEO, Red Hat), and more.
+
+> Don’t get left behind—become an industry trailblazer and ensure your company’s longevity by tapping into the most dynamic force both outside and inside your organization: the people.
+
+**开源之道推荐短评：**
+
+>
+
+更多内容，请参考完整版开源之道共读导读与书评：[]()
+
+
+### 为什么是开源/自由软件？让我们来看看数字
+
+
+Why Open Source Software / Free Software (OSS/FS, FLOSS, or FOSS)? Look at the Numbers!
+
+https://dwheeler.com/oss_fs_why.html
 
 **开源之道推荐短评：**
 
