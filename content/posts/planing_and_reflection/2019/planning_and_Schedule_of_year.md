@@ -47,13 +47,12 @@ url: ""
 - [x]  二十五 [开源不是什么?](posts/opensource_culture/what-open-source-not/) ，参考资料:[What open source is not](https://opensource.com/article/19/8/what-open-source-not)
 - [x] 二十六 [开源天使 ———— GitHub 赞助功能的缔造者： Devon Zuegel](posts/OpenSource_Leader/open-source-angel-Devon-Zuege) 参考资料：[想让世界变得更加美好？资助开源开发者啊](https://www.itwire.com/the-linux-distillery/want-to-make-the-world-a-better-place-fund-open-source-developers.html)
 - [x] 二十七 [从科学的开放精神来看开源](posts/opensource_culture/open-science-means-open-source-or-least-it-should) 参考资料：[Open Science Means Open Source--Or, at Least, It Should](https://www.linuxjournal.com/content/open-science-means-open-source-or-least-it-should)
-- [ ] 二十八 []() Come from English :[The Art of Community: Building Belonging](https://www.jonobacon.com/2011/05/31/the-art-of-community-building-belonging/)
-- [ ] 二十九 [开放源代码软件行业之外的故事之二 --关于城市交通]() ,参考资料：[Why Los Angeles decided to open source its future](https://www.techrepublic.com/article/why-la-decided-to-open-source-its-future/)
-
+- [ ] 二十八 [共同体的艺术：打造归属感](posts/Community_Management/the-art-of-community-building-belonging) Come from English :[The Art of Community: Building Belonging](https://www.jonobacon.com/2011/05/31/the-art-of-community-building-belonging/)
+- [ ] 二十九 [开源之道解读Liunx基金会开源办公室调查报告](posts/Event_analysis/2019_open_source_program_survey_result) 来自英语：[2019 Open Source Program Survey Results](https://github.com/todogroup/survey/tree/master/2019)
 
 -----
 
-
+- [ ]  [开放源代码软件行业之外的故事之二 --关于城市交通]() ,参考资料：[Why Los Angeles decided to open source its future](https://www.techrepublic.com/article/why-la-decided-to-open-source-its-future/)
 - [ ]  来自英文：[FOSS as a Part of a Corporate Sustainability Plan](https://www.linuxjournal.com/content/foss-part-corporate-sustainability-plan)
 - [ ]  []() 职业生涯 来自英文：[Lessons from a brief career in open source](https://opensource.com/article/17/2/preparing-career-open-source)
 - [ ]  []() 来自英文：[6 reasons open source is good for business](https://opensource.com/article/17/10/6-reasons-choose-open-source-software)
