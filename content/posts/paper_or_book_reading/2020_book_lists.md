@@ -4,7 +4,7 @@ categories:
 - 感悟
 - 读后感
 date: 2019-03-15T13:40:02+08:00
-description: "读书是一种非常不错的求知方式，也是一种不错的群体达成共识的方式。我们沉下心来，以知识为指引，启迪我们开发出更好的产品来。"
+description: "读书是一种非常不错的求知方式，也是一种不错的群体达成共识的方式。我们沉下心来，以知识为指引，启迪我们开发出更好的产品来。2020年，我们继往开来，共读共进。"
 keywords:
 - Open Source
 - Culture
@@ -18,11 +18,23 @@ title: "开源之道共读图书列表（2020版）"
 url: ""
 ---
 
-## 共读之申明篇
+## 共读之规则
 
-**本文列举的是2020年所精心选择的12本开源相关图书**，关于共读的初衷，以及参与方式，请看官移步：[开源之道图书和文献共读申明](posts/paper_or_book_reading/establish_reading_os_community)，有更多详细的内容。
+**本文列举的是2020年所精心选择的开源相关图书**，以及如下规则：
 
-## 2020 第一季度 主题：开放式组织
+### 1. 读者可以根据自己的兴趣、问题求解、思考来选择开源相关图书
+
+### 2. 读者可以自行组织共读小组（可选：撰写读后感或短评）
+
+### 3. 开源之道图书共读发起人适兕会按照自己的路径进行阅读和撰写读后感，读者可自由选择是否follow
+
+### 4. 读者根据自身情况组织线下交流活动，并决定是否记录当时的讨论
+
+
+
+关于共读的初衷，以及参与方式，请看官移步：[开源之道图书和文献共读申明](posts/paper_or_book_reading/establish_reading_os_community)，有更多详细的内容。
+
+## 2020  主题一：开放式组织
 
 > 2020，毫无疑问仍将是开源之年，开源在协作、工程、管理、创新、经济效益方面仍将保持增长，这个季度我们不妨放开月度一本的规划，一个季度读6本小书，试试效果如何。[开放式组织小书系列](https://opensource.com/open-organization/resources/book-series)，
 
@@ -82,9 +94,9 @@ In Organize for Innovation, Red Hat President and CEO Jim Whitehurst reflects on
 更多内容，请参考完整版开源之道共读导读与书评：[]()
 
 
-## 2020 第二季度 主题：开放式创新
+## 2020 主题二：开放式创新
 
-### 2020 年四月 第四期
+### 
 
 ![](https://images-na.ssl-images-amazon.com/images/I/51JKAEYB80L._SX334_BO1,204,203,200_.jpg)
 
@@ -101,7 +113,7 @@ In Organize for Innovation, Red Hat President and CEO Jim Whitehurst reflects on
 更多内容，请参考完整版开源之道共读导读与书评：[]()
 
 
-### 2020 年五月 第五期
+### 
 
 ![](http://t2.gstatic.com/images?q=tbn:ANd9GcS-HXz4yvnFx-iV74-drhNwqXAJcpAPtuh9dt-f8J2pcoE4J-ZH)
 
@@ -122,7 +134,7 @@ Henry Chesbrough is an Assistant Professor of Technology and Operations Manageme
 更多内容，请参考完整版开源之道共读导读与书评：[]()
 
 
-### 2020 年六月 第六期
+### 
 
 ![](https://mitpress.mit.edu/sites/default/files/styles/large_book_cover/http/mitp-content-server.mit.edu%3A18180/books/covers/cover/%3Fcollid%3Dbooks_covers_0%26isbn%3D9780262035217%26type%3D.jpg?itok=s2N0P3w5)
 
@@ -144,7 +156,7 @@ The best solution, von Hippel and his colleagues argue, is a division of labor b
 
 更多内容，请参考完整版开源之道共读导读与书评：[]()
 
-### 2020 年7月 第七期
+### 
 
 ![](https://images-cn.ssl-images-amazon.com/images/I/51LHBOgeCOL.jpg)
 
@@ -163,7 +175,7 @@ Without hackers there would be no universal access to e-mail, no Internet, no Wo
 更多内容，请参考完整版开源之道共读导读与书评：[]()
 
 
-## 2020 第二季度 主题：开源的经济、社会、政治学解释
+## 2020 主题三：开源的经济、社会、政治学解释
 
 ### 
 
@@ -181,7 +193,7 @@ Without hackers there would be no universal access to e-mail, no Internet, no Wo
 
 更多内容，请参考完整版开源之道共读导读与书评：[]()
 
-### 2020 年8月 第八期
+### 
 
 ![](https://mitpress.universitypressscholarship.com/view/covers/9780262017251.jpg)
 
@@ -208,7 +220,7 @@ The use of open-source software (OSS)—readable software source code that can b
 更多内容，请参考完整版开源之道共读导读与书评：[]()
 
 
-## 2020第三季度，主题：开放源代码软件中的法律问题
+## 2020 主题三：开放源代码软件中的法律问题
 
 ![Open Source for Business](./images/open-source-reading-list14.jpg)
 
@@ -250,7 +262,7 @@ The use of open-source software (OSS)—readable software source code that can b
 更多内容，请参考完整版开源之道共读导读与书评：[]()
 
 
-## 2020第四季度，主题：Community
+## 2020 主题四：Community
 
 
 ### The Art of Community: Seven Principles for Belonging
