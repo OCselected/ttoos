@@ -16,11 +16,20 @@ title: "开源之道2020年计划表"
 url: ""
 ---
 
-## 
+## 引言
+
+2019年是开源的重要转折之年，开源文化中重要的斗争对象——微软，俨然180度的大转弯，云计算也深谙开源，无论是AWS，还是阿里云，都将开源拿的死死的，当然还有Kubernetes这样颠覆式的技术平台展示出它的威力......
+
+2019年的开源之道也是收获颇丰，企业培训、撰写教材、协助华师大开源课程、图书共读共同体建设和内容输出、Community Leadership development 小组成立、X-lab 开放实验室开源导师、OpenI/O 开发者大会分论坛出品人等，至少开源之道影响了一些人，圈内人渐渐知道了适兕的努力。
+
+2020年，适兕会加倍努力，除了每周一篇文章、每周开源评论之外，还要外加一个关于开源共同体领导力相关的文章输出，当然这都算在自己的业余时间之外，自己的养家糊口的工作也是需要更加的努力。
+
+加油！功不唐捐！
 
 
 ## 具体事项
-- [ ] 一、 [共同体的艺术：打造归属感](posts/Community_Management/the-art-of-community-building-belonging) Come from English :[The Art of Community: Building Belonging](https://www.jonobacon.com/2011/05/31/the-art-of-community-building-belonging/)
+- [x] 一、 [共同体的艺术：打造归属感](posts/Community_Management/the-art-of-community-building-belonging) Come from English :[The Art of Community: Building Belonging](https://www.jonobacon.com/2011/05/31/the-art-of-community-building-belonging/)
+- [ ] 二、[Our Founders look back on 20 Years of the ASF!](https://blogs.apache.org/foundation/entry/our-founders-look-back-on)
 - [ ] 开放源代码软件行业之外的故事之二 --关于城市交通]() ,参考资料：[Why Los Angeles decided to open source its future](https://www.techrepublic.com/article/why-la-decided-to-open-source-its-future/)
 
 - [ ]  来自英文：[FOSS as a Part of a Corporate Sustainability Plan](https://www.linuxjournal.com/content/foss-part-corporate-sustainability-plan)
@@ -65,4 +74,4 @@ url: ""
 - [ ]  参考资料：[Balancing Makers and Takers to scale and sustain Open Source](https://dri.es/balancing-makers-and-takers-to-scale-and-sustain-open-source)
 - [ ] [开放源代码软件行业之外的故事之三 -- 开放农业的故事]() ,参考资料：[Could open source agriculture revolutionize the industry?](https://urbanagnews.com/blog/exclusives/food-for-thought-could-open-source-agriculture-revolutionize-the-industry/)
 - [ ] Magento 的提交者魔力 [The mechanics behind Magento's contributor magic](https://www.techrepublic.com/article/the-mechanics-behind-magentos-contributor-magic/)
-- [ ] [Our Founders look back on 20 Years of the ASF!](https://blogs.apache.org/foundation/entry/our-founders-look-back-on)
+- [ ] 
