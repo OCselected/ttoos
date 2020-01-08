@@ -30,9 +30,9 @@ url: ""
 
 ### 4. 读者根据自身情况组织线下交流活动，并决定是否记录当时的讨论
 
-
-
 关于共读的初衷，以及参与方式，请看官移步：[开源之道图书和文献共读申明](posts/paper_or_book_reading/establish_reading_os_community)，有更多详细的内容。
+
+
 
 ## 2020  主题一：开放式组织
 
@@ -52,7 +52,7 @@ url: ""
 
 **开源之道推荐短评：**
 
->
+>开放式组织适合于几乎所有的行业和公司，不过也需要对应的学习。
 
 更多内容，请参考完整版开源之道共读导读与书评：[]()
 
@@ -343,6 +343,20 @@ The use of open-source software (OSS)—readable software source code that can b
 
 
 >  Communities Dominate Brands: Business and marketing challenges for the 21st century is a book about how the new phenomenon of digitally connected communities are emerging as a force to counterbalance the power of the big brands and advertising. The book explores the problems faced by branding, marketing and advertising facing multiple radical changes in this decade. Communities Dominate Brands discusses how disruptive effects of digitalisation and connectedness introduce threats and opportunities. The authors compellingly illustrate how modern consumers are forming communities and peer-groups to pool their power resulting in a dramatic revolution of how businesses interact with their customers. The book provides practical guidance of how to move from obsolete interruptive advertising to interactive engagement marketing and community based communications, with dozens of real business examples from around the world. Communities Dominate Brands addresses its topic from a marketing (including advertising and branding) perspective and maintains a rigorous focus on business and profit dimensions of the issues involved. The book discusses such recent phenomena as blogging, virtual environments, mobile phone based swarming and massively multiplayer games. The book introduces a new generation of consumers called Generation-C (for Community). The book also discusses such new concepts as the Connected Age, Reachability, the Four C's, Alpha Users, and introduces Communities as an unavoidable new element into the traditional communication model. Combining the digital trends, modern management theories, and emerging new customer behaviour, Communities Dominate Brands arrives to its conclusion, that traditional marketing methods are increasingly ineffective and even becoming counterproductive. The power of the brands and the abuses by marketing have created a vacuum for a counterbalance, and digitally connected communities, the blogosphere, gamers, and especially the always-on connectedness of those on mobile phone networks, are emerging as the counterforce to redress the balance. The power of smart mobs and digitally enlightened communities will react rapidly to marketing excesses as the natural force balancing the power of the brands. The way a business can and must interact with the powerful new communities is through engagement marketing, by enticing the communities to interact with the brands. Communities Dominate Brands covers the major changes taking place in business and industry worldwide from leading digitally connected societies such as Finland, Korea, Japan, Hong Kong, UK and the USA. The authors discuss the business relevance of such community related technologies and phenomena such as blogging, CANs, iPod, MMOGs, MVNOs, PVRs, Ringing Tones, SMS text messaging, swarming, VOD. This is the definitive business book on the impact of new technologies, not explaining how technology works, but showing what businesses need to do to make money in the new digitally converging environment. Communities Dominate Brands analyses early successes of engaging communities by global brands such as Adidas, Apple, Audi, BBC, Boeing, Coca Cola, eBay, Ford, Google, Guinness, Hush Puppies, Lonely Planet, MTV, Nokia, Orange, Philips, Red Bull, Sony, Tesco, Tony & Guy, Vodafone, etc. The lessons are amplified with insights from rough punishment by communities suffered by Hutchison/Three networks, Kryptonite locks, Mazda, the Philippines Government, etc. Fully indexed, impeccably researched with documented sources, offering over 50 current business examples and over a dozen case studies, Communities Dominate Brands is a hands-on practical business handbook on how to adjust marketing to deal with communities. With tools such as the Four C's and Reachability, the authors provide a competitive head-start to all who want to achieve customer satisfaction and return business in the 21st century.
+
+**开源之道推荐短评：**
+
+>
+
+更多内容，请参考完整版开源之道共读导读与书评：[]()
+
+
+
+## The foundation for an open source city
+
+![](https://theopensourcecity.com/g/os_city.jpg)
+
+Explore the five elements of an open source city using Raleigh, North Carolina as a case study. See how the open source characteristics of collaboration, transparency, and participation are shaping the open government and open data movements. This book showcases the open source culture, government policies, and economic development happening in Raleigh and acts as a guide for other cities to pursue their open source city brand.
 
 **开源之道推荐短评：**
 
