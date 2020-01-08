@@ -14,52 +14,161 @@ tags:
 - 图书推荐
 - 开源之道
 - 论文阅读
-title: "Open Life —— 有关开源的哲学"
+title: "拥抱开源，需要跨越那些鸿沟？ ————《Open Life —— 有关开源的哲学》读后感"
 url: ""
 ---
 
 ![](http://openlife.cc/system/files/images/OpenLife-cover.png)
 
-## 摘要
+## 开源之道点评
 
-时间拨回到十几年前，如果有人在思考开源的价值所在，是有一定道理的，因为在洞察这个世界之后，为事情出现端倪而进行考察不是谁都可以做得到的。
+多样性，这是文化演进的方式，以开源的方式来处理事情，甚至作为一种人生哲学，也是很大一部分人的选择，而且这个大门正如它自身所表达的，对于所有人都是开放的。但是，拥抱开源也不是一蹴而就的，正如人类所有的文明一样，是需要学习的，如果不是从小接受，那么就不得不面临一次心智革命，毫无疑问，这是极具挑战的事情，正如商业上跨越鸿沟，如何让开源能够被大众接受，需要做些什么？
 
-这是一本从芬兰语翻译为英语的，译者为Sara Torvalds。
+![](https://images2015.cnblogs.com/news/66372/201512/66372-20151209171712058-1551751138.jpg)
 
-Are French farmers a bunch of mean-spirited creeps? Are all nerds courageous, and laziness a virtue? Why did Stephen King leave a horror story unfinished? What business models survived the Internet bubble? Among the many entertaining and thought-provoking ideas presented in Open Life, ants screw up, and Harry Potter even casts his spell in German.
 
-The hot topics in information technology (IT) right now are Linux and Open Source. But what does Open Source offer those, who may not see their computer as a matter of life and death? Open Life: The Philosophy of Open Source spotlights the people, businesses, values and practices of the Open Source world. In assessing its development Open Life recounts over 60 case-study-like stories that illuminate exactly what is so miraculous and wonderful in this new paradigm for producing software.
 
-Divided into four parts, Open Life starts rather philosophically by comparing the concepts of openness and mean-spiritedness with a clarity that highlights the latter's devious impact on our everyday life. Part Two explores the Open Source culture from the time Linus Torvalds began writing code for his new operating system, how he behaves as a leader, and stating the virtues of a programmer. Part Three comprehensively reviews some Open Source business models and evaluates both their economic and ethical sustainability. Leaving the world of software behind, Part Four considers how successfully open business models can be applied in fields as diverse and wide-ranging as mining, literature, and fashion design.
+### 1. “单位”组织思维需要适当的变更
 
-## 读书纪要
+中国具有悠久的历史，尤其是3000年的农耕社会，具有超稳定的村庄结构，所谓的”鸡犬相闻而老死不相往来“是也。后来在现代化的经济强国冲击之下，不得不进行改造，甚至有过激进的路线，那就是按照人为的规定进行身份验证。
 
-书中有很多精辟的观点和论据，论述事实真相，然后直达哪里。这是开源之道最为欣赏的一种思维模式。
+> 你哪个单位的？
 
-#### 有关 Debian Linux 发行版的描述
+这也体现在很多场合下，甚至自我介绍：我来自哪家公司，我叫什么？
 
-Debian 某种程度上是商业的过分主导的一个平衡，可能某些商业版每年发布两个版本，而Debian二年才发布一个版本。Debian有自己的原则和指导。
+这样的一种现象，已经内化为绝大多数人的日常行为。而更正常的做法是：
 
-### Open Everything
+> 我是谁！
 
-All great waterfalls begin with the small rivalets.
+想要理解和融入开源，去”单位“化或者是觉醒是一个必须的，否则以下内容将无法思考。
 
-## 开源之道感慨
+> In the Open Source community, everybody is openly what they are  themselves. 
 
-作为技术出身的我，虽然自己的思路是喜欢打破砂锅问到底，直到自己的脑力极限。比如我可以捋一下我的思考路径，并对我的职业生涯和现实生活的影响：
+### 2. 他人受益，你并不受伤
 
-* 为什么开源项目只是拿来，然后过一阵子再合并，如此反复？
-* 为什么公司不提倡大家参与到上游组织？
-* 为什么开源的经济利益，大家都在视而不见的甘愿吃亏？
-* 为什么人们对开源背后隐性的知识和工程负债视而不见？
-* 为什么本土的人对待个人有着固定的模式？仅承认集体的存在？
-* 为什么人们会将读书视为一种装逼？
-* 为什么只能是拿来主义？
-* 为什么你要改变现状？
-* 为什么你看到的世界就是真的世界？
-* 人的认知和心理究竟是如何被误导的？
-* 该如何启蒙？
+Linus 在 TED 上接受安德森采访的时候，有如下一段对话：
 
-书是阅读越多，人是越见越少。知识在增加，解决问题的能力似乎还是那样，我已经开始改变自己，或许这就是机会。
+> A: 看到Google 利用Android 赚取了上亿美元，有没有惹毛你？
+>
+> L: 没有，相反我非常的高兴，有那么多人受益。
 
-# Open 是一种思想，是一种生活方式！
+你为什么会感受到不公平？这在某种程度上是个人心理的问题，也是社会的问题。当你创造或生产的东西，被他人无偿使用，哪怕是你没有任何的损失，你仍然觉得气不打一处来。知道这是为什么吗？
+
+### 3. 语言上的积极因素
+
+没有人愿意被抨击、辱骂、甚至是语言暴力，也就是说，当有人在互联网上发布了开源项目时，请做一个文明人，只要是能够吸引到你的项目，无论质量如何，出发点是什么，都是值得尊敬的，如果有什么问题，请尽量帮助它成长，如果发现了什么疑问，请确认并搜集证据，尤其是对项目的健康度进行评估，如果是价值观的不同，那么可以找相应的平台进行辩论。或者干脆远离。
+
+在语言上要尽可能的保持积极，以阳光发展的态度看待项目的进展，以及沟通。其实用一个名词总结这个坎，那就是——同理心。
+
+同理心也是可以习得的技能！当你掌握了这项无敌的技能之后，积极的对待他人和开源共同体是水到渠成的事情。
+
+### 4. 培养世界思维/互联网的想象力
+
+> 人类的多样性也包含着个体的多样性；这些同样须被社会学的想象力所把握和理解。在此想象中，1850年的婆罗门与伊利诺伊州的拓荒者站在一起；18世纪的英国绅士和澳大利亚土著人比肩而立，同时在场的，还有一百年前的中国农民，当代玻利维亚的政治家，法国的封建骑士，参加1914年绝食抗议的英国女权运动者与一位好莱坞新星和古罗马贵族。写到“人类”，就不能不写到这些男男女女——既有不凡如歌德，也有平凡如邻家女孩。
+>
+> ​                               —— C.赖特·米尔斯
+
+互联网几乎将链接了地球上所有的人，跨越了空间，而聚焦于开源的人，总是可以在这个大的空间中，形成共同体，对技术的实现有着类似的见解、对于分享有着几乎相同的思考、围绕一个问题可以喋喋不休的讨论不止。
+
+如果难以想象，不妨看看历年春节的火车站、旅游景区，然后适当的推理一下，再去GitHub看下开发者的从业人员。要知道，就是这些人创造了人类文明。
+
+关于开源，应以《枢纽》的作者施展先生的话为钢：
+
+> 中国必须在世界中，实现其自身！
+
+即使中国占比世界人口很大的比例，但依然只是部分，部分总是有缺陷的。而互联网恰是可以帮助我们拉近这个距离，让独特的你找到臭味相投的人成为可能，当然仅仅是开放源代码这一个方面为切入点。
+
+### 5. 理解共同体的意义
+
+> 社会是人们赖以生存的最大的社会组织。除它之外，其他社会组织则包括共同体（城市、乡镇、街坊邻里、高度独立的群体），正式组织（企业、教会、学校）、社群（家庭、朋友、团队）和人际关系（志明与春娇、父与子、店主与批发商）。
+>
+> ​            ———— Joel Charon 《Ten Questions：A Sociological Perspective》
+
+在开源的世界，基于互联网的协作方式，将全世界的任何角落的人都可视为可能的合作者，这有违于人们日常所见识的组织：同学、公司、政府、物业、居委会、足球俱乐部、饭店等等有形，甚或历史悠久的团体。
+
+而每一个项目都是这样的一个共同体来进行协作完成的，通过互联网的技术手段进行沟通、交流，通过共识来达成决策，最终交付的就是 Apache web服务、linux 内核、Python编程语言等软件项目。
+
+开源共同体不是子无须有的，也不是一众乌合之众，他们是具备人类社会完整的属性的共同体！不过，吊诡之处在于，你只有参与到这个共同体当中，才能感受到它。
+
+### 6. 展现势力很重要
+
+无论你是否承认，完全的扁平的世界只能存在于幻想当中的，也就是说，你的天赋和才华以及抱负是需要在社会中方能得以发挥和得到承认，进而让你寻找到意义，在追求生存、理想、享受的道路上走的更远。
+
+尽管互联网将我们的世界已经打破了不少的藩篱，但是技术巨头仍然可以将人才隐藏在巨大的商业品牌之后，尤其是在开源获得资本和巨头的青睐之后，个人在这个软件的大潮中，实在是微不足道。
+
+换句话说，这是一个“酒香也怕巷子深”的年代，你需要充分的将自己的才华展现到互联网这个还算民主的地方，在代码托管、社交平台、博客、邮件列表、知识问答、搜索引擎等等技术手段能够找到你。
+
+不要让别人去挖掘你，而是让开源将你推倒别人眼前。
+
+### 总结
+
+文化是非常奇妙的，价值观也非常的神奇，而这也是塑造共同体的必需元素，当你拥有了、认知到了、实践中，又会重新获得，在反过来进行作用。开源说到底，仍然是由人组成的共同体，这些人进而为了软件项目进行积极的协作，基于互联网这个相对扁平的平台。以人为本！
+
+## 开源之道2019图书共读历史书评
+
+**过去十一个月的导读与书评：**
+
+* [《软件悖论:商业软件的崛起与陨落》](posts/paper_or_book_reading/the-software-paradox-book-review/)
+* [Subscribed：为什么说订阅才是塑造贵司的未来的模式，如何实现它](posts/paper_or_book_reading/subscribed-why-subsctiption-it-your-future)
+* [我们正处于开源的黄金时代 —— 《开放与共享》导读与书评](posts/paper_or_book_reading/thinking_of_open_source_innovation_economic)
+* [得开发者得天下 ———— 开发者是如何征服世界的](posts/paper_or_book_reading/the_new_kingmaker_review)
+* [开源开发者内在的素质：匠艺 —— 《匠人》书评与导读](posts/paper_or_book_reading/the-craftsman-book-review)
+* [开源 -- 一部黑客伦理与商业资本相互妥协的融合史（《黑客》读后感）](posts/paper_or_book_reading/hackers-book-review)
+* [开放源代码软件的三重境界 ———— 《大教堂与集市》读后感](posts/the_way_of_open_source/the_three_realm_of_open_source_software)
+* [开放源代码软件的生产之道](posts/paper_or_book_reading/the_review_of_producingoss)
+* [开放源代码是如何吞噬软件的](posts/paper_or_book_reading/book_review_of_hosas)
+* [如何开源，决定于认识开源](posts/paper_or_book_reading/book_review_of_voice_from_the_osr)
+* [近距离看开源是什么？有什么？](posts/paper_or_book_reading/book_review_of_mitfoss/)
+
+## 开源之道图书共读短评
+
+> 文化、思想、社会规范，均是影响和左右人思维和决策的，开放和开放源代码究竟对于自己的益处权衡是怎么样的？如何做一个理性的思考者？恐怕是本书要告诉每一位读者的。
+>
+> ———— 适兕 开源之道图书共读发起人
+
+## 内容提要及作者介绍
+
+开源是什么？作为软件从业者，该如何理解其带来的工程现象、围绕开源的商业现象、围绕协作过程的文化现象？如果你不是一名专业的学者，而只是一名普通的工程师，又该如何解释这些？言语不需要太多的专业词汇，就是将自己的知识和思考，稍微的修饰一下，说出来就好了。
+
+全书分为四个部分：
+
+#### 第一部分：日常生活中的思考
+
+农民种田到酿酒，再到石油危机，然后聊到经济与供需关系。也就是常人应该了解的经济学常识，进而聊到了Linux和开源。
+
+#### 第二部分： 从Linux 和开源世界所学到的
+
+Linux 的成绩斐然，进而谈到黑客伦理，以及其合理性，开源共同体并非是一群乌合之众，而是具有匠人精神的人的集合。强烈推荐这部分的内容，对于一上来就谈开源的历史之类的说教，这部分的内容简直是人间良知，从工程师最直观的感受来说明开源共同体、开源项目的内在机理：价值观、决策方式、工程至上等等
+
+#### 第三部分：商业模式
+
+服务、订阅模式、软件的信息黏性、相关的知识、产生的社会价值、Open Core、SaaS 服务、不同的许可模式.....开源项目是可以有着不错的商业模式的，商业模式在任何领域都是非常之难的，这和世界非常的相像。
+
+除了成功的案例之外，作者还列举了失败的典型：模仿商业软件授权、滥用慈悲心肠、
+
+#### 第四部分：开放的哲学
+
+软件项目之外的开放所带来的神奇效果，文学翻译、开放数据、寻找黄金、知识协作（wikipedia）、教科书、厨艺、音乐与艺术，你还能想到什么可以以开放源代码的方式来完成？
+
+### 关于作者
+
+Henrik Ingo 的经历是个迷，这也充分说明他是一位普通的开源共同体中的一员而已，尽管以开源为职业，也撰写了很多的博客，以及我们所读的书籍——《开放人生：开放源代码的哲学》，但是我们对于他也只认识其开源的这一面，这已经足够。他被国内所认识，应该是他被开源社理事长刘天栋所经常介绍的观点，即如下图所示的内容：
+
+![](./images/how_to_grow_osp_10x.png)
+
+出自于其著名的分析文章：[How to grow your open source project 10x and revenues 5x](https://openlife.cc/blogs/2010/november/how-grow-your-open-source-project-10x-and-revenues-5x)
+
+对比了很多个开源项目之后，得出如下表格所示的结论：
+
+|                                                          |                            基金会                            |             独立供应商             |  个人项目  |
+| -------------------------------------------------------- | :----------------------------------------------------------: | :--------------------------------: | :--------: |
+| 超大型<br />超过1000位开发者<br />每天有超过100+的提交量 | Linux, KDE, Apache, Eclipse, Perl+CPAN, Mozilla+Addons, Gnome, Drupal |                                    |            |
+| 大型项目<br /><br />20~200位开发者<br />50~100的提交     |                      GCC, Python, Samba                      | MySQL, Qt, OpenOffice, Mono, JBoss |  PHP+PEAR  |
+| 中等水平                                                 |                             GIMP                             | Subversion, GhostScript, Wordpress | phpMyAdmin |
+| 没有获得数据                                             |                    Xorg, GNU system tools                    |              OpenJDK               |            |
+
+不过我们可以简短介绍一下作者的阅历，在1995年作者就开始使用IRC、email，1996年开始接触Linux，一发不可收拾，在2001年开始构思本书的写作，当时是在一家叫做Tieturi Henrik 的培训学校教授互联网和编程相关，2008年1月加盟 MySQL AB 公司，不久之后这家公司被Sun 收购之后，他直接辞职并帮助创建了[Mariadb](http://www.mariadb.org/)，2013年，他加盟MongoDB，担任解决方案架构师和性能工程师。
+
+>  Open 是一种思想，更是一种生活方式！
+>
+> ​        ———— 适兕，开源之道创始人
