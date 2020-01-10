@@ -366,6 +366,33 @@ Explore the five elements of an open source city using Raleigh, North Carolina a
 
 
 
+## 主题五： 开放科学
+
+
+
+### 重塑发现：网络化科学的新时代
+
+![](https://img3.doubanio.com/view/subject/l/public/s28045491.jpg)
+
+
+
+#### 内容提要
+
+作者迈克尔•尼尔森认为，我们正生活在这样一个阶段的曙光中：在这个阶段未来的三百年间，科学领域将经历它有史以来最剧烈的变动！强大的新认知工具和互联网，大大加快了科学发现的速度。《重塑发现》（Reinventing Discovery）这本书讲述了联网时代有关新科学的精彩故事。
+
+市面上很多书都在讲述互联网如何改变了商业、办公环境，甚至政府部门。但这本书是一本更为根本性的书，也是这个领域的第一本：互联网如何改变着我们的集体智慧，以及我们理解世界的方式。举个例子，Polymath Project的数学家们是如何自发走到一起，在线协作解决问题的呢？当然这类问题只是这本书的一小部分。想要了解更多有关开放科学（也称“开源科学”，Open Science）的有趣故事，请翻开这本独一无二的书。
+
+#### 作者简介：
+
+迈克尔•尼尔森（Michael Nielsen），澳大利亚量子计算科学家。研究领域从量子计算、开放科学到人工神经网络和深度学习。曾供职于洛斯阿拉莫斯国家实验室（Los Alamos National Laboratory，LANL；前称Y计划，是美国承担核子武器设计工作的两个实验室之一），2004年被授予澳大利亚“Youngest Academic”称号，并获昆士兰大学联邦基金。作者的TED演讲视频：http://www.ted.com/talks/michael_nielsen_open_science_now.html
+
+**开源之道推荐短评：**
+
+>
+
+更多内容，请参考完整版开源之道共读导读与书评：[]()
+
+
 
 ### 为什么是开源/自由软件？让我们来看看数字
 
