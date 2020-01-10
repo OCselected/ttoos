@@ -18,6 +18,10 @@ title: "开源之道共读图书列表（2020版）"
 url: ""
 ---
 
+> 那些对自身所处环境缺乏知识和理解的人，通常其思想自由也会受到限制，进而就会在他们的行为选择方面产生影响。有限的知识限制了自由的思想。
+>
+> ​                    ———— Joel Charon 《Ten Questions： A  Sociological Perspective》
+
 ## 共读之规则
 
 **本文列举的是2020年所精心选择的开源相关图书**，以及如下规则：
@@ -70,7 +74,7 @@ url: ""
 
 **开源之道推荐短评：**
 
->
+>相信我，开源的文化是可以习得的，而且有方法。
 
 更多内容，请参考完整版开源之道共读导读与书评：[]()
 
@@ -158,17 +162,39 @@ The best solution, von Hippel and his colleagues argue, is a division of labor b
 
 ### 
 
+### The Hacker Ethic: A Radical Approach to the Philosophy of Business (English Edition)
+
 ![](https://images-cn.ssl-images-amazon.com/images/I/51LHBOgeCOL.jpg)
 
-The Hacker Ethic: A Radical Approach to the Philosophy of Business (English Edition)
 
-内容提要：
+
+#### 内容提要：
 
 You may be a hacker and not even know it. Being a hacker has nothing to do with cyberterrorism, and it doesn’t even necessarily relate to the open-source movement. Being a hacker has more to do with your underlying assumptions about stress, time management, work, and play. It’s about harmonizing the rhythms of your creative work with the rhythms of the rest of your life so that they amplify each other. It is a fundamentally new work ethic that is revolutionizing the way business is being done around the world.
 
 Without hackers there would be no universal access to e-mail, no Internet, no World Wide Web, but the hacker ethic has spread far beyond the world of computers. It is a mind-set, a philosophy, based on the values of play, passion, sharing, and creativity, that has the potential to enhance every individual’s and company’s productivity and competitiveness. Now there is a greater need than ever for entrepreneurial versatility of the sort that has made hackers the most important innovators of our day. Pekka Himanen shows how we all can make use of this ongoing transformation in the way we approach our working lives.
 
 **开源之道推荐短评：**
+
+>
+
+更多内容，请参考完整版开源之道共读导读与书评：[]()
+
+###  Milestones: The Story of WordPress
+
+![](https://cdn.dribbble.com/users/201216/screenshots/2409724/milestones.png)
+
+#### 内容介绍
+
+ ***Milestones: The Story of WordPress\***, a book on the history and development of WordPress. They have been carried out with people involved with the WordPress project from its inception over fifteen years ago, and those who have been instrumental in shaping WordPress itself, the wider project, and the community.
+
+图书协作及翻译源文件：https://github.com/wordpress/book 
+
+#### 作者简介
+
+该书本身就是一个协作的成果，其中的内容来自大量的采访：https://archive.wordpress.org/interviews/ 
+
+开源之道推荐短评：**
 
 >
 
@@ -220,7 +246,7 @@ The use of open-source software (OSS)—readable software source code that can b
 更多内容，请参考完整版开源之道共读导读与书评：[]()
 
 
-## 2020 主题三：开放源代码软件中的法律问题
+## 2020 主题四：开放源代码软件中的法律问题
 
 ![Open Source for Business](./images/open-source-reading-list14.jpg)
 
@@ -262,7 +288,7 @@ The use of open-source software (OSS)—readable software source code that can b
 更多内容，请参考完整版开源之道共读导读与书评：[]()
 
 
-## 2020 主题四：Community
+## 2020 主题五：Community
 
 
 ### The Art of Community: Seven Principles for Belonging
@@ -366,7 +392,7 @@ Explore the five elements of an open source city using Raleigh, North Carolina a
 
 
 
-## 主题五： 开放科学
+## 主题六： 开放科学
 
 
 

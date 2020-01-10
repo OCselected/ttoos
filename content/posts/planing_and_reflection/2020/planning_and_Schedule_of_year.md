@@ -2,7 +2,7 @@
 categories:
 - 开源
 - 感悟
-date: 2019-01-07T15:33:33+08:00
+date: 2020-01-07T15:33:33+08:00
 description: "2020 开源之道将面临新的挑战，更多的翻译精品文章？还是更多的原创？取决于适兕的能力和精力。"
 keywords:
 - Open Source
@@ -26,11 +26,26 @@ url: ""
 
 加油！功不唐捐！
 
-
 ## 具体事项
-- [x] 一、 [共同体的艺术：打造归属感](posts/Community_Management/the-art-of-community-building-belonging) Come from English :[The Art of Community: Building Belonging](https://www.jonobacon.com/2011/05/31/the-art-of-community-building-belonging/)
+
+
+
+### 开源共同体内容：
+
+- [x]  [共同体的艺术：打造归属感](posts/Community_Management/the-art-of-community-building-belonging) Come from English :[The Art of Community: Building Belonging](https://www.jonobacon.com/2011/05/31/the-art-of-community-building-belonging/)
+- [ ] [Measuring the performance of a community manager](https://opensource.com/open-organization/15/6/measuring-community-manager-performance)
+- [ ] [Real open source projects take mentoring seriously](https://www.redhat.com/en/blog/real-open-source-projects-take-mentoring-seriously)
+- [ ] []() 来自英文：[红帽社区知识库](https://community.redhat.com/knowledge/)
+- [ ] 参考资料：[When Metrics Go Wrong](http://community.redhat.com/blog/2014/07/when-metrics-go-wrong/)
+- [ ] 参考资料：[Balancing Makers and Takers to scale and sustain Open Source](https://dri.es/balancing-makers-and-takers-to-scale-and-sustain-open-source)
+
+
+
+### 开源其它内容
+
 - [ ] 二、[Our Founders look back on 20 Years of the ASF!](https://blogs.apache.org/foundation/entry/our-founders-look-back-on)
 - [ ] 开放源代码软件行业之外的故事之二 --关于城市交通]() ,参考资料：[Why Los Angeles decided to open source its future](https://www.techrepublic.com/article/why-la-decided-to-open-source-its-future/)
+- [ ] [开放源代码软件行业之外的故事之三 -- 开放农业的故事]() ,参考资料：[Could open source agriculture revolutionize the industry?](https://urbanagnews.com/blog/exclusives/food-for-thought-could-open-source-agriculture-revolutionize-the-industry/)
 
 - [ ]  来自英文：[FOSS as a Part of a Corporate Sustainability Plan](https://www.linuxjournal.com/content/foss-part-corporate-sustainability-plan)
 - [ ]  []() 职业生涯 来自英文：[Lessons from a brief career in open source](https://opensource.com/article/17/2/preparing-career-open-source)
@@ -53,14 +68,13 @@ url: ""
 - [ ] []() Come from English :[Encouraging New Contributors](http://community.redhat.com/blog/2017/04/encouraging-new-contributors/)
 - [ ] []() Come from English :[Tom Sawyer, whitewashing fences, and building communities online](https://chrisgrams.com/2009/09/09/tom-sawyer-whitewashing-fences-and-building-communities-online/)
 - [ ] []() Come from English :[Greg Kroah-Hartman: The Commander-in-Chief of the Linux Stable Branch](https://thenewstack.io/greg-kroah-hartman-commander-chief-linux-stable-branch)
- [ ] []() Come from English :[The new Fedora Project mission statement](https://lwn.net/Articles/720055/)
+- [ ] []() Come from English :[The new Fedora Project mission statement](https://lwn.net/Articles/720055/)
 - [ ] []() Come from English :[Projects that make their rules explicit would see more participation](https://opensource.com/open-organization/18/4/new-governance-model-research)
 - [ ]  []() 来自英文：[为什么说开源失败了？](https://medium.com/@johnmark/why-open-source-failed-6cae5d6a9f6)
 - [ ]  []() 来自英文：[Why Decentralization Matters](https://medium.com/@cdixon/why-decentralization-matters-5e3f79f7638e)
 - [ ]  []() 来自英文：[Open Source Culture Starts with Programs and Policies](https://thenewstack.io/open-source-culture-starts-with-programs-and-policies/)
 - [ ]  []()[软件自由保护基金会介绍]() 来自英文：[Software Freedom Conservancy](https://sfconservancy.org/)
 - [ ]  []()[开源女神：Danese Cooper]() 来自英文：[Danese Cooper](https://en.wikipedia.org/wiki/Danese_Cooper)
-- [ ]   [SSH 从开源到闭源的闹剧]() [OpenSSH](https://en.wikipedia.org/wiki/OpenSSH)
 - [ ]  [Kubernetes 背后的三剑侠](https://siliconangle.com/2019/04/12/google-women-power-rise-kubernetes/)
 - [ ]  [NumFOCUS 基金会](https://numfocus.org/sponsored-projects)
 - [ ]  [CROSS 孵化开源研究](https://cross.ucsc.edu/)
@@ -68,10 +82,9 @@ url: ""
 - [ ]  [我们需要可持续的自由和开源社区](https://medium.com/sustainable-free-and-open-source-communities/we-need-sustainable-free-and-open-source-communities-edf92723d619)
 - [ ]  O'Reilly 年度开源人物奖[](https://en.wikipedia.org/wiki/O%27Reilly_Open_Source_Award)
 - [ ] 世界知名基于开源的商业公司系列（）可参考：[Joseph Jacks 系列文章](https://medium.com/@asynchio)（这个可以重点关注一下，每家公司的历史都可以成为一篇文章的。）
-- [ ] []() 来自英文：[红帽社区知识库](https://community.redhat.com/knowledge/)
 - [ ]  参考资料：[Is DevOps compatible with part-time community teams?](https://opensource.com/article/18/4/devops-compatible-part-time-community-teams)
-- [ ]  参考资料：[When Metrics Go Wrong](http://community.redhat.com/blog/2014/07/when-metrics-go-wrong/)
-- [ ]  参考资料：[Balancing Makers and Takers to scale and sustain Open Source](https://dri.es/balancing-makers-and-takers-to-scale-and-sustain-open-source)
-- [ ] [开放源代码软件行业之外的故事之三 -- 开放农业的故事]() ,参考资料：[Could open source agriculture revolutionize the industry?](https://urbanagnews.com/blog/exclusives/food-for-thought-could-open-source-agriculture-revolutionize-the-industry/)
 - [ ] Magento 的提交者魔力 [The mechanics behind Magento's contributor magic](https://www.techrepublic.com/article/the-mechanics-behind-magentos-contributor-magic/)
-- [ ] 
+
+## 决定放弃撰写的资料来源
+
+1. ~~[SSH 从开源到闭源的闹剧]() [OpenSSH](https://en.wikipedia.org/wiki/OpenSSH)~~
