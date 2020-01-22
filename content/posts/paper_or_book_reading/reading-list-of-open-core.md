@@ -62,6 +62,8 @@ https://www.forbes.com/sites/jonobacon/2019/08/05/weaving-open-core-that-works/#
 
 https://coss.media/open-core-definition-examples-tradeoffs/
 
+https://www.forbes.com/sites/forbestechcouncil/2020/01/17/enterprise-insights-red-hat-and-the-public-cloud/#344387b13f32
+
 ## 视频
 
 1.  https://www.youtube.com/watch?v=c9SJAPxU5bs&feature=emb_logo
