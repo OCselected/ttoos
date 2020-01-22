@@ -234,6 +234,22 @@ The use of open-source software (OSS)—readable software source code that can b
 
 更多内容，请参考完整版开源之道共读导读与书评：[]()
 
+### Open Sources 2.0 : the continuing evolution
+
+![](https://ia800907.us.archive.org/BookReader/BookReaderImages.php?zip=/1/items/opensources2.000diborich/opensources2.000diborich_jp2.zip&file=opensources2.000diborich_jp2/opensources2.000diborich_0001.jp2&scale=4&rotate=0)
+
+公开下载：[](https://archive.org/details/opensources2.000diborich)
+
+内容介绍：
+
+> Open Sources 2.0是由O'Reilly Media出版的一本书。继“开源：来自开源革命的声音”的流行之后，这是由开源和自由软件运动的名人撰写的第二篇论文集。这些文章探讨了开源对软件行业的影响，并揭示了开源概念如何渗透到商业和社会的其他领域。
+
+**开源之道推荐短评：**
+
+>
+
+更多内容，请参考完整版开源之道共读导读与书评：[]()
+
 
 [THE OPEN REVOLUTION]()
 
