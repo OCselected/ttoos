@@ -23,7 +23,7 @@ url: ""
 1. 杜威思想：世界是开放的、多元的、发展的
 2. 教育即生活，师生是共同体
 
-关于这些我会在以后，进行慢慢的解读，尤其是杜威的思想总结，仅仅即是用在软件领域，也是非常使用的。
+关于这些我会在以后，进行慢慢的解读，尤其是杜威的思想总结，仅仅即是用在软件领域，也是非常实用的。
 
 自那之后，“共同体”的概念就深植于我的脑海，对应的英文单词开始产生动摇。
 
@@ -72,7 +72,7 @@ Jono Bacon 成功的在北美组织过多次Community Leadership 峰会，一般
 
 ## 本土面临的挑战
 
-适兕曾经在三年前写过一篇文章:[历史的维度——开源、拿来主义与自主可控的历史对比](http://ocselected.org/posts/opensource/open_source_tao_and_way/latitude_of_history/)，开源共同体的建设面临诸多的困难，比如Community的翻译历史问题，这将带来巨大的挑战，其余的我就以上海的分享，具体我日后慢慢撰文诠释：
+适兕曾经在三年前写过一篇文章:[历史的维度——开源、拿来主义与自主可控的历史对比](http://ocselected.org/posts/opensource/open_source_tao_and_way/latitude_of_history/)，开源共同体的建设面临诸多的困难，比如Community的翻译历史问题，这将带来巨大的挑战，其余的我就以2020.1.12在上海微软 Reactor 的分享来表达，具体解释容我日后慢慢撰文诠释：
 
 ![](images/community-challege/danwei.png)
 
@@ -85,6 +85,10 @@ Jono Bacon 成功的在北美组织过多次Community Leadership 峰会，一般
 ![](images/community-challege/speed.png)
 
 ![](images/community-challege/consumer.png)
+
+
+
+聊完了来龙去脉，接下来就是这个Group 要定义的内容：
 
 # 共同体领导力发展小组的愿景是什么?
 
@@ -126,4 +130,11 @@ Jono Bacon 成功的在北美组织过多次Community Leadership 峰会，一般
 * Quit anytime. 
 
 ### 最后的互联网连接者
+
+
+
+# 要做的事情
+
+1. 出一份电子杂志（季度）
+2. 搞几次分享活动。
 
