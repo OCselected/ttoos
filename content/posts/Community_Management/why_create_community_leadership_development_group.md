@@ -14,7 +14,17 @@ title: "Community Leadership Development 是什么？做什么？"
 url: ""
 ---
 
-## 几则故事
+> **致力于开源相关思想、知识和价值的挖掘**。
+
+## 引言
+
+[开源之道](http://ocselected.org/) ，是适兕的个人博客，不知不觉地写了三年多。如果仅止于写或者翻译文章的话，那么可能会错失很多东西，因为从文章中可以学习和感悟到很多，如[开源之道图书共读](http://www.ocselected.org/posts/paper_or_book_reading/establish_reading_os_community)，又如现在我们所谈到的:（开源）共同体领导力发展，各种机缘巧合碰撞的结果。
+
+> **Software and technology is the easy part. The hard part is creating and fostering a culture around an open-source project.**
+>
+> ​                ———— **Ben Balter**，senior product manager of community and safety at GitHub
+
+## 从几则故事讲起
 
 ### 故事一： 邂逅约翰.杜威和托马斯.库恩
 
@@ -48,7 +58,7 @@ url: ""
 
 ### 故事四： Jono Bacon 的 community leadership 峰会
 
-Jono Bacon 成功的在北美组织过多次Community Leadership 峰会，一般是在OSCON 会议之前的几天进行，参与者都是开源项目的Community 经理、经营者、运营人员、布道师等，人气还很旺。
+Jono Bacon 成功的在北美组织过多次Community Leadership 峰会，一般是在OSCON 会议之前的几天进行，参与者都是开源项目的Community 经理、经营者、运营人员、布道师等，针对Community建设、运营等相关内容进行探讨，分享彼此遇到的问题和解决办法。
 
 **在开源发展的源头，对于Community的重视已经形成了一定的规模！**
 
@@ -60,7 +70,7 @@ Jono Bacon 成功的在北美组织过多次Community Leadership 峰会，一般
 
 **开源的核心力量来自于共同体**
 
-以上五则故事，足以撼动我们去做一件有意义的事情，那就是围绕开源共同体，从传播到实践再到交流。Just do it！不妨就先动起来，在贡献中学习和成长。
+以上五则故事，任何一个单独看起来，不过是零碎的一时感悟罢了，但是加起来的话，就足以撼动我们去做一件有意义的事情，那就是围绕开源共同体，从传播到实践再到交流。Just do it！不妨就先动起来，在贡献中学习和成长。
 
 ## 什么是开源共同体
 
@@ -129,12 +139,9 @@ Jono Bacon 成功的在北美组织过多次Community Leadership 峰会，一般
 * Hide your business ,Show your community.
 * Quit anytime. 
 
-### 最后的互联网连接者
-
-
-
 # 要做的事情
 
 1. 出一份电子杂志（季度）
 2. 搞几次分享活动。
+3. 做几期 Community Manager 的采访。
 
