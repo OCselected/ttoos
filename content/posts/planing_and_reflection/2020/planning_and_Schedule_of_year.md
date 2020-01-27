@@ -38,6 +38,8 @@ url: ""
 - [ ] []() 来自英文：[红帽社区知识库](https://community.redhat.com/knowledge/)
 - [ ] 参考资料：[When Metrics Go Wrong](http://community.redhat.com/blog/2014/07/when-metrics-go-wrong/)
 - [ ] 参考资料：[Balancing Makers and Takers to scale and sustain Open Source](https://dri.es/balancing-makers-and-takers-to-scale-and-sustain-open-source)
+- [ ] 参考资料: [Twelve tips for growing communities around your open source project](https://ben.balter.com/2017/11/10/twelve-tips-for-growing-communities-around-your-open-source-project/)
+- [ ] 参考资料： [The Open Source Contributor Funnel (or: Why People Don’t Contribute To Your Open Source Project)](https://mikemcquaid.com/2018/08/14/the-open-source-contributor-funnel-why-people-dont-contribute-to-your-open-source-project/)
 
 
 
@@ -46,6 +48,7 @@ url: ""
 - [ ] 二、[Our Founders look back on 20 Years of the ASF!](https://blogs.apache.org/foundation/entry/our-founders-look-back-on)
 - [ ] 开放源代码软件行业之外的故事之二 --关于城市交通]() ,参考资料：[Why Los Angeles decided to open source its future](https://www.techrepublic.com/article/why-la-decided-to-open-source-its-future/)
 - [ ] [开放源代码软件行业之外的故事之三 -- 开放农业的故事]() ,参考资料：[Could open source agriculture revolutionize the industry?](https://urbanagnews.com/blog/exclusives/food-for-thought-could-open-source-agriculture-revolutionize-the-industry/)
+- [ ] [从囚徒到蟒营，开源助我的救赎之路](posts/),来自文章：[What I learned going from prison to Python](https://opensource.com/article/20/1/prison-to-python)
 
 - [ ]  来自英文：[FOSS as a Part of a Corporate Sustainability Plan](https://www.linuxjournal.com/content/foss-part-corporate-sustainability-plan)
 - [ ]  []() 职业生涯 来自英文：[Lessons from a brief career in open source](https://opensource.com/article/17/2/preparing-career-open-source)
@@ -84,6 +87,8 @@ url: ""
 - [ ] 世界知名基于开源的商业公司系列（）可参考：[Joseph Jacks 系列文章](https://medium.com/@asynchio)（这个可以重点关注一下，每家公司的历史都可以成为一篇文章的。）
 - [ ]  参考资料：[Is DevOps compatible with part-time community teams?](https://opensource.com/article/18/4/devops-compatible-part-time-community-teams)
 - [ ] Magento 的提交者魔力 [The mechanics behind Magento's contributor magic](https://www.techrepublic.com/article/the-mechanics-behind-magentos-contributor-magic/)
+- [ ] 创造者和豪夺者的平衡之道  [Balancing Makers and Takers to scale and sustain Open Source](https://dri.es/balancing-makers-and-takers-to-scale-and-sustain-open-source)
+- [ ] 开源哲学家的思考：Josh Simmons 演讲&文章合集  [Josh Simmons]https://joshsimmons.com/media.html
 
 ## 决定放弃撰写的资料来源
 
