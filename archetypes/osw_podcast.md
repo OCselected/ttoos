@@ -1,7 +1,8 @@
 ---
 categories:
 - 开源
-- 感悟
+- 播客
+- 传播
 date: {{ .Date }}
 description: ""
 keywords:
@@ -9,9 +10,10 @@ keywords:
 - Culture
 - Reading
 - News
+- Podcast
 tags:
-- 每周精选
-- 开源之道
-title: "开源之道"
+- 开源之道-Talking
+- 开源之道播客
+title: "开源之道 Talking "
 url: ""
 ---
