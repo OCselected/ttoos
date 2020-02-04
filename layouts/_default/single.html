@@ -14,6 +14,14 @@
            {{ .TableOfContents }}
         </aside>
 -->
+        <section id="datecount">
+          <h4 id="date"> {{ .Date.Format "Mon Jan 2, 2006" }} |  {{ .FuzzyWordCount }} Words | 大约需要阅读 {{ .ReadingTime }} 分钟 |
+          {{ range .Params.authors }}
+            作者： {{ . }} 
+          {{ end }}
+          |  {{ range .Params.translater }}译者： {{ . }} {{ end }}
+          <h4>
+        </section>
         <article itemprop="articleBody" id="content">
            {{ .Content }}
         </article>

@@ -14,4 +14,8 @@ tags:
 - 开源之道
 title: "开源之道"
 url: ""
+authors:
+- 开源之道
+translater:
+- 开源之道
 ---

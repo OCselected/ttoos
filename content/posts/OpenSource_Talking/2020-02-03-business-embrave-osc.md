@@ -16,7 +16,8 @@ tags:
 - 开源之道播客
 title: "鼠年话开源之二：商业公司如何拥抱开源共同体（Open Source Community） "
 url: ""
-
+authors:
+- 适兕
 ---
 
 ## 本期简介
