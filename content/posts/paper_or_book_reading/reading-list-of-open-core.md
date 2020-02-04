@@ -64,6 +64,8 @@ https://coss.media/open-core-definition-examples-tradeoffs/
 
 https://www.forbes.com/sites/forbestechcouncil/2020/01/17/enterprise-insights-red-hat-and-the-public-cloud/#344387b13f32
 
+[Six Software Licensing Models Helping Companies Scale Up in 2020](https://sentinel.gemalto.com/blog/six-software-licensing-models-helping-companies-scale-up/)
+
 ## 视频
 
 1.  https://www.youtube.com/watch?v=c9SJAPxU5bs&feature=emb_logo
