@@ -3,7 +3,7 @@ categories:
 - 开源
 - 感悟
 date: 2020-01-07T15:33:33+08:00
-description: "2020 开源之道将面临新的挑战，更多的翻译精品文章？还是更多的原创？取决于适兕的能力和精力。"
+description: "2020 开源之道将面临新的挑战，更多的翻译精品文章？还是更多的原创？取决于开源之道共同体自身。"
 keywords:
 - Open Source
 - Culture
@@ -12,17 +12,17 @@ keywords:
 tags:
 - 每周精选
 - 开源之道
-title: "开源之道2020年计划表"
+title: "开源之道 2020 年文章计划表"
 url: ""
 ---
 
 ## 引言
 
-2019年是开源的重要转折之年，开源文化中重要的斗争对象——微软，俨然180度的大转弯，云计算也深谙开源，无论是AWS，还是阿里云，都将开源拿的死死的，当然还有Kubernetes这样颠覆式的技术平台展示出它的威力......
+2019年是开源的重要转折之年，开源文化中重要的斗争对象——微软，俨然180度的大转弯竟然成了企业开源的领头羊，各大云计算厂商也深谙开源，无论是AWS，还是阿里云，都将开源拿的死死的，当然还有Kubernetes这样颠覆式的技术平台和共同体的发展所展示的威力......当然，也不应忘记国内的乱象。
 
-2019年的开源之道也是收获颇丰，企业培训、撰写教材、协助华师大开源课程、图书共读共同体建设和内容输出、Community Leadership development 小组成立、X-lab 开放实验室开源导师、OpenI/O 开发者大会分论坛出品人等，至少开源之道影响了一些人，圈内人渐渐知道了适兕的努力。
+2019年的开源之道也是收获颇丰，企业培训、撰写教材、协助华师大开源课程、图书共读共同体建设和内容输出、Community Leadership development 小组成立、X-lab 开放实验室开源导师、OpenI/O 开发者大会分论坛出品人等，至少开源之道影响了一些人，圈内人渐渐知道了其主要作者——适兕的努力。
 
-2020年，适兕会加倍努力，除了每周一篇文章、每周开源评论之外，还要外加一个关于开源共同体领导力相关的文章输出，当然这都算在自己的业余时间之外，自己的养家糊口的工作也是需要更加的努力。
+2020年，开源之道会加倍努力，除了每周一篇文章、每周开源评论之外，还要外加一个关于开源共同体领导力相关的文章输出，当然这都要基于开源之道共同体的建设，只有共同体（Community）有所建树，项目、创新菜具有无限的可能性。
 
 加油！功不唐捐！
 
@@ -32,6 +32,8 @@ url: ""
 
 ### 开源共同体内容：
 
+### 翻译
+
 - [x]  [共同体的艺术：打造归属感](posts/Community_Management/the-art-of-community-building-belonging) Come from English :[The Art of Community: Building Belonging](https://www.jonobacon.com/2011/05/31/the-art-of-community-building-belonging/)
 - [ ] [Measuring the performance of a community manager](https://opensource.com/open-organization/15/6/measuring-community-manager-performance)
 - [ ] [Real open source projects take mentoring seriously](https://www.redhat.com/en/blog/real-open-source-projects-take-mentoring-seriously)
@@ -40,12 +42,24 @@ url: ""
 - [ ] 参考资料：[Balancing Makers and Takers to scale and sustain Open Source](https://dri.es/balancing-makers-and-takers-to-scale-and-sustain-open-source)
 - [ ] 参考资料: [Twelve tips for growing communities around your open source project](https://ben.balter.com/2017/11/10/twelve-tips-for-growing-communities-around-your-open-source-project/)
 - [ ] 参考资料： [The Open Source Contributor Funnel (or: Why People Don’t Contribute To Your Open Source Project)](https://mikemcquaid.com/2018/08/14/the-open-source-contributor-funnel-why-people-dont-contribute-to-your-open-source-project/)
+- [ ]  Kubernetes 是如何做到让贡献变得更加容易上手的  参考资料：[How Kubernetes is making contributing easy](https://opensource.com/article/17/4/podcast-kubernetes-sarah-novotny)
+
+### 原创
+
+- [x]   [Community Leadership Development 是什么？做什么？](posts/community_management/why_create_community_leadership_development_group/)
+- [ ]  [如何感受开源共同体的力量](posts/opensource_technology/how_to_feel_the_power_of_osc)
 
 
 
 ### 开源其它内容
 
-- [ ] 二、[Our Founders look back on 20 Years of the ASF!](https://blogs.apache.org/foundation/entry/our-founders-look-back-on)
+### 原创
+
+
+
+### 翻译
+
+- [x] 二、[Our Founders look back on 20 Years of the ASF!](https://blogs.apache.org/foundation/entry/our-founders-look-back-on)
 - [ ] 开放源代码软件行业之外的故事之二 --关于城市交通]() ,参考资料：[Why Los Angeles decided to open source its future](https://www.techrepublic.com/article/why-la-decided-to-open-source-its-future/)
 - [ ] [开放源代码软件行业之外的故事之三 -- 开放农业的故事]() ,参考资料：[Could open source agriculture revolutionize the industry?](https://urbanagnews.com/blog/exclusives/food-for-thought-could-open-source-agriculture-revolutionize-the-industry/)
 - [ ] [从囚徒到蟒营，开源助我的救赎之路](posts/),来自文章：[What I learned going from prison to Python](https://opensource.com/article/20/1/prison-to-python)
