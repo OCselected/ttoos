@@ -16,4 +16,6 @@ tags:
 - 开源之道播客
 title: "开源之道 Talking "
 url: ""
+authors:
+- 开源之道
 ---
