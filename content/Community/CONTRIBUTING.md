@@ -1,3 +1,22 @@
+---
+categories:
+- 开源
+date: 2020-02-07T14:45:05+08:00
+description: ""
+keywords:
+- Open Source
+- Culture
+- Reading
+- News
+tags:
+- 每周精选
+- 开源之道
+title: "开源之道文章贡献指南"
+url: ""
+authors:
+- 开源之道
+---
+
 ## 前提
 
 最好是对于开源之道的风格和内容有所了解，强烈建议阅读：[开源之道阅读指南](http://ocselected.org/posts/ocselected-reading-guide/)
