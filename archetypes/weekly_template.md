@@ -13,6 +13,9 @@ tags:
 - 开源之道
 title: "{{ replace .TranslationBaseName "-" " " | title }}"
 url: ""
+authors:
+- 开源之道
+---
 ---
 **声明：本站言论，仅代表我自己，不管任何其它！**
 
