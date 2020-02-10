@@ -16,7 +16,7 @@ url: ""
 authors:
 - 开源之道
 ---
-[fork me on GitHub]()
+[Edit me on GitHub](https://github.com/OCselected/ttoos/raw/master/content/posts/open-source-conference/fosdem-2020-view-record-journal.md)
 
 ## 引言
 
@@ -44,17 +44,17 @@ authors:
 >
 > 本主题没有留下video。
 
-![]()
+### Blender, Coming of Age
 
-###
-
-原文链接：[]()
+原文链接：[18 years of Blender open source projects](https://fosdem.org/2020/schedule/event/blender/)
 
 **适兕点评：**
 
->f
-
-
+>本文的主标题用的很棒，我曾经这样描述过开源，一个翩翩少年！看这样的故事总是让人非常的感动，一个项目坚持18年，本主题演讲者没有什么情感上的描述，只是需要这个项目的成长过程，如何在关键的时候获得用户以及用户的认可，并开始逐步走上正轨的。太励志了！尤其是最后关于How、Why、What的西蒙的说法，这个不是什么商业上的，而是纯粹的技艺。
+>
+>有的时候，我在想，资本是加速了一件事物的发展，是催产素的作用？如果没有资本的加速，工匠们能坚持多久？
+>
+>绝对值得一看的视频！
 
 ### DevRoom
 
@@ -72,15 +72,19 @@ authors:
 >
 >要尝试去了解开发者的参与希望获得什么？技术技能？文化？还是简历？
 
-![]()
 
-###
 
-原文链接：[]()
+### 开源需要的领导力
+
+原文链接：[Learn key skills to guide yourself and your project towards a healthy future](https://fosdem.org/2020/schedule/event/leadeross/)
 
 **适兕点评：**
 
+>Leadship yourself ，then leadship others. 以及从认知心理的角度来看leadship ，不自信、精神紧张的人恐怕难以掌握这些个技能，激励他人、坚定的目标、抱团，所有这些都需要人来去做。
 >
+>在本土有个大问题，就是谁有资格去做这件事，当挑战完这个事情之后，然后才能够去做事情，接下来遇到的会是忽略。
+>
+>有视频录像，不容错过的演讲分享。来自Google开源项目办公室。
 
 ![]()
 
