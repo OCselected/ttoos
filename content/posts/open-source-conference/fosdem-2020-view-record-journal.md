@@ -88,13 +88,15 @@ authors:
 
 ![]()
 
-###
+### 为贵司的开源项目打造共同体
 
-原文链接：[]()
+原文链接：[Building Community for your Company’s OSS Projects](https://fosdem.org/2020/schedule/event/corposscommunity/)
 
 **适兕点评：**
 
+>[Dawn Foster](https://fosdem.org/2020/schedule/speaker/dawn_foster/)，算是较为活跃的开源共同体人员了，博士期间写的论文也是广为流传，即Kernel中的开发者是如何处理彼此之间的关系的，这次她有分享了一些打造共同体方面的原则，Building a community around your company’s open source project is no easy task, and there is no magic bullet or one size fits all solution. 其实truth 就是那么几句：诚实、透明、公开、许可协议等等，不过对于本土来说，是缺乏想象力的，因为对于共同体成员缺乏足够的理解的环境。想要理解开源共同体，先不要将这些成员视为异类。
 >
+>有视频录像，不容错过的演讲分享。Pivotal 的开源战略家！Slide下载：https://www.slideshare.net/geekygirldawn/building-community-for-your-companys-oss-project
 
 ![]()
 
