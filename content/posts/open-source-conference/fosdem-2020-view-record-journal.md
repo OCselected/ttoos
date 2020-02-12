@@ -2,7 +2,7 @@
 categories:
 - 开源
 date: 2020-02-07T14:45:05+08:00
-description: ""
+description: "FOSDEM 作为顶级的自由/开源会议，近20年树立的口碑，其每一场分享都是值得学习的，开源之道鼎力推荐。"
 keywords:
 - Open Source
 - Culture
@@ -11,7 +11,7 @@ keywords:
 tags:
 - 每周精选
 - 开源之道
-title: "Fosdem 2020 观看会后记录日志"
+title: "FOSDEM 2020 观看会后记录日志"
 url: ""
 authors:
 - 开源之道
@@ -55,6 +55,24 @@ authors:
 >有的时候，我在想，资本是加速了一件事物的发展，是催产素的作用？如果没有资本的加速，工匠们能坚持多久？
 >
 >绝对值得一看的视频！
+
+![]()
+
+### 二十多年来的自动化 
+
+原文链接：[Over Twenty Years Of Automation](https://fosdem.org/2020/schedule/event/automation/)
+
+**适兕点评：**
+
+>开始分享的雪天撞车滑稽中带着严酷的悲剧。scripts -> cfEngine -> puppet -> chef -> ansible -> docker -> kubernetes 一路发展下来。这应该是我个人喜欢讲的技术史，有实例，有数据，还有众所周知的历史故事。
+>
+>其实关于版本控制的历史，我去年在华师大也是这么思考的，可惜没有机会展示。
+>
+>不过我最喜欢的还是演讲者在最后提到的如何帮助我们！ use、test、patch、share、document、star、blog、tweet、discuss等等。
+
+### 共同体与伦理
+
+
 
 ### DevRoom
 
