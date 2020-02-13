@@ -2,7 +2,7 @@
 categories:
 - 开源
 - 共同体管理
-date: {{ .Date }}
+date: 2020-02-13T22:51:50+08:00
 description: "亲爱的读者，当你看到这篇文章，说明开源之道正式的转型：从个人博客向开源共同体（Open Source Community）的转变，也就是说要进入Community的loop状态，以开源协作来践行证明开源的可行性以及重要的意义。你准备好颠覆自己了吗？就让我们来一次暴风雨般的心智革命吧！"
 keywords:
 - Open Source
