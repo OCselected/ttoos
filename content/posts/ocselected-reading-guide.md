@@ -56,7 +56,7 @@ url: ""
 * [开源厂商（中间服务机构）万岁！](http://www.ocselected.org/posts/business_model/long_live_open_source_company/)
 * [开源软件商业模式之收入来源概览](http://www.ocselected.org/posts/business_model/opensource_business_model_overview/)
 * [探索红帽商业模式最初的灵感来源](http://www.ocselected.org/posts/open_source_history_teaches_us/)
-* [为开源和商业正名](http://www.ocselected.org/posts/naming_opensource_and_marketing/)
+* [为开源和商业正名](http://www.ocselected.org/posts/the_way_of_open_source/naming_opensource_and_marketing/)
 * [精心布局的开源](http://www.ocselected.org/posts/opensource/open_by_design/)
 * [我们无法从开源本身获利](http://www.ocselected.org/posts/opensource/you_cant_make_money_from_open_source/)
 * [开源之道解读红帽企业开源调查报告2019](http://www.ocselected.org/posts/event_analysis/redhat_enterprise_open_source_survey/)
