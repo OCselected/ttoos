@@ -70,6 +70,28 @@ authors:
 >
 >不过我最喜欢的还是演讲者在最后提到的如何帮助我们！ use、test、patch、share、document、star、blog、tweet、discuss等等。
 
+## 代沟
+
+原文链接：[Generation gaps](https://fosdem.org/2020/schedule/event/generation_gaps/)
+
+**适兕点评：**
+
+>软件即文化，从历史来说明技术的变革，也带来文化的变革，因为现在人再也不需要学习什么C 语言了，因为面对的机器也不是PDP-11了。而且面临的硬件和操作接口也变化了，你原来思考的东西，现在都进化了，于是代沟形成了。也就是说必须面临着学习，software is culture! 总结的非常到位。
+>
+>本分享有video留存。
+
+### 分享 LibreOffice 十年之际
+
+原文链接：[LibreOffice turns ten and what's next](https://fosdem.org/2020/schedule/event/libreoffice_turns_ten/)
+
+**适兕点评：**
+
+>StarOffice 分了三家，Apache 接管了OpenOffice、DocumentFoundation 创立了LibreOffice、以及Oracle的商业NetOffice，这是典型的Sun的项目被Oracle撕碎之后的状态。LibreOffice 发展的还不错，至少对于数据的部分做的很对。每一个项目都有一段独特的历史，从来不止于技术本身：商业、社会、政治、文化等都会影响到项目本身以及其共同体和社团的发展。
+>
+>祝愿LibreOffice 能够获得良好发展。视频的结尾处演讲者特别提到了China，control People，说的很对。
+>
+>本演讲有视频留存。
+
 ### 共同体与伦理
 
 
