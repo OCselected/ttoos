@@ -1,15 +1,17 @@
 ---
 categories:
 - 开源
-- 社区管理
+- Community LeaderShip Development
 date: {{ .Date }}
 description: ""
 keywords:
 - Open Source
 - Culture
-- Community Management
+- Community LeaderShip Development
 tags:
-- 社区管理
+- 共同体领导力开发
 title: ""
 url: ""
+authors:
+- 开源之道
 ---

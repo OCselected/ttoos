@@ -164,9 +164,9 @@ Open Source Software，从计算机技术本身而言是蛮容易理解的，因
 随着开源的崛起和壮大，它必然走进公共的视野，它究竟是不是属于全人类的公共产品？如果是的话，它将如何持续？谁该来负责它的良性发展？搭便车者肯定是不会关心一个项目的未来的，它只关心当下是否能够带来利润，带来即时满足带来的投机快感，光是靠道德谴责一定完成不了这个战胜人性的任务，必须进入公共管理领域。
 
 * [（开源项目）治理模式](http://www.ocselected.org/posts/foundation_introduce/oss_governance_models/)
-* [如何管理开源项目中的即兴贡献者](http://www.ocselected.org/posts/community_management/managing-casual-contributors/)
-* [现代开源项目如何实现贡献者增长（译文）](http://www.ocselected.org/posts/community_management/growing-contributor-base-modern-open-source/)
-* [6条让社区繁荣的实用方法，进而取得项目成功](http://www.ocselected.org/posts/community_management/6_ways_a_community_help_project_succeed/)
+* [如何管理开源项目中的即兴贡献者](http://www.ocselected.org/posts/community_leadership_development/managing-casual-contributors/)
+* [现代开源项目如何实现贡献者增长（译文）](http://www.ocselected.org/posts/community_leadership_development/growing-contributor-base-modern-open-source/)
+* [6条让社区繁荣的实用方法，进而取得项目成功](http://www.ocselected.org/posts/community_leadership_development/6_ways_a_community_help_project_succeed/)
 * [Apache 之道，开源可持续成功的秘籍](http://www.ocselected.org/posts/foundation_introduce/the_apache_way_to_sustainable_os/)
 * [区块链将会如何影响开源](http://www.ocselected.org/posts/opensource_technology/open-source-tokenomics/)
 * [云原生的旭日东升 —— CNCF 2018年度报告解读](http://www.ocselected.org/posts/foundation_introduce/review-cncf-2018-annual-report/)
@@ -174,16 +174,19 @@ Open Source Software，从计算机技术本身而言是蛮容易理解的，因
 * [CNCF 是如何工作的](http://www.ocselected.org/posts/foundation_introduce/how_cncf_works/)
 * [关于Linux基金会的简介](http://www.ocselected.org/posts/foundation_introduce/linux_foundation_introduce/)
 * [开源的成功理应是什么样子？](http://www.ocselected.org/posts/opensource_culture/what_success_really_looks_like_in_open_source/)
-* [Kubernetes 社区是如何运作的系列之三——治理细则](http://www.ocselected.org/posts/community_management/how_kubernetes_community_works_3/)
-* [Kubernetes 社区是如何运作的系列之二——康威定律和SIG](http://www.ocselected.org/posts/community_management/how_kubernetes_community_works_2/)
-* [Kubernetes 社区是如何运作的系列之一——哲学及治理](http://www.ocselected.org/posts/community_management/how_kubernetes_community_works_1/)
+* [Kubernetes 社区是如何运作的系列之三——治理细则](http://www.ocselected.org/posts/community_leadership_development/how_kubernetes_community_works_3/)
+* [Kubernetes 社区是如何运作的系列之二——康威定律和SIG](http://www.ocselected.org/posts/community_leadership_development/how_kubernetes_community_works_2/)
+* [Kubernetes 社区是如何运作的系列之一——哲学及治理](http://www.ocselected.org/posts/community_leadership_development/how_kubernetes_community_works_1/)
 * [Apache 是如何运作的？](http://www.ocselected.org/posts/foundation_introduce/how_apache_works/)
 * [开放的 Apache 究竟有多开放?](http://www.ocselected.org/posts/opensource/apache_is_open/)
-* [扩张社区贡献者的几种办法](http://www.ocselected.org/posts/community_management/expand_project_contributor/)
-* [如何解决创建全球社区的挑战](http://www.ocselected.org/posts/community_management/working_worldwide_communities/)
+* [扩张社区贡献者的几种办法](http://www.ocselected.org/posts/community_leadership_development/expand_project_contributor/)
+* [如何解决创建全球社区的挑战](http://www.ocselected.org/posts/community_leadership_development/working_worldwide_communities/)
 * [衡量开源社区投资回报率的16个资源](http://www.ocselected.org/posts/opensource_culture/resources_measuring_open_source_community_roi/)
 * [社区胜过代码：如何建设一个成功的软件项目（视频推荐）](http://www.ocselected.org/posts/opensource_culture/communities_over_code/)
 * [Kubernetes 之所以成功的背后神秘力量](http://www.ocselected.org/posts/contribute_to_community/how-the_kubernetes_community_drives_the_project_success/)
+* [打造归属感的共同体](/posts/contribute_to_community/the-art-of-community-building-belonging/)
+* [开源软件项目的定性和定量分析指标 ———— CHAOSS 指标解析](/posts/contribute_to_community/chaoss_metrics_201908_learning)
+* [](/posts/contribute_to_community/why_create_community_leadership_development_group)
 
 ### 开源和开放式创新
 
