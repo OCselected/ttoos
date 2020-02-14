@@ -37,4 +37,4 @@ OCSelected 即 Open Culture Selected的意思，即开放文化精选，实乃�
 - [@MartinForReal](https://github.com/MartinForReal)
 - [@Heming](https://github.com/heming6666)
 - [@Peter](https://github.com/chenzhepeter)
-- [Willem Jiang](https://github.com/orgs/OCselected/people/WillemJiang)
+- [@WillemJiang](https://github.com/WillemJiang)
