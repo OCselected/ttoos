@@ -37,7 +37,7 @@ url: ""
 * 发起[Community Leadership Development 小组](https://groups.google.com/d/forum/open-source-community-leadership-development)
 * 发起[大学生开源教程](https://github.com/kaiyuanshe/open_source_trainning_undergraduate)
 * 参与各种类型开源活动的[演讲活动](http://ocselected.org/all_about_kuosi/)
-* 
+*
 
 ## 开源之道瓶颈
 
@@ -46,7 +46,7 @@ url: ""
 - [MartinForReal](https://github.com/MartinForReal)
 - [Heming](https://github.com/heming6666)
 - [Peter](https://github.com/chenzhepeter)
-- [Willem Jiang](https://github.com/orgs/OCselected/people/WillemJiang)
+- [WillemJiang](https://github.com/WillemJiang)
 
 但是同时进行如上项目，适兕心有余而力不足了，除了完成以上内容之外，比如还想进行的内容：
 
@@ -149,8 +149,8 @@ url: ""
 
 开源之道的交流渠道：[开源之道共同体之沟通交流](/community/communication/)有着较为详细的描述，但是仍然差了很远：
 
-*  微信公众号宣传 
-*  微博账号 
+*  微信公众号宣传
+*  微博账号
 * Twitter
 
 #### Community 联合
