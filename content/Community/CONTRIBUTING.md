@@ -38,10 +38,10 @@ authors:
 
 开源之道根据文章的分类而做了几个不同的模板，均放在目录：`../archetypes` 下：
 
-* **business_model.md ** ：关于开源和商业模式方面的介绍
-* **enterprise_guide.md **：企业如果搞开源。
-* **opensource_culture.md **：开源文化，开源之道重点攻关突破。
-* **opensource_technology.md **：关于开放源代码技术的，尽量采用抽象程度高的语言来讲述，避免技术细节。
+* **business_model.md** ：关于开源和商业模式方面的介绍
+* **enterprise_guide.md**：企业如果搞开源。
+* **opensource_culture.md**：开源文化，开源之道重点攻关突破。
+* **opensource_technology.md**：关于开放源代码技术的，尽量采用抽象程度高的语言来讲述，避免技术细节。
 * **supply_chain.md**： 软件供应链也是开源之道非常愿意关注的内容。
 * **community_management.md**：开源共同体方面的内容，领导力、亲和力等。
 * **foundation_introduce.md**： 开源非营利基金会介绍
@@ -78,7 +78,7 @@ hugo -k weekly_template new posts/OpenSource/daily_reading/2020/开源之道一�
 `hugo` 内置了web服务，且会编译`markdown`文件为`html`，在提交之前，在本地先看看有没有格式之类的问题，如图片加载、表格等，执行如下命令即可：
 
 ```bash
-hugo server 
+hugo server
 ```
 
 然后使用你心爱的浏览器，在地址栏输入：`http://localhost:1313/` 访问即可。

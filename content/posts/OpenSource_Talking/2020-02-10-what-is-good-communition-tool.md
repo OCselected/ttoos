@@ -14,7 +14,7 @@ keywords:
 tags:
 - 开源之道-Talking
 - 开源之道播客
-title: "「鼠年话开源」之七：社群的交流工具 "
+title: "鼠年话开源之七：社群的交流工具 "
 url: ""
 authors:
 - 开源之道

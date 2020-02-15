@@ -30,11 +30,8 @@ authors:
 * [鼠年话开源之四：开源项目商业化理念与路径](http://www.ocselected.org/posts/opensource_talking/2020-02-06-business-and-open-source/)
 * [鼠年话开源之五：Apache不会给其下的项目开发者发工资，那Apache是如何保证做事的专业性和持续投入的？](http://www.ocselected.org/posts/opensource_talking/2020-02-07-motivation-beyond-of-money/)
 * [鼠年话开源之六：开源共同体和开源社区是不是一回事？如果不是的话，又有何不同？](http://www.ocselected.org/posts/opensource_talking/2020-02-09-what-is-open-source-community/)
-* [「鼠年话开源」之七：社群的交流工具](http://www.ocselected.org/posts/opensource_talking/2020-02-10-what-is-good-communition-tool/)
+* [鼠年话开源之七：社群的交流工具](http://www.ocselected.org/posts/opensource_talking/2020-02-10-what-is-good-communition-tool/)
 
 
 
 ## 【开源之道 Talking 】系列
-
-
-
