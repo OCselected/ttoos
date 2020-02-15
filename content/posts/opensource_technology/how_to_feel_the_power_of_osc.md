@@ -19,7 +19,7 @@ subtitle: "让从未接触过开源的技术人员拥有感同身受的感觉"
 url: ""
 author: 
 - 开源之道
-draft："true"
+draft: "true"
 ---
 
 ## 引言
