@@ -23,8 +23,10 @@ url: ""
 开源之道过去也介绍过Apache软件基金会：
 
 * [Apache 基金会是如何运作的](./posts/foundation_introduce/how_apache_works/)
-* [Apache 2017 年度报告](./posts/Event_analysis/2017_Apache_annual_report/)
+* [Apache 2017 年度报告](./posts/event_analysis/2017_apache_annual_report/)
 * [开放的 Apache 究竟有多开放?](./posts/opensource/apache_is_open/)
+
+##
 
 > 由于本文翻译之 Apache 官网，原文以第一人称写就，开源之道保留第一人称的翻译，特别说明，下文中的我们指代的是 Apache软件基金会。
 
