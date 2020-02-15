@@ -94,7 +94,17 @@ authors:
 
 ### 共同体与伦理
 
+###  自私至极的贡献者辩解
 
+原文链接：[The Selfish Contributor Explained](https://fosdem.org/2020/schedule/event/selfish_contributor/)
+
+> 开源的贡献者并没有大众想象的那么高尚，他们都是“自私鬼”！这是一个非常重要的出发点，正如《国富论》所描述的那样，从个人的私心出发，才能让社会运转的更好。开源就是这样一个道理，这将是建立一个良好开源项目和共同体的基础。
+>
+> 请记住这句话：**Harnessing Selfishnes is essential to maximum engineer productivity,Understanding selfish motivations is vital for helping contributors.And also vital for managing corporate contributions.**
+>
+> 另外感慨一点，就是近30年的内核开发者的分享这些，对于本土是难以想象的。你甚至觉得35岁写程序都是一种难以见到的现象，这是“学而优则仕”的最悲剧的挪用！没有比这个更为伤害工程师的了。
+>
+> Impress.js 做的PPT 非常棒！Video 当然是绝对不能错过的演讲！
 
 ### DevRoom
 
@@ -159,6 +169,8 @@ authors:
 >
 
 ![]()
+
+### Freedom
 
 ###
 
