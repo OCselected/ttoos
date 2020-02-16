@@ -16,17 +16,21 @@ url: ""
 authors:
 - 开源之道
 ---
-[Edit me on GitHub](https://github.com/OCselected/ttoos/raw/master/content/posts/open-source-conference/fosdem-2020-view-record-journal.md)
+<p>
+  <a herf="https://github.com/OCselected/ttoos/raw/master/content/posts/open-source-conference/fosdem-2020-view-record-journal.md">在GitHub中编辑</a>
+</p>
 
 ## 引言
 
+我们要不要严肃的对待一些技术、工程乃至科学的研讨会？这可能是我在参与国内会议，然后和欧美对比之后的第一感慨。客观的对比一下质量，参与者的收获、演讲者的认真态度、组织者的常年耕耘，都可以看出端倪来。甚至直觉上都可以给出一些答案，当然直觉不足以说服人，那么开源之道就试图通过一些对比来进行。
 
+比较思维有个艰难的事情，就是两面的信息是对称的。这将带来更大的难度。
 
 ## 会议内容概要
 
 ### 主 track
 
-#### 历史部分
+#### （FOSS）历史（分会场）
 
 ### Unix 早期被遗忘的历史
 
@@ -56,7 +60,7 @@ authors:
 >
 >绝对值得一看的视频！
 
-![]()
+
 
 ### 二十多年来的自动化 
 
@@ -70,7 +74,7 @@ authors:
 >
 >不过我最喜欢的还是演讲者在最后提到的如何帮助我们！ use、test、patch、share、document、star、blog、tweet、discuss等等。
 
-## 代沟
+### 代沟
 
 原文链接：[Generation gaps](https://fosdem.org/2020/schedule/event/generation_gaps/)
 
@@ -92,7 +96,7 @@ authors:
 >
 >本演讲有视频留存。
 
-### 共同体与伦理
+### 共同体与伦理（分会场）
 
 ###  自私至极的贡献者辩解
 
@@ -106,13 +110,29 @@ authors:
 >
 > Impress.js 做的PPT 非常棒！Video 当然是绝对不能错过的演讲！
 
-### DevRoom
+> 我们的晚餐并非来自屠夫、酿酒商或面包师的恩惠，而是出自他们自利的打算。我们不说唤起他们利他心的话，而说唤起他们利己心的话。我们不说自己有需要，而说对他们有利。
+>
+> ​           ———— 亚当.斯密《国富论》
 
-#### 共同体
+### Freedom 分会场
 
-![]()
+#### 软件自由的核心价值
 
-### 企业开源项目构建共同体经验和思考
+原文链接：[The core values of software freedom](https://fosdem.org/2020/schedule/event/software_freedom/)
+
+**适兕点评：**
+
+>如果有人扪心自问类似演讲者的问题的话，GFW 这种东西绝对不可能存在，或者是Tor、ShadowSocks不存在污染的现象。软件自由至关重要，开源并不意味着可以无限的伤及底线，只是默认承认不越雷池罢了。
+>
+>观看该演讲，有个特别注意的地方，那就是自由软件之中的第一条：use、study、share、improve，这四个词的顺序是讲究的。没有学习过是不应该共享的，这和言论自由里的个人过滤谣言有着重要的一致性。
+>
+>自由软件不会过分强调或排斥钱，钱是任何事情得以进行的必须，甚至都不会谈及开发模式，更加在乎的是意义。值得坚守。
+
+## DevRoom
+
+### 共同体
+
+#### 企业开源项目构建共同体经验和思考
 
 原文链接：[Building a thriving community in company-led open source projects](https://fosdem.org/2020/schedule/event/corpcommunitythrive/)
 
@@ -124,7 +144,7 @@ authors:
 
 
 
-### 开源需要的领导力
+#### 开源需要的领导力
 
 原文链接：[Learn key skills to guide yourself and your project towards a healthy future](https://fosdem.org/2020/schedule/event/leadeross/)
 
@@ -136,9 +156,7 @@ authors:
 >
 >有视频录像，不容错过的演讲分享。来自Google开源项目办公室。
 
-![]()
-
-### 为贵司的开源项目打造共同体
+#### 为贵司的开源项目打造共同体
 
 原文链接：[Building Community for your Company’s OSS Projects](https://fosdem.org/2020/schedule/event/corposscommunity/)
 
@@ -148,7 +166,7 @@ authors:
 >
 >有视频录像，不容错过的演讲分享。Pivotal 的开源战略家！Slide下载：https://www.slideshare.net/geekygirldawn/building-community-for-your-companys-oss-project
 
-![]()
+
 
 ###
 
