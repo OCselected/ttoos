@@ -17,8 +17,9 @@ authors:
 - 开源之道
 ---
 <p>
-  <a herf="https://github.com/OCselected/ttoos/raw/master/content/posts/open-source-conference/fosdem-2020-view-record-journal.md">在GitHub中编辑</a>
+  <a align="right" herf="https://github.com/OCselected/ttoos/raw/master/content/posts/open-source-conference/fosdem-2020-view-record-journal.md">在GitHub中编辑</a>
 </p>
+
 
 ## 引言
 
@@ -166,15 +167,15 @@ authors:
 >
 >有视频录像，不容错过的演讲分享。Pivotal 的开源战略家！Slide下载：https://www.slideshare.net/geekygirldawn/building-community-for-your-companys-oss-project
 
+###  开源伦理：批判性反思
 
-
-###
-
-原文链接：[]()
+原文链接：[The Ethics of Open Source](https://fosdem.org/2020/schedule/event/ethicsoss/)
 
 **适兕点评：**
 
+>这样的演讲确实是太让人头皮发麻了，ICE 的问题确实让开源有所反思，也直接导致了Chef公司的衰落，GitHub 也做了深刻的检讨，那么技术人员真的可以抛开这些东西不去思考的吗？在匠人里是有所取舍的，比如制造奥斯维辛集中营的毒气室就是邪恶的，打造GFW禁锢人民的也是有罪的。那么开源如果被利用了怎么办？我们是不是应该有所选择的去开源？而不是任何人？当然这也是作为大多数人不愿意去思考和面对的问题，但是逃避并不意味着解决，迟早要面对的，成为历史的罪人，或者让历史往自己想要的方向行进。
 >
+>本演讲有[Video]() ，也有[演示文稿](https://fosdem.org/2020/schedule/event/ethicsoss/attachments/slides/4176/export/events/attachments/ethicsoss/slides/4176/Open_Source_is_Broken.pdf)
 
 ![]()
 
