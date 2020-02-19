@@ -20,7 +20,7 @@ url: ""
 ## 基本信息
 
 <p>
-<img align="right" width="200" height="260" src="http://ocselected.org/public/lijiansheng-os.jpg">
+<img align="right" width="200" height="260" src="http://www.opensourceway.community/public/lijiansheng-os.jpg">
 </p>
 
 - 中文姓名：**李建盛**
@@ -31,7 +31,7 @@ url: ""
 
 * [X-lab 开放实验室](http://xlab.ioedu.net/)首席开源导师
 * [开源社](http://www.kaiyuanshe.cn/)教育工作组负责人
-* [”开源之道”](http://ocselected.org/) 作者
+* [”开源之道”](http://www.opensourceway.community) 作者
 * [“开源之道图书共读”](posts/paper_or_book_reading/establish_reading_os_community/) 活动发起者
 * “开源之道企业培训” 主讲师
 * InfoQ [社区编辑](https://www.infoq.cn/profile/1277322)

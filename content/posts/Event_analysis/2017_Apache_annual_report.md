@@ -18,7 +18,7 @@ url: ""
 
 ## 引子
 
-年底了大家似乎都开始做总结，回顾一年的工作成果的时候了，就在前不久，我们做了[Linux 内核开发报告2017版](http://www.ocselected.org/posts/opensource_culture/2017_linux_kernel_development_report/)的报道，无独有偶。这不 Apache 基金会发布了一份过去一个财年的总结报告。那我们就来解读一番， Apache 在过去的一年里有何成绩。当然，主要的目的是希望能够看清趋势，在2018年或许更远的未来，能够做一些有意义的事情。
+年底了大家似乎都开始做总结，回顾一年的工作成果的时候了，就在前不久，我们做了[Linux 内核开发报告2017版](/posts/opensource_culture/2017_linux_kernel_development_report/)的报道，无独有偶。这不 Apache 基金会发布了一份过去一个财年的总结报告。那我们就来解读一番， Apache 在过去的一年里有何成绩。当然，主要的目的是希望能够看清趋势，在2018年或许更远的未来，能够做一些有意义的事情。
 
 附：[Apache 2017财年年度报告](https://blogs.apache.org/foundation/entry/the-apache-software-foundation-announces15)
 

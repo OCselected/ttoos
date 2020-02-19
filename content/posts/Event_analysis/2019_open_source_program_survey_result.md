@@ -21,7 +21,7 @@ url: ""
 开源之道曾经专门关注过有关开源项目办公室的相关内容，并翻译了一下文章，如：
 
 * [公司如何创建开源项目办公室](./posts/opensource_enterprise_guide/creating-an-open-source-program.md)
-* [每家公司都应设立开源项目部门（OSPO）！](http://www.ocselected.org/posts/business_model/whats_open_source_program_office/)
+* [每家公司都应设立开源项目部门（OSPO）！](/posts/business_model/whats_open_source_program_office/)
 * [开源之道阅读指南](posts/ocselected-reading-guide/)
 
 也说明开源之道早几年就开始关注这样一种企业处理开源共同体的方式，那么到2019年，基于这个的方法论，已经发展的颇为成熟，Linux 旗下的 TODOGroup 的活跃度就是最大的明证。接下来我们就看看今年的调查：

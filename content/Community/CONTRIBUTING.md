@@ -19,7 +19,7 @@ authors:
 
 ## 前提
 
-最好是对于开源之道的风格和内容有所了解，强烈建议阅读：[开源之道阅读指南](http://ocselected.org/posts/ocselected-reading-guide/)
+最好是对于开源之道的风格和内容有所了解，强烈建议阅读：[开源之道阅读指南](/posts/ocselected-reading-guide/)
 
 ## 开发者
 
@@ -101,7 +101,7 @@ git push origin branch_name
 
 ### 发布
 
-[Travis-CI](https://travis-ci.org/) 和 Slack 深度集成，在`review`完成之后，进行了`merge`之后，[Travis-CI](https://travis-ci.org/)会自动编译，完成之后会通知到Slack，（所以slack最好是处于活跃状态），然后访问：[http://ocselected.org/](http://ocselected.org/) 看最后的效果如何。
+[Travis-CI](https://travis-ci.org/) 和 Slack 深度集成，在`review`完成之后，进行了`merge`之后，[Travis-CI](https://travis-ci.org/)会自动编译，完成之后会通知到Slack，（所以slack最好是处于活跃状态），然后访问：[http://opensourceway.community](http://opensourceway.community) 看最后的效果如何。
 
 如果没有及时出现，请尝试使用 `chrome`的无痕浏览。
 

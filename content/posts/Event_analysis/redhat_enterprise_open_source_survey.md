@@ -34,7 +34,7 @@ url: ""
 
 该报告对来自世界各地 950 位 IT 领导者进行访谈后的成果，调查区域包括美国、英国、拉丁美洲及亚太地区，旨在了解不同地理区域的企业开源概况。其中来自美国的有400位，来自英国的有150位，拉丁美洲的（Argentina、 Brazil、 Chile、 Colombia、 Mexico）有250位，以及说英语的亚太区（澳大利亚、新西兰、香港和新加坡）的150位。
 
-至于都询问了那些问题，该报告中并没有透露，不过访谈者是[Gordon Haff](https://www.redhat.com/en/blog/authors/gordon-haff)，说起这位作者我们可不陌生，他是[开源之道图书共读2019年第九期](http://www.ocselected.org/posts/paper_or_book_reading/2019_book_lists/)的图书《How Open Source Ate Software》一书的作者，目前是红帽的技术布道师。
+至于都询问了那些问题，该报告中并没有透露，不过访谈者是[Gordon Haff](https://www.redhat.com/en/blog/authors/gordon-haff)，说起这位作者我们可不陌生，他是[开源之道图书共读2019年第九期](/posts/paper_or_book_reading/2019_book_lists/)的图书《How Open Source Ate Software》一书的作者，目前是红帽的技术布道师。
 
 ### 红帽CEO的寄语
 

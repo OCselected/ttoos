@@ -15,7 +15,7 @@ url: ""
 ---
 ## 题记
 
-开源之道的主要作者适兕在LC3中国的会议上拜会了知名的社区人物：Stephen R. Walli， 并表达了自己心中的崇拜之情。Stephen R. Walli先生不仅对于开源有着切身的理解和认识，也希望能够让更多的人知道他的想法，于是开源之道经过Stephen R. Walli先生的[允许](https://medium.com/@stephenrwalli/i-would-be-happy-for-you-to-translate-the-article-3db8d9d9330b)，将陆续的将他的文章翻译为中文，将他对于开源和商业的思考介绍给本土的读者。本文是他的第二篇，第一篇[根本就没有所谓的开源商业模式](http://www.ocselected.org/posts/Business_model/there_is_no_open_source_business_model)。
+开源之道的主要作者适兕在LC3中国的会议上拜会了知名的社区人物：Stephen R. Walli， 并表达了自己心中的崇拜之情。Stephen R. Walli先生不仅对于开源有着切身的理解和认识，也希望能够让更多的人知道他的想法，于是开源之道经过Stephen R. Walli先生的[允许](https://medium.com/@stephenrwalli/i-would-be-happy-for-you-to-translate-the-article-3db8d9d9330b)，将陆续的将他的文章翻译为中文，将他对于开源和商业的思考介绍给本土的读者。本文是他的第二篇，第一篇[根本就没有所谓的开源商业模式](/posts/business_model/there_is_no_open_source_business_model)。
 
 ![](https://opensource.com/sites/default/files/styles/image-full-size/public/images/business/BIZ_fortunecookie3.png?itok=dlRX4vO9)
 

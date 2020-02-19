@@ -31,7 +31,7 @@ url: ""
 
 ## 开源星期五
 
-GitHub 从其外界所表现出来的，从来就没有止步于代码托管本身，而是不断的在锐意进取！尤其是今年对开源的发力，在2月14日发布[开源指南](https://ocselected.github.io/open-source-guide/)站点，全方位的针对开源，进行了方法论的总结和最佳实践指南，详情可参考我的演讲稿:[开源之道解读开源指南](http://www.ocselected.org/posts/opensource_culture/opensource_guide/overview/)；稍后又发布了[GitHub开源站点](https://github.com/open-source)，并自豪的宣称自己是全球最大的开源社区；继而在6月份，发布了开源调查:[开源界的现状如何](http://www.ocselected.org/posts/event_analysis/github_open_source_survey_2017/)
+GitHub 从其外界所表现出来的，从来就没有止步于代码托管本身，而是不断的在锐意进取！尤其是今年对开源的发力，在2月14日发布[开源指南](https://ocselected.github.io/open-source-guide/)站点，全方位的针对开源，进行了方法论的总结和最佳实践指南，详情可参考我的演讲稿:[开源之道解读开源指南](/posts/opensource_culture/opensource_guide/overview/)；稍后又发布了[GitHub开源站点](https://github.com/open-source)，并自豪的宣称自己是全球最大的开源社区；继而在6月份，发布了开源调查:[开源界的现状如何](/posts/event_analysis/github_open_source_survey_2017/)
 
 正是因为有了上面的动作，GitHub继续前行，开发了[开源星期五](https://opensourcefriday.com/)项目。从三个纬度介绍了开源星期五的理由、原则和方法，当然最重要落实的，还是提倡大家每个周五，从百忙中抽出2个小时或以上的时间来为开源做贡献，益处多多，何乐而不为？
 
@@ -64,7 +64,7 @@ GitHub 的团队甚至还专门制作了一个添加到日历，利用一下刚�
 
 ### 开源项目维护者
 
-看看各个巨头为了攻城掠地，已经在[开源布局了](http://www.ocselected.org/posts/Business_model/Open_Source_Is_Battle_field_of_Public_Cloud/)，那么这个时候，对于开源项目就有了更高的要求，项目的维护者需要加倍的用心。要真正做到：帮助人们加入到贡献者阵营。
+看看各个巨头为了攻城掠地，已经在[开源布局了](/posts/Business_model/Open_Source_Is_Battle_field_of_Public_Cloud/)，那么这个时候，对于开源项目就有了更高的要求，项目的维护者需要加倍的用心。要真正做到：帮助人们加入到贡献者阵营。
 
 GitHub 从三个纬度给出了相应的建议：
 
@@ -78,7 +78,7 @@ GitHub 从三个纬度给出了相应的建议：
 
 #### 让社区野蛮生长
 
-在GitHub刚刚结束的开源调查:[开源界的现状如何](http://www.ocselected.org/posts/event_analysis/github_open_source_survey_2017/)中，排名的第一的，就是开源项目的文档糟糕极了。一定要完善项目的文档，这点毋庸置疑。并且尽可能的写全面了。
+在GitHub刚刚结束的开源调查:[开源界的现状如何](/posts/event_analysis/github_open_source_survey_2017/)中，排名的第一的，就是开源项目的文档糟糕极了。一定要完善项目的文档，这点毋庸置疑。并且尽可能的写全面了。
 
 寻找有希望的潜在贡献者或维护者分享您的项目的所有权。要对第一次作出贡献的贡献者进行特别的鼓励和欢迎。
 

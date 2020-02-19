@@ -64,7 +64,7 @@ authors:
 
 #### 适兕
 
-> 读英文原版就好了，翻译的不怎么样，非it界翻译的。推荐阅读Jono的新书《people powered》，[开源之道共读图书列表（2020版）](http://www.ocselected.org/posts/paper_or_book_reading/2020_book_lists/) 关于共同体部分，强烈推荐。
+> 读英文原版就好了，翻译的不怎么样，非it界翻译的。推荐阅读Jono的新书《people powered》，[开源之道共读图书列表（2020版）](org/posts/paper_or_book_reading/2020_book_lists/) 关于共同体部分，强烈推荐。
 
 #### Bonnie
 

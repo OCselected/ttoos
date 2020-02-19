@@ -45,7 +45,7 @@ authors:
 
 ### 聊天中提及到的链接
 
-”开源共同体“是开源之道发现并诠释的一个新名词：[Community Leadership Development 是什么？做什么？](http://ocselected.org/posts/community_management/why_create_community_leadership_development_group/)
+”开源共同体“是开源之道发现并诠释的一个新名词：[Community Leadership Development 是什么？做什么？](/posts/community_management/why_create_community_leadership_development_group/)
 
 ## 为什么要发起这个话题
 

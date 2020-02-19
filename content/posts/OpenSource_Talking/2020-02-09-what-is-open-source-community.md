@@ -44,13 +44,13 @@ authors:
 
 [Open Organzation workbook 电子版](https://github.com/open-organization-ambassadors/open-org-workbook/blob/master/open_org_workbook_1_1_5.pdf )
 
-[拥抱开源，需要跨越那些鸿沟？ ————《Open Life —— 有关开源的哲学》读后感 ](http://ocselected.org/posts/paper_or_book_reading/henrik_ingo_open_life/)
+[拥抱开源，需要跨越那些鸿沟？ ————《Open Life —— 有关开源的哲学》读后感 ](/posts/paper_or_book_reading/henrik_ingo_open_life/)
 
 [关 乎社群:1 什么是社区? | DevRel | 开发者关系.思考](https://devrel.101.camp/2014-02/ac1-zq/)
 
 [关 乎社群:2 什么是技术社区? | DevRel | 开发者关系.思考](https://devrel.101.camp/2014-02/ac2-tech-community/)
 
-[Community Leadership Development 是什么？做什么？](http://www.ocselected.org/posts/community_management/why_create_community_leadership_development_group/)
+[Community Leadership Development 是什么？做什么？](/posts/community_management/why_create_community_leadership_development_group/)
 
 
 

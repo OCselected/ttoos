@@ -36,7 +36,7 @@ url: ""
 
 推荐理由：
 
-> 请阅读开源之道的书评：http://ocselected.org/posts/paper_or_book_reading/the-software-paradox-book-review/
+> 请阅读开源之道的书评：[软件悖论](/posts/paper_or_book_reading/the-software-paradox-book-review/)
 
 ###  3.《Milestones: The Story of WordPress》 
 

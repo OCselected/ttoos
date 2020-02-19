@@ -18,7 +18,7 @@ url: ""
 
 ## 引子
 
-Docker 的联合创始人皆CTO Solomon Hykes 的就曾表达过商业和开源的关系：[开源的项目和产品犹如一枚硬币的两面](http://www.ocselected.org/posts/opensource_leader/Solomon_Hykes_and_The_Docker_Revolution/)，是的，没错，开源从诞生之日起，就是青睐于商业的。开源已经快20年了，或许成功的公司或项目你多多少少都听说过一些，如红帽、SpringSource、elasticsearch、Docker等等，但是你是否知道这些成功的开源公司或项目都和一个投资人有关？
+Docker 的联合创始人皆CTO Solomon Hykes 的就曾表达过商业和开源的关系：[开源的项目和产品犹如一枚硬币的两面](/posts/opensource_leader/Solomon_Hykes_and_The_Docker_Revolution/)，是的，没错，开源从诞生之日起，就是青睐于商业的。开源已经快20年了，或许成功的公司或项目你多多少少都听说过一些，如红帽、SpringSource、elasticsearch、Docker等等，但是你是否知道这些成功的开源公司或项目都和一个投资人有关？
 
 是的，他就是拥有开源魔力的投资人头衔的 Peter Fenton！
 

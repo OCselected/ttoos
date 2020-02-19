@@ -50,8 +50,8 @@ authors:
 ### 讨论中的相关链接
 
 1. 姜宁在主持之前提纲: https://shimo.im/docs/V6dvygpYhR3JYjDx
-2. 开源之道图书共读《开放与共享》书评：http://ocselected.org/posts/paper_or_book_reading/thinking_of_open_source_innovation_economic/
-3. 更多Apache的哲学请访问：[Apache 之道，开源可持续成功的籍](http://ocselected.org/posts/foundation_introduce/the_apache_way_to_sustainable_os/)。
+2. [开源之道图书共读《开放与共享》书评](/posts/paper_or_book_reading/thinking_of_open_source_innovation_economic/)
+3. 更多Apache的哲学请访问：[Apache 之道，开源可持续成功的籍](/posts/foundation_introduce/the_apache_way_to_sustainable_os/)。
 
 ## 登场人物
 
