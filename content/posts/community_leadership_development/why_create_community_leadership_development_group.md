@@ -18,7 +18,7 @@ url: ""
 
 ## 引言
 
-[开源之道](http://ocselected.org/) ，是适兕的个人博客，不知不觉地写了三年多。如果仅止于写或者翻译文章的话，那么可能会错失很多东西，因为从文章中可以学习和感悟到很多，如[开源之道图书共读](http://www.ocselected.org/posts/paper_or_book_reading/establish_reading_os_community)，又如现在我们所谈到的:（开源）共同体领导力发展，各种机缘巧合碰撞的结果。
+[开源之道](http://www.opensourceway.community/) ，是适兕的个人博客，不知不觉地写了三年多。如果仅止于写或者翻译文章的话，那么可能会错失很多东西，因为从文章中可以学习和感悟到很多，如[开源之道图书共读](/posts/paper_or_book_reading/establish_reading_os_community)，又如现在我们所谈到的:（开源）共同体领导力发展，各种机缘巧合碰撞的结果。
 
 > **Software and technology is the easy part. The hard part is creating and fostering a culture around an open-source project.**
 >
@@ -51,7 +51,7 @@ url: ""
 
 ### 故事三： 开源之道图书共读一年记
 
-开源之道图书共读了一年，初衷是这样的：[开源之道图书和文献共读申明](http://www.ocselected.org/posts/paper_or_book_reading/establish_reading_os_community)，一年的计划完成，形成了一个“共读、共识、共进”的小的共同体，并借助OpenI/O 启智大会上做了演讲分享（也组织了 Community Leadship Development 首次线下研讨）。
+开源之道图书共读了一年，初衷是这样的：[开源之道图书和文献共读申明](org/posts/paper_or_book_reading/establish_reading_os_community)，一年的计划完成，形成了一个“共读、共识、共进”的小的共同体，并借助OpenI/O 启智大会上做了演讲分享（也组织了 Community Leadship Development 首次线下研讨）。
 
 **即使在本土，环境、文化有很大障碍的情况下，依然是有机会组织 Community 的。**
 
@@ -82,7 +82,7 @@ Jono Bacon 成功的在北美组织过多次Community Leadership 峰会，一般
 
 ## 本土面临的挑战
 
-适兕曾经在三年前写过一篇文章:[历史的维度——开源、拿来主义与自主可控的历史对比](http://ocselected.org/posts/opensource/open_source_tao_and_way/latitude_of_history/)，开源共同体的建设面临诸多的困难，比如Community的翻译历史问题，这将带来巨大的挑战，其余的我就以2020.1.12在上海微软 Reactor 的分享来表达，具体解释容我日后慢慢撰文诠释：
+适兕曾经在三年前写过一篇文章:[历史的维度——开源、拿来主义与自主可控的历史对比](/posts/opensource/open_source_tao_and_way/latitude_of_history/)，开源共同体的建设面临诸多的困难，比如Community的翻译历史问题，这将带来巨大的挑战，其余的我就以2020.1.12在上海微软 Reactor 的分享来表达，具体解释容我日后慢慢撰文诠释：
 
 ![](images/community-challege/danwei.png)
 

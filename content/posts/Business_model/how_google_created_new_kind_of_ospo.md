@@ -16,7 +16,7 @@ title:  Google 是如何打造独一无二的开源项目部的
 url: ""
 ---
 
-在[《每家公司都应该设立开源项目部门（OSPO）》](http://www.ocselected.org/posts/business_model/whats_open_source_program_office/)一文中，我介绍了开源项目部的来龙去脉，职责所在，以及讨论了为什么每家公司都应该设立这样一个部门。在本文中，则会聚焦于Google的开源项目部，试图以实例的方式说明第一家战略性的设立开源项目的前世今生。
+在[《每家公司都应该设立开源项目部门（OSPO）》](/posts/business_model/whats_open_source_program_office/)一文中，我介绍了开源项目部的来龙去脉，职责所在，以及讨论了为什么每家公司都应该设立这样一个部门。在本文中，则会聚焦于Google的开源项目部，试图以实例的方式说明第一家战略性的设立开源项目的前世今生。
 
 ![](https://opensource.com/sites/default/files/styles/image-full-size/public/images/business/BUSINESS_buildtogether.png?itok=e-l7T6nC)
 

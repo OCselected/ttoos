@@ -49,7 +49,7 @@ Perens 在著名动画制作公司皮克斯工作过12年，他作为工具工�
 
 ### 开放源代码的定义 和 创建开源促进会
 
-关于此点内容，开源之道的另外一篇文章:[开放源代码定义之历史篇](http://www.ocselected.org/posts/opensource_culture/the_open_source_definition_history/) 中有着详尽的描述，这也是 Perens 的职业顶峰。可以被历史所铭记的时刻。
+关于此点内容，开源之道的另外一篇文章:[开放源代码定义之历史篇](/posts/opensource_culture/the_open_source_definition_history/) 中有着详尽的描述，这也是 Perens 的职业顶峰。可以被历史所铭记的时刻。
 
 ### Linux 标准库（LSB）
 

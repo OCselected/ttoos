@@ -24,7 +24,7 @@ url: ""
 
 ## 简短的历史回顾
 
-红帽的缔造，要追溯到上世纪1993年，红帽是为数不多的第一代Linux发行版，它是和Debian、Slackware一起诞生在这一年的。1993年仍然是属于自由软件的年代，举例“开源”的[诞生](http://www.ocselected.org/posts/opensource_leader/bruce_perens_open_source_definition/)还有5年的时间。Linux 和开源软件得到大公司的认可，以及获得其商业竞争者的注意，还需要等上很多年。即使是到了1999年，人们仍然不把他当做一回事，Bill Gates 在宣传他的书时，就是如此评价 Linux的：
+红帽的缔造，要追溯到上世纪1993年，红帽是为数不多的第一代Linux发行版，它是和Debian、Slackware一起诞生在这一年的。1993年仍然是属于自由软件的年代，举例“开源”的[诞生](/posts/opensource_leader/bruce_perens_open_source_definition/)还有5年的时间。Linux 和开源软件得到大公司的认可，以及获得其商业竞争者的注意，还需要等上很多年。即使是到了1999年，人们仍然不把他当做一回事，Bill Gates 在宣传他的书时，就是如此评价 Linux的：
 
 > 确实我们承认在学生和爱好者当中我们不如Linux，但是我们从多个角度考察过，并不认为它能在商业市场上有何作为。
 

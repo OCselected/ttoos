@@ -21,22 +21,22 @@ url: ""
 
 相关文章可以参考：
 
-* [为什么基于成功的开源项目的商业产品会失败？](http://www.ocselected.org/posts/opensource_culture/why_product_failed_that_based_successful_open_source_project/)
-* [历史的维度——开源、拿来主义与自主可控的历史对比](http://www.ocselected.org/posts/opensource/open_source_tao_and_way/latitude_of_history/)
-* [开源之道](http://www.ocselected.org/posts/the_way_of_open_source/open_source_way/)
-* [开源之道与开源之术](http://www.ocselected.org/posts/opensource/open_source_tao_and_way/open_source_tao_and_way_0/)
+* [为什么基于成功的开源项目的商业产品会失败？](/posts/opensource_culture/why_product_failed_that_based_successful_open_source_project/)
+* [历史的维度——开源、拿来主义与自主可控的历史对比](/posts/opensource/open_source_tao_and_way/latitude_of_history/)
+* [开源之道](/posts/the_way_of_open_source/open_source_way/)
+* [开源之道与开源之术](/posts/opensource/open_source_tao_and_way/open_source_tao_and_way_0/)
 
 ## 开源之道发展
 
 当写下文章[《为开源和商业正名》](/posts/the_way_of_open_source/naming_opensource_and_marketing/)一文时，就奠定了适兕走上了求索开源这条道路上，凭借毫无来由的决心与勇气，自那之后三年多以来，就开始布道开源、研习开源、探讨开源、参与开源的道路上：
 
-* 撰写和翻译文章：[开源之道（阅读指南）](http://www.ocselected.org/posts/ocselected-reading-guide/)
+* 撰写和翻译文章：[开源之道（阅读指南）](/posts/ocselected-reading-guide/)
 * 撰写每周评论
-* 发起[开源之道图书共读小组](/posts/paper_or_book_reading/establish_reading_os_community)，并撰写[书评](http://ocselected.org/posts/paper_or_book_reading/henrik_ingo_open_life/)
+* 发起[开源之道图书共读小组](/posts/paper_or_book_reading/establish_reading_os_community)，并撰写[书评](/posts/paper_or_book_reading/henrik_ingo_open_life/)
 * 发起[开源之道文化日历](https://github.com/OCselected/open-source-way-2021-calendar-program)
 * 发起[Community Leadership Development 小组](https://groups.google.com/d/forum/open-source-community-leadership-development)
 * 发起[大学生开源教程](https://github.com/kaiyuanshe/open_source_trainning_undergraduate)
-* 参与各种类型开源活动的[演讲活动](http://ocselected.org/all_about_kuosi/)
+* 参与各种类型开源活动的[演讲活动](/all_about_kuosi/)
 *
 
 ## 开源之道瓶颈
@@ -91,13 +91,13 @@ url: ""
 
 开源之道 talking，适兕一直都在酝酿，终于在2020年的春节接着 "Community Leadership Development"的人气，开了一个良好的头：
 
-* [鼠年话开源之一：开源开发者有何特征？](http://www.ocselected.org/posts/opensource_talking/2020-02-02-open-source-developer/)
-* [鼠年话开源之二：商业公司如何拥抱开源共同体（Open Source Community）](http://www.ocselected.org/posts/opensource_talking/2020-02-03-business-embrave-osc/)
-* [鼠年话开源之三：Apache 之道在本土的障碍有哪些？还是无缝的？](http://www.ocselected.org/posts/opensource_talking/2020-02-05-is-apache-way-worked-in-china/)
-* [鼠年话开源之四：开源项目商业化理念与路径](http://www.ocselected.org/posts/opensource_talking/2020-02-06-business-and-open-source/)
-* [鼠年话开源之五：Apache不会给其下的项目开发者发工资，那Apache是如何保证做事的专业性和持续投入的？](http://www.ocselected.org/posts/opensource_talking/2020-02-07-motivation-beyond-of-money/)
-* [鼠年话开源之六：开源共同体和开源社区是不是一回事？如果不是的话，又有何不同？](http://www.ocselected.org/posts/opensource_talking/2020-02-09-what-is-open-source-community/)
-* [鼠年话开源之七：社群的交流工具](http://www.ocselected.org/posts/opensource_talking/2020-02-10-what-is-good-communition-tool/)
+* [鼠年话开源之一：开源开发者有何特征？](/posts/opensource_talking/2020-02-02-open-source-developer/)
+* [鼠年话开源之二：商业公司如何拥抱开源共同体（Open Source Community）](/posts/opensource_talking/2020-02-03-business-embrave-osc/)
+* [鼠年话开源之三：Apache 之道在本土的障碍有哪些？还是无缝的？](/posts/opensource_talking/2020-02-05-is-apache-way-worked-in-china/)
+* [鼠年话开源之四：开源项目商业化理念与路径](/posts/opensource_talking/2020-02-06-business-and-open-source/)
+* [鼠年话开源之五：Apache不会给其下的项目开发者发工资，那Apache是如何保证做事的专业性和持续投入的？](/posts/opensource_talking/2020-02-07-motivation-beyond-of-money/)
+* [鼠年话开源之六：开源共同体和开源社区是不是一回事？如果不是的话，又有何不同？](/posts/opensource_talking/2020-02-09-what-is-open-source-community/)
+* [鼠年话开源之七：社群的交流工具](/posts/opensource_talking/2020-02-10-what-is-good-communition-tool/)
 
 那么还有非常之多的话题和嘉宾想做下去。贡献者可以做的事：
 
@@ -120,17 +120,17 @@ url: ""
 
 2019年发起的12期图书已经顺利完成：
 
-1. [《软件悖论:商业软件的崛起与陨落》](http://www.ocselected.org/posts/paper_or_book_reading/the-software-paradox-book-review/)
-2. [Subscribed：为什么说订阅才是塑造贵司的未来的模式，如何实现它](http://www.ocselected.org/posts/paper_or_book_reading/subscribed-why-subsctiption-it-your-future)
-3. [我们正处于开源的黄金时代 —— 《开放与共享》导读与书评](http://www.ocselected.org/posts/paper_or_book_reading/thinking_of_open_source_innovation_economic)
-4. [得开发者得天下 ———— 开发者是如何征服世界的](http://www.ocselected.org/posts/paper_or_book_reading/the_new_kingmaker_review)
-5. [开源开发者内在的素质：匠艺 —— 《匠人》书评与导读](http://www.ocselected.org/posts/paper_or_book_reading/the-craftsman-book-review)
-6. [开源 – 一部黑客伦理与商业资本相互妥协的融合史（《黑客》读后感）](http://www.ocselected.org/posts/paper_or_book_reading/hackers-book-review)
-7. [开放源代码软件的三重境界 ———— 《大教堂与集市》读后感](http://www.ocselected.org/posts/the_way_of_open_source/the_three_realm_of_open_source_software)
-8. [开放源代码软件的生产之道](http://www.ocselected.org/posts/paper_or_book_reading/the_review_of_producingoss)
-9. [开放源代码是如何吞噬软件的](http://www.ocselected.org/posts/paper_or_book_reading/book_review_of_hosas)
-10. [如何开源，决定于认识开源](http://www.ocselected.org/posts/paper_or_book_reading/book_review_of_voice_from_the_osr)
-11. [近距离看开源是什么？有什么？](http://www.ocselected.org/posts/paper_or_book_reading/book_review_of_mitfoss/)
+1. [《软件悖论:商业软件的崛起与陨落》](/posts/paper_or_book_reading/the-software-paradox-book-review/)
+2. [Subscribed：为什么说订阅才是塑造贵司的未来的模式，如何实现它](/posts/paper_or_book_reading/subscribed-why-subsctiption-it-your-future)
+3. [我们正处于开源的黄金时代 —— 《开放与共享》导读与书评](/posts/paper_or_book_reading/thinking_of_open_source_innovation_economic)
+4. [得开发者得天下 ———— 开发者是如何征服世界的](/posts/paper_or_book_reading/the_new_kingmaker_review)
+5. [开源开发者内在的素质：匠艺 —— 《匠人》书评与导读](/posts/paper_or_book_reading/the-craftsman-book-review)
+6. [开源 – 一部黑客伦理与商业资本相互妥协的融合史（《黑客》读后感）](/posts/paper_or_book_reading/hackers-book-review)
+7. [开放源代码软件的三重境界 ———— 《大教堂与集市》读后感](/posts/the_way_of_open_source/the_three_realm_of_open_source_software)
+8. [开放源代码软件的生产之道](/posts/paper_or_book_reading/the_review_of_producingoss)
+9. [开放源代码是如何吞噬软件的](/posts/paper_or_book_reading/book_review_of_hosas)
+10. [如何开源，决定于认识开源](/posts/paper_or_book_reading/book_review_of_voice_from_the_osr)
+11. [近距离看开源是什么？有什么？](/posts/paper_or_book_reading/book_review_of_mitfoss/)
 12. [拥抱开源，需要跨越那些鸿沟？ ————《Open Life —— 有关开源的哲学》读后感](/posts/paper_or_book_reading/henrik_ingo_open_life/)
 
 组织了三次线下读书活动。

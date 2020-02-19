@@ -28,7 +28,7 @@ authors:
 
 ## 本期话题概述
 
-2019年初，Apache 基金会终于发布了一篇关于诠释[Aapche之道的文章](https://blogs.apache.org/foundation/entry/the-apache-way-to-sustainable)，开源之道也第一时间认领了翻译的任务，并首发[开源社](http://www.kaiyuanshe.cn)，并得到了很多关心Apache 之道的开源圈的人的呼应和反馈，文章的题目是：[Apache 之道，开源可持续成功的秘籍](http://ocselected.org/posts/foundation_introduce/the_apache_way_to_sustainable_os/)。基于这个再看Apache 20年的年度报告，对于它的成绩也就没什么大惊小怪。
+2019年初，Apache 基金会终于发布了一篇关于诠释[Aapche之道的文章](https://blogs.apache.org/foundation/entry/the-apache-way-to-sustainable)，开源之道也第一时间认领了翻译的任务，并首发[开源社](http://www.kaiyuanshe.cn)，并得到了很多关心Apache 之道的开源圈的人的呼应和反馈，文章的题目是：[Apache 之道，开源可持续成功的秘籍](/posts/foundation_introduce/the_apache_way_to_sustainable_os/)。基于这个再看Apache 20年的年度报告，对于它的成绩也就没什么大惊小怪。
 
 另外一个就是一名来自印度的研究生 Sharan Foga 的论文：《Transmission of Values and Culture in Open Source 》，用大数据分析邮件列表的方式说明中国的文化是完全适应Apache Way的。这个结论对于我来说是有违直觉的，看年度报告，中国是下载量最大的地方，但是贡献者和 commiter 是不成比例的。
 

@@ -216,7 +216,7 @@ Ibrahim Haddad 先生还建议贡献者应遵循正确的编码风格，遵循�
 
 > “如果你打算雇佣一名维护者，或是想雇一名厉害的贡献者，请时刻牢记，这些人被很多公司盯着，而且他们是这个世界做着足够灵活的工作的人，这也就意味着，他们虽然从一家公司换到另外一家公司，但是却在同一个项目中工作，唯一改变的是签署薪水的公司名称。”  Guy Martin, Autodesk 开放总监
 
-有心的读者可以从本指南系列的另外一篇 ——[如何正确的招聘开源人才](http://www.ocselected.org/posts/opensource_enterprise_guide/recruiting-developers/)，获得更为详细的内容。
+有心的读者可以从本指南系列的另外一篇 ——[如何正确的招聘开源人才](/posts/opensource_enterprise_guide/recruiting-developers/)，获得更为详细的内容。
 
 ### 培养人才（最佳方法）
 

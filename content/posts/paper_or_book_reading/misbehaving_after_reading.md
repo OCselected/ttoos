@@ -81,7 +81,7 @@ url: ""
 
 > 影响人们的选择，并使其受益，这建立在决策者自身判断的基础上。   ————理查德.泰勒 2017年诺贝尔经济学奖得主
 
-### [为什么基于成功的开源项目的商业产品会失败？](http://www.ocselected.org/posts/opensource_culture/why_product_failed_that_based_successful_open_source_project/)
+### [为什么基于成功的开源项目的商业产品会失败？](org/posts/opensource_culture/why_product_failed_that_based_successful_open_source_project/)
 
 我很坦诚的交待，即使是现在，如果我置身于某个团队内部，我依然会对项目持乐观的态度，认为基于一个欣欣向荣的成功项目做一款产品能够成功，而且会认为一年内就会成功。比如Linux、OpenStack、Kubernetes等等这些大型的成功的开源项目，而且还是在人数不多的情况下，做出如此的判断。
 

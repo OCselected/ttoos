@@ -95,13 +95,13 @@ Google 公司最近将其内部的[开源政策文档](https://opensource.google
 
 当上述这些外部的资源提供了重要的向导，而且各位看官对于自己的开源战略也有了一定的标尺，那么接下来就是考虑内部的协作了，这是制定开源业务战略的关键所在。贵司的开源战略应根据您自己独特的商业模式而量身定制，那么自己公司内部的人才是最好的信息来源。另外，你还需要照顾到所有的利益相关者达成共识，要确保所有人都在一个层面上，愿意对于预期实现的目标投入心血和努力。比如，例如，在协作过程中涉及执行领导是很重要的。
 (
-在公司设立开源项目办公室对于达成内部的协作意义非凡。 本指南系列之[公司如何创建开源项目办公室](http://www.ocselected.org/posts/opensource_enterprise_guide/creating-an-open-source-program/)明确谈到：“通过创建开源项目办公室，企业可以启用、精简、组织等方式来看待开源的利用，从而直接和企业的长期业务规划齐头并进。开源项目办公室旨在成为公司级别的开源运营和架构的核心，帮助将所有必需的组件集中到一起。”。
+在公司设立开源项目办公室对于达成内部的协作意义非凡。 本指南系列之[公司如何创建开源项目办公室](/posts/opensource_enterprise_guide/creating-an-open-source-program/)明确谈到：“通过创建开源项目办公室，企业可以启用、精简、组织等方式来看待开源的利用，从而直接和企业的长期业务规划齐头并进。开源项目办公室旨在成为公司级别的开源运营和架构的核心，帮助将所有必需的组件集中到一起。”。
 
-开源项目办公室可以帮助决定各种政策，如代码的使用、分发的方式、如何选择、审计等等，而且还可为培训开发者、确保法律合规性、构建社区参与等提供指导。[公司如何创建开源项目办公室](http://www.ocselected.org/posts/opensource_enterprise_guide/creating-an-open-source-program/)还谈到：“开源项目办公室还要做公司内外部的所有和开源相关的布道和沟通”。
+开源项目办公室可以帮助决定各种政策，如代码的使用、分发的方式、如何选择、审计等等，而且还可为培训开发者、确保法律合规性、构建社区参与等提供指导。[公司如何创建开源项目办公室](/posts/opensource_enterprise_guide/creating-an-open-source-program/)还谈到：“开源项目办公室还要做公司内外部的所有和开源相关的布道和沟通”。
 
 > “ 找到积极主动、自驱力的人是获得（推进开源战略）的精髓和灵魂的不二法门。” – Guy Martin， Autodesk 开放总监 (Open@ADSK).
 
-当在公司内部选择制定开源战略的人选是，请记住，让有资格提供项目业务和法律治理的人员以及能够提供技术治理的人员参与至关重要。举例来说，精通技术的同事对于当前的开源实践有所了解，并且也是有可能是最有资格来撰写内部贡献指南的人选，拥有商业经验的同事可能更有资格制定有关商务上的政策。同样，具有法律资格的员工最适合定义许可政策。当然，确定对开源有真正热情的利益相关者至关重要。（有关开源项目办公室的各种考虑和管理细节，请移步[公司如何创建开源项目办公室](http://www.ocselected.org/posts/opensource_enterprise_guide/creating-an-open-source-program/)，这里有着更为详尽的讨论。）
+当在公司内部选择制定开源战略的人选是，请记住，让有资格提供项目业务和法律治理的人员以及能够提供技术治理的人员参与至关重要。举例来说，精通技术的同事对于当前的开源实践有所了解，并且也是有可能是最有资格来撰写内部贡献指南的人选，拥有商业经验的同事可能更有资格制定有关商务上的政策。同样，具有法律资格的员工最适合定义许可政策。当然，确定对开源有真正热情的利益相关者至关重要。（有关开源项目办公室的各种考虑和管理细节，请移步[公司如何创建开源项目办公室](/posts/opensource_enterprise_guide/creating-an-open-source-program/)，这里有着更为详尽的讨论。）
 
 如何与所有利益相关方合作？从谈话开始，并认真倾听，那些事有效的，而那些又是无效的。你的参与方式取决于对贵公司及其现有文化有何影响。但是，在深入研究战略之前，进行研究总是百利而无一害的。
 
@@ -200,7 +200,7 @@ Google 公司最近将其内部的[开源政策文档](https://opensource.google
 
 你还必须评估项目中所涉及到的许可类型。软件自由法律中心（SFLC）提供了一些在线的资源，[关于开源许可证、版权等等内容](http://www.softwarefreedom.org/resources/2008/foss-primer.html)。另外，[choosealicense.com/](http://choosealicense.com/)网站提供了一个关于许可证特征的列表，也可作为参考之用。
 
-还要考虑的有：许可证合规性的成本和收益。linux基金会的[开放合规项目](https://compliance.linuxfoundation.org/)提供了诸如[出版物](https://compliance.linuxfoundation.org/references/compliance-related-publications)、[培训教材](https://www.openchainproject.org/curriculum)以及针对开发者的[免费的教程](https://training.linuxfoundation.org/linux-courses/open-source-compliance-courses/compliance-basics-for-developers)。（另外，你也可以参考本指南系列之[公司如何正确的使用开源代码](http://www.ocselected.org/posts/opensource_enterprise_guide/using-open-source/)，其中有一些简单的合规性内容。）
+还要考虑的有：许可证合规性的成本和收益。linux基金会的[开放合规项目](https://compliance.linuxfoundation.org/)提供了诸如[出版物](https://compliance.linuxfoundation.org/references/compliance-related-publications)、[培训教材](https://www.openchainproject.org/curriculum)以及针对开发者的[免费的教程](https://training.linuxfoundation.org/linux-courses/open-source-compliance-courses/compliance-basics-for-developers)。（另外，你也可以参考本指南系列之[公司如何正确的使用开源代码](/posts/opensource_enterprise_guide/using-open-source/)，其中有一些简单的合规性内容。）
 
 当然，有一个常识要时刻谨记，那就是：**专业的事情应该有专业的人才负责**。SFLC 的作者均是参与创建流行的开源许可证的律师。紧跟[《国际自由和开源软件法律评论》](http://www.ifosslr.org/ifosslr)以及阅读它们旧的的内容，也是不错的选择。
 

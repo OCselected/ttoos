@@ -45,7 +45,7 @@ url: ""
 
 ### CNCF 的历史背景
 
-这一点开源之道专门在2018年撰写过一篇文章：[CNCF 是如何工作的](http://www.ocselected.org/posts/foundation_introduce/how_cncf_works/)，请看官在进一步阅读之前，尽量先读一下该文，了解一下CNCF。
+这一点开源之道专门在2018年撰写过一篇文章：[CNCF 是如何工作的](/posts/foundation_introduce/how_cncf_works/)，请看官在进一步阅读之前，尽量先读一下该文，了解一下CNCF。
 
 ## CNCF 2018 年度报告
 

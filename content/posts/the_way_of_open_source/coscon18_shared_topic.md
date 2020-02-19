@@ -29,7 +29,7 @@ url: ""
 
 今天的演讲分享灵感来自于前不久远在大西洋彼岸的开源会议——OSCON 2018， 由O'Reilly的创始人Tim O'reilly 的主题演讲其中的一张slide所吸引，这是我不止一次看到开源界的“歪果仁”使用《道德经》的话来讲事情。感谢O'reilly 对我的影响。
 
-在往远说一点，我怎么对开源本身产生了兴趣，我做工程师很多年，从Linux到虚拟化再到IaaS，然后失败了几次，在2015年底的时候，组织了一次社区关于文化的活动，作了一次演讲，也写了一篇文章。那就是这篇：[《为什么基于成功的开源项目商业产品会失败？》](http://www.ocselected.org/posts/opensource_culture/why_product_failed_that_based_successful_open_source_project/)，从那之后，渐渐的兴趣开始有了转变，开始研究具体的技术之外的东西，开始布道、撰文、阅读各种学术论文。关于具体的怎么做开源等详细的细节，大家可以订阅我的博客[《开源之道》](http://www.ocselected.org)，也就是 The way of open source。这个是公众号，是博客的内容镜像。注意这样一个蛮奇特的现象。等一下我会提到。
+在往远说一点，我怎么对开源本身产生了兴趣，我做工程师很多年，从Linux到虚拟化再到IaaS，然后失败了几次，在2015年底的时候，组织了一次社区关于文化的活动，作了一次演讲，也写了一篇文章。那就是这篇：[《为什么基于成功的开源项目商业产品会失败？》](/posts/opensource_culture/why_product_failed_that_based_successful_open_source_project/)，从那之后，渐渐的兴趣开始有了转变，开始研究具体的技术之外的东西，开始布道、撰文、阅读各种学术论文。关于具体的怎么做开源等详细的细节，大家可以订阅我的博客[《开源之道》](.)，也就是 The way of open source。这个是公众号，是博客的内容镜像。注意这样一个蛮奇特的现象。等一下我会提到。
 
 接下来，我们来聊聊开源，以下纯粹是个人的认知与体会。那就是在我这三年的布道经历中，当我和人们讨论开源的时候，我们究竟在讨论什么？
 
@@ -63,7 +63,7 @@ Gaining Competitive Advantage Through Contribution to Crowdsourced Public Goods.
 
 开源是开放标准，这个尤其是传统电信的转型，如Linux基金会下的电信组织，世界各大电信厂商都在积极的投入NFV领域、IoT领域。
 
-从来都有人认为开源只是创新的”跟屁虫“罢了，但是世界变了。[开源是开放式创新的最佳注解](http://www.ocselected.org/posts/naming_opensource_and_marketing_2/)，这是一个结论式的论断，详细的介绍我也曾专门论述过，而且有相关的理论支撑。最近发生在开源界的项目如Docker、TensorFlow、Hyperledger等等均是这方面的侧面例证。
+从来都有人认为开源只是创新的”跟屁虫“罢了，但是世界变了。[开源是开放式创新的最佳注解](/posts/the_way_of_open_source//naming_opensource_and_marketing_2/)，这是一个结论式的论断，详细的介绍我也曾专门论述过，而且有相关的理论支撑。最近发生在开源界的项目如Docker、TensorFlow、Hyperledger等等均是这方面的侧面例证。
 
 开源是 Social Phenomenon，这里我显然是没有翻译过来。这个词的内涵是蛮丰富，可以历史追溯的，我这里只讲一点，那就是人都是喜欢获得被别人认可的，尤其是自己倾注了大量时间和精力做创造出来的东西，GitHub 的成功就是最好的例证。其实公司也一样。
 

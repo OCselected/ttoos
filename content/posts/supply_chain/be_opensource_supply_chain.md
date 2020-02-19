@@ -20,7 +20,7 @@ url: ""
 
 我敢断言：能够管理和影响开源供应链，那么就为创建最具创造性的产品获得了有利地位。本文中，将解释为什么我们应该成为供应链的影响者，以及如何在供应链上下游中进行积极的参与。
 
-在上一篇文章：[开源和软件供应链](http://www.ocselected.org/posts/supply_chain/opensource_and_software_supply_chain/)中，探讨了供应链管理的基础，以及将开源套进这样的模式中来，并对开源的软件供应链使用了如下图所示的诠释：
+在上一篇文章：[开源和软件供应链](/posts/supply_chain/opensource_and_software_supply_chain/)中，探讨了供应链管理的基础，以及将开源套进这样的模式中来，并对开源的软件供应链使用了如下图所示的诠释：
 
 ![](https://opensource.com/sites/default/files/f1_520_0.png)
 

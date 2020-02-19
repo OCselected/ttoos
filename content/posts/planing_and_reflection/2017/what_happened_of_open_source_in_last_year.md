@@ -18,7 +18,7 @@ url: ""
 
 ## 引子
 
-不知不觉，将博客镜像之[开源之道](http://www.ocselected.org/)，并尝试开了颇具本土特色的微信公众号：**开源之道**，至今，已经是整整一年的光景了。一年说长不长，说短不短，然而我还是保持着每周一篇的更新，或有感而原创，或顺势而翻译。但更多的时候确实在琢磨着内容，其实我每周都有将自己看过的关于开源的文章写一点感悟（可以点击原文查看）。也就是说在过去的一年中，我试图从开源的行进中索求精髓，希冀在其中抓到些什么。那么，在这个阳历年即将过去的一周，不妨来看看，开源之道眼中的2017都发生了那些可能改变历史的事情。
+不知不觉，将博客镜像之[开源之道](http://www.opensourceway.community/)，并尝试开了颇具本土特色的微信公众号：**开源之道**，至今，已经是整整一年的光景了。一年说长不长，说短不短，然而我还是保持着每周一篇的更新，或有感而原创，或顺势而翻译。但更多的时候确实在琢磨着内容，其实我每周都有将自己看过的关于开源的文章写一点感悟（可以点击原文查看）。也就是说在过去的一年中，我试图从开源的行进中索求精髓，希冀在其中抓到些什么。那么，在这个阳历年即将过去的一周，不妨来看看，开源之道眼中的2017都发生了那些可能改变历史的事情。
 
 ## 一、GitHub 发布开源指南
 
@@ -26,7 +26,7 @@ GitHub 在今年2月14日的发布了声明，宣布一个以开源方法论为�
 
 尽管从某种程度上讲，我们都是开源的受益者，但是，开源依旧需要更多的人参与进来，而开源指南无疑能够帮助人们少走弯路，正确的认识开源，在为开源做贡献的同时，收获自己想要的。对于个人也好，企业也罢，都是获利的一方。还在犹豫什么？放手去干吧！
 
-更多详情请阅读：[开源之道解读开源指南](http://www.ocselected.org/posts/opensource_culture/opensource_guide/overview/)
+更多详情请阅读：[开源之道解读开源指南](/posts/opensource_culture/opensource_guide/overview/)
 
 ## 二、Docker 公司商业化，切出项目Moby
 
@@ -38,7 +38,7 @@ Docker 作为PaaS平台dotCloud的衍生品，以重新包装Linux的容器而�
 
 > Docker走出如此的路数一点也不意外，从微软的收购未果而言，说明后面已经有资本和运营的人在预估了，一定是比微软更高的价格来计算的。这说明有业界的高手在帮助Docker的商业化，在恰当的时间做恰当的事，是一个企业能够成功的标志性事件。
 
-更多详情：[Docker终于找到了一条光明的商业化道路](http://www.ocselected.org/posts/event_analysis/docker_spin_of_moby/)
+更多详情：[Docker终于找到了一条光明的商业化道路](/posts/event_analysis/docker_spin_of_moby/)
 
 ## 三、Google 针对开源专门设立了站点[opensource.google.com](opensource.google.com)
 
@@ -58,7 +58,7 @@ GitHub联合学术界、开源社区、以及软件界，搞了一次大规模�
 * 使用和参与开源的绝大多数来自商业公司雇员
 * 人们在选择软件时，默认会优先采用开源
 
-更多详情：[开源界的现状如何？——2017开源调查](http://www.ocselected.org/posts/event_analysis/github_open_source_survey_2017/)
+更多详情：[开源界的现状如何？——2017开源调查](/posts/event_analysis/github_open_source_survey_2017/)
 
 ## 五、LinuxCon正式入华，Linus承诺会每年来中国一次
 
@@ -66,7 +66,7 @@ Linux基金会的会议主办历经坎坷，终于顺利的完成了自己的首
 
 在最后的关闭短暂讲话中，Jim Zemlin说到，Linux基金会承诺超过十年将落地中国、扎根中国、支持中国的开源事业发展，并和大家说“我们明年见，明年Linus仍然会来。”
 
-更多详情：[开源软件正在吞噬世界————LinuxCon中国首秀感想录](http://www.ocselected.org/posts/event_analysis/lc3_china_story/)
+更多详情：[开源软件正在吞噬世界————LinuxCon中国首秀感想录](/posts/event_analysis/lc3_china_story/)
 
 ## 六、Linux基金会发布企业开源指南
 
@@ -74,7 +74,7 @@ Linux基金会的会议主办历经坎坷，终于顺利的完成了自己的首
 
 开源的重点并不在于方法论，而是在于人们的认知，如果人们的思维方式仍然停留在上个世界8、90年代微软、甲骨文崛起时期，那么开源基本上很难施行和实践。在庞大的经济环境面前，开源确实仍然没有浮出水面被大众所认知，至少本土的现实情形是如此。但是如果没有方法论，事情会是一筹莫展。
 
-更多详情：[企业开源的福音书 —— Linux基金会发布企业开源指南](http://www.ocselected.org/posts/business_model/linux_foundation_product_open_sourceg_guide_enterprise/)
+更多详情：[企业开源的福音书 —— Linux基金会发布企业开源指南](/posts/business_model/linux_foundation_product_open_sourceg_guide_enterprise/)
 
 ## 七、中国开源年会第一次全程以开源领导力为议题组织会议
 
@@ -90,13 +90,13 @@ Linux基金会的会议主办历经坎坷，终于顺利的完成了自己的首
 
 就在上一周，作为SaaS的大佬——SalesForce加入了CNCF，这家Linux基金会下属的非盈利组织，最初由Google的贡献的Kubernetes项目而生，渐渐的形成了云原生应用、微服务的生态系统。三大公有云厂商AWS、Azure、Google均号称原生支持。连传统厂商RedHat的OpenShift直接切换，直接革了CloudFoundry的命。如此成功仿佛坐上火箭般的开源项目，前几年有OpenStack。
 
-其背后的缘由是什么？为何能有如此的成功？仅仅是依靠技术吗？不放读读：[Kubernetes 之所以成功的背后神秘力量](http://www.ocselected.org/posts/contribute_to_community/how-the_kubernetes_community_drives_the_project_success/)
+其背后的缘由是什么？为何能有如此的成功？仅仅是依靠技术吗？不放读读：[Kubernetes 之所以成功的背后神秘力量](/posts/contribute_to_community/how-the_kubernetes_community_drives_the_project_success/)
 
 ## 九、微软成为GitHub企业排名榜首
 
 在GitHub今年的宇宙大会上总结了一些内容：[GitHub 2017的数据](https://octoverse.github.com/)，微软，这家曾经视开源为毒瘤的公司，以实际行动证明了自己拥抱开源的决心。当然，就更不用提其在Azure云平台上发布的各种基于开源项目的产品和服务了。
 
-更多详情：[大多数成功的开源项目都是用钱砸出来的，你信吗？](http://www.ocselected.org/posts/opensource_culture/structure_and_funding_are_key_opensource_growth/)
+更多详情：[大多数成功的开源项目都是用钱砸出来的，你信吗？](/posts/opensource_culture/structure_and_funding_are_key_opensource_growth/)
 
 ## 十、Ubuntu 将桌面系统换回Gnome
 
@@ -104,7 +104,7 @@ Ubuntu有着无与伦比的全球开发者和用户社区，产品涉足云平�
 
 Unity的出现，而其它Linux桌面是推动Gnome3的，这导致了Ubuntu和整个其余的Linux产生了巨大的分歧。和Launchpad、Juju一样，Ubuntu再次将自己的打包者和开发者陷入了孤立，没有上游社区的支持来稳定供应链。这也就意味着，Canonical开发人员再次成为软件的唯一开发者和维护者，这进一步压缩了Canonical欲扩而不能的资源。
 
-更多详情：[这次我们谈谈开源项目得道者多助的Ubuntu犯下的人心不足蛇吞象的严重错误](http://www.ocselected.org/posts/supply_chain/supply_chain_case_study_ubuntu/)
+更多详情：[这次我们谈谈开源项目得道者多助的Ubuntu犯下的人心不足蛇吞象的严重错误](/posts/supply_chain/supply_chain_case_study_ubuntu/)
 
 ## 十一、Linux完全征服超算
 
@@ -112,7 +112,7 @@ Unity的出现，而其它Linux桌面是推动Gnome3的，这导致了Ubuntu和�
 
 但是从技术和工程、协作、治理的角度讲，Linux 内核是人类史上的奇迹。其背后蕴含的哲学、方法都是我们值得挖掘的宝库。
 
-更多详情：[Linux 内核开发报告2017版](http://www.ocselected.org/posts/opensource_culture/2017_linux_kernel_development_report/)
+更多详情：[Linux 内核开发报告2017版](/posts/opensource_culture/2017_linux_kernel_development_report/)
 
 ## 十三、Linux Journal在经营23年之后，选择退出历史舞台
 
