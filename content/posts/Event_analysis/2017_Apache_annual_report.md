@@ -48,7 +48,7 @@ Apache 基金会，秉承为公益事业提供软件这样一个使命，在过�
 
 ![](https://raw.githubusercontent.com/OCselected/ttoos/master/content/public/apache_2017_world_distribution.png)
 
-令人似乎稍欣慰的一点是，中国是全球首屈一指的Apahce项目重度使用用户，超越北美。
+令人似乎稍欣慰的一点是，中国是全球首屈一指的Apache项目重度使用用户，超越北美。
 
 哪些无数个 Apache 优秀的项目我这里就不一一列出了，你可能耳能生详的Tomcat、Hadoop、Subversion、CloudStack等等，它现在总共拥有182个顶级的项目，还有59个正在孵化中。我们这里不妨看看过去一年中最具亮点的项目：
 
@@ -109,7 +109,7 @@ Apache 基金会，秉承为公益事业提供软件这样一个使命，在过�
 
 如图中红色的内容所显示，随着项目的进入孵化，然后淘汰的越来越多。
 
-Apache 之路未必适合所有的项目，但是好的项目一定适合Apahce之路，这么说或许很多人不认同。但事实上确实如此。
+Apache 之路未必适合所有的项目，但是好的项目一定适合Apache之路，这么说或许很多人不认同。但事实上确实如此。
 
 
 ## 开源从来就不是孤立的项目的问题
@@ -118,7 +118,7 @@ Apache 之路未必适合所有的项目，但是好的项目一定适合Apahce�
 
 ![](https://raw.githubusercontent.com/OCselected/ttoos/master/content/public/apache_project_relationship.png)
 
-以生态系统或者是供应链的视角去看待开源，我们就会渐渐的明白，为什么开源越发的重要，而且是一旦进入，是一环套一环，犹如上图般彼此牵连。牵一发而动全身。目前世界上两大基金会下的托管项目，Apache Commons、Apache Hadoop、Liunx CNCF等等，俨然形成了巨大的力量，几无替代之可能。
+以生态系统或者是供应链的视角去看待开源，我们就会渐渐的明白，为什么开源越发的重要，而且是一旦进入，是一环套一环，犹如上图般彼此牵连。牵一发而动全身。目前世界上两大基金会下的托管项目，Apache Commons、Apache Hadoop、Linux CNCF等等，俨然形成了巨大的力量，几无替代之可能。
 
 我们必须基于此，进而重新思考。
 
