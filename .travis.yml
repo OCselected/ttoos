@@ -9,7 +9,7 @@ install:
 
 script:
   - hugo
-  - echo "$CNAME_URL" > public/CNAME
+  - echo "$CNAME_COMMUNITY" > public/CNAME
 
 deploy:
   provider: pages
