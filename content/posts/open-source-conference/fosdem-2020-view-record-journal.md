@@ -117,6 +117,16 @@ authors:
 
 ### Freedom 分会场
 
+![](../images/save-os-by-killing-it.png)
+
+#### 为什么说GPL对于企业是有益的
+
+原文链接：[Why the GPL is great for business](https://fosdem.org/2020/schedule/event/gpl_and_business/)
+
+**适兕点评：**
+
+>开源面对大型云计算厂商的垄断态势，让一些利用开源做分发的投机者们表示了不满，于是纷纷要更改许可协议，不愿意让云计算厂商分一杯羹，那么Open Source的老牌信仰者们，却对此表示耸耸肩，本来就是狗牙狗，某些所谓的搭便车者，挂着开源的幌子，搞着非开源的事情，当然，公有云厂商的问题也是非常的严重，但是捍卫GPL 的律师更是难以找到。开源会不会在道德的两难境地而让人放弃？正如这张图片所说的话！
+
 #### 软件自由的核心价值
 
 原文链接：[The core values of software freedom](https://fosdem.org/2020/schedule/event/software_freedom/)
@@ -128,6 +138,30 @@ authors:
 >观看该演讲，有个特别注意的地方，那就是自由软件之中的第一条：use、study、share、improve，这四个词的顺序是讲究的。没有学习过是不应该共享的，这和言论自由里的个人过滤谣言有着重要的一致性。
 >
 >自由软件不会过分强调或排斥钱，钱是任何事情得以进行的必须，甚至都不会谈及开发模式，更加在乎的是意义。值得坚守。
+
+### 开源正在被侵蚀：OSI 等组织需要捍卫
+
+原文链接：[Open Source Under Attack](https://fosdem.org/2020/schedule/event/osi/)
+
+**适兕点评：**
+
+>随着开源走向主流，进入人们的大众视野，开源也变得越来越复杂了，也被更多的不法之徒看到了各种利益，那么怎么防止这样的做法了呢？唯有法律的武器，以及强大的宣传工具正名之，否则就只有坐以待毙。
+>
+>这似乎就是人类世界发展的常态，曲折而离奇，不断的冲突与妥协。民主的遭遇其实也差不多，甚至科学在某些地方都被当做巫术来对待。开源是自由和资本的妥协，那么当资本进一步侵蚀的时候，该怎么办？西方的民主有多少成分是被资本控制的？
+>
+>无论如何，开源之道是要加入这次战斗的！再不可以让步了。
+>
+>本Video推荐指数：五星！
+
+### 开放的大门正在关上吗？开放的15年回顾和未来一瞥
+
+原文链接：[Is the Open door closing?](https://fosdem.org/2020/schedule/event/open_door_closing/)
+
+**适兕点评：**
+
+>开放，对于人类社会来讲绝对是个大难题，但是从来没有人放弃过这一希望,Open  Source 以其特有的方式和行业，赢得了一席之地，那么其他的开放了呢？open hardware,open content,opne education,open access/science,open collaboration,open as marketing tool,open pet project,open data,Open Legislations and Governments,open standard 还有希望吗？
+>
+>就本土来说，希望很渺茫，但是值得追求。
 
 ## DevRoom
 
@@ -198,14 +232,6 @@ authors:
 **适兕点评：**
 
 >
-
-![]()
-
-###
-
-原文链接：[]()
-
-**适兕点评：**
 
 >
 
