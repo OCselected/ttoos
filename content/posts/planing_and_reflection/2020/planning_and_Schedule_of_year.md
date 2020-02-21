@@ -93,10 +93,10 @@ Cross.media 上所有的文章、世界知名基于开源的商业公司系列�
 - [ ]  []() 来自英文：[为什么说开源失败了？](https://medium.com/@johnmark/why-open-source-failed-6cae5d6a9f6)
 - [ ]  []() 来自英文：[Why Decentralization Matters](https://medium.com/@cdixon/why-decentralization-matters-5e3f79f7638e)
 - [ ]  []() 来自英文：[Open Source Culture Starts with Programs and Policies](https://thenewstack.io/open-source-culture-starts-with-programs-and-policies/)
-- [ ]  []()[软件自由保护基金会介绍]() 来自英文：[Software Freedom Conservancy](https://sfconservancy.org/)
+- [ ]  
 - [ ]  []()[开源女神：Danese Cooper]() 来自英文：[Danese Cooper](https://en.wikipedia.org/wiki/Danese_Cooper)
 - [ ]  [Kubernetes 背后的三剑侠](https://siliconangle.com/2019/04/12/google-women-power-rise-kubernetes/)
-- [ ]  [NumFOCUS 基金会](https://numfocus.org/sponsored-projects)
+
 - [ ]  [CROSS 孵化开源研究](https://cross.ucsc.edu/)
 - [ ]  [可持续的自由和开源社区介绍](https://sfosc.org/)
 - [ ]  [我们需要可持续的自由和开源社区](https://medium.com/sustainable-free-and-open-source-communities/we-need-sustainable-free-and-open-source-communities-edf92723d619)
@@ -105,6 +105,11 @@ Cross.media 上所有的文章、世界知名基于开源的商业公司系列�
 - [ ] Magento 的提交者魔力 [The mechanics behind Magento's contributor magic](https://www.techrepublic.com/article/the-mechanics-behind-magentos-contributor-magic/)
 - [ ] 创造者和豪夺者的平衡之道  [Balancing Makers and Takers to scale and sustain Open Source](https://dri.es/balancing-makers-and-takers-to-scale-and-sustain-open-source)
 - [ ] 我是如何不再担心而热爱依旧软件的自由   [Software Freedom in a Post Open Source World](https://medium.com/@stephenrwalli/software-freedom-in-a-post-open-source-world-9f497f646af9)
+
+### 非营利开源基金会
+
+- [ ]  [NumFOCUS 基金会](https://numfocus.org/sponsored-projects)
+- [ ]  []()[软件自由保护基金会介绍]() 来自英文：[Software Freedom Conservancy](https://sfconservancy.org/)
 
 ## 决定放弃撰写的资料来源
 
