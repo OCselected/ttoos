@@ -2,7 +2,7 @@
 categories:
 - 开源
 - 感悟
-date: 2020-01-07T15:33:33+08:00
+date: 2020-03-07T15:33:33+08:00
 description: "2020 开源之道将面临新的挑战，更多的翻译精品文章？还是更多的原创？取决于开源之道共同体自身。"
 keywords:
 - Open Source
@@ -54,8 +54,11 @@ url: ""
 
 ### 原创
 
-- [x]   [Community Leadership Development 是什么？做什么？](posts/community_management/why_create_community_leadership_development_group/)
-- [ ]  [如何感受开源共同体的力量](posts/opensource_technology/how_to_feel_the_power_of_osc)
+- [x] [Community Leadership Development 是什么？做什么？](posts/community_management/why_create_community_leadership_development_group/)
+
+- [ ] [如何感受开源共同体的力量](posts/opensource_technology/how_to_feel_the_power_of_osc)
+
+- [ ] 《如何识别source available的伪开源项目》
 
 
 
