@@ -34,6 +34,11 @@ authors:
 
 请点击右上角的`fork`按钮，将本项目`fork`到自己的账户下，如果不知道`fork`,请阅读GitHub相关文档，或到 [ `communication.md`](communication.md) slack 寻求帮助。
 
+以下两篇文章非常的有帮助：
+
+* [开源之道文章写作风格指南](/posts/ttoos-style/)
+* [开源之道需要你的帮助](/community/welcome-to-anyone-contribute/)
+
 ### 模板介绍
 
 开源之道根据文章的分类而做了几个不同的模板，均放在目录：`../archetypes` 下：
@@ -54,6 +59,7 @@ authors:
 * **weekly_template.md**： 开源之道每周评论模板。
 * **osw_podcast.md**：开源之道Talking Podcast 节目的模板
 * **redmonk.md**:  与晨兴资本副总裁一起翻译来自 RedMonk 合伙人 Stephen 先生的文章。
+* **gsoc.md** : 编程之夏公众号同步发表，专栏。
 
 ### 根据模板创建文件
 
