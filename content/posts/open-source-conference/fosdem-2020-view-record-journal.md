@@ -19,8 +19,6 @@ authors:
 <p>
   <a align="right" herf="https://github.com/OCselected/ttoos/raw/master/content/posts/open-source-conference/fosdem-2020-view-record-journal.md">在GitHub中编辑</a>
 </p>
-
-
 ## 引言
 
 我们要不要严肃的对待一些技术、工程乃至科学的研讨会？这可能是我在参与国内会议，然后和欧美对比之后的第一感慨。客观的对比一下质量，参与者的收获、演讲者的认真态度、组织者的常年耕耘，都可以看出端倪来。甚至直觉上都可以给出一些答案，当然直觉不足以说服人，那么开源之道就试图通过一些对比来进行。
@@ -229,22 +227,12 @@ authors:
 
 ### Freedom
 
-###
+### 开源赢了，但是软件自由还没有
 
-原文链接：[]()
-
-**适兕点评：**
-
->
-
->
-
-![]()
-
-###
-
-原文链接：[]()
+原文链接：[AMENDMENT Open Source Won, but Software Freedom Hasn't Yet](https://fosdem.org/2020/schedule/event/open_source_won/)
 
 **适兕点评：**
 
+>来自开源之道最为关注的一个自由软件慈善组织[Software Freedom Conservancy](https://sfconservancy.org/)的一个分享，关于自由与开源的一些微妙细节，是关于知识产权、专利、著作权等法律方面的差别，不是软件本身的差别。这就要看人们的心理认知是如何看待这些东西的了，文明社会来自不易，破坏却轻而易举。开源之道是站在[Software Freedom Conservancy](https://sfconservancy.org/)这边的，有钱也会第一时间进行支持。旗下软件也让人受益无限。
 >
+>视频非常值得推荐！
