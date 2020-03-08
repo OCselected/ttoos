@@ -1,7 +1,7 @@
 ---
 categories:
 - 开源
-- 基金会
+- 感悟
 date: {{ .Date }}
 description: ""
 keywords:
@@ -9,13 +9,22 @@ keywords:
 - Culture
 - Reading
 - News
-- foundation
 tags:
-- 基金会介绍
+- 每周精选
 - 开源之道
 title: ""
+url: ""
 authors:
 - 开源之道
-translater:
-- 开源之道
 ---
+
+![]()
+
+###
+
+Origin Article：[]()
+
+**review:**
+
+>
+
