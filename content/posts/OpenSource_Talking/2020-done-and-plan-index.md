@@ -40,7 +40,7 @@ authors:
 
 ## 【开源之道 Talking 】系列
 
-
+* [类 Google 编程之夏能否在中国被复制？](/posts/opensource_talking/2020-02-29-gsoc-in-china)
 
 ## 特别提示：正在寻找赞助商
 
