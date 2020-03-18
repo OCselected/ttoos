@@ -40,10 +40,6 @@ authors:
 
 同样是在2003年5月，在硅谷的厂商OpenTV ，被自由软件基金会起诉，称其产品使用了GPL的项目，但是却没有将最后的产品的源码以同样的许可证再发布。
 
-#### VMware 被起诉
-
-
-
 #### BusyBox 起诉众多手机厂商
 
 2009年12月14日，14家公司被起诉，其中包括[Best Buy](https://en.wikipedia.org/wiki/Best_Buy), [Samsung](https://en.wikipedia.org/wiki/Samsung),[Westinghouse](https://en.wikipedia.org/wiki/Westinghouse_Electric_Corporation_(1998))，因为其分发知名自由软件 BusyBox 时违反了 GPLv2 许可协议。在发布自己的产品时，并没有包括 BusyBox及其衍生的源代码。
