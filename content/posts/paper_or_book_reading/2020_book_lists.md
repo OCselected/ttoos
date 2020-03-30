@@ -250,16 +250,45 @@ The use of open-source software (OSS)—readable software source code that can b
 
 更多内容，请参考完整版开源之道共读导读与书评：[]()
 
-
 [THE OPEN REVOLUTION]()
+
+![](https://openrevolution.net/img/open-revolution-cover.jpg)
+
+作者：**Dr Rufus Pollock**
+
+内容介绍：
+
+> Forget everything you think you know about the digital age. It’s not about privacy, surveillance, AI or blockchain—it’s about **ownership**. Because, in a digital age, who owns information controls the future.
+>
+> In this urgent and provocative book, Rufus Pollock shows how today’s "Closed" digital economy is the source of problems ranging from growing inequality, to unaffordable medicines, to the power of a handful of tech monopolies to control how we think and vote. He proposes a solution that charts a path to a more equitable, innovative and profitable future for all.
 
 开放出版：https://openrevolution.net
 
 **开源之道推荐短评：**
 
->
+>开源可以改变人类长期以来所信奉的所有权吗？这可是现代社会的基石。
 
 更多内容，请参考完整版开源之道共读导读与书评：[]()
+
+### 集体行动的逻辑
+
+![](https://img14.360buyimg.com/n1/jfs/t15049/286/463588868/182269/aeb05008/5a2e3b45Nef31ea1c.jpg)
+
+作者：[[美\] 曼瑟尔·奥尔森](https://book.douban.com/author/265466/)
+
+内容介绍：
+
+全书共分6章。第1章对集团和组织行为的某些方面作了逻辑的理论的解释。第2章考察了对不同规模的集团进行分析的含义，并得出在许多情况下小集团更有效率、更富有生命力这一结论。第3章考察了赞成工会的论点的含义，并得出以下结论：某一形式的强制性会员制度在大多数情况下对工会是生死攸关的。第4章运用本研究中提出的方法对马克思的社会阶级理论进行考察并对其他一些经济学家提出的国家理论进行分析。第5章按照本研究阐述的逻辑对许多政治学家使用的“集团理论”进行分析，并证明对这一理论的通常理解在逻辑上是矛盾的。最后一章提出了一个与第1章概述的逻辑关系相一致的新的压力集团理论。这一理论说明大的压力集团组织的会员制度和力量并不是游说疏通活动的结果，而是它们其他活动的副产品。
+
+豆瓣链接：[https://book.douban.com/subject/26346154/](https://book.douban.com/subject/26346154/)
+
+**开源之道推荐短评：**
+
+>参与开源的前提是个体行动须与集体行动合二为一，否则就会导致割裂。
+
+更多内容，请参考完整版开源之道共读导读与书评：[]()
+
+
 
 
 ## 2020 主题四：开放源代码软件中的法律问题
