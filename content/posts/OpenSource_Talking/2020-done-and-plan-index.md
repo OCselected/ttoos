@@ -3,7 +3,7 @@ categories:
 - 开源
 - 播客
 - 传播
-date: 2020-02-15T13:18:36+08:00
+date: 2020-04-14T13:18:36+08:00
 description: "用声音来传播开源知识，探究思想，寻找其发生的奥秘！开源之道Talking ,业界顶级开源大咖表达观点，探寻问题，寻找答案，这里是洞见的集中地！"
 keywords:
 - Open Source
@@ -41,6 +41,7 @@ authors:
 ## 【开源之道 Talking 】系列
 
 * [类 Google 编程之夏能否在中国被复制？](/posts/opensource_talking/2020-02-29-gsoc-in-china)
+* [开源是一门工程学 ———— 图书共读交流](posts/OpenSource_Talking/2020-03-29-online-reading-engineering)
 
 ## 特别提示：正在寻找赞助商
 
