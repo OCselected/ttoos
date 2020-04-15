@@ -46,7 +46,7 @@ IPython 在2012年获得自由软件基金会颁发的自由软件奖，而Jupyt
 
 ### SciPy
 
-这是一个被广泛使用的Python类库，用于科学计算，它提供了许多用户友好且高效的数值例程：最优化](https://zh.wikipedia.org/wiki/最优化)、[线性代数](https://zh.wikipedia.org/wiki/线性代数)、[积分](https://zh.wikipedia.org/wiki/积分)、[插值](https://zh.wikipedia.org/wiki/插值)、[特殊函数](https://zh.wikipedia.org/wiki/特殊函数)、[快速傅里叶变换](https://zh.wikipedia.org/wiki/快速傅里叶变换)、[信号处理](https://zh.wikipedia.org/wiki/信号处理)和[图像处理](https://zh.wikipedia.org/wiki/图像处理)、[常微分方程](https://zh.wikipedia.org/wiki/常微分方程)求解和其他科学与工程中常用的计算。
+这是一个被广泛使用的Python类库，用于科学计算，它提供了许多用户友好且高效的数值例程：[最优化](https://zh.wikipedia.org/wiki/最优化)、[线性代数](https://zh.wikipedia.org/wiki/线性代数)、[积分](https://zh.wikipedia.org/wiki/积分)、[插值](https://zh.wikipedia.org/wiki/插值)、[特殊函数](https://zh.wikipedia.org/wiki/特殊函数)、[快速傅里叶变换](https://zh.wikipedia.org/wiki/快速傅里叶变换)、[信号处理](https://zh.wikipedia.org/wiki/信号处理)和[图像处理](https://zh.wikipedia.org/wiki/图像处理)、[常微分方程](https://zh.wikipedia.org/wiki/常微分方程) 求解和其他科学与工程中常用的计算。
 
 ### Matplotlib
 
