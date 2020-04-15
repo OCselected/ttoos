@@ -116,7 +116,6 @@ In Organize for Innovation, Red Hat President and CEO Jim Whitehurst reflects on
 
 更多内容，请参考完整版开源之道共读导读与书评：[]()
 
-
 ### 
 
 ![](http://t2.gstatic.com/images?q=tbn:ANd9GcS-HXz4yvnFx-iV74-drhNwqXAJcpAPtuh9dt-f8J2pcoE4J-ZH)
@@ -134,6 +133,36 @@ Henry Chesbrough is an Assistant Professor of Technology and Operations Manageme
 **开源之道推荐短评：**
 
 >
+
+更多内容，请参考完整版开源之道共读导读与书评：[]()
+
+### Open Innovation Results: Going Beyond the Hype and Getting Down to Business
+
+![](https://m.media-amazon.com/images/I/41UkxcVeXmL.jpg)
+
+内容介绍：
+
+We live in an age of exponential technology, but this is not so new. Indeed, technological innovation has been promoted so assiduously for so long that there is now a discernible pattern to its emergence known as the Gartner Hype Cycle. Open innovation is no exception. In this book Henry Chesbrough, the originator of open innovation, examines the hype behind its practice, shows where real results are taking place, and explains how companies can move beyond the hype
+to achieve real business results.
+
+The book begins with an exponential paradox; new technologies are emerging at an accelerating rate, yet we continue to see stagnant wages and lagging production. These realities are hard to reconcile with the promise of exponential technologies. A closer look suggests that exponential advocates are paying too little attention to the broad dissemination and absorption of a new technology before it delivers real profit and social benefit.
+
+To get valuable results from innovation, businesses must open up their innovation processes and finish more of what they start. They need to open their knowledge flows to generate new growth, and unused internal knowledge must flow openly to others to generate new revenue and future business opportunities. Many of the best known aspects of open innovation such as crowdsourcing, open source software, or innovation intermediaries are often not well connected to the rest of the organization. Using
+numerous real-world examples of these methods in practice, Chesbrough illustrates how they can, and must, be used in connection to the organization as a whole in order to have real long-term value.
+
+Open Innovation Results offers a clear-eyed view of the challenges and realities that limit the ability of organizations to create and profit from innovation. Whether in the largest companies or in a small business, an advanced economy or a rural village, this book charts a course to enhance organizational growth and performance.
+
+作者介绍：
+
+Henry Chesbrough, *Adjunct Professor and Faculty Director of the Garwood Center for Corporate Innovation, Haas School of Business, University of California, Berkeley*
+
+Henry Chesbrough is Adjunct Professor and Faculty Director of the Garwood Center for Corporate Innovation at UC Berkeley's Haas School of Business. He is also the LUISS Chair Professor of Open Innovation at LUISS University in Rome. He is the author of several management books on innovation: *Open* *Services Innovation* (Jossey-Bass, 2011), *Open Business Models* (Harvard Business School Press, 2006), and *Open Innovation* (Harvard Business School Press, 2003). He has won numerous awards for his work, including two honorary doctorates, the IRI Medal of Achievement, and the Innovation Luminary award from the European Commission. He has been named in the Thinkers 50 list of top management thinkers four successive times, and recognized as one of the top 50 business and technology leaders by Scientific American.
+
+#### Amazone 链接：[Open Innovation Results](https://www.amazon.com/Open-Innovation-Results-Getting-Business-ebook/dp/B081THM6C3/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1570464346&sr=8-1)
+
+**开源之道推荐短评：**
+
+>2003年 Henry Chesbrough提出了开放式创新的概念，2020年，然后用一些事实结果来验证当初的提法，17年，除了开源的崛起之外，还有什么？
 
 更多内容，请参考完整版开源之道共读导读与书评：[]()
 
