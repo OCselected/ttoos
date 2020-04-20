@@ -29,13 +29,17 @@ url: ""
 
 ## 当前所做的事情
 
-* [X-lab 开放实验室](http://xlab.ioedu.net/)首席开源导师
-* [开源社](http://www.kaiyuanshe.cn/)教育工作组负责人
-* [”开源之道”](http://www.opensourceway.community) 作者
-* [“开源之道图书共读”](posts/paper_or_book_reading/establish_reading_os_community/) 活动发起者
+* [”开源之道共同体”](http://opensourceway.community/) 发起人和主要成员
+* 金融行业开源技术应用社区个人成员
+* [Apache ALC Beijing Member](https://s.apache.org/alc-beijing)
+* [开源社](http://www.kaiyuanshe.cn/) 执委会成员、教育工作组
+* [“开源之道图书共读”](http://www.ocselected.org/posts/paper_or_book_reading/establish_reading_os_community/) 活动发起者
 * “开源之道企业培训” 主讲师
+* [开源之道talking](http://opensourceway.community/posts/opensource_talking/2020-done-and-plan-index/) 播客主播
 * InfoQ [社区编辑](https://www.infoq.cn/profile/1277322)
 * [大学开源教程](https://github.com/kaiyuanshe/open_source_trainning_undergraduate)项目发起者、主笔
+* [anaconda](https://fedoraproject.org/wiki/Anaconda)、[红旗 Linux(2006~2010)](http://en.wikipedia.org/wiki/Red_Flag_Linux) 、[oVirt](https://www.ovirt.org)、[openstack](https://launchpad.net/openstack) 等开源项目的贡献者
+* 前[X-lab 开放实验室](http://xlab.ioedu.net/)首席开源导师、华东师范大学数据学院[开源软件设计](https://mp.weixin.qq.com/s/c33EP2bluJ_zSwmzqOHxMw)主讲师
 
 
 ## 个人描述
