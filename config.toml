@@ -1,6 +1,7 @@
 baseurl = "http://www.opensourceway.community"
 title = "开源之道"
 languageCode = "zh-CN"
+hasCJKLanguage = true
 copyright = "Copyright (c) 2016 - 2020, 适兕; all rights reserved."
 MetaDataFormat = "yaml"
 Paginate = "9"
