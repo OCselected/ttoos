@@ -322,7 +322,7 @@ The use of open-source software (OSS)—readable software source code that can b
 
 ## 2020 主题四：开放源代码软件中的法律问题
 
-![Open Source for Business](./images/open-source-reading-list14.jpg)
+![Open Source for Business](images/open-source-reading-list14.jpg)
 
 英文版：[Open Source for Business: A Practical Guide to Open Source Software Licensing, 2nd Edition](http://www.pdffull.co/files/book.php?id=1544737645) ， Heather Meeker 著
 
@@ -361,9 +361,57 @@ The use of open-source software (OSS)—readable software source code that can b
 
 更多内容，请参考完整版开源之道共读导读与书评：[]()
 
-
 ## 2020 主题五：Community
 
+
+
+### The Open Source Way
+
+![](http://www.theopensourceway.org/w/images/d/d3/Barnraising_TOSW.jpg)
+
+内容介绍：
+
+> This book provides an introduction to creating and nurturing communities of contributors. This is a
+>
+>core part of Red Hat's mission, as manifested in the many communities where Red Hat is an active
+>
+>contributor.
+>
+>Red Hat employs contributors who work directly in upstream development on all parts of the open
+>
+>source architecture stack, from the Linux kernel to the thinnest skin of Ajax4Jsf. How these people
+>
+>interact with their communities is the first part of how Red Hat influences the growth of community.
+>
+>The qualities of the interaction of each individual contributor are as different as any human-to-human
+>
+>interaction. Over the course of time, these many interactions distill to a set of guiding principles that
+>
+>help us with the community growth and nurturing.
+>
+>Red Hat has collective community wisdom.
+>
+>We also have particular skill and luck in being thought and action leaders in many open communities.
+>
+>It has all been done in an open, ad hoc fashion, and it hasn't been written down before.
+>
+>So this book is a capturing of that distilled knowledge. It is also an active document, as that knowledge
+>
+>grows and changes, so do the contents of this book.
+
+作者：RedHat Community Architecture
+
+图书线上资源：[The open source way](https://www.theopensourceway.org/)
+
+**开源之道推荐短评：**
+
+>The open source way is a **way of thinking** about **how people collaborate within a community** to achieve common goals and interests.
+>
+>[Enabling people to further their own interests while contributing those interests back to a common good.](http://opensource.com/life/11/8/open-source-communities-force-multiplier)
+
+更多内容，请参考完整版开源之道共读导读与书评：[]()
+
+----------------------------------------------
 
 ### The Art of Community: Seven Principles for Belonging
 
@@ -378,9 +426,7 @@ The use of open-source software (OSS)—readable software source code that can b
 
 **开源之道推荐短评：**
 
->
-
-更多内容，请参考完整版开源之道共读导读与书评：[]()
+>Community 从人本身的角度来看，究竟有哪些要素?
 
 
 ### 利用开源打造你的职业生涯
@@ -460,9 +506,9 @@ Explore the five elements of an open source city using Raleigh, North Carolina a
 
 **开源之道推荐短评：**
 
->
+>开源的哲学原则：透明、协作、快速原型、参与，除了软件之外还大有可为！比如城市建设。
 
-更多内容，请参考完整版开源之道共读导读与书评：[]()
+更多内容，请参考完整版开源之道共读导读与书评：[开源哲学在开放城市中的良好应用 ———— 2020 世界阅读日读后感](posts/paper_or_book_reading/review_the_foundation_of_open_source_city/)
 
 
 
@@ -488,9 +534,7 @@ Explore the five elements of an open source city using Raleigh, North Carolina a
 
 **开源之道推荐短评：**
 
->
-
-更多内容，请参考完整版开源之道共读导读与书评：[]()
+>如果你想让开源很好的工作的话，那么这本书给出了最深刻的洞见。
 
 
 
@@ -537,4 +581,4 @@ https://dwheeler.com/oss_fs_why.html
 
 >在实践方面，开源项目依旧是一个工程的问题，而这个工程是区别于泰勒和德鲁克管理学意义上的工程的。那么工程究竟是什么？
 
-更多内容，请参考完整版开源之道共读导读与书评：[]()
+更多内容，请参考完整版开源之道共读导读与书评：[Episode 9:开源是一门工程学 ———— 图书共读交流](http://www.opensourceway.community/posts/opensource_talking/2020-03-29-online-reading-engineering/)
