@@ -1,3 +1,4 @@
+---
 categories:
 - 开源
 - Community LeaderShip Development
@@ -13,7 +14,6 @@ title: "CHAOSS 成立亚太地区共同体及探讨周期公布"
 url: ""
 authors:
 - 姜宁，适兕
-
 -------------
 
 ## 引言
