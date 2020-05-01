@@ -16,13 +16,15 @@ authors:
 - 姜宁，适兕
 -------------
 
+> CHAOSS 是  **The Community Health Analytics Open Source Software** 的简写，翻译过来就是： **开源软件共同体健康度分析**，因为共同体（Community）是开源的核心所在，没有共同体，就没有开源项目。
+
 ## 引言
 
 去年开源之道的适兕，写了一篇文章：开源软件项目的定性和定量分析指标 ———— [CHAOSS 指标解析](posts/community_leadership_development/chaoss_metrics_201908_learning)，旨在介绍 CHAOSS 这个项目/共同体，当然也着重介绍了CHAOSS的阶段性成果：[CHAOSS 在8月份发布的开源软件项目的量化指标](https://chaoss.community/metrics/)。在刚刚过去的2020年4月份，也组织了一次播客聊天：[开源项目的定量和定性分析—— 以CHAOSS 为例 ](https://github.com/OCselected/ttoos/issues/79) ，对于CHAOSS项目的意义和进度是保持时刻关注的。
 
 ## 正文
 
-就在昨天上午2020.4.29，12:52， 来自 CHAOSS 的重要成员（秘书长）：**Matt Germonprez ** 教授发了一封邮件，大体的内容如下：（读者想了解更多内容，请自行订阅邮件列表：lists.linuxfoundation.org ）
+就在昨天上午2020.4.29，12:52， 来自 CHAOSS 的重要成员（秘书长）：**Matt Germonprez** 教授发了一封邮件，大体的内容如下：（读者想了解更多内容，请自行订阅：[ CHAOSS 邮件列表](https://lists.linuxfoundation.org/mailman/listinfo/chaoss)）
 
 >大家好：
 >
