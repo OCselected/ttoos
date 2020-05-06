@@ -371,33 +371,18 @@ The use of open-source software (OSS)—readable software source code that can b
 
 内容介绍：
 
-> This book provides an introduction to creating and nurturing communities of contributors. This is a
+> This book provides an introduction to creating and nurturing communities of contributors. This is a core part of Red Hat's mission, as manifested in the many communities where Red Hat is an active contributor.
 >
->core part of Red Hat's mission, as manifested in the many communities where Red Hat is an active
+>Red Hat employs contributors who work directly in upstream development on all parts of the open source architecture stack, from the Linux kernel to the thinnest skin of Ajax4Jsf. How these people interact with their communities is the first part of how Red Hat influences the growth of community.
 >
->contributor.
->
->Red Hat employs contributors who work directly in upstream development on all parts of the open
->
->source architecture stack, from the Linux kernel to the thinnest skin of Ajax4Jsf. How these people
->
->interact with their communities is the first part of how Red Hat influences the growth of community.
->
->The qualities of the interaction of each individual contributor are as different as any human-to-human
->
->interaction. Over the course of time, these many interactions distill to a set of guiding principles that
->
->help us with the community growth and nurturing.
+>The qualities of the interaction of each individual contributor are as different as any human-to-human interaction. Over the course of time, these many interactions distill to a set of guiding principles that help us with the community growth and nurturing.
 >
 >Red Hat has collective community wisdom.
 >
->We also have particular skill and luck in being thought and action leaders in many open communities.
+>We also have particular skill and luck in being thought and action leaders in many open communities. It has all been done in an open, ad hoc fashion, and it hasn't been written down before.
 >
->It has all been done in an open, ad hoc fashion, and it hasn't been written down before.
+>So this book is a capturing of that distilled knowledge. It is also an active document, as that knowledge grows and changes, so do the contents of this book.
 >
->So this book is a capturing of that distilled knowledge. It is also an active document, as that knowledge
->
->grows and changes, so do the contents of this book.
 
 作者：RedHat Community Architecture
 
@@ -427,6 +412,24 @@ The use of open-source software (OSS)—readable software source code that can b
 **开源之道推荐短评：**
 
 >Community 从人本身的角度来看，究竟有哪些要素?
+
+### Cultivating Communities of Practice: A Guide to Managing Knowledge
+
+![](https://m.media-amazon.com/images/I/51AJ4PNaxpL._SY346_.jpg)
+
+#### 作者简介：
+
+Etienne Wenger-Trayner (formerly Wenger) is a globally recognized thought leader in the field of social learning theory, communities of practice, and their application to organizations. He has authored and co-authored seminal articles and books on the topic, including Situated Learning, where the term "community of practice" was coined; Communities of Practice: learning, meaning, and identity, where he lays out a theory of learning based on the concept; Cultivating Communities of Practice, addressed to practitioners in organizations who want to base their knowledge strategy on communities of practice; and Digital Habitats, which tackles issues of technology. Etienne's work is influencing both theory and practice in a range of disciplines, as well as a growing number of organizations in the private and public sectors. He helps organizations apply his ideas through consulting, public speaking, and workshops. He is also active in the academic sphere. He regularly speaks at conferences, conducts seminars, and is a visiting professor at the universities of Manchester and Aalborg. He recently received an honorary doctorate from the university of Brighton.
+
+#### 内容简介：
+
+Today's economy is fueled by knowledge. Every leader knows this to be true, yet few have systematic methods for converting organizational knowledge into economic value. This book argues that communities of practice--groups of individuals formed around common interests and expertise--provide the ideal vehicle for driving knowledge-management strategies and building lasting competitive advantage. Written by leading experts in the field, Cultivating Communities of Practice is the first book to outline models and methods for systematically developing these essential groups. Through compelling research and company examples, including DaimlerChrysler, McKinsey & Company, Shell, and the World Bank, authors Etienne Wenger, Richard McDermott, and William M. Snyder show how world-class organizations have leveraged communities of practice to drive strategy, generate new business opportunities, solve problems, transfer best practices, develop employees' professional skills, and recruit and retain top talent. Underscoring the new central role communities of practice are playing in today's knowledge economy, Cultivating Communities of Practice is the definitive guide to fostering, designing, and developing these powerful groups within and across organizations.
+
+开源之道推荐短评：**
+
+>
+
+更多内容，请参考完整版开源之道共读导读与书评：[]()
 
 
 ### 利用开源打造你的职业生涯
