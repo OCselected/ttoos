@@ -138,25 +138,26 @@ DPL 由Debian章程所定义，是有Debian开发者每年选举出来作为一�
 
 
 
-|      DPL 姓名      |                         背景概要介绍                         | 任职年份  |
-| :----------------: | :----------------------------------------------------------: | :-------: |
-|    Ian Murdock     | Debian 的创始人，担任过Linux 基金会的CTO，Sun公司的项目主管，也在一度大红大紫的公司Docker公司工作过。 | 1993~1996 |
-|    Bruce Perens    | 这位重量级的人物，大家可以阅读开源之道过去专门对Bruce进行介绍的文章。 | 1996~1998 |
-|    Ian Jackson     |      是长期的自由软件作者和Debian开发人员。`dpkg`的作者      |   1998    |
-|  Wichert Akkerman  | 是一位荷兰计算机程序员，为`Debian`，`dpkg`，`Plone`和`strace`做出了贡献。也担任过SPI的秘书。 | 1999~2000 |
-|    Ben Collins     |        来自美国的程序员，Linux开发人员和系统管理员。         |   2001    |
-|    Bdale Garbee    |                    来自美国的计算机专家。                    |   2002    |
-|  Martin Michlmayr  | 是一名自由和开源软件的布道者、Debian开发人员。Martin 拥有博士学位，研究的重点是提高自由软件和开源项目的质量，尤其是发布管理流程和实践。在2008年至2014年期间，他曾担任OSI 的董事会成员，并且是Software Freedom Conservancy评估委员会的成员。也担任过SPI的顾问。 | 2003~2004 |
-|  Branden Robinson  |         以他对X Window系统打包的贡献而被人们所知晓。         |   2005    |
-|   Anthony Towns    |        是一位计算机程序员，曾长期担任Debian发布经理，        |   2006    |
-|    Sam Hocevar     |       是法国软件和视频游戏开发者，是WTFPL版本2的作者。       |   2007    |
-|   Steve McIntyre   | 是一位软件工程师和Debian的长期贡献者，以在创建Debian CD / DVD映像方面的贡献而被人们所知晓。他是debian-cd小组负责人，负责生成正式映像。 | 2008~2009 |
-| Stefano Zacchiroli | 是一位在巴黎生活和工作的意大利学术和计算机科学家。他于2001年成为Debian开发人员，主要参与 OCaml 打包和质量保证团队。 | 2010~2013 |
-|   Lucas Nussbaum   | 是法国计算机科学工程师，洛林大学助理教授，LORIA实验室研究员。自2007年以来，他一直是Debian开发人员，从那时起，他一直活跃于Debian Ruby打包程序的开发工作中，与Universal Debian Database或Debian Archive的全面重建有关。 | 2014~2015 |
-|   Neil McGovern    |                   一位来自英国的工程经理。                   |   2015    |
-|    Mehdi Dogguy    | 来自法国，据说当年选举的时候竟然没有竞争对手，[毫无争议的情况下就当选了](https://www.debian.org/vote/2016/vote_001)。<br />（这么看，DPL 确实没什么卵用。——开源之道注） |   2016    |
-|     Chris Lamb     |             一位来自英国的自由职业者，连任两年。             | 2017~2018 |
-|    Sam Hartman     | Hartman曾在MIT Kerberos联盟担任首席技术员，并在Internet工程任务组担任安全区域总监。在2000年就加入了Debian。 | 2019~现在 |
+|      DPL 姓名      |                         背景概要介绍                         |  任职年份   |
+| :----------------: | :----------------------------------------------------------: | :---------: |
+|    Ian Murdock     | Debian 的创始人，担任过Linux 基金会的CTO，Sun公司的项目主管，也在一度大红大紫的公司Docker公司工作过。 |  1993~1996  |
+|    Bruce Perens    | 这位重量级的人物，大家可以阅读开源之道过去专门对Bruce进行介绍的文章。 |  1996~1998  |
+|    Ian Jackson     |      是长期的自由软件作者和Debian开发人员。`dpkg`的作者      |    1998     |
+|  Wichert Akkerman  | 是一位荷兰计算机程序员，为`Debian`，`dpkg`，`Plone`和`strace`做出了贡献。也担任过SPI的秘书。 |  1999~2000  |
+|    Ben Collins     |        来自美国的程序员，Linux开发人员和系统管理员。         |    2001     |
+|    Bdale Garbee    |                    来自美国的计算机专家。                    |    2002     |
+|  Martin Michlmayr  | 是一名自由和开源软件的布道者、Debian开发人员。Martin 拥有博士学位，研究的重点是提高自由软件和开源项目的质量，尤其是发布管理流程和实践。在2008年至2014年期间，他曾担任OSI 的董事会成员，并且是Software Freedom Conservancy评估委员会的成员。也担任过SPI的顾问。 |  2003~2004  |
+|  Branden Robinson  |         以他对X Window系统打包的贡献而被人们所知晓。         |    2005     |
+|   Anthony Towns    |        是一位计算机程序员，曾长期担任Debian发布经理，        |    2006     |
+|    Sam Hocevar     |       是法国软件和视频游戏开发者，是WTFPL版本2的作者。       |    2007     |
+|   Steve McIntyre   | 是一位软件工程师和Debian的长期贡献者，以在创建Debian CD / DVD映像方面的贡献而被人们所知晓。他是debian-cd小组负责人，负责生成正式映像。 |  2008~2009  |
+| Stefano Zacchiroli | 是一位在巴黎生活和工作的意大利学术和计算机科学家。他于2001年成为Debian开发人员，主要参与 OCaml 打包和质量保证团队。 |  2010~2013  |
+|   Lucas Nussbaum   | 是法国计算机科学工程师，洛林大学助理教授，LORIA实验室研究员。自2007年以来，他一直是Debian开发人员，从那时起，他一直活跃于Debian Ruby打包程序的开发工作中，与Universal Debian Database或Debian Archive的全面重建有关。 |  2014~2015  |
+|   Neil McGovern    |                   一位来自英国的工程经理。                   |    2015     |
+|    Mehdi Dogguy    | 来自法国，据说当年选举的时候竟然没有竞争对手，[毫无争议的情况下就当选了](https://www.debian.org/vote/2016/vote_001)。<br />（这么看，DPL 确实没什么卵用。——开源之道注） |    2016     |
+|     Chris Lamb     |             一位来自英国的自由职业者，连任两年。             |  2017~2018  |
+|    Sam Hartman     | Hartman曾在MIT Kerberos联盟担任首席技术员，并在Internet工程任务组担任安全区域总监。在2000年就加入了Debian。 | 2019~2020.3 |
+|  Jonathan Carter   | 宣言写的挺好的：比如：**促成内部导师制度，在 Debian 中培养一种文化，在这种文化中，对他人代码的审查和指导同样受到重视，并且将有更多的 Debian 开发者被鼓励花更多的时间在这一点上**。 |    2020     |
 
 余下的内容我们就来介绍一下Debian的支柱：三大重要的文档。
 
@@ -264,3 +265,4 @@ Debian 章程，正如O'Mahony, Siobhán 所揭示的那样，是一个自发组
 5.  O'Mahony, Siobhán; Ferraro, Fabrizio (2007).   https://web.archive.org/web/20080529081303/http://www.business.ualberta.ca/tcc/documents/TII_3_OMahoney_Ferraro_final.pdf
 6. Debian 社会契约 维基百科 https://en.wikipedia.org/wiki/Debian_Social_Contract
 7. https://www.debian.org/social_contract#guidelines
+8. Jonathan Carter 当选新一任 Debian 项目负责人 https://www.oschina.net/news/115078/debian-project-leader-elections-2020
