@@ -68,6 +68,36 @@ Linux 基金会并没有将自己固步自封到 kernel 这一个圈子里，所
 3. PR方面，可以联合起来一起搞。也可以独立搞起来。
 4. 资助方面，这点有所差别，子基金会可以独立拿赞助和收年费，而项目则只能通过Bridge项目获得捐赠。
 
+## Linux 基金会发布合作开发报告
+
+2015年的9月底，Linux基金会发布了一份[报告](https://www.linuxfoundation.org/press-release/2015/09/the-linux-foundation-releases-first-ever-value-of-collaborative-development-report/)，作为首次为所有的合作的项目的一个交代，利用经济的视野来评估了一下项目的总体价值，开源之道认为该报告非常的有意义，报道的原文翻译如下：
+
+> Linux Foundation 协作项目的开发成本的总经济价值估计为50亿美元!
+
+> **2015年9月30日，加利福尼亚州旧金山** —— 致力于加速Linux的发展和协作开发的非营利组织 ：Linux 基金会，在今天宣布了旗下合作项目的价值评估报告，该报告的标题非常的直白：**50亿美金：Linux基金会合作项目的价值总估。**
+
+>  Linux 基金会合作项目指的是那些非Linux Kernel项目的毋须由Linux基金会本身资助的软件项目，这些软件项目促成了整个行业和生态，它们利用协作开发的力量进而促进创新。为这些开源软件项目做出贡献的人超越了我们的想象力：他们是来自世界各地的上千名开发者，有很多是来自世界500强公司的。
+
+>  来自linux 基金会的 CMO 和开发者计划的VP  Amanda McPherson 如此总结道：
+>
+> > 在过去的几年中，开源技术得到了前所未有的发展，在很多领域都发挥着主要的作用，我们见证了开源项目如雨后春笋般的遍地成长，这是我们大家有目共睹的，但是其经济价值却始终没有人指出来。软件的构建和商业分离的形式已经一去不复返了，虽然这样的方式奠定了我们现在世界的基石，新的模式是将此两者合二为一，本论文旨在让大众了解这样的发展模式的经济价值。
+>
+> 此次报告所采用的理论依据是 David A. Wheeler 的 COCOMO 模型，该模型已经被证明是行之有效的， Wheeler 在2002年率先提出的该模型，其对于[Linux所做的价值评估](http://www.dwheeler.com/sloc/redhat71-v1/redhat71sloc.html)广受好评（Linux基金会在[2008年也使用该模型做过一次对linux发行版的评估](posts/open-source-economic/estimating-the-total-cost-of-linux-distribution/),它评估项目中的软件代码行（SLOC）以及估计的人年和与产生开发成本值相关的开发成本（完整的报告中提供了更多详细信息）[9]。
+>
+> 该报告的关键点：
+>
+> > * 今天(截止到2015，开源之道注)，Linux Foundation合作项目中的源代码总数为115,013,302。
+> > * 这些项目的协作开发，所需的估计总的开销为41,192.25人年。
+> > * 换句话说，重新创建上面列出的Linux 基金会当前合作项目中存在的代码库将需要1,356个开发人员30年。这项工作的总经济价值估计超过50亿美元。
+>
+> 当年的linux基金会合作项目：AllSeen Alliance, Automotive Grade Linux, Cloud Foundry Foundation, Cloud Native Computing Foundation, Code Aurora Forum, Core Infrastructure Initiative, Dronecode, IO Visor, IoTivity, Kinetic Open Storage Project, Let’s Encrypt, Node.js Foundation, Open Container Project, Open Mainframe Project, OPNFV, Open Virtualization Alliance, OpenDaylight, openMAMA, R Consortium, Tizen, Xen Project 和 Yocto Project. 
+>
+> Linux 基金会的执行董事 Jim Zemlin 如此评价道：
+>
+> > 当人们拥有大规模协作的工具和联系时，任何问题都可以被解决。我们坚信那些散布在世界各个角落的拥有天赋的人们都在尝试解决最具挑战性的问题。合作是当今的竞争优势。
+>
+> 自2008年以来，Linux基金会一直与全球领先的技术公司和最有才华的开发人员合作，主持跨技术行业多个领域的大型开源项目。通过传播史上最大的开源软件协作项目 —— Linux 的精髓（DNA)，Linux 基金会为项目提供了基本的协作和组织框架，从而让开发者可以专注于自身项目的创新和生产，更多信息请访问linux协作项目主页：[http://collabprojects.linuxfoundation.org/](http://projects.linuxfoundation.org/)。
+
 ## CloudFoundry 基金会年报解读
 
 一般情况下，从基金会的年报上可以看出来发展的相关态势，也可以看出相关的成绩。比如笔者曾经对OpenStack 的年度报告吐槽过，基本上什么都没有说，而是说了几个项目的介绍情况，非常的敷衍。其实，年度报告最重要的共同体的增长，以及相关的开销。我们看到CloudFoundry在2019年的报告中大体内容:
@@ -170,3 +200,4 @@ Cloud Foundry 基金会不是第一个商业公司主导的非营利软件基金
 6. Review: Cloud Foundry brings power and polish to PaaS https://www.javaworld.com/article/2455358/review-cloud-foundry-brings-power-and-polish-to-paas.html
 7. The Cloud Foundry Way: Open Source, Pair Programming and Well Defined Processes https://www.cloudfoundry.org/blog/the-cloud-foundry-way/
 8. Cloud Foundry 基金会年度报告 https://www.cloudfoundry.org/cloud-foundry-annual-reports/
+9. A $5 Billion Value:  http://www.static.linuxfound.org/sites/lfcorp/files/lfpub_cp_cost_estimate2015.pdf
