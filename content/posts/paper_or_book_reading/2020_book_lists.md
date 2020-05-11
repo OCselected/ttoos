@@ -431,6 +431,47 @@ Today's economy is fueled by knowledge. Every leader knows this to be true, yet 
 
 更多内容，请参考完整版开源之道共读导读与书评：[]()
 
+### The Business Value of Developer Relations: How and Why Technical Communities Are Key To Your Success
+
+![](https://images-na.ssl-images-amazon.com/images/I/41SZmebs+YL._SX348_BO1,204,203,200_.jpg)
+
+### 内容简介：
+
+>Discover the true value of Developer Relations as you learn to build and maintain positive relationships with your developer community. Use the principles laid out in this book to walk through your company goals and discover how you can formulate a plan tailored to your specific needs.
+>
+>First you will understand the value of a technical community: why you need to foster a community and how to do it. Then you will learn how to be involved in community building on a daily basis: finding the right audience, walking the tightrope between representing the company and building a personal brand, in-person events, and more.
+>
+>Featuring interviews with Developer Relations professionals from many successful companies including Red Hat, Google, Chef, Docker, Mozilla, SparkPost, Heroku, Twilio, CoreOS, and more, and with a foreword by Jono Bacon, *The Business Value of Developer Relations* is the perfect book for anyone who is working in the tech industry and wants to understand where DevRel is now and how to get involved. Don’t get left behind – join the community today.
+>
+>**What You’ll Learn**
+>
+>- Define community and sell community to your company
+>- Find, build, and engage with the community
+>- Determine how and when to hire community managers
+>- Build your own personal brand
+>
+>**Who This Book Is For**
+>
+>Any business leaders/owners/stakeholders in the tech industry, tech evangelists, community managers or developer advocates.
+
+### 作者介绍：
+
+> **Mary Thengvall** is a connector of people at heart, both personally and professionally. She loves digging into the strategy of how to build and foster developer communities and has been doing so for over 10 years. After building community programs at O’Reilly Media, Chef Software, and SparkPost, she’s now consulting for companies looking to build out a Developer Relations strategy. She's the author of the first book on Developer Relations: The Business Value of Developer Relations (Apress, 2018).
+>
+> Mary is a co-host of Community Pulse, a podcast for community managers and developer evangelists who are looking for information on community building. She curates DevRel Weekly, a weekly newsletter that brings you a curated list of articles, job postings, and events every Thursday.
+>
+> She is also a member of Prompt, a non-profit that encourages people to openly talk about mental illness in tech. She speaks at various conferences and events about building and fostering technical communities as well as how to prevent burnout in yourself and your team.
+>
+> She can be found on Twitter [@mary_grace](http://www.twitter.com/mary_grace).
+
+**开源之道推荐短评：**
+
+>该书的立场是商业公司如何处理开发者社团，以及如何处理之间的关系，尤其是开源共同体方面的经验，作者采访了大量和开发者口碑超佳的公司：Google、RedHat、Mozilla、heroku……等，《the art of community》作者Jono bacon 作序！你能错过吗？
+>
+> 本书来自2019年共读的活跃贡献者，也是共读的主要推荐人之一 ———— 姜宁先生的隆重推荐。
+
+更多内容，请参考完整版开源之道共读导读与书评：[]()
+
 
 ### 利用开源打造你的职业生涯
 
