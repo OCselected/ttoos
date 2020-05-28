@@ -30,18 +30,19 @@ authors:
 
 开源之道 talking，适兕一直都在酝酿，终于在2020年的春节接着 "Community Leadership Development"的人气，开了一个良好的头：
 
-* [鼠年话开源之一：开源开发者有何特征？](/posts/opensource_talking/2020-02-02-open-source-developer/)
-* [鼠年话开源之二：商业公司如何拥抱开源共同体（Open Source Community）](/posts/opensource_talking/2020-02-03-business-embrave-osc/)
-* [鼠年话开源之三：Apache 之道在本土的障碍有哪些？还是无缝的？](/posts/opensource_talking/2020-02-05-is-apache-way-worked-in-china/)
-* [鼠年话开源之四：开源项目商业化理念与路径](/posts/opensource_talking/2020-02-06-business-and-open-source/)
-* [鼠年话开源之五：Apache不会给其下的项目开发者发工资，那Apache是如何保证做事的专业性和持续投入的？](/posts/opensource_talking/2020-02-07-motivation-beyond-of-money/)
-* [鼠年话开源之六：开源共同体和开源社区是不是一回事？如果不是的话，又有何不同？](/posts/opensource_talking/2020-02-09-what-is-open-source-community/)
-* [鼠年话开源之七：社群的交流工具](/posts/opensource_talking/2020-02-10-what-is-good-communition-tool/)
+* [Episode #1：鼠年话开源之一：开源开发者有何特征？](/posts/opensource_talking/2020-02-02-open-source-developer/)
+* [Episode #2：鼠年话开源之二：商业公司如何拥抱开源共同体（Open Source Community）](/posts/opensource_talking/2020-02-03-business-embrave-osc/)
+* [Episode #3：鼠年话开源之三：Apache 之道在本土的障碍有哪些？还是无缝的？](/posts/opensource_talking/2020-02-05-is-apache-way-worked-in-china/)
+* [Episode #4：鼠年话开源之四：开源项目商业化理念与路径](/posts/opensource_talking/2020-02-06-business-and-open-source/)
+* [Episode #5：鼠年话开源之五：Apache不会给其下的项目开发者发工资，那Apache是如何保证做事的专业性和持续投入的？](/posts/opensource_talking/2020-02-07-motivation-beyond-of-money/)
+* [Episode #6：鼠年话开源之六：开源共同体和开源社区是不是一回事？如果不是的话，又有何不同？](/posts/opensource_talking/2020-02-09-what-is-open-source-community/)
+* [Episode #7：鼠年话开源之七：社群的交流工具](/posts/opensource_talking/2020-02-10-what-is-good-communition-tool/)
 
 ## 【开源之道 Talking 】系列
 
-* [类 Google 编程之夏能否在中国被复制？](/posts/opensource_talking/2020-02-29-gsoc-in-china)
-* [开源是一门工程学 ———— 图书共读交流](posts/OpenSource_Talking/2020-03-29-online-reading-engineering)
+* [Episode #8：类 Google 编程之夏能否在中国被复制？](/posts/opensource_talking/2020-02-29-gsoc-in-china)
+* [Episode #9：开源是一门工程学 ———— 图书共读交流](posts/OpenSource_Talking/2020-03-29-online-reading-engineering)
+* [Episode #10：开源项目和共同体的定性定量分析探讨](posts/OpenSource_Talking/2020-04-26-osp-and-CHAOSS)
 
 ## 特别提示：正在寻找赞助商
 
