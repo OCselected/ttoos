@@ -315,7 +315,7 @@ The use of open-source software (OSS)—readable software source code that can b
 
 >参与开源的前提是个体行动须与集体行动合二为一，否则就会导致割裂。
 
-更多内容，请参考完整版开源之道共读导读与书评：[]()
+更多内容，请参考完整版开源之道共读导读与书评：[理解认为开源不可行的重要观点](http://opensourceway.community/posts/paper_or_book_reading/review_the_logic_of_collective_action/)
 
 
 
@@ -594,6 +594,30 @@ https://dwheeler.com/oss_fs_why.html
 >
 
 更多内容，请参考完整版开源之道共读导读与书评：[]()
+
+## 主题八：开源布道师书单
+
+### Developer, Advocate!
+
+![](https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781789138740-original.jpeg)
+
+#### 内容提要：
+
+> What exactly is a developer advocate, and how do they connect developers and companies around the world? Why is the area of developer relations set to explode? Can anybody with a passion for tech become a developer advocate? What are the keys to success on a global scale? How does a developer advocate maintain authenticity when balancing the needs of their company and their tech community? What are the hot topics in areas including Java, JavaScript, "tech for good," artificial intelligence, blockchain, the cloud, and open source?
+>
+> These are just a few of the questions addressed by developer advocate and author Geertjan Wielenga in Developer, Advocate!. 32 of the industry's most prominent developer advocates, from companies including Oracle, Microsoft, Google, and Amazon, open up about what it's like to turn a lifelong passion for knowledge sharing about tech into a rewarding career. These advocates run the gamut from working at large software vendors to small start-ups, along with independent developer advocates who work within organizations or for themselves.
+>
+> In Developer, Advocate!, readers will see how developer advocates are actively changing the world, not only for developers, but for individuals and companies navigating the fast-changing tech landscape. More importantly, Developer, Advocate! serves as a rallying cry to inspire and motivate tech enthusiasts and burgeoning developer advocates to get started and take their first steps within their tech community.
+
+#### 作者介绍
+
+>  Geertjan Wielenga is a developer advocate who promotes Java and JavaScript as a speaker, writer, and trainer. He graduated from the University of KwaZulu-Natal with a degree in social science and a postgraduate degree in law. Geertjan has worked in Austria, the Czech Republic, and the Netherlands for firms including Sun Microsystems and Oracle. Now a senior principal product manager at Oracle, he advocates the open-source projects Apache NetBeans and Oracle JET.
+
+#### **开源之道推荐短评：**
+
+> 倡导一个职业是无关痛痒的，而是生产力所带动起来的需求！开源布道师究竟怎么样？听过来人聊聊
+
+更多内容，请参考完整版开源之道共读导读与书评：
 
 ## 主题七 ： 开源之道共读成员自行选择部分
 
