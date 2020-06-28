@@ -317,6 +317,63 @@ The use of open-source software (OSS)—readable software source code that can b
 
 更多内容，请参考完整版开源之道共读导读与书评：[理解认为开源不可行的重要观点](http://opensourceway.community/posts/paper_or_book_reading/review_the_logic_of_collective_action/)
 
+### Work in public: 
+
+<img src="https://m.media-amazon.com/images/I/416VUDuqTML.jpg" style="zoom:150%;" />
+
+#### 
+
+#### 内容简介：
+
+Open source software––in which developers publish code that anyone can use––has long served as a bellwether for other online behavior. In the late 1990s, it provided an optimistic model for public collaboration, but in the last 20 years it’s shifted to solo operators who write and publish code that’s consumed by millions.
+
+In *Working in Public*, Nadia Eghbal takes an inside look at modern open source software development, its evolution over the last two decades, and its ramifications for an internet reorienting itself around individual creators. Eghbal, who interviewed hundreds of developers while working to improve their experience at GitHub, argues that modern open source offers us a model through which to understand the challenges faced by online creators. She examines the trajectory of open source projects, including:
+
+• the platform of GitHub, for hosting and development;
+• the structures, roles, incentives, and relationships involved;
+• the often-overlooked maintenance required of its creators;
+• and the costs of production that endure through an application’s lifetime.
+
+Eghbal also scrutinizes the role of platforms––like Twitter, Facebook, Twitch, YouTube, and Instagram––which reduce infrastructure and distribution costs for creators, but which massively increase the scope of interactions with their audience.
+
+Open source communities are increasingly centered around the work of individual developers rather than teams. Similarly, if creators, rather than discrete communities, are going to become the epicenter of our online social systems, we need to better understand how they work––and we can do so by studying what happened to open source.
+
+#### 作者简介:
+
+**Nadia Eghbal** is a writer and researcher who explores how the internet enables individual creators. From 2015 to 2019, she focused on the production of open source software, working independently and at GitHub to improve the open source developer experience. She is the author of *Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure*, published by the Ford Foundation, where she argued that open source code is a form of public infrastructure that requires maintenance. 
+
+#### 名人推荐：
+
+> "Nadia writes from a unique perspective at the intersection of open source, economics, and poetry. This is the definitive book on the dynamics of online creative communities." 
+>
+> ​             ———— **Nat Friedman, CEO of GitHub**
+
+**开源之道推荐短评：**
+
+> ***An inside look at modern open source software developers--and their influence on our online social world.***
+
+更多内容，请参考完整版开源之道共读导读与书评：[]()
+
+### 纳什均衡与博弈论
+
+![](images/book-reading/john_nash_game-theory.jpg)
+
+#### 内容简介：
+
+本书通过通俗的语言深入浅出地阐述了《美丽心灵》的主角、诺贝尔奖获得者纳什的均衡理论，及其在当今社会各个领域如经济学、生物学、物理学和社会学的应用。并简单扼要地介绍了其他科学家对博弈论的研究成果。篇幅精炼，但内容翔实，适合广大对纳什及博弈论感兴趣的读者阅读。
+
+#### 作者简介
+
+本书作者曾获得美国国家科学作家协会颁发的社会科学奖，以及美国地球物理学联合会在科学新闻创办方面颁发的终身成就奖，其作品广受读者欢迎。
+
+**开源之道推荐短评：**
+
+> 对于开源商业模式的理解非常有启发。 
+>
+> ​          ———— 书友@Discovery 隆重推荐
+
+更多内容，请参考完整版开源之道共读导读与书评：[]()
+
 
 
 
