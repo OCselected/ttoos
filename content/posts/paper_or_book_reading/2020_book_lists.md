@@ -195,17 +195,25 @@ The best solution, von Hippel and his colleagues argue, is a division of labor b
 
 ![](https://images-cn.ssl-images-amazon.com/images/I/51LHBOgeCOL.jpg)
 
+### 中文版：《黑客伦理与信息时代精神》
 
+![](https://img1.doubanio.com/view/subject/l/public/s1182307.jpg)
 
 #### 内容提要：
 
-You may be a hacker and not even know it. Being a hacker has nothing to do with cyberterrorism, and it doesn’t even necessarily relate to the open-source movement. Being a hacker has more to do with your underlying assumptions about stress, time management, work, and play. It’s about harmonizing the rhythms of your creative work with the rhythms of the rest of your life so that they amplify each other. It is a fundamentally new work ethic that is revolutionizing the way business is being done around the world.
+你可能已经在不知不觉中成为了一名黑客。黑客不是“骇客”，它与计算机犯罪，甚至与开放源代码运动毫无瓜葛。黑客更多的是对压力、时间管理、工作和娱乐的本质的假设。 大约一个世纪前，马克斯·韦伯的《新教伦理与资本主义精神》揭示了工业时代的精神——新教伦理。现在，另一个芬兰人派卡·海曼，与李纳斯·托沃兹（Linux操作系统的创始人）和曼纽尔·卡斯特斯（《信息时代》作者）一起，阐述了黑客如何代表信息时代一种全新的与新教伦理相对的精神气质，它倡导工作的娱乐性和艺术性，这不仅意味旧工业时代精神的反叛，还意味着对当今社会和我们生活的各个方面的挑战。 没有黑客，电子邮件、因特网和万维网便不可能得到普及。黑客伦理是基于娱乐、激情、共享和创造价值的思维方式和哲学，具有提升个人、公司竞争力的巨大潜力。对企业来说，现在比以往任何时候都更需要灵活多变，在这一点上，黑客无疑是当今之世最重的的革新者。 在日益技术化的社会里，充满了创造精神和挑战传统的黑客价值倡导充满激情和自由节奏的工作；信仰个人能以不可思议的方式创造伟大奇迹；渴求捍卫我们既有的伦理理想，如隐私和平等。《黑客伦理》将带领我们进行一次精彩纷呈的旅行，让我们以全新的角度审视我们的生活和工作方式。
 
-Without hackers there would be no universal access to e-mail, no Internet, no World Wide Web, but the hacker ethic has spread far beyond the world of computers. It is a mind-set, a philosophy, based on the values of play, passion, sharing, and creativity, that has the potential to enhance every individual’s and company’s productivity and competitiveness. Now there is a greater need than ever for entrepreneurial versatility of the sort that has made hackers the most important innovators of our day. Pekka Himanen shows how we all can make use of this ongoing transformation in the way we approach our working lives.
+#### 作者介绍：
+
+派卡・海曼（Pekka Himanen）：一个技术神童，20岁在芬兰赫尔辛基大学获得哲学博士学位。他正在从事技术发展社会意义的研究，这使他与学术界、艺术界、政府部门以及公司CEO建立广泛对话。他目前在赫尔辛基大学和美国加利福尼亚大学伯克利分校工作。
+
+李纳斯・托沃兹（Linus Torvalds）：计算机行业内最受尊敬的黑客之一。他1991年还是芬兰赫尔辛基大学的一名学生时，创达了Linux操作系统。此后，Linux发展成为世界上成千上万的程序员和数目万用户参与的工程。
+
+曼纽尔・卡斯特斯（Manuel Castells）：美国加利福尼亚大学伯克利分校社会学教授、他出版了获得广泛承认的《信息时代》（The Information Age）和城市与草根》（The City and Grassroots）（ 1983年获C.wright Mills奖）等二十多本著作。
 
 **开源之道推荐短评：**
 
->
+>没有黑客伦理，显然开源是不可能存在的。
 
 更多内容，请参考完整版开源之道共读导读与书评：[]()
 
@@ -244,7 +252,7 @@ Without hackers there would be no universal access to e-mail, no Internet, no Wo
 
 **开源之道推荐短评：**
 
->
+>从政治的角度来看开源中的协作，无疑是人类的未来。
 
 更多内容，请参考完整版开源之道共读导读与书评：[]()
 
