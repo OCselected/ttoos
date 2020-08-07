@@ -1,5 +1,7 @@
 [![Build Status](https://travis-ci.org/OCselected/ttoos.svg?branch=master)](https://travis-ci.org/OCselected/ttoos)
 
+![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=102)
+
 # 开源之道：致力于开源相关思想、知识和价值的探究！
 
 * **开源乃创新之道！**

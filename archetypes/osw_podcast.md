@@ -18,8 +18,6 @@ title: "开源之道 Talking "
 url: ""
 authors:
 - 开源之道
-translater:
-- 开源之道
 ---
 
 ## 致力于开源相关思想、知识和价值的探究！
