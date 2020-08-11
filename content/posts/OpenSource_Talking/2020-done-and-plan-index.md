@@ -43,6 +43,8 @@ authors:
 * [Episode #8：类 Google 编程之夏能否在中国被复制？](/posts/opensource_talking/2020-02-29-gsoc-in-china)
 * [Episode #9：开源是一门工程学 ———— 图书共读交流](posts/open_source_talking/2020-03-29-online-reading-engineering)
 * [Episode #10：开源项目和共同体的定性定量分析探讨](posts/open_source_talking/2020-04-26-osp-and-CHAOSS)
+* [Episode #11: 本土的 Hacker 哪里寻？](posts/opensource_talking/2020-05-30-where-is-hacker)
+* [Episode #12：开源世界的Peer Review](posts/opensource_talking/2020-06-30-peer-review-in-open-source)
 
 ## 特别提示：正在寻找赞助商
 
