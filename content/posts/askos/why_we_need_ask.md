@@ -104,13 +104,12 @@ authors:
 目前不定期参与解答问题的开源圈的朋友：（排名不分先后）
 
 * 吴晟，Apache member，Apache SkyWalking VP
-
 * 王永雷，BlackDuck资深专家
-
 * 姜宁 Apache Member， ALC Beijing创始人
-
 * 王伟 华东师范大学教授
-
+* 郁志强 Open source program manager ,China Mobile 
+* 杨丽蕴 木兰开源社区
+* 孙振华 开源之道赞助者
 * 适兕，开源布道师（常驻）
 
 非常欢迎愿意抽时间来回答对开源有兴趣朋友的开源界人士加入此阵营，相信我，面对灵魂拷问，受益者更多的是解答问题的人。
