@@ -13,7 +13,7 @@ tags:
 - 个人介绍
 - 贡献者
 - 开源之道
-title: "关于适兕的简历"
+title: "适兕的简历"
 url: ""
 ---
 
@@ -26,10 +26,11 @@ url: ""
 - 中文姓名：**李建盛**
 - 网络标识： **适兕**
 - GitHub: [lijiangsheng1](http://github.com/lijiangsheng1)
+- E-mail: lijiansheng#ocselectec.org
 
 ## 当前所做的事情
 
-* [”开源之道共同体”](http://opensourceway.community/) 发起人和主要成员
+* [”开源之道共同体”](http://opensourceway.community/) 发起人及主创
 * 金融行业开源技术应用社区个人成员
 * [Apache ALC Beijing Member](https://s.apache.org/alc-beijing)
 * [开源社](http://www.kaiyuanshe.cn/) 执委会成员、教育工作组
@@ -126,3 +127,6 @@ url: ""
 |开源之道图书共读共同体历程 |OpenI/O 2019 | 2019.12.23|深圳.鹏程实验室|
 |重新诠释开源共同体 |Community Leadership Development second event|2002.1.10 |上海.微软Reacter|
 |开源世界中的隐规则 | 开源供应链点亮计划之大咖说开源                |2020.5.29 |哔哩哔哩直播|
+|开源是同步世界的绝佳机会 | 软件自由日. 西安Linux兴趣小组 |2020.9.18 |哔哩哔哩直播|
+|开源共同体评估框架 | 全球云计算开源峰会                            |2020.10.16 |北京信通院|
+|通过开源共读来一场别开生面的开源教育 | China Open Source Conference 2020             |2020.10.24 |线上+深圳|
