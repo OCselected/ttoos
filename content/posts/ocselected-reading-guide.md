@@ -16,7 +16,9 @@ title: "开源之道阅读指南"
 url: ""
 ---
 
-** 感谢 WHX **
+#### 感谢 @WHX 2019.7 
+
+#### 感谢 高博 2020.10 
 
 ## 知识的系统化
 
@@ -46,10 +48,6 @@ url: ""
 
 那么开源软件由于本身的一些特性，其商业化进程更是难上加难，令人朴树迷离。那么我们不妨从软件最初的商业化作为开端，然后到当下开源的崛起，细细的看看开源软件在商业化走过的历程。
 
-* [开源 -- 一部黑客伦理与商业资本相互妥协的融合史](posts/paper_or_book_reading/hackers-book-review/)
-* [《软件悖论:商业软件的崛起与陨落》](/posts/paper_or_book_reading/the-software-paradox-book-review/)
-* [竞争中合作：开源商业化的爱与恨](/posts/business_model/coopetition_all_fair_in_love_and_open_source/)
-* [开源英雄：Peter Fenton，开源界点石成金的风险投资者](/posts/opensource_leader/peter_fenton_has_magic_open_source_touch/)
 * [根本就没有什么所谓的开源商业模式](/posts/business_model/there_is_no_open_source_business_model/)
 * [这次我们谈谈开源项目得道者多助的Ubuntu犯下的人心不足蛇吞象的严重错误](/posts/supply_chain/supply_chain_case_study_ubuntu/)
 * [Docker终于找到了一条光明的商业化道路](/posts/event_analysis/docker_spin_of_moby/)
@@ -60,16 +58,20 @@ url: ""
 * [精心布局的开源](/posts/opensource/open_by_design/)
 * [我们无法从开源本身获利](/posts/opensource/you_cant_make_money_from_open_source/)
 * [开源之道解读红帽企业开源调查报告2019](/posts/event_analysis/redhat_enterprise_open_source_survey/)
+* [Open Core 和基于 API 的服务，商业软件如何搭上开源的顺风车！](/posts/business_model/open-core-vs-open-perimeter/)
+* [Open Core 的系列读物整理](/posts/paper_or_book_reading/reading-list-of-open-core/)
+* [【译文】如何与云巨头 AWS 竞争](/posts/redmonk/how-to-compete-with-aws/)
 
 ### 开源之概念解释
 
 Open Source Software，从计算机技术本身而言是蛮容易理解的，因为大家都知道计算机只能执行二进制代码，而人类的阅读和沟通，则需要源代码，尤其是高级语言的源代码，但是这只是技术上的，没有什么可以争辩的余地，而是人类是否从这个过程中做文章，阻碍他人学习和阅读，或者是让他人没有任何后顾之忧的去加强学习，这中间就产生了更多的问题。那么我们不妨从其它的角度来诠释一下开源一词的含义。
 
-* [开源正在走出软件领域，影响其它产业————“Open”一词的释义](/posts/opensource_culture/fifty_shades_of_open/)
 * [开放源代码定义之历史篇](/posts/opensource_culture/the_open_source_definition_history/)
-* [Bruce Perens，向全世界宣布“开源”的人](/posts/opensource_leader/bruce_perens_open_source_definition/)
 * [自由和开源软件历史上的里程碑：1969～2015](/posts/opensource/milestones_in_free_and_open_source_software_history/)
 * [开源20岁了，是该庆祝一下了](/posts/opensource_culture/opensource_20_years/)
+* [开源不是什么?](/posts/opensource_culture/what-open-source-not/)
+* [从科学的开放精神来看开源](/posts/opensource_culture/open-science-means-open-source-or-least-it-should/)
+* [请保持清醒：开源是和世界同步的绝佳机会！](/posts/the_way_of_open_source/please_calm_down_only_chance_to_sync_world/)
 
 ### 企业如何选择和运营开源
 
@@ -113,9 +115,6 @@ Open Source Software，从计算机技术本身而言是蛮容易理解的，因
 凡事总需要一个合理的解释，从经济学视野来看待开源的话，究竟有没有意义？
 
 * [为什么说下一个红帽永远不会出现：开源经济学的启示](/posts/open-source-economic/why-there-will-never-be-another-redhat-the-economics-of-open-source/)
-* [得开发者得天下 ———— 开发者是如何征服世界的](/posts/paper_or_book_reading/the_new_kingmaker_review/)
-* [开源的黄金时代 —— 《开放与共享》导读与书评](/posts/paper_or_book_reading/thinking_of_open_source_innovation_economic/)
-* [数字化转型时代的主流商业模式](/posts/paper_or_book_reading/subscribed-why-subsctiption-it-your-future/)
 * [一份被忽略的开源经济学报告 —— 再读 Bruce Perens](/posts/open-source-economic/review-the-emerging-economic-paradigm-of-open-source/)
 * [红帽成功背后的秘密武器是什么？](/posts/business_model/what_is_the_secret_of_redhat_success/)
 * [开源中的行为经济学现象](/posts/paper_or_book_reading/misbehaving_after_reading/)
@@ -158,15 +157,15 @@ Open Source Software，从计算机技术本身而言是蛮容易理解的，因
 * [Google 是如何打造独一无二的开源项目部的](/posts/business_model/how_google_created_new_kind_of_ospo/)
 * [InnerSource 介绍](/posts/innersource/introduction_of_innersource/)
 * [为什么说你的员工应该去为开源做贡献](/posts/opensource/why_employees_should_be_contributing_to_open_source/)
+* [开源之道解读 Liunx 基金会开源办公室调查报告](/posts/event_analysis/2019_open_source_program_survey_result/)
 
-### 开源、非盈利软件基金会、社区运营、管理
+### 开源和非盈利软件基金会、治理
 
 随着开源的崛起和壮大，它必然走进公共的视野，它究竟是不是属于全人类的公共产品？如果是的话，它将如何持续？谁该来负责它的良性发展？搭便车者肯定是不会关心一个项目的未来的，它只关心当下是否能够带来利润，带来即时满足带来的投机快感，光是靠道德谴责一定完成不了这个战胜人性的任务，必须进入公共管理领域。
 
 * [（开源项目）治理模式](/posts/foundation_introduce/oss_governance_models/)
 * [如何管理开源项目中的即兴贡献者](/posts/community_leadership_development/managing-casual-contributors/)
 * [现代开源项目如何实现贡献者增长（译文）](/posts/community_leadership_development/growing-contributor-base-modern-open-source/)
-* [6条让社区繁荣的实用方法，进而取得项目成功](/posts/community_leadership_development/6_ways_a_community_help_project_succeed/)
 * [Apache 之道，开源可持续成功的秘籍](/posts/foundation_introduce/the_apache_way_to_sustainable_os/)
 * [区块链将会如何影响开源](/posts/opensource_technology/open-source-tokenomics/)
 * [云原生的旭日东升 —— CNCF 2018年度报告解读](/posts/foundation_introduce/review-cncf-2018-annual-report/)
@@ -179,14 +178,30 @@ Open Source Software，从计算机技术本身而言是蛮容易理解的，因
 * [Kubernetes 社区是如何运作的系列之一——哲学及治理](/posts/community_leadership_development/how_kubernetes_community_works_1/)
 * [Apache 是如何运作的？](/posts/foundation_introduce/how_apache_works/)
 * [开放的 Apache 究竟有多开放?](/posts/opensource/apache_is_open/)
-* [扩张社区贡献者的几种办法](/posts/community_leadership_development/expand_project_contributor/)
-* [如何解决创建全球社区的挑战](/posts/community_leadership_development/working_worldwide_communities/)
-* [衡量开源社区投资回报率的16个资源](/posts/opensource_culture/resources_measuring_open_source_community_roi/)
-* [社区胜过代码：如何建设一个成功的软件项目（视频推荐）](/posts/opensource_culture/communities_over_code/)
 * [Kubernetes 之所以成功的背后神秘力量](/posts/contribute_to_community/how-the_kubernetes_community_drives_the_project_success/)
-* [打造归属感的共同体](/posts/contribute_to_community/the-art-of-community-building-belonging/)
 * [开源软件项目的定性和定量分析指标 ———— CHAOSS 指标解析](/posts/contribute_to_community/chaoss_metrics_201908_learning)
-* [](/posts/contribute_to_community/why_create_community_leadership_development_group)
+* [Apache 基金会创始成员访谈录 ———— 回顾 Apache 20年历程！](/posts/foundation_introduce/asf-founders-look-back-on-20-years/)
+* [开源软件基金会的崛起与演化](http://www.opensourceway.community/posts/foundation_introduce/the-rise-and-evolution-of-open-source-foundation/)
+* [以法律的名义捍卫自由软件的权益之一 —— 软件自由保护组织（SFC）的来龙去脉](/posts/foundation_introduce/introduction_of_software_freedom_conservancy/)
+* [以法律的名义捍卫自由软件的权益之二 —— 软件自由法律中心（SFLC）的来龙去脉](/posts/foundation_introduce/introduction_of_software_freedom_law_center/)
+* [Debian 为什么没有成立非营利基金会？](/posts/foundation_introduce/how-debian-growing-without-foundation/)
+* [想发展开源？给钱就好了，其它不用管 ———— 历届 SPI 主席序言](/posts/foundation_introduce/spi-annual-report-introduce/)
+* [专注于开源数据科学软件的非营利基金会—— NumFOCUS 的来龙去脉](/posts/foundation_introduce/numfocus-introduce/)
+* [商业公司主导下的非营利开源软件基金会之 ———— Eclipse 的成长和发展](/posts/foundation_introduce/eclipse-introduce/)
+* [商业公司主导下的非营利开源软件基金会之 ———— Cloud Foundry 基金会简史](/posts/foundation_introduce/the-brief-history-of-cloud-foundry-foundation/)
+
+### 开源共同体
+
+*  [开源 Community 对我来说意味着什么（译文）](/posts/opensource_leader/what-open-source-community-means-me/)
+* [打造归属感的共同体](/posts/contribute_to_community/the-art-of-community-building-belonging/)
+* [社区胜过代码：如何建设一个成功的软件项目（视频推荐）](/posts/opensource_culture/communities_over_code/)
+* [如何解决创建全球社区的挑战](/posts/community_leadership_development/working_worldwide_communities/)
+* [扩张社区贡献者的几种办法](/posts/community_leadership_development/expand_project_contributor/)
+* [衡量开源社区投资回报率的16个资源](/posts/opensource_culture/resources_measuring_open_source_community_roi/)
+* [6条让社区繁荣的实用方法，进而取得项目成功](/posts/community_leadership_development/6_ways_a_community_help_project_succeed/)
+* [根本就没有什么所谓的‘开源社区’！！！](/posts/community_leadership_development/what-is-open-source-community/)
+* [开源共同体内的角色分析（个人与机构分别来谈论）](/posts/community_leadership_development/open_source_community_role-analysis/)
+* [开源项目共同体分析框架概述](/posts/community_leadership_development/osc-analysis-framework/)
 
 ### 开源和开放式创新
 
@@ -209,3 +224,35 @@ Open Source Software，从计算机技术本身而言是蛮容易理解的，因
 * [Linux内核开发者是如何协作的——用实际数据说话](/posts/opensource_culture/collaboration_linux_kernel/)
 * [开源软件项目的“上游优先”解惑](/posts/opensource_culture/what_is_upstream_and_its_benefits/)
 * [Linux 内核开发报告2017版](/posts/opensource_culture/2017_linux_kernel_development_report/)
+* [不一定非得同步做决策：远程团队成功的秘诀](/posts/opensource_culture/asynchronous-decision-making/)
+
+### 开源之道图书共读书评
+
+* [开源 -- 一部黑客伦理与商业资本相互妥协的融合史（《黑客》读后感）](/posts/paper_or_book_reading/hackers-book-review/)
+* [开放源代码软件的三重境界 ———— 《大教堂与集市》读后感](/posts/the_way_of_open_source/the_three_realm_of_open_source_software/)
+* [开放源代码软件的生产之道](/posts/paper_or_book_reading/the_review_of_producingoss/)
+* [1998 年的那场改变世界的 Open Source Summit ———— 十月共读预热文](http://www.opensourceway.community/posts/opensource_leader/1998-open-source-summit-trip-report/)
+* [开放源代码是如何吞噬软件的](http://www.opensourceway.community/posts/paper_or_book_reading/book_review_of_hosas/)
+* [如何开源，决定于对开源的认识 ———— 《OpenSources：来自开源革命的呼声》书评](http://www.opensourceway.community/posts/paper_or_book_reading/book_review_of_voice_from_the_osr/)
+* [近距离看开源是什么？有什么？](/posts/paper_or_book_reading/book_review_of_mitfoss/)
+* [拥抱开源，需要跨越那些鸿沟？ ————《Open Life —— 有关开源的哲学》读后感](http://www.opensourceway.community/posts/paper_or_book_reading/henrik_ingo_open_life/)
+* [什么是开源生态？———— 《硅谷生态圈》书评](/posts/paper_or_book_reading/what-is-os-ecosystem-review-rainforrest/)
+* [理解认为开源不可行的重要观点 ———— 《集体行动逻辑》](http://www.opensourceway.community/posts/paper_or_book_reading/review_the_logic_of_collective_action/)
+* [《软件悖论:商业软件的崛起与陨落》](/posts/paper_or_book_reading/the-software-paradox-book-review/)
+* [竞争中合作：开源商业化的爱与恨](/posts/business_model/coopetition_all_fair_in_love_and_open_source/)
+* [得开发者得天下 ———— 开发者是如何征服世界的](/posts/paper_or_book_reading/the_new_kingmaker_review/)
+* [开源的黄金时代 —— 《开放与共享》导读与书评](/posts/paper_or_book_reading/thinking_of_open_source_innovation_economic/)
+* [数字化转型时代的主流商业模式](/posts/paper_or_book_reading/subscribed-why-subsctiption-it-your-future/)
+
+### 开源人物
+
+* [开源天使 ———— GitHub 赞助功能的缔造者： Devon Zuegel](/posts/opensource_leader/open-source-angel-devon-zuegel/)
+* [开源英雄：Peter Fenton，开源界点石成金的风险投资者](/posts/opensource_leader/peter_fenton_has_magic_open_source_touch/)
+* [Bruce Perens，向全世界宣布“开源”的人](/posts/opensource_leader/bruce_perens_open_source_definition/)
+
+### 软件行业之外的开源故事
+
+* [软件行业之外的开源故事之一： 医疗界的一则故事](/posts/opensource_of_other_industries/the_story_of_don_berwick/)
+* [生物界的Innersource故事：生物圈二号实验【摘自《知识大融通》】](/posts/innersource/the-story-of-biosphere2/)
+* [开源哲学在开放城市中的良好应用 ———— 2020 世界阅读日读后感](/posts/paper_or_book_reading/review_the_foundation_of_open_source_city/)
+* [开源正在走出软件领域，影响其它产业————“Open”一词的释义](/posts/opensource_culture/fifty_shades_of_open/)
