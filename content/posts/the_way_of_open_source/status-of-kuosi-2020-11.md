@@ -46,31 +46,31 @@ authors:
 
 作为001号成员而获得2020年度纪念牌匾。
 
-### 10.24 
+### 10.24 COSCon'20 年度盛典
 
 ![](../images/status-of-kuosi/kuosi_shenzhen_20201024.jpg)
 
 在此年度开源盛典中，我分享了题为[通过开源共读来一场别开生面的开源教育](https://1drv.ms/p/s!Arg2k_5HJFrbgZ0iJF6k0xIH8HjPmw?e=yDfHWz) 实况。图为线下深圳的开源社的嘉宾合影。
 
-### 11.7 
+### 11.7 开源之书线下分享·北京站
 
 ![](../images/status-of-kuosi/kuosi_beijing_book_of_os_20201107.jpg)
 
 参与组织了此次线下的活动，详情请阅读[卫sir为大家解读黑客伦理与开发者崛起——开源之道图书共读线下分享活动2020-11](https://shimo.im/docs/WG6pG6GvX9J6gwXk/)。我们记录了所有的过程。
 
-### 11.8 
+### 11.8 [『开源开放·上海声音』2020开源技术开源商业学术研讨会](https://mp.weixin.qq.com/s/9wNB8xKKB8h4RX3ye-kCpw)
 
 ![](../images/status-of-kuosi/kuosi_shanghai_opensource_20201108.jpg)
 
 作为受邀嘉宾，参与由上海开源信息协会的嘉宾，分享了题为[《开源模式 — 针对开源生态错误解释的辩解》](https://1drv.ms/p/s!Arg2k_5HJFrbgacez78uD415vlsWAA?e=1TuMNa)。图为一同见证三创学院的揭牌仪式。
 
-### 11. 14 
+### 11. 14 [Apache. SkyWalking. DevCon 2020](https://alc-beijing.github.io/alc-site/post/event/what_do_we_see_at_the_apache_skywalking_2020_devcon_event/) 演讲分享
 
 ![](../images/status-of-kuosi/kuosi_apache_skywalking_devcon_20201114.jpg)
 
 以Apache Local Community Beijing 成员的身份参与了[Apache. SkyWalking. DevCon 2020](https://alc-beijing.github.io/alc-site/post/event/what_do_we_see_at_the_apache_skywalking_2020_devcon_event/)，并分享了题为：[非计算机背景的同学如何参与开源](https://1drv.ms/p/s!Arg2k_5HJFrbgaZ76OoNsU8lUJFVuw?e=BtoPhR)。	
 
-### 11.21 
+### 11.21  CCF中国软件大会——NASAC2020：第一届开源软件开发与开源数字治理研讨会
 
 ![](../images/status-of-kuosi/kuosi_chongqing_os_20201121_1.jpg)
 
@@ -80,7 +80,7 @@ authors:
 
 Panel环节时的精彩瞬间。具体发表的观点可以参考：[开源将如何发展？：第一届开源软件开发与开源数字治理研讨会Panel 探讨](https://shimo.im/docs/h3kp3KqKYHwYXhWk/)
 
-### 11.29 
+### 11.29 Apache IoTDB meetup 2020.11 
 
 ![](../images/status-of-kuosi/kuosi_apache_iotdb_meetup_20201129.jpg)
 
@@ -96,14 +96,26 @@ Panel环节时的精彩瞬间。具体发表的观点可以参考：[开源将�
 
 接下来，我还会接着布道。这意味着，我们还要停更一段时间，请您谅解。不过我可以向大家保证，忙完这段，给大家奉上一顿大餐。
 
-### 12.5 
+### 12.5 开源之商·探讨沙龙
 
 和10Hug组织了此次活动：详情规划：[ 如何做好商业化开源软件沙龙（2020.12）](https://shimo.im/docs/WP1XsfinU4c6sHKy/)
 
-### 12.6
+### 12.6 Apache Local Community Beijing Chapter 年度大趴
 
 参与 ALC Beijing 年度线下活动。
 
-### 12.12
+### 12.12 [开源之书线下分享活动 2020.12 北京站](https://shimo.im/docs/DvBqa7kkFA4Mhm0N/ )
 
 开源之书线下活动：[开源之书线下分享活动 2020.12 北京站](https://shimo.im/docs/DvBqa7kkFA4Mhm0N/ )，在本次活动中，我会分享我过去十多年的[阅读史](https://1drv.ms/p/s!Arg2k_5HJFrbgYUoWlc3_C9sV-Qh3w?e=NUQRcY)。
+
+### 12.27 开源之书线下分享活动 2020.12 上海站
+
+开源与创新的关系
+
+### 12.30 第十届中国云计算标准和应用大会：开源创新和商业化
+
+分论坛主持和出品人。
+
+## 结语
+
+根据村落效应，这么做是可以满足社交的需求，但是在如此网络丰富的时代，如此的行为略显浮夸和浪费。至于对布道是否有帮助，还要看后果。大概这就是推动的行动，至于结果，谁又知道和在乎？乐在其中，或许是个不错的慰藉。
