@@ -53,7 +53,7 @@ url: ""
 * [Docker终于找到了一条光明的商业化道路](/posts/event_analysis/docker_spin_of_moby/)
 * [开源厂商（中间服务机构）万岁！](/posts/business_model/long_live_open_source_company/)
 * [开源软件商业模式之收入来源概览](/posts/business_model/opensource_business_model_overview/)
-* [探索红帽商业模式最初的灵感来源](/posts/open_source_history_teaches_us/)
+* [探索红帽商业模式最初的灵感来源](/posts/open-source-economic/open_source_history_teaches_us/)
 * [为开源和商业正名](/posts/the_way_of_open_source/naming_opensource_and_marketing/)
 * [精心布局的开源](/posts/opensource/open_by_design/)
 * [我们无法从开源本身获利](/posts/opensource/you_cant_make_money_from_open_source/)
