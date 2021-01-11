@@ -25,7 +25,7 @@ authors:
 
 ### 书籍名称
 
-![](![img](http://cover.read.duokan.com/mfsv2/download/fdsc3/p01dlz5jYrxF/6AIzXsIujzb5m9.jpg!l)
+![img](http://cover.read.duokan.com/mfsv2/download/fdsc3/p01dlz5jYrxF/6AIzXsIujzb5m9.jpg!l)
 
 #### 作者简介
 
