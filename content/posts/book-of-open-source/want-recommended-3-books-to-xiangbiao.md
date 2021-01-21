@@ -82,7 +82,7 @@ Internet 和 www 的出现、崛起，缔造了人类的互联空间，在这个
 
 这本书或者可以解释项飙先生提出的平台的概念，计算正在变成一种公共服务，也即是说平台的成型，会在人的lifestream 中扮演一个日常的角色，浑然不觉。希望可以回答项飙先生的第三个问题，资本是一场知识的博弈，当争夺到平台之后，继续赚钱可谓是一劳永逸的事情，想要改变和切换，几乎是不可能的了，让一名现代人离开自来水和电力，将会如何活？
 
-### 三、[《The Attention Merchants：The Epic Scramble to Get Inside Our Heads》]()
+### 三、[《The Attention Merchants：The Epic Scramble to Get Inside Our Heads》](https://book.douban.com/subject/30194615/)
 
 作为《总开关》的作者，吴修铭先生可谓是信息、通信科普思考的家喻户晓的人物了，那么这么关于注意力的书，可以说是一本简易的广告编年史了。从报纸的诞生，再到电视的崛起，再到互联网的电子邮件，然后到万维网的民主化，差一点就提及近两年火爆的抖音小视频了。
 
