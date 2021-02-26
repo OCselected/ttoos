@@ -31,6 +31,7 @@ url: ""
 ## 当前所做的事情
 
 * [”开源之道共同体”](http://opensourceway.community/) 发起人及主创
+* [LF APAC 开源布道者](https://training.linuxfoundation.cn/news/161)
 * 金融行业开源技术应用社区个人成员
 * [Apache ALC Beijing Member](https://s.apache.org/alc-beijing)
 * [开源社](http://www.kaiyuanshe.cn/) 执委会成员、教育工作组
