@@ -11,4 +11,6 @@ tags:
 - 开源文化
 title: "{{ replace .TranslationBaseName "-" " " | title }}"
 url: ""
+authors:
+- 开源之道
 ---
