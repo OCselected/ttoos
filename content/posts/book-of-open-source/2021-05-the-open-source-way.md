@@ -31,6 +31,15 @@ authors:
 
 ![](https://www.theopensourceway.org/media/images/bookcover.svg)
 
+### 购买渠道
+
+本书为遵循[CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/) 许可，可以无需付费获得。
+
+* [PDF 下载](https://www.theopensourceway.org/the_open_source_way-guidebook-2.0.pdf)
+* [在线阅读](https://www.theopensourceway.org/the_open_source_way-guidebook-2.0.html)
+* [提交反馈](https://github.com/theopensourceway/guidebook/issues)
+* 网站：[![](https://www.theopensourceway.org/media/images/osw-logo-lightbg.svg)](https://www.theopensourceway.org/)
+
 #### 作者简介
 
 本书是一本集体智慧的作品，团队成员绝大多数来自RedHat 开源项目办公室（OSPO），其中大家熟悉的如去年我们共读图书[《开源是如何吞噬软件的》](/posts/paper_or_book_reading/book_review_of_hosas/)的作者：[Gordon Haff](https://www.redhat.com/en/blog/authors/gordon-haff)，当然还有我们熟悉的[Brian Proffitt](https://www.redhat.com/zh/authors/brian-proffitt)，更多团队成员，请访问该书的GitHub项目：[opensourceway/guidebook](https://github.com/theopensourceway/guidebook/graphs/contributors) ,查看更多作者。
