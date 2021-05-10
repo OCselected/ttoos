@@ -193,7 +193,7 @@ Open Source Software，从计算机技术本身而言是蛮容易理解的，因
 ### 开源共同体
 
 *  [开源 Community 对我来说意味着什么（译文）](/posts/opensource_leader/what-open-source-community-means-me/)
-* [打造归属感的共同体](/posts/contribute_to_community/the-art-of-community-building-belonging/)
+* [打造归属感的共同体](posts/community_leadership_development/the-art-of-community-building-belonging/)
 * [社区胜过代码：如何建设一个成功的软件项目（视频推荐）](/posts/opensource_culture/communities_over_code/)
 * [如何解决创建全球社区的挑战](/posts/community_leadership_development/working_worldwide_communities/)
 * [扩张社区贡献者的几种办法](/posts/community_leadership_development/expand_project_contributor/)
@@ -243,6 +243,15 @@ Open Source Software，从计算机技术本身而言是蛮容易理解的，因
 * [得开发者得天下 ———— 开发者是如何征服世界的](/posts/paper_or_book_reading/the_new_kingmaker_review/)
 * [开源的黄金时代 —— 《开放与共享》导读与书评](/posts/paper_or_book_reading/thinking_of_open_source_innovation_economic/)
 * [数字化转型时代的主流商业模式](/posts/paper_or_book_reading/subscribed-why-subsctiption-it-your-future/)
+
+#### 20201年「开源之书·共读」书籍
+
+* [「开源之书·共读」2021-1：《代码2.0:网络空间中的法律》](/posts/book-of-open-source/2021-01-code-2-laws-of-cyberspace/)
+* [想给项飙先生推荐几本开源之书：对其最近一个演讲的回应](/posts/book-of-open-source/want-recommended-3-books-to-xiangbiao/)
+* [「开源之书·共读 」2021-2：《培养实践的共同体：知识管理指南》](https://www.opensourceway.community/posts/book-of-open-source/2021-02-cultivating-communities-of-practice/)
+* [「开源之书·共读」2021-3：Linux：Under The Radar](/posts/book-of-open-source/2021-03-linux-under-the-radar/)
+* [「开源之书·共读」2021.4月共读：《面向企业的开源：开源软件许可实用指南》](/posts/book-of-open-source/2021-04-open-source-for-business/)
+* [「开源之书·共读」2021·5：开源之路2.0](/posts/book-of-open-source/2021-05-the-open-source-way/)
 
 ### 开源人物
 
