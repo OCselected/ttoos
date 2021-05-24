@@ -29,6 +29,7 @@ jobs:
         with:
           deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          external_repository: OCselected/ocselected.github.io
           publish_dir: ./public
           cname: opensourceway.community
           publish_branch: gh-pages
