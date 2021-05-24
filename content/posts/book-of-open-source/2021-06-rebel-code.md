@@ -15,7 +15,7 @@ tags:
 - 图书推荐
 - 开源之道
 - 图书共读
-title: "「开源之书·共读」2021-06: 颠覆代码：Linux和开源的革命"
+title: "「开源之书·共读」# 36: 颠覆代码：Linux和开源的革命"
 url: ""
 authors:
 - 开源之道
@@ -23,7 +23,7 @@ authors:
 
 ## 主题：文化与历史
 
-### 英文名：颠覆代码：Linux and the Open Source Revolution
+### 英文名：rebel code：Linux and the Open Source Revolution
 
 ![](../../images/rebel-code-english-book-face.jpeg)
 

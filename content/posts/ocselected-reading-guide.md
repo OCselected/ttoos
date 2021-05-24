@@ -244,7 +244,7 @@ Open Source Software，从计算机技术本身而言是蛮容易理解的，因
 * [开源的黄金时代 —— 《开放与共享》导读与书评](/posts/paper_or_book_reading/thinking_of_open_source_innovation_economic/)
 * [数字化转型时代的主流商业模式](/posts/paper_or_book_reading/subscribed-why-subsctiption-it-your-future/)
 
-#### 20201年「开源之书·共读」书籍
+#### 2021年「开源之书·共读」书籍
 
 * [「开源之书·共读」2021-1：《代码2.0:网络空间中的法律》](/posts/book-of-open-source/2021-01-code-2-laws-of-cyberspace/)
 * [想给项飙先生推荐几本开源之书：对其最近一个演讲的回应](/posts/book-of-open-source/want-recommended-3-books-to-xiangbiao/)
@@ -252,6 +252,10 @@ Open Source Software，从计算机技术本身而言是蛮容易理解的，因
 * [「开源之书·共读」2021-3：Linux：Under The Radar](/posts/book-of-open-source/2021-03-linux-under-the-radar/)
 * [「开源之书·共读」2021.4月共读：《面向企业的开源：开源软件许可实用指南》](/posts/book-of-open-source/2021-04-open-source-for-business/)
 * [「开源之书·共读」2021·5：开源之路2.0](/posts/book-of-open-source/2021-05-the-open-source-way/)
+
+####  以后使用编号 #「开源之书·共读」
+
+* [「开源之书·共读」#36：颠覆代码：Linux和开源的革命](posts/book-of-open-source/2021-06-rebel-code/)
 
 ### 开源人物
 
