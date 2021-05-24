@@ -30,7 +30,7 @@ jobs:
 #           submodules: true
       # 设置hugo环境
       - name: Setup Hugo
-        run: peaceiris/actions-hugo@v2.2.2
+        run: peaceiris/actions-hugo@v2
 #        with:
 #            hugo-version: '0.52'
 #            extended: true
@@ -41,7 +41,7 @@ jobs:
 
       # 部署
       - name: deploy
-        run: peaceiris/actions-gh-pages@v2.5.1
+        run: peaceiris/actions-gh-pages@v3
         env:
           ACTIONS_DEPLOY_KEY: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           EXTERNAL_REPOSITORY: OCselected/ocselected.github.io
