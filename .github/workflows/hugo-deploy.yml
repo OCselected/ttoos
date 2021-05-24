@@ -26,8 +26,8 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - name: checkout
         uses: actions/checkout@master
-        with:
-           submodules: true
+#        with:
+#           submodules: true
       # 设置hugo环境
       - name: Setup Hugo
         run: peaceiris/actions-hugo@v2.2.2
