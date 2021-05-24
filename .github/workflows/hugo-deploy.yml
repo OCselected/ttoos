@@ -6,7 +6,8 @@ name: hugo deploy
 on:
   # Triggers the workflow on push or pull request events but only for the master branch
   push:
-    branches: [ master ]
+    branches:
+    - master
 #  pull_request:
 #    branches: [ master ]
 
@@ -24,8 +25,9 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - name: checkout
-      - uses: actions/checkout@master
-
+        uses: actions/checkout@master
+        with:
+           submodules: true
       # 设置hugo环境
       - name: Setup Hugo
         run: peaceiris/actions-hugo@v2.2.2
