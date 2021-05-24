@@ -1,4 +1,6 @@
-[![Build Status](https://travis-ci.org/OCselected/ttoos.svg?branch=master)](https://travis-ci.org/OCselected/ttoos)
+```markdown
+![网站部署状态](https://github.com/OCSelected/ttoos/actions/workflows/hugo-deploy.yml/badge.svg)
+```
 
 ![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=102)
 
