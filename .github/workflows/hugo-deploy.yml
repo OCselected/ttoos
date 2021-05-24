@@ -31,9 +31,9 @@ jobs:
       # 设置hugo环境
       - name: Setup Hugo
         run: peaceiris/actions-hugo@v2.2.2
-        with:
-            hugo-version: '0.59.1'
-            extended: true
+#        with:
+#            hugo-version: '0.52'
+#            extended: true
 
       # 编译markdown
       - name: Build
