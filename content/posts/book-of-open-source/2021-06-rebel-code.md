@@ -29,8 +29,6 @@ authors:
 
 ### 中文名：天才莱纳斯：Linux传奇 （俗不可耐）
 
-### 
-
 ![](../../images/rebel-code-book-face.jpeg)
 
 #### 作者简介
