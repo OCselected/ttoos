@@ -256,6 +256,7 @@ Open Source Software，从计算机技术本身而言是蛮容易理解的，因
 ####  以后使用编号 #「开源之书·共读」
 
 * [「开源之书·共读」#36：颠覆代码：Linux和开源的革命](posts/book-of-open-source/2021-06-rebel-code/)
+* [「开源之书·共读」# 37: 代码自由](https://www.opensourceway.community/posts/book-of-open-source/37th-coding-freedom/)
 
 ### 开源人物
 
