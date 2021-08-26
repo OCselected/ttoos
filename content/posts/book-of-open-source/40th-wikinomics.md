@@ -25,7 +25,7 @@ authors:
 
 ### 书籍名称
 
-![](./images/wikinomics.jpg)
+![](./images/book-reading/wikinomics.jpg)
 
 #### 作者简介:
 
