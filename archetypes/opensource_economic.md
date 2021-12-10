@@ -15,3 +15,5 @@ tags:
 title: "开源经济"
 url: ""
 ---
+authors:
+- 开源之道
