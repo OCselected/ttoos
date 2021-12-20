@@ -12,7 +12,7 @@ keywords:
 - Cloud Native
 - Kubernetes
 tags:
-- 开源技术
+- 开源之技
 - 开源之道
 title: ""
 url: ""
