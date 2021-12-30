@@ -30,11 +30,13 @@ url: ""
 
 ## 当前所做的事情
 
-* [”开源之道共同体”](http://opensourceway.community/) 发起人及主创
+* 作者
+* [「开源之道」](http://opensourceway.community/) 发起人及主创
 * [LF APAC 开源布道者](https://training.linuxfoundation.cn/news/161)
 * 金融行业开源技术应用社区个人成员
 * [Apache ALC Beijing Member](https://s.apache.org/alc-beijing)
-* [开源社](http://www.kaiyuanshe.cn/) 执委会成员、教育工作组
+* CCF 开源技术丛书编委会委员
+* 前 [开源社](http://www.kaiyuanshe.cn/) 执委会成员、教育工作组
 * [“开源之道图书共读”](http://www.ocselected.org/posts/paper_or_book_reading/establish_reading_os_community/) 活动发起者
 * “开源之道企业培训” 主讲师
 * [开源之道talking](http://opensourceway.community/posts/opensource_talking/2020-done-and-plan-index/) 、[ALC Beijing Podcast](https://alc-beijing.github.io/alc-site/)播客主播
@@ -82,13 +84,23 @@ url: ""
 
 偶遇Linux，巧逢开源文化，自学围绕Linux的各项技术，并贪婪的阅读一切关于开源的思想和文化内容。
 
-
 ## 出版书籍
+
+
+
+```
+<p>
+<img align="right" width="120" height="70" src="images/the-fascinating-os-face.jpeg">
+</p>
+```
+
+
+
+《开源之迷》，ISBN：978-7-115-57849-5， 人民邮电出版社
 
 <p>
 <img align="right" width="120" height="70" src="https://img30.360buyimg.com/vc/jfs/t1999/169/2115722088/125386/ae3b1534/56f25716N3acbed13.jpg">
 </p>
-
 
 
 
