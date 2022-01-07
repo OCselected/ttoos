@@ -88,19 +88,33 @@ url: ""
 
 
 
-```
 <p>
-<img align="right" width="120" height="70" src="images/the-fascinating-os-face.jpeg">
+<img align="right" width="220" height="270" src="https://opensourceway.community/images/the-fascinating-os-face.jpeg">
 </p>
-```
 
 
 
 《开源之迷》，ISBN：978-7-115-57849-5， 人民邮电出版社
 
+
+
+
+
+
+
+
+
+
+
+
+
 <p>
 <img align="right" width="120" height="70" src="https://img30.360buyimg.com/vc/jfs/t1999/169/2115722088/125386/ae3b1534/56f25716N3acbed13.jpg">
 </p>
+
+
+
+
 
 
 
