@@ -94,7 +94,7 @@ url: ""
 
 
 
-《开源之迷》，ISBN：978-7-115-57849-5， 人民邮电出版社
+[《开源之迷》](https://book.douban.com/subject/35716759/)，ISBN：978-7-115-57849-5， 人民邮电出版社
 
 
 
@@ -106,7 +106,7 @@ url: ""
 
 
 
-
+[《云落谁家？OpenStack基于场景的架构设计实践》](http://item.jd.com/11887046.html) ISBN: 9787121276491 出版社：电子工业出版社
 
 <p>
 <img align="right" width="120" height="70" src="https://img30.360buyimg.com/vc/jfs/t1999/169/2115722088/125386/ae3b1534/56f25716N3acbed13.jpg">
@@ -119,7 +119,7 @@ url: ""
 
 
 
-[《云落谁家？OpenStack基于场景的架构设计实践》](http://item.jd.com/11887046.html) ISBN: 9787121276491 出版社：电子工业出版社
+
 
 
 
