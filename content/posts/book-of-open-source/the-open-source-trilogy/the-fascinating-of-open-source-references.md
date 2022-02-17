@@ -67,3 +67,33 @@ authors:
 3. 《The Open Organization: Igniting Passion and Performance》，[Jim Whitehurst](https://book.douban.com/search/Jim Whitehurst)，Harvard Business Review Press，2015-6-2，ISBN: 9781625275271
 4. https://opensource.com/open-organization/resources/field-guide， 最后访问时间：2021.4.9
 
+## 第一章 开源世界的入口：如何通过软件认识开源？
+
+### 无处不在的开放源代码软件
+
+0. https://en.wikipedia.org/wiki/Douglas_Engelbart, 最后访问时间：2021.11.7
+1. 头号玩家，豆瓣链接地址：https://movie.douban.com/subject/4920389/，最后访问时间2021.1.1
+2. 《大转换：从爱迪生到Google》，[尼古拉斯·卡尔](https://book.douban.com/search/尼古拉斯·卡尔)，译者: [闫鲜宁](https://book.douban.com/search/闫鲜宁) / [张付国](https://book.douban.com/search/张付国)，中信出版社，2016-2
+3. https://new.qq.com/omn/20200504/20200504A0LMBC00.html, 最后访问时间2020.11.18
+4. https://en.wikipedia.org/wiki/Android_(operating_system), 最后访问时间2020.11.18
+5. https://opensource.apple.com/, 最后访问时间2020.11.18
+6. https://en.wikipedia.org/wiki/Microsoft_Edge,最后访问时间2020.11.19
+7. https://cloudblogs.microsoft.com/windowsserver/2015/05/06/microsoft-loves-linux/, 最后访问时间：2021.3.1
+8. https://docs.microsoft.com/en-us/windows/wsl/install-win10，最后访问时间2021.3.1
+9. https://en.wikipedia.org/wiki/Darwin_(operating_system)，最后访问时间：2021.6.8
+10. https://en.wikipedia.org/wiki/Linux, 最后访问时间2020.11.19
+11. https://a16z.com/2011/08/20/why-software-is-eating-the-world/ ，最后访问时间2020.11.19
+12. http://opensourceway.community/posts/paper_or_book_reading/the_review_of_producingoss/  ，最后访问时间2020.11.20
+
+### 人为规定的软件属性：关于许可证的常识
+
+1. 《疾速特攻 John Wick: Chapter 2 (2017)》，IMDb链接: [tt4425200](https://www.imdb.com/title/tt4425200)，上映日期: 2017-02-10(美国)，豆瓣链接：[疾速特攻 John Wick: Chapter 2‎ (2017)](https://movie.douban.com/subject/26333560/)
+2. 《美国人：民主的历程》，[[美\]丹尼尔·J·布尔斯廷](https://book.douban.com/search/丹尼尔·J·布尔斯廷)，译者: [谢延光](https://book.douban.com/search/谢延光)，上海译文出版社，2009.09
+3. https://www.gnu.org/licenses/, 最后访问时间：2021.1.12
+4. http://en.wikipedia.org/wiki/BSD_licenses， 最后访问时间：2021.1.12
+5. https://mit-license.org/， 最后访问时间：2021.1.12
+6. https://www.mozilla.org/en-US/MPL/2.0/，最后访问时间：2021.1.12
+7. https://www.apache.org/licenses/LICENSE-2.0.html， 最后访问时间：2021.1.12
+8. https://www.gnu.org/licenses/lgpl-3.0.en.html， 最后访问时间：2021.1.12
+9. https://opensource.org/licenses/，最后访问时间：2021.1.12
+
