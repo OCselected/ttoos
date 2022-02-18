@@ -131,3 +131,40 @@ authors:
 3. https://linuxfoundation.org/ ， 最后访问时间：2021.5.25
 4. https://en.wikipedia.org/wiki/Wikipedia:About ， 最后访问时间：2021.3.30
 
+## 第四章 开源：在所有人看得见的地方工作
+
+1. 《自由企业：释放员工,收获卓越》， [[美国\] 布莱恩·M.卡内（Brian M.Carney）](https://book.douban.com/search/布莱恩·M.卡内) / [[法国\] 艾萨克·盖茨（Isaac Getz）](https://book.douban.com/search/艾萨克·盖茨)，中译出版社，2017-11-1
+2. 柏拉图的洞穴理论：成为觉醒者 https://zhuanlan.zhihu.com/p/64412454 ，最后访问时间：2021.1.21
+3. 《开源的成功之路》，史蒂文·韦伯，外语教研出版社， 2007-6
+4. 《巨兽：工厂与现代世界的形成》，[[美\]乔舒亚·B.弗里曼(Joshua B. Freeman)](https://book.douban.com/search/乔舒亚·B.弗里曼)，社会科学文献出版社，2020-5-1，ISBN: 9787520154406
+5. 《持续交付2.0:业务引领的DevOps精要》，[乔梁](https://book.douban.com/search/乔梁)，人民邮电出版社，2018-12-25
+6. 《大教堂与集市》，[[美\] Eric S·Raymond](https://book.douban.com/author/802088/)，译者: [卫剑钒](https://book.douban.com/search/卫剑钒)，机械工业出版社，2014-5，ISBN: 9787111452478
+7. https://groups.google.com/forum/#!msg/comp.os.minix/dlNtH7RRrGA/SwRavCzVE7gJ ,最后访问时间：2020.11.20
+8. https://queue.acm.org/detail.cfm?id=2898444 ,最后访问时间：2020.11.20
+9. https://www.python.org/community/lists/ ,最后访问时间：2020.11.20
+10. https://gohugo.io/ ，最后访问时间：2021.3.30
+11. https://chaoss.community/ , 最后访问时间：2020.11.20
+12. https://apache.org/foundation/governance/meetings#boardvoting ， 最后访问时间：2021.5.25
+13. https://lkml.org/ ，最后访问时间：2021.5.25
+
+## 第五章 开源世界的日常
+
+### 神秘的工作状态：编码及其它
+
+1. http://blog.xiqiao.info/category/programmers ， 最后访问时间：2021.2.8
+2. 《巨兽：工厂与现代世界的形成》，[[美\]乔舒亚·B.弗里曼(Joshua B. Freeman)](https://book.douban.com/search/乔舒亚·B.弗里曼)，社会科学文献出版社，2020-5-1，ISBN: 9787520154406
+3. https://news.microsoft.com/facts-about-microsoft/， 最后访问时间2021.2.8
+4. https://www.slideshare.net/yaryalitsa/genealogy-of-the-pencil-based-on-i-pencil-my-family-tree-as-told-to-leonard-e-read-the-pencil-being-mongol-482-by-eberhard-faber-pencil-company ，最后访问时间：2021.2.8
+
+### 无限的代码修改：版本控制系统
+
+1. http://www.nongnu.org/cvs/ ， 最后访问时间：2021.2.7
+2. http://subversion.apache.org/ , 最后访问时间：2021.2.7
+3. https://git-scm.com/ ，最后访问时间：2021.2.7
+4. https://www.mercurial-scm.org/ ， 最后访问时间：2021.2.7
+5. https://git-scm.com/docs/git-format-patch ，最后访问时间：2021.4.2
+6. https://git-scm.com/docs/git-am ，最后访问时间：2021.4.2
+7. https://mirrors.edge.kernel.org/pub/software/scm/git/docs/user-manual.html ，最后访问时间：2021.4.2
+8. https://docs.github.com/cn/github/collaborating-with-issues-and-pull-requests/about-pull-requests ，最后访问时间：2021.4.2
+9. https://www.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github-3/ ， 最后访问时间：2021.4.2
+
