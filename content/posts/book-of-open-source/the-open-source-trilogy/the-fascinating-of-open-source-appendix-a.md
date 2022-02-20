@@ -65,7 +65,7 @@ Sonatype 每年会发布一份软件供应链的报告,截止到2020年，已经
 
 我们可以以一张Java组件的历年下载量图来展示这一强大的趋势：
 
-![](./images/software-supply-chain-java-download-2020.png)
+![](posts/book-of-open-source/the-open-source-trilogy/images/software-supply-chain-java-download-2020.png)
 
 （图片来源：sonatype 2020 年软件供应链调查）
 
@@ -89,19 +89,19 @@ Sonatype 每年会发布一份软件供应链的报告,截止到2020年，已经
 
 而且，GitHub 保持乐观，认为将会在2025年使用GitHub的用户将达到一亿：
 
-![](./images/github-in-2025.png)
+![](posts/book-of-open-source/the-open-source-trilogy/images/github-in-2025.png)
 
 ## 开源协作
 
 根据GitHub的统计，在过去的一年里，总的提交数达到了19亿次。这个并行的力量，真正的体现出来了。更加重要的是这是来自全球各地不同的并行的力量：
 
-![](./images/github-global-worktime.png)
+![](posts/book-of-open-source/the-open-source-trilogy/images/github-global-worktime.png)
 
 ## 群体更加的多样
 
 不只是开发者青睐于GitHub，其他职业群体也在逐年增加：
 
-![](./images/github-octoverse-community-changing.png)
+![](posts/book-of-open-source/the-open-source-trilogy/images/github-octoverse-community-changing.png)
 
 ## 参考
 
@@ -120,11 +120,11 @@ Sonatype 每年会发布一份软件供应链的报告,截止到2020年，已经
 
 ### 工资最高的技术排名开源占尽优势
 
-![](./images/top-paying-tech-stackoverflow.png)
+![](posts/book-of-open-source/the-open-source-trilogy/images/top-paying-tech-stackoverflow.png)
 
 ### 最受欢迎的技术均为开源
 
-![](./images/most-loved-stackoverflow.png)
+![](posts/book-of-open-source/the-open-source-trilogy/images/most-loved-stackoverflow.png)
 
 # 开源社年度报告
 
@@ -173,15 +173,15 @@ Apache 的项目是现代用户的重要部分，涉列计算机最终用户的�
 * 在过去的一年里，有 2,892 位 Committers  总共提交了174,889次， 有60,132,710 行代码的变化
 * ASF 的贡献者和committer 是非常活跃的(如下图所示)
 
-![](./images/asf-fy2020-active-contributor.png)
+![](posts/book-of-open-source/the-open-source-trilogy/images/asf-fy2020-active-contributor.png)
 
 一个特别关注的点，就是过去十年之间，来自世界各地的贡献的变化，北美不再是唯一的，欧洲和亚太地区越来越多的贡献量：
 
-![](./images/asf-fy2020-regional-changing.png)
+![](posts/book-of-open-source/the-open-source-trilogy/images/asf-fy2020-regional-changing.png)
 
 最后关于整个Apache 软件基金会的项目优势，也就是技术栈的完整性关系，是非常值得关注的现象：
 
-![](./images/asf-fy2020-project-relationship.png)
+![](posts/book-of-open-source/the-open-source-trilogy/images/asf-fy2020-project-relationship.png)
 
 （图 ）
 
@@ -241,7 +241,7 @@ Linux 基金会的发展是令人叹为观止的，使用业界的一句话准�
 
 不愧是最流行的技术：
 
-![](./images/kubecon-europe-2020.png)
+![](posts/book-of-open-source/the-open-source-trilogy/images/kubecon-europe-2020.png)
 
 ### CNCF 2020 年度报告：继续增长
 
@@ -254,7 +254,7 @@ Linux 基金会的发展是令人叹为观止的，使用业界的一句话准�
 
 更加引人注目的是CNCF 的成员增长，自2016年创建以来，一直都是呈上升趋势：
 
-![](./images/cncf-2020-membership-growth.png)
+![](posts/book-of-open-source/the-open-source-trilogy/images/cncf-2020-membership-growth.png)
 
 作为世界第二大经济体的中国，在CNCF 的表现可谓是强劲，基金会的报告特别指出了这点：
 
@@ -277,7 +277,7 @@ Linux 基金会的发展是令人叹为观止的，使用业界的一句话准�
 
 2020 是开源价值正在被资本市场所青睐，COSS[1]做了如下一个统计：
 
-![](./images/coss-funding-2020.jpeg)
+![](posts/book-of-open-source/the-open-source-trilogy/images/coss-funding-2020.jpeg)
 
 整体而言，基于开源项目的商业公司获得的投资还是非常可观的，尤其值得注意的是两家来自中国的公司：PingCAP 和 Zilliz ，分别以D轮2.7亿美元[2]和B轮4300万美元[3]惹人注目。
 
