@@ -153,7 +153,7 @@ authors:
 
 1. http://blog.xiqiao.info/category/programmers ， 最后访问时间：2021.2.8
 2. 《巨兽：工厂与现代世界的形成》，[[美\]乔舒亚·B.弗里曼(Joshua B. Freeman)](https://book.douban.com/search/乔舒亚·B.弗里曼)，社会科学文献出版社，2020-5-1，ISBN: 9787520154406
-3. https://news.microsoft.com/facts-about-microsoft/， 最后访问时间2021.2.8
+3. https://news.microsoft.com/facts-about-microsoft/ ， 最后访问时间2021.2.8
 4. https://www.slideshare.net/yaryalitsa/genealogy-of-the-pencil-based-on-i-pencil-my-family-tree-as-told-to-leonard-e-read-the-pencil-being-mongol-482-by-eberhard-faber-pencil-company ，最后访问时间：2021.2.8
 
 ### 无限的代码修改：版本控制系统
@@ -168,3 +168,94 @@ authors:
 8. https://docs.github.com/cn/github/collaborating-with-issues-and-pull-requests/about-pull-requests ，最后访问时间：2021.4.2
 9. https://www.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github-3/ ， 最后访问时间：2021.4.2
 
+### 形成闭环：问题跟踪系统
+
+1. http://en.wikipedia.org/wiki/The_Art_of_Computer_Programming ，最后访问时间：2021.2.3
+2. https://docs.fedoraproject.org/en-US/quick-docs/howto-file-a-bug/ ，最后访问时间：2021.2.3
+3. https://github.blog/2016-02-17-issue-and-pull-request-templates/ ，最后访问时间：2021.2.3
+4. https://roundup.sourceforge.io/ ，最后访问时间：2021.2.17
+5. https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/showing-an-overview-of-your-activity-on-your-profile ，最后访问时间：2021.3.30
+
+### 邮件列表：沟通交流的重地
+
+1. 《注意力经济：如何把大众的注意力变成生意》，[美]吴修铭，译者：李梁，中信前沿出版社，2018.4
+2. http://finance.people.com.cn/n/2012/0917/c348950-19030711.html ， 邮政历史回眸，最后访问时间：2021.2.3
+3. https://en.wikipedia.org/wiki/History_of_email ,  最后访问时间：2021.2.3
+4. https://www.git-scm.com/book/en/v2/Appendix-C:-Git-Commands-Email#:~:text=The%20git%20send-email%20command%20is%20used%20to%20send,an%20example%20message%20body%20to%20email%20to%20someone. ，最后访问时间：2021.2.3
+5. https://www.python.org/community/lists/ ， 最后访问时间：2021.2.3
+6. http://opensourceway.community/posts/opensource/apache_is_open/ , 最后访问时间：2021.2.3
+7. 《匠人》，[[美\] 理查德·桑内特](https://book.douban.com/author/338765/)，上海译文出版社，2015-7
+8. https://lore.kernel.org/linux-nfs/YH+zwQgBBGUJdiVK@unreal/ ， 最后访问时间：2021.4.26
+
+### 即时聊天：同时在线的沟通
+
+1. http://en.wikipedia.org/wiki/Internet_Relay_Chat ， 最后访问时间：2021.2.7
+2. https://slack.com/ ，最后访问时间：2021.2.7
+3. https://www.apache.org/foundation/bylaws.html#3.2 ， 最后访问时间：2021.2.7
+4. https://communityovercode.com/2019/03/how-apache-runs-member-meetings/ ，最后访问时间：2021.2.7
+5. 《社群的进化》， [[英\] 罗宾·邓巴](https://book.douban.com/search/罗宾·邓巴)，四川人民出版社，2019-6-1，ISBN: 9787220113482
+
+### 展示和宣传：网站及其它
+
+1. 《理解媒介：论人的延伸》, [[加拿大\]马歇尔 麦克卢汉](https://book.douban.com/search/马歇尔 麦克卢汉),译林出版社,2019-4,ISBN: 9785447717773
+2. https://www.linux.com/ ，最后访问时间：2021.2.8
+3. https://opensource.com/ ，最后访问时间：2021.2.8
+4. https://lwn.net/  ,最后访问时间：2021.2.8
+5. https://www.zdnet.com/topic/open-source/ ，最后访问时间：2021.2.8
+6. https://www.reddit.com/ ，最后访问时间：2021.2.8
+7. https://news.ycombinator.com/news ，最后访问时间：2021.2.8
+8. https://www.oreilly.com/conferences/oscon.html ， 最后访问时间：2021.2.8
+9. https://en.wikipedia.org/wiki/O%27Reilly_Open_Source_Award ，最后访问时间：2021.2.8
+10. https://www.youtube.com/watch?v=bDxMJQLXmBE&gl=SG ，最后访问时间：2021.2.8
+11. 《若为自由故：自由软件之父理查德·斯托曼传》， [[美\] Sam Williams](https://book.douban.com/search/Sam Williams)，译者: [邓楠](https://book.douban.com/search/邓楠) / [李凡希](https://book.douban.com/search/李凡希)，人民邮电出版社，2015-4
+12. https://blog.mozilla.org/press/2004/12/mozilla-foundation-places-two-page-advocacy-ad-in-the-new-york-times/ ， 最后访问时间：2021.2.3
+13. http://en.wikipedia.org/wiki/Heartbleed ， 最后访问时间：2021.2.8
+14. https://www.openssl.org/ ，最后访问时间：2021.2.8
+15. https://www.oschina.net/news/52007/t1-donate-100w-to-openssl ，最后访问时间：2021.2.8
+
+### 形成网络：社交媒体放大效应
+
+1. [《注意力经济: 如何把大众的注意力变成生意》](https://book.douban.com/subject/30194615/)， [吴修铭](https://book.douban.com/search/吴修铭)，中信出版集团股份有限公司，2018-4-1，ISBN: 9787508681948
+2. 《广场与高塔》，[尼尔·弗格森 Niall Ferguson](https://book.douban.com/search/尼尔·弗格森 Niall Ferguson)，中信出版社，2020-1
+3. 《The Inevitable: Understanding the 12 Technological Forces That Will Shape Our Future》，[[美国\] 凯文·凯利](https://book.douban.com/author/264339/)，译言·东西文库／电子工业出版社，2016-1，ISBN: 9787121274534
+
+### “村落效应"：重要而必须的线下见面会
+
+1. 《社区运营的艺术（第2版）》，[【英】Jono Bacon](https://book.douban.com/search/Jono Bacon)，电子工业出版社，2017-2
+2. https://opensourceway.community/posts/community_leadership_development/the-art-of-community-building-belonging/ ，最后访问时间：2021.3.25
+3. https://en.wikipedia.org/wiki/History_of_the_Internet ， 最后访问时间：2021.1.25
+4. 《美国大城市的死与生》， [[美\] 简·雅各布斯](https://book.douban.com/author/931382/)，译林出版社，2006-8，ISBN: 9787544701211
+5. https://www.meetup.com/topics/kubernetes/ ，最后访问时间：2021.4.26 
+6. http://ansible.meetup.com/ ,最后访问时间：2021.4.26
+7. https://cwiki.apache.org/confluence/display/COMDEV/ALC+Beijing , 最后访问时间：2021.2.6
+8. https://cwiki.apache.org/confluence/display/COMDEV/Apache+Local+Community+-+ALC  ，最后访问时间：2021.2.6
+9. https://calendar.google.com/calendar/embed?src=calendar%40kubernetes.io , 最后访问时间：2021.1.25
+
+### 教育：书籍、纪录片与培训
+
+1. 《像人类学家一样思考》，[[美\] 约翰·奥莫亨德罗 (John Omohundro)](https://book.douban.com/search/约翰·奥莫亨德罗)，北京大学出版社，2017-5-1，ISBN: 9787301282915
+2. 《大教堂与集市》，[[美\] Eric S·Raymond](https://book.douban.com/author/802088/)，译者: [卫剑钒](https://book.douban.com/search/卫剑钒)，机械工业出版社，2014-5，ISBN: 9787111452478
+3. 《UNIX编程艺术》， [[美\] Eric S·Raymond](https://book.douban.com/author/802088/)， 电子工业出版社，2006-2，ISBN: 9787121021169
+4. 《[黑客：计算机革命的英雄(二十五周年新版)](https://book.douban.com/subject/6860890/)》， Steven Levy ，机械工业出版社华章公司，2011-10-31
+5. 《[制造开源软件:如何成功生产自由软件项目](https://producingoss.com/zh)》,基于CreativeCommons Attribution-ShareAlike (3.0) 许可协议，Karl Fogel 著
+6. 《OpenSources：来自开源革命的呼声》，[Chris DiBona](https://book.douban.com/search/Chris DiBona) / [Sam Ockman](https://book.douban.com/search/Sam Ockman) / [Mark Stone](https://book.douban.com/search/Mark Stone)，中国电力出版社，1999-12-01，ISBN: 9787508301983
+7. 《[Perspectives on Free and Open Source Software (The MIT Press)](https://www.amazon.com/Perspectives-Free-Source-Software-Press/dp/0262562278)》，The MIT Press，January 26, 2007，ISBN:978-0262562270
+8. http://en.wikipedia.org/wiki/Revolution_OS ， 最后访问时间：2021.2.10
+9. https://blogs.apache.org/press/entry/trillions-and-trillions-served-the  ，最后访问时间：2021.2.10
+10. https://vuejs.org/ ,最后访问时间：2021.2.10
+11. https://www.youtube.com/watch?v=BE77h7dmoQU ， Kubernetes: The Documentary [PART 1]，最后访问时间：2022.2.4
+12. https://www.youtube.com/watch?v=318elIq37PE ，  Kubernetes: The Documentary [PART 2]，最后访问时间：2022.2.4
+13. https://www.redhat.com/en/services/training-and-certification ,最后访问时间：2021.2.10
+14. https://training.linuxfoundation.org/ ，最后访问时间：2021.2.10
+
+### 日常行为规范和守则
+
+1. https://www.python.org/psf/conduct/ ， 最后访问时间：2021.3.1
+2. https://www.contributor-covenant.org/zh-cn/version/1/4/code-of-conduct/code_of_conduct.md ， 最后访问时间：2021.3.1
+3. 《代码2.0:网络空间中的法律》， [[美\] 劳伦斯·莱斯格(Lawrence Lessig)](https://book.douban.com/search/劳伦斯·莱斯格)，清华大学出版社，2018-10-01，ISBN: 9787302506874
+4. https://lessig.org/product/codev2/ ，最后访问时间：2021.3.1
+5. https://www.wired.com/2012/06/torvalds-nvidia-linux/ , 最后访问时间：2021.3.1
+6. https://arstechnica.com/information-technology/2013/02/linus-torvalds-i-will-not-change-linux-to-deep-throat-microsoft/  ，最后访问时间：2021.3.1
+7. https://www.wired.com/story/linuxs-creator-is-sorry-but-will-he-change/ ，最后访问时间：2021.3.1
+8. 《匠人》， [[美\] 理查德·桑内特](https://book.douban.com/author/338765/)，上海译文出版社，译者: [李继宏](https://book.douban.com/author/4528877/)，2015-7，ISBN: 9787532769964
+9. https://ethicalsource.dev/resources/ ， 最后访问时间：2021.4.26
