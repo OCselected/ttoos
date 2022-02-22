@@ -259,3 +259,102 @@ authors:
 7. https://www.wired.com/story/linuxs-creator-is-sorry-but-will-he-change/ ，最后访问时间：2021.3.1
 8. 《匠人》， [[美\] 理查德·桑内特](https://book.douban.com/author/338765/)，上海译文出版社，译者: [李继宏](https://book.douban.com/author/4528877/)，2015-7，ISBN: 9787532769964
 9. https://ethicalsource.dev/resources/ ， 最后访问时间：2021.4.26
+
+## 第六章 开源世界的城市与乡镇
+
+### 聚集：开源世界的城市与重镇
+
+1. 《Matrix》,导演: [莉莉·沃卓斯基](https://movie.douban.com/celebrity/1013899/) / [拉娜·沃卓斯基](https://movie.douban.com/celebrity/1161012/),上映日期: 1999-03-31(美国),豆瓣链接：https://movie.douban.com/subject/1291843/
+2. 《魔兽世界》：https://wow.blizzard.cn/
+3. http://opensourceway.community/posts/opensource_culture/the_open_source_definition_history/，最后访问时间：2021.1.18
+4. https://opensource.com/article/18/2/coining-term-open-source-software， 最后访问时间：2021.1.18
+5. https://www.oreilly.com/pub/pr/796, 最后访问时间：2021.1.18
+6. https://www.ted.com/talks/michael_nielsen_open_science_now，最后访问时间：2021.2.6
+7. http://en.wikipedia.org/wiki/Michael_Nielsen ，最后访问时间：2021.2.6
+8. https://en.wikipedia.org/wiki/History_of_Wikipedia， 最后访问时间：2021.2.18
+
+### 汇聚：代码托管平台
+
+1. https://github.com/，最后访问时间：2021.1.21
+2. https://help.github.com/en/articles/github-and-trade-controls，最后访问时间：2021.2.4
+3. https://opensource.guide，最后访问时间：2021.2.4
+4. http://git-scm.com/doc, 最后访问时间：2021.1.21
+5. https://tom.preston-werner.com/2010/08/23/readme-driven-development.html, 最后访问时间：2021.1.21
+6. https://github.com/topics/good-first-issue， 最后访问时间：2021.1.21
+7. https://sourceforge.net, 最后访问时间：2021.1.21
+8. https://en.wikipedia.org/wiki/SourceForge , 最后访问时间：2021.1.21
+9. https://about.gitlab.com ，最后访问时间：2021.1.21
+10. https://savannah.gnu.org/，最后访问时间：2021.1.22
+11. https://pagure.io/ , 最后访问时间：2021.1.22
+
+### 虚拟的社会组织：开源共同体
+
+1. https://en.wikipedia.org/wiki/Peer_production, 最后访问时间：2021.1.23
+2. 《乡土中国》，[费孝通](https://book.douban.com/author/4522533/)，北京大学出版社，2012-10
+3. 《美国人与中国人》， [[美\] 许烺光](https://book.douban.com/search/许烺光)，后浪丨浙江人民出版社，2017-11
+4. https://www.debian.org/index.zh-cn.html， 最后访问时间：2021.1.24
+5. 《人类成功统治地球的秘密》，[[美\]约瑟夫·亨里奇](https://book.douban.com/search/约瑟夫·亨里奇)，中信出版集团，2018-9
+6. https://opensourceway.community/posts/community_leadership_development/open_source_community_role-analysis/，最后访问时间：2021.3.25
+
+### 非营利基金会：共同体的代言人
+
+1. 《编织互联网》，[［英］蒂姆・伯纳斯―李](https://book.douban.com/search/［英］蒂姆・伯纳斯―李) / [蒂姆·伯纳斯-李](https://book.douban.com/search/蒂姆·伯纳斯-李) / [马克·菲谢蒂](https://book.douban.com/search/马克·菲谢蒂)，译者: [张宇宏/萧风](https://book.douban.com/search/张宇宏 萧风)，上海译文出版社，1999-12
+2. 《Linux 红帽旋风》，[(美)罗伯特・杨](https://book.douban.com/search/罗伯特・杨) / [罗姆](https://book.douban.com/search/罗姆)，中国青年出版社， 2000-11，ISBN: 9787500640301
+3. 《Perspectives on Free and Open Source Software》，编辑： [Joseph Feller](https://mitpress.mit.edu/contributors/joseph-feller), [Brian Fitzgerald](https://mitpress.mit.edu/contributors/brian-fitzgerald), [Scott A. Hissam](https://mitpress.mit.edu/contributors/scott-hissam) 和 [Karim R. Lakhani](https://mitpress.mit.edu/contributors/karim-r-lakhani)，麻省理工学院出版社，2007-01-26，其中的第20论文：《Nonprofit Foundations and Their Role in Community-Firm Software Collaboration》，作者：Siobhán O’Mahony
+4. https://www.linuxfoundation.org/wp-content/uploads/software-defined-vertical-industries-092520.pdf， 最后访问时间：2021.1.28
+5. https://en.wikipedia.org/wiki/List_of_free_and_open-source_software_organizations，最后访问时间：2021.4.26
+6. https://www.techrepublic.com/article/open-source-failure-is-its-greatest-success/，最后访问时间：2021.4.26
+7. https://www.openlife.cc/blogs/2010/november/how-grow-your-open-source-project-10x-and-revenues-5x，最后访问时间：2021.4.26
+8. http://incubator.apache.org/，最后访问时间：2021.4.26
+9. https://www.cncf.io/sandbox-projects/，最后访问时间：2021.4.26
+10. 《信任：社会美德与创造经济繁荣》，[[美\] 弗朗西斯·福山](https://book.douban.com/author/197422)，广西师范大学出版社，2016-3-1
+11. http://en.wikipedia.org/wiki/501(c)_organization， 最后访问时间：2021.1.28
+12. https://www.irs.gov/charities-non-profits/other-non-profits/business-leagues, 最后访问时间：2021.1.28
+13. https://alc-beijing.github.io/alc-site/post/apache-way/incubator-cook-book/，最后访问时间：2021.3.9 
+14. https://github.com/kubernetes/community/blob/master/incubator.md，最后访问时间：2021.3.9
+15. 《数据资本时代》，[Viktor Mayer-Schnberger](https://book.douban.com/search/Viktor Mayer-Schnberger)，中信出版集团股份有限公司，2018-11-1，ISBN: 9787508694313
+16. https://opensourceway.community/posts/foundation_introduce/the-rise-and-evolution-of-open-source-foundation/， 最后访问时间：2021.4.26
+
+### 新教伦理：拥抱开源的商业公司
+
+1. https://en.wikipedia.org/wiki/Open_Letter_to_Hobbyists， 最后访问时间：2021.1.28
+2. 《新教伦理与资本主义精神》，[[德\]马克斯·韦伯](https://book.douban.com/search/马克斯·韦伯)，译者: [康乐](https://book.douban.com/search/康乐) / [简惠美](https://book.douban.com/search/简惠美)，上海三联书店， 2019-4
+3. 《黑客伦理与信息时代精神》，[派卡・海曼](https://book.douban.com/search/派卡・海曼)，中信出版社，2002-9-1
+4. 《让子弹飞》，导演: [姜文](https://movie.douban.com/celebrity/1021999/)，上映日期: 2010-12-16(中国大陆)，IMDb链接: [tt1533117](https://www.imdb.com/title/tt1533117)
+5. https://www.openshift.com/blog/why-chefs-collaborate-in-the-kitchen, 最后访问时间：2021.1.28
+6. 《The Open Organization：Igniting Passion and Performance》，[Jim Whitehurst](https://book.douban.com/search/Jim Whitehurst)，Harvard Business Review Press，2015-6-2
+7. 开源需要什么样的创新？ 作者在2020年底的一次演讲
+8. 《代码2.0:网络空间中的法律》，[[美\] 劳伦斯·莱斯格(Lawrence Lessig)](https://book.douban.com/search/劳伦斯·莱斯格)，清华大学出版社，2019-12
+9. https://www.linuxfoundation.org/wp-content/uploads/software-defined-vertical-industries-092520.pdf，最后访问时间：2021.2.17
+10. https://opensource.com/article/20/6/sell-open-source-software， 最后访问时间：2021.3.25
+
+### 机构：被其它世界承认或外交的部门
+
+1. https://www.ted.com/talks/linus_torvalds_the_mind_behind_linux，最后访问时间：2021.1.28
+2. https://photos.apachecon.com/?/category/2 ,最后访问时间：2021.1.28
+3. https://apache.org/foundation/members.html，最后访问时间：2021.1.28
+4. http://opensourceway.community/posts/business_model/whats_open_source_program_office/，最后访问时间：2021.2.4
+5. https://todogroup.org/members/， 最后访问时间：2021.2.4
+6. https://opensource-dev.microsoft.com/ospo/ ,最后访问时间：2021.2.4
+7. https://en.wikipedia.org/wiki/Stormy_Peters 
+8. https://www.redhat.com/en/blog/what-does-open-source-program-office-do，最后访问时间：2021.4.6 
+9. https://www.redhat.com/en/about/open-source/participation-guidelines，最后访问时间：2021.4.6
+10. https://landscape.todogroup.org/，最后访问时间：2021.4.6
+11. 《生老病死的生意：文化与中国人寿保险市场的形成》，[陈纯菁](https://book.douban.com/search/陈纯菁)，华东师范大学出版社，2020-10，ISBN: 9787576008463
+12. http://copu.org.cn/， 最后访问时间：2021.2.10
+13. http://www.coscl.org.cn/ ,最后访问时间：2021.2.10
+14. https://opensourcecloud.cn/， 最后访问时间：2021.2.10
+15. 《论美国的民主》， [[法\] 托克维尔](https://book.douban.com/author/4517398)，商务印书馆，1989-1-1，ISBN: 9787100011105
+
+### 嘉年华：那些开源界的大型会议与活动
+
+1. 《医生的修炼：在不完美中探索行医的真相》， [[美\] 阿图·葛文德](https://book.douban.com/author/434266/)，译者: [欧冶](https://book.douban.com/search/欧冶)，浙江人民出版社， 2015-8
+2. https://en.wikipedia.org/wiki/West_Coast_Computer_Faire， 最后访问时间：2021.1.24
+3. https://www.redhat.com/en/summit/2019，最后访问时间：2021.1.24
+4. https://www.flickr.com/photos/linuxfoundation/41225365930/in/album-72157670557376358/， 最后访问时间：2021.2.10
+5. 《人类简史：从动物到上帝》， [[以色列\] 尤瓦尔·赫拉利](https://book.douban.com/author/1168901)，中信出版社，2014-11，ISBN: 9787508647357
+6. 《声誉争夺战：如何在失控的时代重掌声誉主动权》，[〔英〕大卫·沃勒〔英〕鲁伯特·扬格](https://book.douban.com/search/大卫·沃勒鲁伯特·扬格)，中信出版社，2018-12-20，ISBN: 9787508696058
+7. https://google.github.io/gsocguides/student/history-of-gsoc ，最后访问时间：2021.3.16
+8. https://summerofcode.withgoogle.com/ ，最后访问时间：2021.3.16
+9. https://mp.weixin.qq.com/s/GdATbtl8HjguyJMBqdAQkw ,最后访问时间：2021.3.16
+
