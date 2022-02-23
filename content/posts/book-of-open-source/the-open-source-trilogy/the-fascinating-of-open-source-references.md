@@ -358,3 +358,227 @@ authors:
 8. https://summerofcode.withgoogle.com/ ，最后访问时间：2021.3.16
 9. https://mp.weixin.qq.com/s/GdATbtl8HjguyJMBqdAQkw ,最后访问时间：2021.3.16
 
+## 第七章 开源世界的人物
+
+### 不起眼的推动者：大众驱动的开源
+
+1. 《社会学的想象力》，[[美\] C.赖特·米尔斯](https://book.douban.com/search/C.赖特·米尔斯)，译者: [陈强](https://book.douban.com/search/陈强) / [张永强](https://book.douban.com/search/张永强)，生活·读书·新知三联书店，2016-7
+2. http://www.github.com/ ，最后访问：2020.12.25
+3. 《人类的价值：合作如何让我们成为强大的群体》，[[英\] 罗伯特·博伊德](https://book.douban.com/search/罗伯特·博伊德)，译者: [袁东华](https://book.douban.com/search/袁东华)，浙江教育出版社，2019-12
+4. https://www.djangoproject.com/, 最后访问：2020.12.25
+
+### 科学家：奠定开放的基石
+
+1. https://royalsociety.org/about-us/history/#timeline ,最后访问时间：2021.4.22
+2. 《创新者：一群技术狂人和鬼才程序员如何改变世界》， [[美\] 沃尔特·艾萨克森](https://book.douban.com/search/沃尔特·艾萨克森)，中信出版社，2017-4
+3. 《黑客：计算机革命的英雄》，[Steven Levy](https://book.douban.com/author/646670/)，[赵俐](https://book.douban.com/search/赵俐) / [刁海鹏](https://book.douban.com/search/刁海鹏) / [田俊静](https://book.douban.com/search/田俊静)，机械工业出版社华章公司，2011-10-31
+4. https://www.businessinsider.com/bill-gates-loves-donald-knuth-the-art-of-computer-programming-2016-4 ，最后访问时间：2020.12.17 
+5. https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming , 最后访问时间：2020.12.17 
+6. https://en.wikipedia.org/wiki/TeX  , 最后访问时间：2020.12.17 
+7. 《算法：C语言实现》，Robed Sedgewick，机械工业出版社，2009-10
+8. https://web.archive.org/web/20150924040943/http://www.groklaw.net/images/G308Knuth.pdf ,最后访问时间2021.1.4
+9. 《创新者：一群技术狂人和鬼才程序员如何改变世界》，[[美\] 沃尔特·艾萨克森](https://book.douban.com/search/沃尔特·艾萨克森)，译者: [关嘉伟](https://book.douban.com/search/关嘉伟) / [牛小婧](https://book.douban.com/search/牛小婧)，中信出版社，2017-4
+10. 《编织万维网》，[［英］蒂姆・伯纳斯―李](https://book.douban.com/search/［英］蒂姆・伯纳斯―李) / [马克·菲谢蒂](https://book.douban.com/search/马克·菲谢蒂)，上海译文出版社， 1999-12
+11. https://en.wikipedia.org/wiki/Contract_for_the_Web ， 最后访问时间：2020.12.24
+12. 《开源软件文集：开源革命之声》， [Chris DiBona](https://book.douban.com/search/Chris DiBona) / [Sam Ockman](https://book.douban.com/search/Sam Ockman) / [Mark Stone](https://book.douban.com/search/Mark Stone)，译者: [洪峰](https://book.douban.com/author/4502943/)，中国电力出版社，1999-12-01
+13. 《科学社会学》，作者: [（美）R.K.默顿](https://book.douban.com/search/R.K.默顿)，商务印书馆，2003-11
+14. https://www.rfc-editor.org/info/rfc882 ，最后访问时间：2021.1.7
+15. 《大教堂与集市》， [[美\] Eric S·Raymond](https://book.douban.com/author/802088/)，译者: [卫剑钒](https://book.douban.com/search/卫剑钒)，机械工业出版社， 2014-5
+16. 《创新者：一群技术狂人和鬼才程序员如何改变世界》， [[美\] 沃尔特·艾萨克森](https://book.douban.com/search/沃尔特·艾萨克森)，中信出版社，2017-4
+17. https://tools.ietf.org/pdf/rfc1  ，最后访问时间：2021.1.29
+18. https://en.wikipedia.org/wiki/End-to-end_principle ，最后访问时间：2021.4.22
+19. https://tools.ietf.org/pdf/rfc2555.pdf , 最后访问时间：2021.4.22
+20. https://tools.ietf.org/html/rfc675 ， 最后访问时间：2021.1.29
+21. https://tools.ietf.org/html/rfc791 ， 最后访问时间：2021.1.29
+22. https://en.wikipedia.org/wiki/Open_standard ，最后访问时间：2021.4.22
+
+### 程序员：选择将代码开源的匠人
+
+1. 《匠人》，[[美\] 理查德·桑内特](https://book.douban.com/author/338765/)，上海译文出版社，2015-7
+2. 《理性乐观派：一部人类经济进步史》，[[英国\] 马特·里德利](https://book.douban.com/author/151145/)， 机械工业出版社， 2015-7-1
+3. 《摩托车修理店的未来工作哲学:让工匠精神回归》,[美] 马修·克劳福德,浙江人民出版社,2014-5
+4. https://www.ted.com/talks/linus_torvalds_the_mind_behind_linux ，最后访问时间：2021.5.25
+5. 《[黑客：计算机革命的英雄(二十五周年新版)](https://book.douban.com/subject/6860890/)》， Steven Levy ，机械工业出版社华章公司，2011-10-31
+6. 《若为自由故：自由软件之父理查德·斯托曼传》，[[美\] Sam Williams](https://book.douban.com/search/Sam Williams)，译者: [邓楠](https://book.douban.com/search/邓楠) / [李凡希](https://book.douban.com/search/李凡希)，人民邮电出版社，2015-4
+7. 为什么开源错失了自由软件的重点, https://www.gnu.org/philosophy/open-source-misses-the-point.zh-cn.html 
+8. 《黑客：计算机革命的英雄》，[Steven Levy](https://book.douban.com/author/646670/)，机械工业出版社华章公司，2011-10-31
+9. https://opensourceway.community/posts/paper_or_book_reading/hackers-book-review/ ，最后访问时间：2021.4.27
+10. 《创新者：一群技术狂人和鬼才程序员如何改变世界》， [[美\] 沃尔特·艾萨克森](https://book.douban.com/search/沃尔特·艾萨克森)，中信出版社，2017-4
+11. https://baike.baidu.com/item/%E8%87%AA%E7%94%B1%E8%BD%AF%E4%BB%B6%E6%97%A5
+12. https://opensource.org/osd
+13. 《Open Sources: Voices from the Open Source Revolution》， [Chris DiBona](https://book.douban.com/search/Chris DiBona) / [Sam Ockman](https://book.douban.com/search/Sam Ockman) / [Mark Stone](https://book.douban.com/search/Mark Stone)，1999-12-01，
+14. 《只是为了好玩：Linux之父林纳斯自传》，[Linus Torvalds](https://book.douban.com/search/Linus Torvalds) / [David Diamond](https://book.douban.com/search/David Diamond)，译者: [陈少芸](https://book.douban.com/search/陈少芸)，人民邮电出版社，2014-7
+15. https://www.kernel.org/
+16. https://git-scm.com/ 
+17. 《Linux 红帽旋风》，[(美)罗伯特・杨](https://book.douban.com/search/罗伯特・杨) / [罗姆](https://book.douban.com/search/罗姆)，中国青年出版社，2000-11
+18. https://www.youtube.com/watch?v=4XpnKHJAok8 ， 最后访问时间：2020.12.4
+19. https://www.wired.com/2012/06/nvidia-linus-torvald/ ，最后访问时间：2021.4.27
+20. https://www.ted.com/talks/linus_torvalds_the_mind_behind_linux/details?referrer=playlist-open_source_open_world , 最后访问时间：2020.12.4
+21. https://lore.kernel.org/lkml/CA+55aFy+Hv9O5citAawS+mVZO+ywCKd9NQ2wxUmGsz9ZJzqgJQ@mail.gmail.com/ ，最后访问时间：2020.12.4
+22. https://en.wikipedia.org/wiki/Revolution_OS , 最后访问时间，2020.12.4
+23. 《The art of community：Building the New Age of Participation》，[Jono Bacon](https://book.douban.com/search/Jono Bacon)，O'Reilly Media，2009-8-27
+24. 《开源的成功之路》，[史蒂文·韦伯](https://book.douban.com/search/史蒂文)，外语教研，2007-6 
+25. 《黑客伦理与信息时代的精神》，[派卡・海曼](https://book.douban.com/search/派卡・海曼)，中信出版社，2002-9-1，ISBN: 9787800734915
+26. 2019年 Linux 基金会在北京的路演
+27. https://en.wikipedia.org/wiki/Linus_Torvalds#Personal_life ，最后访问时间：2021.4.23
+28. https://blog.101.camp/dm/190914-teestory/ ，最后访问时间：2021.4.22
+29. http://python-history.blogspot.com/2009/01/personal-history-part-1-cwi.html ，最后访问时间：2021.1.15
+30. http://opensourceway.community/posts/opensource_leader/1998-open-source-summit-trip-report/ ，最后访问时间：2021.1.17
+31. 《The Success of Open Source》，[Steven Weber](https://book.douban.com/search/Steven Weber)，Harvard University Press，2004-04-30
+32. https://en.wikipedia.org/wiki/Benevolent_dictator_for_life ，最后访问时间：2021.1.17
+33. https://www.python.org/doc/essays/everybody/ ，最后访问时间：2021.1.15
+34. 《Rebel Code：Linux and the Open Source Revolution》，[Glyn Moody](https://book.douban.com/search/Glyn Moody)，Perseus Books Group，2002-07-15
+35. https://groups.google.com/g/mod.sources/c/xSQM63e39YY?pli=1 ，最后访问时间：2021.5.29
+36. https://web.archive.org/web/20180228231349/http://blog.builtinperl.com/post/the-man-behind-the-perl---things-you-might-not-know-about-larry-wall ，最后访问时间：2021.1.15
+37. https://www.linuxjournal.com/article/3394 ， 最后访问时间：2021.1.15
+38. https://groups.google.com/group/comp.lang.perl/msg/0754ced5084b5ced ，最后访问时间：2021.5.29
+39. https://en.wikipedia.org/wiki/International_Obfuscated_C_Code_Contest ，最后访问时间：2021.5.29
+40. https://en.wikipedia.org/wiki/Larry_Wall ， 最后访问时间：2021.1.15
+41. https://ffmpeg.org/ ， 最后访问时间：2020.12.24
+42. https://news.ycombinator.com/item?id=790316 ， https://github.com/FFmpeg/web/blob/master/src/shame ，最后访问时间：2021.4.23
+43. https://bellard.org/ ， 最后访问时间：2020.12.24
+44. https://www.zhihu.com/question/28388113 ， 最后访问时间：2020.12.24
+45. https://www.amarisoft.com/about-us/ ,最后访问时间：2020.12.24
+46. https://en.wikipedia.org/wiki/Bill_Joy ， 最后访问时间：2021.1.5
+47. https://stackoverflow.com/questions/11828270/how-do-i-exit-the-vim-editor ，最后访问时间：2021.1.5
+48. https://blog.csdn.net/csdnnews/article/details/104604346 ，最后访问时间：2021.1.5
+49. https://www.vim.org/ ， 最后访问时间：2021.1.11
+50. https://web.archive.org/web/20140603174753/http://www.theregister.co.uk/2003/09/11/bill_joys_greatest_gift/ ，  最后访问时间：2021.1.11
+51. https://www.maixj.net/ict/bill-joy-22385 ， 最后访问时间：2021.1.11
+52. https://en.wikipedia.org/wiki/Doug_Cutting ，最后访问时间：2021.1.15
+53. https://www.nytimes.com/2009/03/17/technology/business-computing/17cloud.html ，最后访问时间：2021.1.15
+54. https://www.computerweekly.com/news/450420002/Doug-Cutting-father-of-Hadoop-talks-about-big-data-tech-evolution ，最后访问时间：2021.1.15
+55. https://pdos.csail.mit.edu/6.824/papers/mapreduce.pdf , 最后访问时间：2021.1.15
+56. https://pdos.csail.mit.edu/6.824/papers/gfs.pdf ，最后访问时间：2021.1.15
+57. http://www.cs.cornell.edu/courses/cs6464/2009sp/papers/bigtable.pdf ,最后访问时间：2021.1.15
+58. https://en.wikipedia.org/wiki/Apache_Hadoop , 最后访问时间：2021.1.15
+59. https://opensourceway.community/posts/foundation_introduce/the_apache_way_to_sustainable_os/ ,最后访问时间：2021.6.30
+60. https://jupyter.org/ ， 最后访问时间：2021.3.16
+61. https://notebooks.azure.com/
+62. https://www.techrepublic.com/article/jupyter-has-revolutionized-data-science-and-it-started-with-a-chance-meeting-between-two-students/ ，最后访问时间：2021.3.16
+63. http://ipython.org/citing.html , 最后访问时间：2020.12.25 
+64. http://fperez.org/papers/ipython07_pe-gr_cise.pdf 
+65. https://gist.github.com/fperez/157969 ，最后访问时间：2021.3.16
+66. http://opensourceway.community/posts/foundation_introduce/numfocus-introduce/  ，最后访问时间：2020.12.25 
+67. https://opensourceway.community/posts/foundation_introduce/numfocus-introduce/ ，最后访问时间：2021.3.16
+68. https://github.com/jupyter/jupyter_core/blob/master/COPYING.md ， 最后访问时间：2021.3.16
+69. https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance/ ， GRIT：The Power of Passion And Perseverance @TED ， 最后访问时间：2021.3.11
+70. https://ceph.io/foundation/ ，最后访问时间：2021.3.11
+71. CRUSH 算法论文：http://www.ssrc.ucsc.edu/Papers/weil-sc06.pdf ，最后访问时间：2021.3.16 
+72. https://en.wikipedia.org/wiki/Sage_Weil ， 最后访问时间：2021.3.11
+73. https://www.ted.com/talks/linus_torvalds_the_mind_behind_linux ，The Mind behind Linux @TED，最后访问时间：2021.3.11
+74. https://cross.ucsc.edu/about/index.html ，最后访问时间：2021.3.11 
+
+### 律师：开源知识产权的捍卫者
+
+1. 《Open (Source) for Business：A Practical Guide to Open Source Software Licensing》，[Heather Meeker](https://book.douban.com/search/Heather Meeker)，Independently published，2020-3-26
+2. 《若为自由故：自由软件之父理查德·斯托曼传》，[[美\] Sam Williams](https://book.douban.com/search/Sam Williams)，译者: [邓楠](https://book.douban.com/search/邓楠) / [李凡希](https://book.douban.com/search/李凡希)，人民邮电出版社，2015-4
+3. 电影 《Matrix》豆瓣介绍页面：https://movie.douban.com/subject/1291843/  ，最后访问时间：2020.11.19
+4. https://en.wikipedia.org/wiki/Google_LLC_v._Oracle_America,_Inc.  ，最后访问时间：2021.4.28
+5. https://heathermeeker.com/about-me/ ，最后访问时间：2020.12.4
+6. https://www.omm.com/professionals/heather-j-meeker/ ,最后访问时间：2020.12.4 
+7. https://sfconservancy.org/about/board/  ，最后访问时间：2021.4.29
+8. http://softwarefreedom.org/about/team/ ， 最后访问时间：2021.4.29
+9. https://blog.didispace.com/java-google-vs-oracle/ ，最后访问时间：2021.7.5
+10. https://en.wikipedia.org/wiki/Eben_Moglen , 最后访问：2021.1.4
+11. http://emoglen.law.columbia.edu/ ， 最后访问：2021.1.4
+12. 为什么我要撰写PGP：https://www.philzimmermann.com/EN/essays/WhyIWrotePGP.html ， 最后访问：2021.1.4
+13. https://en.wikipedia.org/wiki/Pretty_Good_Privacy  ，最后访问：2021.1.4
+14. https://www.gnu.org/philosophy/enforcing-gpl.html ， 最后访问：2021.1.4
+15. https://www.theguardian.com/technology/2006/mar/30/guardianweeklytechnologysection.law ，最后访问：2021.1.12
+16. https://www.theguardian.com/technology/2006/mar/30/guardianweeklytechnologysection.law ， 最后访问：2021.1.12
+17. 《技术简史：从海盗船到黑色直升机》， [德伯拉·L·斯帕 (Debora L. Spar)](https://book.douban.com/search/德伯拉·L·斯帕)，译者: [倪正东](https://book.douban.com/search/倪正东)， 中信出版社，2017-4-2
+18. http://opensourceway.community/posts/foundation_introduce/introduction_of_software_freedom_conservancy/ ，最后访问时间：2021.1.12
+
+### 布道师： 不遗余力地推广开源地信徒
+
+1. 《蓝图》， [[希腊\] 尼古拉斯·克里斯塔基斯](https://book.douban.com/search/尼古拉斯·克里斯塔基斯)，四川人民出版社，2020-5
+2. 《公众及其问题》，[约翰·杜威](https://book.douban.com/search/约翰·杜威)，新华出版社，2018-1-1
+3. 《技术的本质：技术是什么，它是如何进化的》，[布莱恩•阿瑟（Brian Arthur）](https://book.douban.com/search/布莱恩•阿瑟)，浙江人民出版社，2014-4-1
+4. https://en.wikipedia.org/wiki/Eric_S._Raymond,,最后访问时间，2020.12.3
+5. 《Unix编程艺术》，[[美\] Eric S·Raymond](https://book.douban.com/author/802088/),电子工业出版社,2011-1
+6. 《大教堂与集市》，[[美\] Eric S·Raymond](https://book.douban.com/author/802088/)，译者: [卫剑钒](https://book.douban.com/search/卫剑钒)，机械工业出版社，2014-5
+7. http://www.catb.org/~esr/faqs/smart-questions.html ,最后访问时间，2020.12.2
+8. http://www.catb.org/~esr/jargon/ ,最后访问时间，2020.12.2
+9. https://en.wikipedia.org/wiki/Revolution_OS , 最后访问时间，2020.12.3
+10. 《开源的成功之路》，[史蒂文·韦伯](https://book.douban.com/search/史蒂文)，外语教研，2007-6
+11. http://innersourcecommons.org/ ,最后访问时间：2020.12.4
+12. https://eventyay.com/e/3dbaaa50/speakers , 最后访问时间：2020.12.4
+13. 《WTF?What's the Future and Why It's Up to Us》，[Tim O'Reilly](https://book.douban.com/search/Tim O'Reilly)，Random House Business，2018-4-5
+14. https://en.wikipedia.org/wiki/Bruce_Perens ，最后访问时间：2021.4.29
+15. https://perens.com/about-bruce-perens/ ，最后访问时间：2021.4.29
+16. https://opensourceway.community/posts/opensource_culture/the_open_source_definition_history ，最后访问时间：2021.4.29
+17. https://opensource.org/ , 最后访问时间：2021.4.29
+
+### 学者：开源现象背后机理的探索者
+
+1. 开源之问： http://opensourceway.community/posts/askos/why_we_need_ask/ 
+2. 《软件工程通史》，[卡珀斯·琼斯 (Capers Jones)](https://book.douban.com/search/卡珀斯·琼斯)，清华大学出版社，2017-7-1
+3. http://sei.pku.edu.cn/~zhmh/ ，最后访问时间：2020.12.17 
+4. http://www.mockus.us/papers/willingness.pdf , 最后访问时间：2021.1.17 
+5. http://www.mockus.us/oss/ ，最后访问时间：2021.1.20
+6. http://digitalarchaeology.info/ ，最后访问时间：2021.1.20
+7. https://bitbucket.org/swsc/overview/src/master/ ，最后访问时间：2021.1.20
+8. https://www.researchgate.net/profile/Siobhan-Omahony ，最后访问时间：2021.1.20
+9. https://www.researchgate.net/publication/234021795_The_Emergence_of_Governance_in_an_Open_Source_Community ， 最后访问时间：2021.2.20
+10. http://ccs.mit.edu/fow/OMahony.pdf ，最后访问时间：2021.2.20
+11. 《开放与共享：开源创新的经济学思考》，王宇 著， 南京大学出版社，2010-01
+12. https://evhippel.mit.edu/ , 最后访问时间：2021.1.15
+13. http://www.joelwest.org/ ，最后访问时间：2021.2.21
+14. https://www.hbs.edu/faculty/Pages/profile.aspx?facId=566431  ,最后访问时间：2021.2.20
+15. https://smi.ethz.ch/group-people/vonKrogh.html ，最后访问时间：2021.1.21
+16. 《大众创新》，[Eric von Hippel](https://book.douban.com/search/Eric von Hippel)， 中信出版集团，2017-1-1
+17. 《民主化创新》，[埃里克·冯·希普尔](https://book.douban.com/search/埃里克·冯·希普尔)，知识产权出版社，2007-1
+18. http://www.joelwest.org/Research/OpenSource.html ，最后访问时间：2021.2.21
+19. Learning by Contributing: Gaining Competitive Advantage Through Contribution to Crowdsourced Public Goods，https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3091831 , 最后访问时间：2021.1.15
+20. https://www.linuxfoundation.org/wp-content/uploads/2020FOSSContributorSurveyReport_121020.pdf ， 最后访问时间：2021.2.20
+21. https://www.coreinfrastructure.org/programs/census-program-ii/ ，最后访问时间：2021.2.20
+
+### 商人：可持续发展的创业者、风险投资家
+
+1. https://pingcap.com/blog-cn/series-d-financing/ , 最后访问时间：2020.12.15
+2. https://36kr.com/p/964817541848841 , 最后访问时间，2020.12.15
+3. http://opensourceway.community/posts/open-source-economic/open_source_history_teaches_us/ ,
+4. https://www.cnbc.com/2018/11/01/before-sale-to-ibm-for-billions-red-hat-started-in-cofounders-closet.html ，最后访问时间：2020.12.10
+5. https://en.wikipedia.org/wiki/Bob_Young_(businessman) ， 最后访问时间：2020.12.10 
+6. 《开源的成功之路》，史蒂文·韦伯，外语教研出版社，2007-6
+7. 《Free for all：How LINUX and the Free Software Movement Undercut the High-Tech Titans》， [Peter Wayner](https://book.douban.com/search/Peter Wayner)，HarperCollins，2001-3-1
+8. http://newton.typepad.com/content/2007/03/yesterday_i_was.html ，最后访问时间：2021.4.29
+9. https://venturebeat.com/wp-content/uploads/2006/09/peterfenton.pdf , 最后访问时间：2021.4.29
+10. https://www.cnet.com/news/investor-reveals-secret-to-1-6-billion-in-open-source-success/ , 最后访问时间：2021.4.29
+11. https://en.wikipedia.org/wiki/Peter_Fenton_(venture_capitalist）, 最后访问时间：2021.4.29
+12. http://ecorner.stanford.edu/videos/1284/The-Dynamics-of-Open-Source-Software , 最后访问时间：2021.4.29
+13. http://ecorner.stanford.edu/videos/1285/The-Relationship-Between-Venture-Capital-and-Open-Source , 最后访问时间：2021.4.29
+14. http://www.nytimes.com/2005/04/27/technology/open-wallets-for-opensource-software.html , 最后访问时间：2021.4.29
+15. https://oss.capital/  ,最后访问时间：2021.4.29
+16. https://www.linkedin.com/in/josephjacks/  ,最后访问时间：2021.4.29
+
+### 保持中立：赢得信任的社会工作者
+
+1. 语出唐代诗人秦韬玉的作品《贫女》
+2. https://opensource.org/licenses ，最后访问时间：2020.12.14
+3. https://www.linkedin.com/in/brianbehlendorf 
+4. https://linuxfoundation.org/ ，最后访问时间：2021.5.8 
+5. https://www.youtube.com/watch?v=7XTHdcmjenI ,What the Tech Industry Has Learned from Linus Torvalds: Jim Zemlin ,最后访问时间：2020.12.14
+6. https://web.archive.org/web/20070202162101/http://www.linux-foundation.org/wordpress/?p=287  ,最后访问时间：2020.12.15
+7. https://www.linuxfoundation.org/blog/2020/08/open-source-collaboration-is-a-global-endeavor/  ,最后访问时间：2020.12.15
+8. http://linuxfoundation.org/2020-annual-report ，最后访问时间：2020.12.15
+9. https://www.linuxfoundation.org/publications/2020/07/understanding-open-source-technology-us-export-controls/ ，最后访问时间：2020.12.15
+10. https://www.linux-magazine.com/Issues/2017/196/Interview-Meet-Jim-Zemlin ，最后访问时间：2021.5.8
+
+### 付费用户：洞悉开源的形成心理表征者
+
+1. 《动机心理学》，[美\]爱德华·伯克利（Edward Burkley）［美］梅利莎·伯克利，人民邮电出版社，2020-3
+2. http://opensourceway.community/posts/foundation_introduce/how-debian-growing-without-foundation/
+3. https://daniel.haxx.se/about.html , cUrl 作者 
+4. 《基因之外：文化如何改变人类演化》，[[美\]彼得·里克森](https://book.douban.com/search/彼得·里克森) / [[美\]罗伯特·博伊德](https://book.douban.com/search/罗伯特·博伊德)，浙江大学出版社，2017-6
+5. 《刻意练习：如何从新手到大师》，[[美\] 安德斯·艾利克森（Anders Ericsson）](https://book.douban.com/search/安德斯·艾利克森) / [罗伯特·普尔（Robert Pool）](https://book.douban.com/search/罗伯特·普尔), 机械工业出版社，2016-11-6
+6. https://zhuanlan.zhihu.com/p/47415968，最后访问时间：2021.5.7
+
+### 搭便车者：目光短浅的“受害者”
+
+1. http://www.fsf.org/  , 最后访问时间：2020.12.14 
+2. https://blog.centos.org/2020/12/future-is-centos-stream/ , 最后访问时间：2020.12.14 
+3. 《代码经济：从远古食谱、城市到区块链、人工智能》， [[美\]菲利普·奥尔斯瓦尔德（Philip Auerswald）](https://book.douban.com/search/菲利普·奥尔斯瓦尔德) ，上海社会科学院出版社，2019-3
+4. 雷神3：诸神黄昏 Thor: Ragnarok (2017)，豆瓣链接：https://movie.douban.com/subject/25821634/ ，最后访问时间：2021.4.29
+
