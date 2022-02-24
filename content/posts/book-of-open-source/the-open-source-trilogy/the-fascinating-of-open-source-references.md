@@ -638,3 +638,74 @@ authors:
 11. https://aiven.io/press/aiven-raises-usd100m-series-c-to-expand-global-open-source-innovation 
 12. 《Linux 红帽旋风》， [(美)罗伯特・杨](https://book.douban.com/search/罗伯特・杨) / [罗姆](https://book.douban.com/search/罗姆)，中国青年出版社，2000-11，ISBN: 9787500640301
 13. https://mp.weixin.qq.com/s/IAxFi_jr_l6P3bLhXZryZw ，最后访问时间：2021.5.8
+
+## 第九章 开源之迷：让人欲罢不能的优势
+
+https://marvel.fandom.com/wiki/Milano，最后访问时间：2021.1.29 
+
+### 保持开放！
+
+1. 《角斗士 Gladiator (2000)》，导演: [雷德利·斯科特](https://movie.douban.com/celebrity/1054416/)，上映日期: 2000-05-05(美国)，IMDb链接: [tt0172495](https://www.imdb.com/title/tt0172495)
+2. 《声誉争夺战》，[〔英〕大卫·沃勒〔英〕鲁伯特·扬格](https://book.douban.com/search/大卫·沃勒鲁伯特·扬格)，中信出版社，2018-12-20，ISBN: 9787508696058
+3. https://www.theopensourceway.org/the_open_source_way-guidebook-2.0.html，最后访问时间：2021.5.7
+4. https://baike.so.com/doc/5512116-5747878.html，最后访问时间：2021.5.7
+5. https://baike.so.com/doc/5355670-5591141.html， 最后访问时间：2021.2.17
+6. 《像社会学家一样思考》，[[美\]理查德·谢弗](https://book.douban.com/search/理查德·谢弗) / [[美\]罗伯特·费尔德曼](https://book.douban.com/search/罗伯特·费尔德曼)，北京大学出版社，2018-5-22，ISBN: 9787301261729
+7. 《匠人》，[[美\] 理查德·桑内特](https://book.douban.com/author/338765/)，上海译文出版社，2015-7
+8. http://goodfirstissue.com/ ，最后访问时间：2021.5.7
+9. http://opensourceway.community/posts/opensource_talking/2020-06-30-peer-review-in-open-source/，最后访问时间：2021.2.1
+10. 《社会分工论》， [[法\] 埃米尔·涂尔干](https://book.douban.com/search/埃米尔·涂尔干)，生活·读书·新知三联书店，2017-1
+11. https://fedoraproject.org/wiki/Join/zh-cn，最后访问：2021.2.1
+12. https://en.wikipedia.org/wiki/Benevolent_dictator_for_life， 最后访问时间：2021.2.1
+13. https://www.thoughtworks.com/insights/articles/demystifying-conways-law，最后访问时间：2021.4.29
+14. https://opensourceway.community/posts/foundation_introduce/oss_governance_models/， 最后访问时间：2021.4.29
+15. https://www.ted.com/talks/linus_torvalds_the_mind_behind_linux ，最后访问时间：2021.2.17
+16. https://www.gnu.org/software/coreutils/， 最后访问时间：2021.2.18
+17. 《Unix传奇：历史与回忆》，[[美\]布莱恩·W.克尼汉（Brian W. Kernighan）](https://book.douban.com/search/布莱恩·W.克尼汉)，人民邮电出版社，2021-3-1，ISBN: 9787115557179
+18. http://blog.petersobot.com/pipes-and-filters ,最后访问时间：2021.2.18
+19. https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action，最后访问时间：2021.2.18
+20. http://en.wikipedia.org/wiki/Mas_Oyama， 最后访问时间：2021.2.19
+21. 《禅与摩托车维修艺术》， [(美)罗伯特·M.波西格](https://book.douban.com/search/罗伯特·M.波西格)，重庆出版社，2011-9，ISBN: 9787229040369
+22. 《民主与教育》，[[美\]约翰·杜威（John Dewey）](https://book.douban.com/search/约翰·杜威)，华东师范大学出版社，2019-5，ISBN: 9787567588738
+23. 《文化：关于社会、艺术、权利和技术的新科学》，[(美)约翰·布罗克曼（John Brockman)](https://book.douban.com/search/约翰·布罗克曼)，湛庐文化/浙江人民出版社，2019-3，ISBN: 9787213091087
+24. 《人类认知的文化起源》，[迈克尔·托马塞洛](https://book.douban.com/search/迈克尔·托马塞洛)，中国社会科学出版社，2011-11，ISBN: 9787516102879
+25. 《人类成功统治地球的秘密：文化如何驱动人类进化》，[[美\]约瑟夫·亨里奇](https://book.douban.com/search/约瑟夫·亨里奇)，中信出版集团， 2018-9，ISBN: 9787508686721
+26. https://en.wikisource.org/wiki/The_Disappearance_of_Useful_Arts ，最后访问时间：2021.2.20
+27. The Most Popular Programming Languages - 1965/2020，https://www.youtube.com/watch?v=UNSoPa-XQN0，最后访问时间：2021.3.26
+28. https://www.infoq.cn/article/NbBqwLT6eFo6Rs5RMPSL, 最后访问时间：2021.2.21
+29. https://opensource.com/life/15/10/open-source-cobol-development，最后访问时间：2021.2.21
+30. https://www.linkedin.com/pulse/20130419164101-1893586-open-source-is-eating-the-software-world，最后访问时间：2021.2.19
+31. 《技术的本质》，[布莱恩•阿瑟（Brian Arthur）](https://book.douban.com/search/布莱恩•阿瑟)，浙江人民出版社，2014-4-1，ISBN: 9787213059988
+32. https://www.ted.com/talks/linus_torvalds_the_mind_behind_linux/transcript， 最后访问时间：2021.2.19
+33. https://raw.githubusercontent.com/alc-beijing/alc-site/master/content/images/What_do_we_see_at_the_Apache_SkyWalking_2020_DevCon_event/ppt/%E3%80%90%E5%90%B4%E6%99%9F%E3%80%912020-SkyWalking%20DevCon%20Open%20Talk.pdf ，最后访问时间：2021.2.19
+34. https://en.wikipedia.org/wiki/Docker_(software) ，最后访问时间：2021.2.20
+35. http://opensource.com/life/14/8/intro-apache-hadoop-big-data，最后访问时间：2021.2.19
+
+### 分布式协作
+
+1. https://web.stanford.edu/class/cs244/papers/End2EndSystemDesign.pdf，最后访问时间：2021.2.19
+2. 《社会分工论》，[[法\] 埃米尔·涂尔干](https://book.douban.com/search/埃米尔·涂尔干)，生活·读书·新知三联书店，2017-1，ISBN: 9787108057921
+3. 《深度工作：如何有效使用每一点脑力》， [[美\] 卡尔·纽波特](https://book.douban.com/search/卡尔·纽波特)，后浪丨江西人民出版社，2017-7，ISBN: 9787210093213
+
+### 保持中立
+
+1. 《竞争论》， [[美\] 迈克尔·波特](https://book.douban.com/author/4538960/)，中信出版社，2012-8
+2. 《人性中的善良天使》， [[美\]斯蒂芬·平克](https://book.douban.com/search/斯蒂芬·平克)，中信出版社，2015-7
+3. https://www.cncf.io/cncf-annual-report-2020/ ，最后访问时间：2021.2.21
+4. https://www.cncf.io/about/members/，最后访问时间：2021.2.21
+5. https://www.chromium.org/ ，最后访问时间：2021.2.21
+6. https://news.softpedia.com/news/here-s-how-much-microsoft-contributed-to-the-development-of-chromium-531590.shtml，最后访问时间：2021.2.21
+
+### 经济效益
+
+1. 《人月神话》，[(美) 布鲁克斯(Brooks, F. P.) 著](https://book.douban.com/search/布鲁克斯  著)，清华大学出版社，2015-4-1，ISBN: 9787302392644
+2. 《致命Bug：软件缺陷的灾难与启示》，[[韩\] 金钟河](https://book.douban.com/search/金钟河)，人民邮电出版社，2015-12，ISBN: 9787115411822
+3. 《梦断代码》，[Scott Rosenberg](https://book.douban.com/search/Scott Rosenberg)，电子工业出版社，2008.06，ISBN: 9787121066795
+4. https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1661&context=hicss-50 ， 最后访问时间：2021.2.21
+5. https://www.redhat.com/cms/managed-files/rh-enterprise-open-source-report-detail-f21756-202002-en.pdf ，最后访问时间：2021.2.21
+6. http://paulgraham.com/startuplessons.html ，最后访问时间：2021.5.10
+7. https://opensource.apple.com/， 最后访问时间：2021.2.17
+8. https://apps.apple.com/us/app/clubhouse-drop-in-audio-chat/id1503133294，最后访问时间：2021.2.17
+9. https://www.infoq.cn/article/LmZT9SxS6k7OZRBZ5LsH ,最后访问时间：2021.2.17
+10. https://netflix.github.io/，最后访问时间：2021.5.10
+11. https://linkedin.github.io/ ，最后访问时间：2021.5.10
