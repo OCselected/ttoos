@@ -582,3 +582,59 @@ authors:
 3. 《代码经济：从远古食谱、城市到区块链、人工智能》， [[美\]菲利普·奥尔斯瓦尔德（Philip Auerswald）](https://book.douban.com/search/菲利普·奥尔斯瓦尔德) ，上海社会科学院出版社，2019-3
 4. 雷神3：诸神黄昏 Thor: Ragnarok (2017)，豆瓣链接：https://movie.douban.com/subject/25821634/ ，最后访问时间：2021.4.29
 
+## 第八章 开源的胜利
+
+### 开源运动的胜利：一场伟大的革命
+
+1. 《创新者：一群技术狂人和鬼才程序员如何改变世界》，[美] 沃尔特·艾萨克森，中信出版社，2017-4
+2. 《人类成功统治地球的秘密：文化如何驱动人类进化》，[[美\]约瑟夫·亨里奇](https://book.douban.com/search/约瑟夫·亨里奇)，中信出版集团，2018-9
+3. https://en.wikipedia.org/wiki/Open-source-software_movement  ，最后访问时间：2020.12.14
+4. https://en.wikipedia.org/wiki/Revolution_OS ， 最后访问时间：2020.12.14
+
+### 垄断者：进行二进制授权的商业软件巨头们
+
+1. 《从0到1：开启商业与未来的秘密》，[彼得·蒂尔](https://book.douban.com/search/彼得·蒂尔) / [布莱克·马斯特斯](https://book.douban.com/search/布莱克·马斯特斯)，中信出版社，2015-1-1
+2. https://en.wikipedia.org/wiki/List_of_the_largest_software_companies ，最后访问时间：2021.5.6
+3. 《共创未来：打造自由软件神话》，[彼得・韦纳](https://book.douban.com/search/彼得・韦纳)，上海科技教育出版社，2002-12，ISBN: 9787542830302
+4. https://thehistoryoftheweb.com/browser-wars/，最后访问时间：2021.5.7
+5. https://searchcio.techtarget.com.cn/whatis/8-24173/  ，最后访问时间：2021.3.29
+6. https://baike.baidu.com/item/%E7%9B%97%E7%89%88%E8%BD%AF%E4%BB%B6 ， 最后访问时间：2021.3.29
+7. https://baike.baidu.com/item/%E7%95%AA%E8%8C%84%E8%8A%B1%E5%9B%AD ，最后访问时间：2021.3.29
+8. https://www.zhihu.com/question/376414502 ，最后访问时间：2021.3.29
+9. 《创新者：一群技术狂人和鬼才程序员如何改变世界》，[美] 沃尔特·艾萨克森，中信出版社，2017-4
+
+### 利益：开源动了谁的奶酪？
+
+1. http://www.catb.org/~esr/halloween/ ，最后访问时间：2021.1.20
+2. https://opensourceway.community/posts/open-source-economic/review-the-emerging-economic-paradigm-of-open-source/ ，最后访问时间：2021.3.29
+3. http://opensourceway.community/posts/opensource/open_by_design/ ，最后访问时间：2021.2.23
+4. 《Subscribed：Why the Subscription Model Will Be Your Company's Future - And What to Do about It》，[Gabe Weisert](https://book.douban.com/search/Gabe Weisert) / [Tien Tzuo](https://book.douban.com/search/Tien Tzuo)，Portfolio，2018-6-5，ISBN: 9780525536468
+5. https://automattic.com/ ，最后访问时间：2021.3.29
+
+### 演化：无法阻挡的生命力
+
+1. https://www.linuxfoundation.org/en/resources/publications/publications/linux-kernel-report-2020/ ，最后访问时间：2021.2.26
+2. https://spectrum.ieee.org/automaton/aerospace/robotic-exploration/nasa-designed-perseverance-helicopter-rover-fly-autonomously-mars ，最后访问时间：2021.2.26
+3. 《盲眼钟表匠：生命自然选择的秘密》，[[英\] 理查德•道金斯](https://book.douban.com/search/理查德•道金斯)，中信出版社，2016-10-20，ISBN: 9787508664996
+
+### 妥协： 模式融合下的现代开源
+
+1. 《影响商业的50本书》，[吴晓波](https://book.douban.com/search/吴晓波)，浙江大学出版社，2020-7-1，ISBN: 9787308201346
+2. https://resources.whitesourcesoftware.com/blog-whitesource/open-source-licenses-trends-and-predictions ，最后访问时间：2021.2.23
+3. https://databricks.com/company/newsroom/press-releases/databricks-raises-1-billion-series-g-investment-at-28-billion-valuation ，最后访问时间：2021.2.23
+
+### 背叛：拒绝云计算巨头的“伪”开源
+
+1. https://en.wikipedia.org/wiki/Shareware ，最后访问时间：2021.5.8
+2. https://sparanoid.com/lab/7z/faq.html ,最后访问时间：2021.2.13
+3. https://www.infoworld.com/article/2670417/ibm-plans--100-million-linux--investment.html , 最后访问时间：2021.2.13
+4. https://azure.microsoft.com/en-us/blog/expanding-linux-and-oss-support-on-azure/ , 最后访问时间：2021.2.13
+5. https://azure.microsoft.com/en-us/overview/choose-azure-opensource/ , 最后访问时间：2021.2.13
+6. https://redislabs.com/blog/redis-labs-modules-license-changes/ , 最后访问时间：2021.2.13
+7. https://www.elastic.co/cn/pricing/faq/licensing  ,最后访问时间：2021.2.13
+8. https://www.mongodb.com/licensing/server-side-public-license/faq , 最后访问时间：2021.2.13
+9. https://aws.amazon.com/cn/documentdb/what-is-mongodb/ ， 最后访问时间：2021.2.13
+10. https://www.cbinsights.com/research/report/future-open-source/ ， 最后访问时间：2021.2.14
+11. https://aiven.io/press/aiven-raises-usd100m-series-c-to-expand-global-open-source-innovation 
+12. 《Linux 红帽旋风》， [(美)罗伯特・杨](https://book.douban.com/search/罗伯特・杨) / [罗姆](https://book.douban.com/search/罗姆)，中国青年出版社，2000-11，ISBN: 9787500640301
+13. https://mp.weixin.qq.com/s/IAxFi_jr_l6P3bLhXZryZw ，最后访问时间：2021.5.8
