@@ -709,3 +709,54 @@ https://marvel.fandom.com/wiki/Milano，最后访问时间：2021.1.29
 9. https://www.infoq.cn/article/LmZT9SxS6k7OZRBZ5LsH ,最后访问时间：2021.2.17
 10. https://netflix.github.io/，最后访问时间：2021.5.10
 11. https://linkedin.github.io/ ，最后访问时间：2021.5.10
+
+## 第十章 开源的成就——经济价值和社会意义
+
+1.  《面孔：20世纪传奇人物 Icons (2019)》，2019-01-08(英国)
+2.  电影：黑客帝国 The Matrix，上映日期：1999-03-31
+
+### 给无价开源进行价格评估
+
+1. 《一切皆有价》，[爱德华多·波特](https://book.douban.com/search/爱德华多·波特)，译者：[赵德亮](https://book.douban.com/search/赵德亮)，中信出版社，2011-7
+2. https://archiveprogram.github.com/arctic-vault/ ，最后访问时间：2020.12.29
+3. http://en.wikipedia.org/wiki/COCOMO ,最后访问时间：2020.12.21
+4. 《Working in Public: The Making and Maintenance of Open Source Software 》Eghbal, Nadia.  Stripe Press. Kindle Edition. 
+5. https://twitter.com/steveklabnik/status/1139552342842458112，最后访问时间：2021.5.7
+6. Apache annual report 2020 
+7. https://www.linuxfoundation.org/ ,最后访问时间：2020.12.21
+8. https://www.openhub.net/，最后访问时间：2021.5.7
+9. https://opensource.google/ ,最后访问时间：2020.12.22
+10. https://www.redhat.com/en/enterprise-open-source-report/2020 ,最后访问时间：2020.12.22
+11. https://chaoss.community/ ,最后访问时间：2020.12.22
+
+### 公司：哪些超过一亿美元的开源商业组织
+
+1. https://www.linkedin.com/in/josephjacks/，最后访问时间：2021.5.8
+2. https://docs.google.com/spreadsheets/d/17nKMpi_Dh5slCqzLSFBoWMxNvWiwt2R-t4e_l7LPLhU/edit#gid=0 ，最后访问时间：2021.5.8
+3. https://www.redhat.com/en, 最后访问时间：2021.3.5
+4. https://www.cnblogs.com/lihuimingxs/p/opensource-upstream-first.html，最后访问时间：2021.3.5
+5. https://mp.weixin.qq.com/s/VJJIakgQbDOljHMIHYcn4g ，最后访问时间：2021.3.5 
+
+### 新造王者：开源开发者的崛起
+
+1. https://www.youtube.com/watch?v=Vhh_GeBPOhs，最后访问时间：2021.5.11
+2. https://www.youtube.com/watch?v=Og847HVwRSI， 最后访问时间：2021.5.11
+3. https://en.wikipedia.org/wiki/Stack_Overflow，最后访问时间：2021.5.11
+4. http://www.catb.org/~esr/halloween/ ， 最后访问时间：2020.12.23
+5. http://opensourceway.community/posts/paper_or_book_reading/the_new_kingmaker_review/ ， 最后访问时间：2020.12.23 
+6. https://www.guru99.com/difference-tcp-ip-vs-osi-model.html，最后访问时间：2021.5.11
+7. https://mitsloan.mit.edu/shared/ods/documents/?DocumentID=4105，最后访问时间：2021.5.11
+8. http://en.wikipedia.org/wiki/Web_Services_Description_Language，最后访问时间：2021.5.11
+9. https://baike.baidu.com/item/RESTful/4406165，最后访问时间：2021.5.11
+10. https://movie.douban.com/subject/26615208/，最后访问时间：2021.5.11
+11. 《The New Kingmakers：How Developers Conquered the World》，[Stephen O‘Grady](https://book.douban.com/search/Stephen O'Grady)，O’Reilly Media，2013-1-7
+
+### 核心组织：繁荣的共同体
+
+1. 《共同体与社会》， [[德\]斐迪南·滕尼斯](https://book.douban.com/search/斐迪南·滕尼斯)，商务印书馆，2019-2，ISBN: 9787100168434
+2. 《working in public:The Making and Maintenance of Open Source Software》，[Nadia Eghbal](https://book.douban.com/search/Nadia Eghbal)，Stripe Press，2020-08
+3. 《黑客：计算机革命的英雄》，[Steven Levy](https://book.douban.com/author/646670/)，机械工业出版社华章公司，2011-10-31
+4. https://www.kernel.org/，最后访问时间：2021.5.10
+5. http://opensourceway.community/posts/foundation_introduce/how_apache_works/,最后访问时间：2020.12.9
+6. https://opensourceway.community/posts/foundation_introduce/introduction_of_software_freedom_conservancy/，最后访问时间：2021.5.10
+7. 《尤利西斯》,[[爱尔兰\] 詹姆斯·乔伊斯](https://book.douban.com/author/4503590/),译林出版社, 2005-8
