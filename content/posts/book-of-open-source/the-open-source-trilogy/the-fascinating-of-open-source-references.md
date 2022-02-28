@@ -731,24 +731,24 @@ https://marvel.fandom.com/wiki/Milano，最后访问时间：2021.1.29
 
 ### 公司：哪些超过一亿美元的开源商业组织
 
-1. https://www.linkedin.com/in/josephjacks/，最后访问时间：2021.5.8
+1. https://www.linkedin.com/in/josephjacks/ ，最后访问时间：2021.5.8
 2. https://docs.google.com/spreadsheets/d/17nKMpi_Dh5slCqzLSFBoWMxNvWiwt2R-t4e_l7LPLhU/edit#gid=0 ，最后访问时间：2021.5.8
-3. https://www.redhat.com/en, 最后访问时间：2021.3.5
-4. https://www.cnblogs.com/lihuimingxs/p/opensource-upstream-first.html，最后访问时间：2021.3.5
+3. https://www.redhat.com/en , 最后访问时间：2021.3.5
+4. https://www.cnblogs.com/lihuimingxs/p/opensource-upstream-first.html ，最后访问时间：2021.3.5
 5. https://mp.weixin.qq.com/s/VJJIakgQbDOljHMIHYcn4g ，最后访问时间：2021.3.5 
 
 ### 新造王者：开源开发者的崛起
 
-1. https://www.youtube.com/watch?v=Vhh_GeBPOhs，最后访问时间：2021.5.11
-2. https://www.youtube.com/watch?v=Og847HVwRSI， 最后访问时间：2021.5.11
-3. https://en.wikipedia.org/wiki/Stack_Overflow，最后访问时间：2021.5.11
+1. https://www.youtube.com/watch?v=Vhh_GeBPOhs ，最后访问时间：2021.5.11 
+2. https://www.youtube.com/watch?v=Og847HVwRSI ， 最后访问时间：2021.5.11
+3. https://en.wikipedia.org/wiki/Stack_Overflow ，最后访问时间：2021.5.11
 4. http://www.catb.org/~esr/halloween/ ， 最后访问时间：2020.12.23
 5. http://opensourceway.community/posts/paper_or_book_reading/the_new_kingmaker_review/ ， 最后访问时间：2020.12.23 
-6. https://www.guru99.com/difference-tcp-ip-vs-osi-model.html，最后访问时间：2021.5.11
-7. https://mitsloan.mit.edu/shared/ods/documents/?DocumentID=4105，最后访问时间：2021.5.11
-8. http://en.wikipedia.org/wiki/Web_Services_Description_Language，最后访问时间：2021.5.11
-9. https://baike.baidu.com/item/RESTful/4406165，最后访问时间：2021.5.11
-10. https://movie.douban.com/subject/26615208/，最后访问时间：2021.5.11
+6. https://www.guru99.com/difference-tcp-ip-vs-osi-model.html ，最后访问时间：2021.5.11
+7. https://mitsloan.mit.edu/shared/ods/documents/?DocumentID=4105 ，最后访问时间：2021.5.11
+8. http://en.wikipedia.org/wiki/Web_Services_Description_Language ，最后访问时间：2021.5.11
+9. https://baike.baidu.com/item/RESTful/4406165 ，最后访问时间：2021.5.11
+10. https://movie.douban.com/subject/26615208/ ，最后访问时间：2021.5.11
 11. 《The New Kingmakers：How Developers Conquered the World》，[Stephen O‘Grady](https://book.douban.com/search/Stephen O'Grady)，O’Reilly Media，2013-1-7
 
 ### 核心组织：繁荣的共同体
@@ -756,7 +756,44 @@ https://marvel.fandom.com/wiki/Milano，最后访问时间：2021.1.29
 1. 《共同体与社会》， [[德\]斐迪南·滕尼斯](https://book.douban.com/search/斐迪南·滕尼斯)，商务印书馆，2019-2，ISBN: 9787100168434
 2. 《working in public:The Making and Maintenance of Open Source Software》，[Nadia Eghbal](https://book.douban.com/search/Nadia Eghbal)，Stripe Press，2020-08
 3. 《黑客：计算机革命的英雄》，[Steven Levy](https://book.douban.com/author/646670/)，机械工业出版社华章公司，2011-10-31
-4. https://www.kernel.org/，最后访问时间：2021.5.10
-5. http://opensourceway.community/posts/foundation_introduce/how_apache_works/,最后访问时间：2020.12.9
-6. https://opensourceway.community/posts/foundation_introduce/introduction_of_software_freedom_conservancy/，最后访问时间：2021.5.10
+4. https://www.kernel.org/ ，最后访问时间：2021.5.10
+5. http://opensourceway.community/posts/foundation_introduce/how_apache_works/ ,最后访问时间：2020.12.9
+6. https://opensourceway.community/posts/foundation_introduce/introduction_of_software_freedom_conservancy/ ，最后访问时间：2021.5.10
 7. 《尤利西斯》,[[爱尔兰\] 詹姆斯·乔伊斯](https://book.douban.com/author/4503590/),译林出版社, 2005-8
+
+## 第十一章 开源的不完美:让人望而却步的开源特性
+
+1. 《千面英雄》，[[美\] 约瑟夫·坎贝尔](https://book.douban.com/author/329267/)，译者: [黄珏苹](https://book.douban.com/search/黄珏苹)，浙江人民出版社， 2016-2
+2. https://distrowatch.com/  , 最后访问时间：2020.12.22
+3. https://landscape.cncf.io/ , 最后访问时间：2020.12.22
+4. https://www.ted.com/talks/linus_torvalds_the_mind_behind_linux , 最后访问时间：2020.12.22
+5. 2020 FOSS Contributor Survey , Linux 基金会，2020.11 
+
+### 冲突：可预测性与麦当劳化的精准
+
+1. 《汉堡统治世界？！：社会的麦当劳化》，中国人民大学出版社，2014-1，ISBN: 9787300183541
+2. https://baike.baidu.com/item/%E4%BA%AC%E6%B2%AA%E9%AB%98%E9%80%9F%E9%93%81%E8%B7%AF ，最后访问时间：2021.5.10
+3. 《技术的本质：技术是什么，它是如何进化的》，[布莱恩•阿瑟（Brian Arthur）](https://book.douban.com/search/布莱恩•阿瑟)，浙江人民出版社，2014-4-1
+4. 《How to Measure Anything: Finding the Value of Intangibles in Business》，[[美\] 道格拉斯 W. 哈伯德](https://book.douban.com/search/道格拉斯 W. 哈伯德)，广东人民出版社，2018-1，ISBN: 9787218122106
+5. 《经济与社会》， [[德\] 马克斯·韦伯](https://book.douban.com/author/4571227)，上海人民出版社，2020-1-1，ISBN: 9787208160774
+6. 《社会动物：爱、性格和成就的潜在根源》， [[美\] 戴维·布鲁克斯](https://book.douban.com/author/2050125/)，中信出版社，2012-6-1,P162
+7. 《社会动物：爱、性格和成就的潜在根源》， [[美\] 戴维·布鲁克斯](https://book.douban.com/author/2050125/)，中信出版社，2012-6-1,P103
+
+### 纠结：商业模式与道德伦理
+
+1. 《开放式组织：面向未来的组织管理新范式》，[[美\] 吉姆•怀特赫斯特](https://book.douban.com/search/吉姆•怀特赫斯特)，机械工业出版社，2016-9，ISBN: 9787111532361
+2. https://blog.centos.org/2020/12/future-is-centos-stream/ ， 最后访问时间：2021.3.26
+3. https://wiki.rockylinux.org/ ，最后访问时间：2021.3.26
+4. 《Linux 红帽旋风》， [(美)罗伯特・杨](https://book.douban.com/search/罗伯特・杨) / [罗姆](https://book.douban.com/search/罗姆)，中国青年出版社，2000-11，ISBN: 9787500640301
+
+### 艺术：成功的路上运气大于理性
+
+1. 《像火箭科学家一样思考：将不可能变为可能》，[美】Ozan Varol，北京联合出版公司，2020-10，ISBN: 9787559644183
+2. 《技术的本质：技术是什么，它是如何进化的》，[布莱恩•阿瑟（Brian Arthur）](https://book.douban.com/search/布莱恩•阿瑟)，浙江人民出版社，2014-4-1
+3. https://www.linuxfoundation.org/en/resources/publications/publications/linux-kernel-report-2020/ ，最后访问时间：2021.5.10
+4. 《未完成的进化：为什么大猩猩没有主宰世界》，[【英】凯文·拉兰德（Kevin N. Laland）](https://book.douban.com/search/凯文·拉兰德)，中信出版集团，2018-1
+5. https://www.techrepublic.com/article/open-source-failure-is-its-greatest-success/ ，最后访问时间：2021.2.5
+6. http://redmonk.com/dberkholz/2014/05/02/github-language-trends-and-the-fragmenting-landscape/#ixzz30wEgsUif ，最后访问时间：2021.2.5 
+7. 《社会学的想象力》，[[美\] C.赖特·米尔斯](https://book.douban.com/search/C.赖特·米尔斯)，生活·读书·新知三联书店， 2016-7，ISBN: 9787108057259
+8. 《像社会学家一样思考》，[[美\]理查德·谢弗](https://book.douban.com/search/理查德·谢弗) / [[美\]罗伯特·费尔德曼](https://book.douban.com/search/罗伯特·费尔德曼)，北京大学出版社， 2018-5-22，ISBN: 9787301261729
+9. 《企业的人性面》，[美］道格拉斯·麦格雷戈（Douglas McGregor）](https://book.douban.com/search/［美］道格拉斯·麦格雷戈)，浙江人民出版社，2017-9，
