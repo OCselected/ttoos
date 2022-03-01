@@ -797,3 +797,71 @@ https://marvel.fandom.com/wiki/Milano，最后访问时间：2021.1.29
 7. 《社会学的想象力》，[[美\] C.赖特·米尔斯](https://book.douban.com/search/C.赖特·米尔斯)，生活·读书·新知三联书店， 2016-7，ISBN: 9787108057259
 8. 《像社会学家一样思考》，[[美\]理查德·谢弗](https://book.douban.com/search/理查德·谢弗) / [[美\]罗伯特·费尔德曼](https://book.douban.com/search/罗伯特·费尔德曼)，北京大学出版社， 2018-5-22，ISBN: 9787301261729
 9. 《企业的人性面》，[美］道格拉斯·麦格雷戈（Douglas McGregor）](https://book.douban.com/search/［美］道格拉斯·麦格雷戈)，浙江人民出版社，2017-9，
+
+## 第十二章 路与桥：开源撑起现代信息世界的基础
+
+1. https://opensourceway.community/posts/paper_or_book_reading/road_and_bridges_the_unseen_labor_behind_our_digital_infrastructure/ ，最后访问时间：2021.4.6
+2. https://tech.sina.com.cn/i/2019-12-31/doc-iihnzhfz9553758.shtml ，最后访问时间：2021.4.6
+
+### 基础设施软件：业务的基石
+
+1. https://www.fordfoundation.org/library/reports-and-studies/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/   ，最后访问时间：2021.3.26
+2. 《改变世界的机器：精益生产之道》，[詹姆斯 P.沃麦克 (James P.Womack)](https://book.douban.com/search/詹姆斯 P.沃麦克) / [丹尼尔 T.琼斯 (Daniel T.Jones)](https://book.douban.com/search/丹尼尔 T.琼斯) / [丹尼尔·鲁斯 (Daniel Roos)](https://book.douban.com/search/丹尼尔·鲁斯)，机械工业出版社，2015-3-1，ISBN: 9787111494676
+3. https://www.opencompute.org/wiki/Main_Pagea ，最后访问时间：2021.2.4
+4. https://www.businessinsider.com/facebook-eu-data-center-open-compute-project-2016-1  ，最后访问时间：2021.2.4
+5. https://pingcap.com/blog/future-of-database-unified-infrastructure-to-adapt-intelligently ，最后访问时间：2021.4.6
+6. https://www.dezyre.com/article/top-6-hadoop-vendors-providing-big-data-solutions-in-open-data-platform/  ，最后访问时间：2021.4.8
+7. https://opensourceway.community/posts/contribute_to_community/how-the_kubernetes_community_drives_the_project_success/ ，最后访问时间：2021.4.8
+8. https://opensourceway.community/posts/foundation_introduce/how_cncf_works/ ，最后访问时间：2021.4.8
+9. https://landscape.cncf.io/ ，最后访问时间：2021.4.8
+
+###  公共物品：开源是全人类共享的财富
+
+1. 《财富的责任与资本主义演变：美国百年公益发展的启示》，[资中筠](https://book.douban.com/author/4502775/)，上海三联书店，2015-9-1
+2. 《创新者：一群技术狂人和鬼才程序员如何改变世界》，[美] 沃尔特·艾萨克森，中信出版社，2017-4
+3. https://www.linuxfoundation.org/wp-content/uploads/UnderstandingOpenSourceTechnologyandUSExportControls_Whitepaper_070220-1.pdf ， 最后访问时间：2021.2.7
+4. Linux 基金会APAC 的广而告之
+5. http://apache.org/licenses/exports/ ，最后访问时间：2021.2.27
+6. 《论美国的民主》， [[法\] 托克维尔](https://book.douban.com/author/4517398)，商务印书馆，1989-1-1，ISBN: 9787100011105
+
+### 数据资产：现代社会的“石油”
+
+1. https://www.visualcapitalist.com/every-minute-internet-2020/ ，最后访问时间：2021.4.6
+2. https://www.weforum.org/agenda/2019/04/how-much-data-is-generated-each-day-cf4bddf29f/ ，最后访问时间：2021.4.6
+3. http://www.sasac.gov.cn/n2588020/n2588072/n2591148/n2591150/c15517908/content.html ,最后访问时间：2021.2.23 
+4. https://www.economist.com/leaders/2017/05/06/the-worlds-most-valuable-resource-is-no-longer-oil-but-data ，最后访问时间：2021.2.23 
+5. https://www.forbes.com/sites/insights-intelai/2019/05/22/the-power-of-open-source-ai/?sh=2861d1986300 ，最后访问时间：2021.4.6
+6. https://hub.packtpub.com/google-opensorced-tensorflow/ ，最后访问时间：2021.4.6
+7. https://datafloq.com/big-data-open-source-tools/os-home/ ，最后访问时间：2021.5.11
+8. https://en.wikipedia.org/wiki/Open_data ， 最后访问时间：2021.2.27
+9. https://www.geekwire.com/2018/facebook-data-sharing-partnerships-amazon-microsoft-tech-giants-center-latest-privacy-scandal/ ，最后访问时间：2021.4.6
+10. 《巨头：失控的互联网企业》，[英）马丁·摩尔](https://book.douban.com/search/马丁·摩尔) / [（英）达米安·坦比尼](https://book.douban.com/search/达米安·坦比尼)，浙江大学出版社，2020-8
+
+###  机遇：数字化世界的的新基建
+
+1. http://www.gov.cn/xinwen/2021-01/24/content_5582203.htm ，最后访问时间：2021.4.8
+2. 《加速：现代社会中时间结构的改变》， [[德\]哈尔特穆特·罗萨（Hartmut Rosa）](https://book.douban.com/search/哈尔特穆特·罗萨)，北京大学出版社，2015-12
+3. 《技术的本质》，[布莱恩•阿瑟（Brian Arthur）](https://book.douban.com/search/布莱恩•阿瑟)，浙江人民出版社，2014-4-1，ISBN: 9787213059988
+4. 《新基建》，王喜文, 浙江教育出版社，2021.1，ISBN：9787572211423
+5. https://baike.baidu.com/item/5G/29780 ，最后访问时间：2021.4.8
+6. https://baike.baidu.com/item/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/9180 ，最后访问时间：2021.4.8
+7. https://github.com/cncf/presentations ，最后访问时间：2021.4.8
+8. http://www.gov.cn/xinwen/2021-03/13/content_5592681.htm ，最后访问时间：2021.4.8
+9. https://wiki.mbalib.com/wiki/%E5%8C%BA%E5%9D%97%E9%93%BE ， 最后访问时间：2021.2.7
+
+### 未来：开源作为新基建的一种有效模式
+
+1. 《Working in Public：The Making and Maintenance of Open Source Software》，[Nadia Eghbal](https://book.douban.com/search/Nadia Eghbal)， Stripe Press，2019-7，ISBN: 9780578675862
+2. 《启蒙，再启蒙》，[张康之](https://book.douban.com/search/张康之)，江苏人民出版社，2020-5-1，ISBN: 9787214239211
+3. https://linuxfoundation.org/wp-content/uploads/Guide_to_Open_Source_AI.pdf ，最后访问时间：2021.4.9
+4. https://zh.wikipedia.org/wiki/%E4%B8%AD%E6%9C%AC%E8%81%AA , 最后访问时间：2021.4.9
+5. https://bitcoin.org/bitcoin.pdf ，最后访问时间：2021.4.9
+6. https://github.com/bitcoin/bitcoin ，最后访问时间：2021.4.9
+7. https://ethereum.org/en/ ，最后访问时间：2021.4.9
+8. https://en.wikipedia.org/wiki/Hyperledger ，最后访问时间：2021.4.9
+9. https://opensourceway.community/posts/opensource_technology/open-source-tokenomics/ ，最后访问时间：2021.4.8
+10. https://www.cncf.io/projects/ ，最后访问时间：2021.4.9
+11. https://www.okd.io/ ，最后访问时间：2021.4.9
+12. https://www.opencompute.org/ ，最后访问时间：2021.4.8 
+13. https://www.oschina.net/news/114220/risc-v-foundation-moved-to-switzerland ，最后访问时间：2021.4.9
+
