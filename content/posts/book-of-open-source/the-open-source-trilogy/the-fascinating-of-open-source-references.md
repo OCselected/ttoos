@@ -869,23 +869,23 @@ https://marvel.fandom.com/wiki/Milano，最后访问时间：2021.1.29
 
 ### 不可或缺：开源世界的中国因素
 
-1. https://en.wikipedia.org/wiki/Unicode ，最后访问时间：2021.2.4
-2. https://github.com/996icu/996.ICU/blob/master/README_CN.md， 最后访问时间：2021.1.30
-3. https://alc-beijing.github.io/alc-site/post/alc-beijing-creation/， 最后访问时间：2021.2.4
-4. https://s.apache.org/FY2020AnnualReport，最后访问时间：2021.3.25
+1. https://en.wikipedia.org/wiki/Unicode  ，最后访问时间：2021.2.4
+2. https://github.com/996icu/996.ICU/blob/master/README_CN.md ， 最后访问时间：2021.1.30
+3. https://alc-beijing.github.io/alc-site/post/alc-beijing-creation/ ， 最后访问时间：2021.2.4
+4. https://s.apache.org/FY2020AnnualReport ，最后访问时间：2021.3.25
 
 ### 遗憾20年：落后的中国是如何错过开源的机会的
 
-1. http://www.ce.cn/ceph/home/pjxw/200508/08/t20050808_4370331_1.shtml，最后访问：2021.1.31
-2. https://www.zhihu.com/topic/19651303/intro， 知乎关于软盘的解释，最后访问时间：2021.1.31
-3. https://new.qq.com/omn/20200716/20200716A0YG0M00.html ， 大国隐痛：做一个操作系统有多难？ ，最后访问时间：2021.1.30
-4. https://blog.51cto.com/opensource/8745, 最后访问时间：2021.1.30
-5. http://opensourceway.community/posts/opensource_culture/why_product_failed_that_based_successful_open_source_project/, 最后访问时间：2021.1.31
+1. http://www.ce.cn/ceph/home/pjxw/200508/08/t20050808_4370331_1.shtml ，最后访问：2021.1.31
+2. https://www.zhihu.com/topic/19651303/intro ， 知乎关于软盘的解释，最后访问时间：2021.1.31
+3. https://new.qq.com/omn/20200716/20200716A0YG0M00.html  ， 大国隐痛：做一个操作系统有多难？ ，最后访问时间：2021.1.30
+4. https://blog.51cto.com/opensource/8745 , 最后访问时间：2021.1.30
+5. http://opensourceway.community/posts/opensource_culture/why_product_failed_that_based_successful_open_source_project/ , 最后访问时间：2021.1.31
 
 ### 希望与悲观：当下的强劲表现和隐藏的危险
 
 1. 《代码2.0:网络空间中的法律》，[[美\] 劳伦斯·莱斯格(Lawrence Lessig)](https://book.douban.com/search/劳伦斯·莱斯格)，清华大学出版社，2019.7
-2. https://www.linuxfoundation.org/en/resources/publications/publications/linux-kernel-report-2020/，最后访问时间：2021.1.30
-3. https://lfx.linuxfoundation.org/， 最后访问时间：2021.1.30
-4. https://chaoss.community/， 最后访问时间：2021.1.30
+2. https://www.linuxfoundation.org/en/resources/publications/publications/linux-kernel-report-2020/ ，最后访问时间：2021.1.30
+3. https://lfx.linuxfoundation.org/ ， 最后访问时间：2021.1.30
+4. https://chaoss.community/ ， 最后访问时间：2021.1.30 
 
