@@ -24,23 +24,23 @@
         </section>
         <article itemprop="articleBody" id="content">
            {{ .Content }}
+          <script src="https://giscus.app/client.js"
+               data-repo="OCselected/ocselected.github.io"
+               data-repo-id="MDEwOlJlcG9zaXRvcnkxODU3NjE2NzY="
+               data-category="Announcements"
+               data-category-id="MDE4OkRpc2N1c3Npb25DYXRlZ29yeTMyOTU4MzA3"
+               data-mapping="title"
+               data-reactions-enabled="1"
+               data-emit-metadata="1"
+               data-input-position="top"
+               data-theme="light"
+               data-lang="zh-CN"
+               crossorigin="anonymous"
+               async>
+          </script>
         </article>
   </div>
 </section>
 
 {{ partial "meta_aside.html" . }}
-<script src="https://giscus.app/client.js"
-        data-repo="OCselected/ocselected.github.io"
-        data-repo-id="MDEwOlJlcG9zaXRvcnkxODU3NjE2NzY="
-        data-category="Announcements"
-        data-category-id="MDE4OkRpc2N1c3Npb25DYXRlZ29yeTMyOTU4MzA3"
-        data-mapping="title"
-        data-reactions-enabled="1"
-        data-emit-metadata="1"
-        data-input-position="top"
-        data-theme="light"
-        data-lang="zh-CN"
-        crossorigin="anonymous"
-        async>
-</script>
 {{ partial "footer.html" . }}
