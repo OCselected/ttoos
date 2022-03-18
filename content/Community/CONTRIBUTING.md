@@ -66,13 +66,14 @@ authors:
 在终端下执行命令：
 
 ```bash
-hugo -k 模板名 new posts/文件路径
+cd ttoos # ROOT DIR
+hugo -k 模板名 new content/posts/文件路径
 ```
 
-例如，开源之道每周评论使用的模板名称：`weekly_template` ，路径是 `OpenSource/daily_reading/2020/开源之道一周精选\` , 要创建的文件名为：`\(2019-02-02\).md` ,则执行命令为：
+例如，开源之道每周评论使用的模板名称：`weekly_template` ，路径是 `content/posts/OpenSource/daily_reading/2020/开源之道一周精选\` , 要创建的文件名为：`\(2019-02-02\).md` ,则执行命令为：
 
 ```bash
-hugo -k weekly_template new posts/OpenSource/daily_reading/2020/开源之道一周精选\(2019-02-02\).md
+hugo -k weekly_template new content/posts/OpenSource/daily_reading/2020/开源之道一周精选\(2019-02-02\).md
 ```
 
 ### 开始撰写
