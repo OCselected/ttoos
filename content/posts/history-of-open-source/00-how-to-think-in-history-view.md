@@ -12,7 +12,7 @@ keywords:
 tags:
 - 历史故事
 - 开源之史
-title: "开源之史系列之一：该如何思考开源的历史？"
+title: "「开源之史」系列之一：该如何思考开源的历史？"
 url: ""
 authors:
 - 「开源之道」·适兕
@@ -23,6 +23,28 @@ authors:
 独立研究者Nadia Eghbal 写过一篇惊世之作：《路与桥——现代世界数字基础设施那些隐藏的劳动》[1]，为人们呈现了现代数字世界被大众所忽略的开源项目，无独有偶，哈佛商学院的经济教授Shane Greenstein和 Frank Nagle 发表过一篇论文：《DIGITAL DARK MATTER AND THE ECONOMIC CONTRIBUTION OF APACHE》[2]，从开源为美国的GDP所产生的价值来估算潜藏在现代数字世界的重要性。
 
 但是，你在任何的报告中，都很难看到开源的身影，无论是互联网巨头的年度财报，还是政府的年度报告，它是如此重要，而又是如此的被忽略，最近笔者做了一个调查[3]，几乎每个业内人士都认为开源对于世人的重要，但是却对其可持续性发展表现出一种无奈。
+
+## 宏观经济与现实落差
+
+OpenUK 在2021年做了一个调查[11]，在报告中称：
+
+> Drawing on the calculations of the European Commission report above, if 260,000 contributors could lead to economic impact of open source software between £60.9 billion (€65 billion or $77.8 billion) and £84.15 billion (€95 billion or $113.7 billion) in Europe, then 126,000 contributors in the UK in 2019 can lead to impact between £29.52 and £43.15 billion, on the condition that individual contribution did not change from year to year.
+
+这是一个非常了不起的量化指标，也是第一次以宏观视野将开源的价值写到GDP（国内生产总值）中。
+
+### 创业公司的 IT 支出的忽略
+
+基于互联网的创业公司在软件方面的支出，在初期，基本不会考虑会为开源付费，或者是参与到上游，换句话说，这些公司在开始的时候，不管是融到多少钱，或者是自掏腰包，都会选择将开源作为起步时的好助手，以口头上的承诺，或者是在招聘的时候用来和开发者解释：未来会更大力度参与到开源的。
+
+当然，创业公司和这个世界上所有的事情一样，成功的总是很少，于是，开源成为了他们失败路上的伙伴，丢弃的时候，连正眼都不瞧一下的。
+
+### 巨头们的无视
+
+那么，总是有一些成功的创业公司的，但是，他们不会在漂亮的财务报表上写上使用了价值多少的开源项目的，开源的价值被掩盖和埋藏在金钱之下，当纳斯达克在快速交易的时候，股东们才不会在乎这些。
+
+举个例子，Apple 使用的操作系统 MacOS ，基于fork自FreeBSD的项目 Darwin，然而，我们只看到Apple 给FreeBSD基金会捐赠了区区$100，在整个的利润分成中，FreeBSD 无疑只是做了嫁衣裳。
+
+历史学家黄仁宇曾写道现代世界能以数目记，才是取得成功的关键。然而，开源所产生的巨额价值却被人类所故意的掩盖掉了！但是它又被称之为现代数字化世界的支撑，那这个落差是由何种东西来弥补？或者说能不能弥补的上？
 
 开源是如此重要，然而却是那么的貌不惊人，现代人的数字化基础设施的中流砥柱，却并没有被世人所熟知。于是，谈开源的历史，也就是谈我们现代世界的这股重要力量，称之为暗流涌动，实乃贴切也。
 
@@ -135,4 +157,5 @@ authors:
 8. 《创新者：一群技术狂人和鬼才程序员如何改变世界》， [[美\] 沃尔特·艾萨克森](https://book.douban.com/author/197148)，中信出版社，2017-04
 9. https://www.theregister.com/2021/06/11/linus_torvalds_vaccine_smackdown/ ， 最后访问时间：2022-03-30
 10. https://en.wikipedia.org/wiki/History_of_free_and_open-source_software#Sharing_techniques_before_software  ， 最后访问时间：2022-03-30
+11. https://openuk.uk/wp-content/uploads/2021/03/openuk_stateofope2021_report_FINALCHANGES_08.pdf ，最后访问时间：2022-03-31
 
