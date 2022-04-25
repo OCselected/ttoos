@@ -12,7 +12,7 @@ keywords:
 tags:
 - 开源人
 - 开源之道
-title: "LF APAC 开源布道者分享系列之十：终章——开源布道者的未来"
+title: "LF APAC 开源布道者分享系列之十：开源布道者的未来"
 url: ""
 ---
 
