@@ -12,7 +12,7 @@ keywords:
 tags:
 - 历史故事
 - 开源之史
-title: "开源之史系列之四：软件的知识财产法律与许可的演化"
+title: "「开源之史」系列之四：软件的知识财产法律与许可的演化"
 url: ""
 authors:
 - 「开源之道」·适兕
@@ -139,9 +139,11 @@ Spar 先生的这段论述，也奠定了我们在本书部分，阐述开源的
 
 ## 学术许可：来自科学共同体的产物
 
+在科学共同体之内[]，对于著作权有着完全不同的解释，科学家们更加在意的是谁首先发表的，因为科学家们大多是受到政府或基金的支持的，并不在意商业化，计算机科学界在开始的时候也继承了这一点，在彼此分享代码的时候，这是一个默认的行为，就像自己的预览论文被同行阅读一样，是非常受欢迎的，例如Unix的源代码在上世纪70年代，都是没有任何的许可或规则遵循的，大家只是在彼此学习、改进，不过很可惜的是，那个时候并没有一个形容这种现象的词汇[]。
+
 世界上的第一份软件源码许可已经不可考了，但是明确具有法律效应的许可还是可以找到的。
 
-BSD 这个诞生于1980年的[12]，目前是笔者所能找到的最早的开源许可了，
+BSD 这个诞生于1980年的[]，目前是笔者所能找到的最早的开源许可了，
 
 ## 自由软件许可——天才的创举
 
@@ -192,8 +194,14 @@ Richard Stallman 显然不是一般角色，而是那种人类的翘楚，虽然
 9. https://en.wikipedia.org/wiki/Open_Letter_to_Hobbyists ，最后访问时间：2022-04-18
 10. https://en.wikipedia.org/wiki/History_of_free_and_open-source_software#cite_note-11 ，最后访问时间：2022-04-18
 11. 《窃书为雅罪：中华文化中的知识产权法》，[（美）安守廉](https://book.douban.com/search/安守廉)，法律出版社，2010-11
-12.  http://www.linfo.org/bsdlicense.html ，最后访问时间：2022-04-22
-13.  《知识财产法哲学》，[[澳\] 彼得·德霍斯](https://book.douban.com/search/彼得·德霍斯)，[商务印书馆](https://book.douban.com/press/2851)，2017-3
-14.  《西方世界的崛起》，[[美\] 罗伯特·托马斯](https://book.douban.com/author/1051126/) / [[美国\] 道格拉斯·诺斯](https://book.douban.com/author/4608808/)，[华夏出版社](https://book.douban.com/press/2275)，2009-6-1
-15.  《Ruling the Waves：From the Compass to the Internet, a History of Business and Politics along the Technological Frontier》，[Debora L. Spar](https://book.douban.com/search/Debora L. Spar)，Harvest Books，January 7, 2003
+12.  《科学社会学（全二册）》，[[美\]R.K.默顿](https://book.douban.com/search/R.K.默顿)，[商务印书馆](https://book.douban.com/press/2851)，2003-11
+13.  http://landley.net/notes-2009.html#23-05-2009 , 最后访问时间：2022-04-26
+14.  http://www.linfo.org/bsdlicense.html ，最后访问时间：2022-04-22
+15.  《知识财产法哲学》，[[澳\] 彼得·德霍斯](https://book.douban.com/search/彼得·德霍斯)，[商务印书馆](https://book.douban.com/press/2851)，2017-3
+16.  《西方世界的兴起》，[[美\] 罗伯特·托马斯](https://book.douban.com/author/1051126/) / [[美国\] 道格拉斯·诺斯](https://book.douban.com/author/4608808/)，[华夏出版社](https://book.douban.com/press/2275)，2009-6-1
+17.  《Ruling the Waves：From the Compass to the Internet, a History of Business and Politics along the Technological Frontier》，[Debora L. Spar](https://book.douban.com/search/Debora L. Spar)，Harvest Books，January 7, 2003
+
+## 关于作者
+
+「发现开源三部曲」（《开源之迷》已出，《开源之道》《开源之思》撰写中。）作者，「开源之道：致力于开源相关思想、知识和价值的探究」主创，Linux基金会亚太区开源布道者（2022年度团队主席），云计算产业联盟（中国信息通信研究院发起）个人开源专家，Apache 本地共同体北京成员，CCF 开源技术丛书编委会委员 。
 
