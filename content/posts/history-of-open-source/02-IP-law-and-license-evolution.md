@@ -113,7 +113,7 @@ Spar 先生的这段论述，也奠定了我们在本书部分，阐述开源的
 
 随着操作系统和编译器的进化，以及日益增长的对于计算机的应用，软件的需求和增速远远大于了硬件的增长速度，1969年1月17日的美国诉 IBM 反垄断诉讼，美国政府指控捆绑软件是反竞争的[10]。这样的话，就等于放开了软件开发商的巨大机会，在如此一个机会之下，1974年，美国版权作品新技术使用委员会 (CONTU)决定将计算机程序列入版权范围。
 
-但是这个时候，无论是技术上的可行度，还是法律的完善程度，都不能保证软件的交易，直到一个案件的宣判：Apple vs
+但是这个时候，无论是技术上的可行度，还是法律的完善程度，都不能保证软件的交易，直到一个案件的宣判：Apple Computer, Inc. 诉 Franklin Computer Corp.[]，该案宣判了计算机的目标代码也具有著作权。
 
 
 
@@ -193,15 +193,16 @@ Richard Stallman 显然不是一般角色，而是那种人类的翘楚，虽然
 8. 《The Media Lab：Inventing the Future at M. I. T.》，[Stewart Brand](https://book.douban.com/author/2009016)，Penguin (Non-Classics)，1988-09-03
 9. https://en.wikipedia.org/wiki/Open_Letter_to_Hobbyists ，最后访问时间：2022-04-18
 10. https://en.wikipedia.org/wiki/History_of_free_and_open-source_software#cite_note-11 ，最后访问时间：2022-04-18
-11. 《窃书为雅罪：中华文化中的知识产权法》，[（美）安守廉](https://book.douban.com/search/安守廉)，法律出版社，2010-11
-12.  《科学社会学（全二册）》，[[美\]R.K.默顿](https://book.douban.com/search/R.K.默顿)，[商务印书馆](https://book.douban.com/press/2851)，2003-11
-13.  http://landley.net/notes-2009.html#23-05-2009 , 最后访问时间：2022-04-26
-14.  http://www.linfo.org/bsdlicense.html ，最后访问时间：2022-04-22
-15.  《知识财产法哲学》，[[澳\] 彼得·德霍斯](https://book.douban.com/search/彼得·德霍斯)，[商务印书馆](https://book.douban.com/press/2851)，2017-3
-16.  《西方世界的兴起》，[[美\] 罗伯特·托马斯](https://book.douban.com/author/1051126/) / [[美国\] 道格拉斯·诺斯](https://book.douban.com/author/4608808/)，[华夏出版社](https://book.douban.com/press/2275)，2009-6-1
-17.  《Ruling the Waves：From the Compass to the Internet, a History of Business and Politics along the Technological Frontier》，[Debora L. Spar](https://book.douban.com/search/Debora L. Spar)，Harvest Books，January 7, 2003
+11.  https://en.wikipedia.org/wiki/Apple_Computer,_Inc._v._Franklin_Computer_Corp.  , 最后访问时间：2022-04-26
+12. 《窃书为雅罪：中华文化中的知识产权法》，[（美）安守廉](https://book.douban.com/search/安守廉)，法律出版社，2010-11
+13.  《科学社会学（全二册）》，[[美\]R.K.默顿](https://book.douban.com/search/R.K.默顿)，[商务印书馆](https://book.douban.com/press/2851)，2003-11
+14.  http://landley.net/notes-2009.html#23-05-2009 , 最后访问时间：2022-04-26
+15.  http://www.linfo.org/bsdlicense.html ，最后访问时间：2022-04-22
+16.  《知识财产法哲学》，[[澳\] 彼得·德霍斯](https://book.douban.com/search/彼得·德霍斯)，[商务印书馆](https://book.douban.com/press/2851)，2017-3
+17.  《西方世界的兴起》，[[美\] 罗伯特·托马斯](https://book.douban.com/author/1051126/) / [[美国\] 道格拉斯·诺斯](https://book.douban.com/author/4608808/)，[华夏出版社](https://book.douban.com/press/2275)，2009-6-1
+18.  《Ruling the Waves：From the Compass to the Internet, a History of Business and Politics along the Technological Frontier》，[Debora L. Spar](https://book.douban.com/search/Debora L. Spar)，Harvest Books，January 7, 2003
 
 ## 关于作者
 
-「发现开源三部曲」（《开源之迷》已出，《开源之道》《开源之思》撰写中。）作者，「开源之道：致力于开源相关思想、知识和价值的探究」主创，Linux基金会亚太区开源布道者（2022年度团队主席），云计算产业联盟（中国信息通信研究院发起）个人开源专家，Apache 本地共同体北京成员，CCF 开源技术丛书编委会委员 。
+![](public/kuosi.jpg)「发现开源三部曲」（《开源之迷》已出，《开源之道》《开源之思》撰写中。）作者，「开源之道：致力于开源相关思想、知识和价值的探究」主创，Linux基金会亚太区开源布道者（2022年度团队主席），云计算产业联盟（中国信息通信研究院发起)个人开源专家，Apache 本地共同体北京成员，CCF 开源技术丛书编委会委员 。
 
