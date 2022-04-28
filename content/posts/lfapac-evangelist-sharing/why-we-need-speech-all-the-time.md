@@ -1,28 +1,32 @@
------
+---
 categories:
 - 开源
-- skill
-date: 2022-01-26T13:31:05+08:00
-description: "最初的布道就是在众人面前的演说，诸子百家讲学，柏拉图的围坐，也就是说布道，最为原始和本质的形式就是在受众面前讲出来：思想、观念、知识、价值观......数字时代，这一点也并没有变，变的是需要更加频繁的面对不同的受众和讲授不断变化的知识。"
+- 布道
+date: 2022-03-17T13:14:39+08:00
+description: "最初的布道就是在众人面前的演说，诸子百家讲学，柏拉图的围坐，也就是说布道最为原始和本质的形式就是在受众面前讲出来：思想、观念、知识、价值观......数字时代，这一点也没有变，变的是需要更加频繁的面对不同的受众和讲授不断变化的知识。"
 keywords:
 - Open Source
 - Culture
 - Reading
+- 开源布道
 tags:
-- 开源技巧
+- 开源人
 - 开源之道
 title: "LF APAC 开源布道者分享系列之三：演讲这事很重要！"
 url: ""
 authors:
 - 「开源之道」·适兕
------
+---
+
+## 引子
+
 ![](images/lijiansheng-at-redhat-china-office.jpg)
 
   （注：本文作者适兕陶醉于开源布道当中，摄于LF APAC OSPO SIG 走进 RedHat 中国。）
 
 > 对布道坛的控制具有巨大的文化意义。
 >
-> ​        —— Christopher Hill 《Reformation to Industrial Revolution》1967
+>    —— Christopher Hill 《Reformation to Industrial Revolution》1967
 
 ## 人生就是一场戏
 
