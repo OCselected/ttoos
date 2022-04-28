@@ -1,4 +1,4 @@
----
+-----
 categories:
 - 开源
 - skill
@@ -13,7 +13,9 @@ tags:
 - 开源之道
 title: "LF APAC 开源布道者分享系列之三：演讲这事很重要！"
 url: ""
----
+authors:
+- 「开源之道」·适兕
+-----
 ![](images/lijiansheng-at-redhat-china-office.jpg)
 
   （注：本文作者适兕陶醉于开源布道当中，摄于LF APAC OSPO SIG 走进 RedHat 中国。）
