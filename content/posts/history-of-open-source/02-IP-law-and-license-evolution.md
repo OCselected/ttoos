@@ -164,11 +164,15 @@ Spar 先生的这段论述，也奠定了我们在本书部分，阐述开源的
 
 在科学共同体之内[]，对于著作权有着完全不同的解释，科学家们更加在意的是谁首先发表的，因为科学家们大多是受到政府或基金的支持的，并不在意商业化，计算机科学界在开始的时候也继承了这一点，在彼此分享代码的时候，这是一个默认的行为，就像自己的预览论文被同行阅读一样，是非常受欢迎的，例如Unix的源代码在上世纪70年代，都是没有任何的许可或规则遵循的，大家只是在彼此学习、改进，不过很可惜的是，那个时候并没有一个形容这种现象的词汇[]。
 
-### 史上第一个开源许可 BSD 的出现
+### 从无到有：史上第一个开源许可 BSD 的出现
 
-BSD 这个诞生于1980年的[]，目前是笔者所能找到的最早的开源许可了，
+在充满传奇色彩的贝尔实验室发明的Unix操作系统[]，是具有划时代意义的技术设计和实现，宽松的环境，给予研究人员最大的自由度，不仅发布学术论文，还到高校交流，并分享源代码并改进。在1973年，加州大学伯克利分校 Bob Fabry 教授就在倾听 Ken Thompson和 Dennis Ritchie 发表的论文时获得了一份Unix的拷贝，随后安装在了学校的PDP-11/45上，供计算机系、数学系和统计系的教授和学生们使用。在1975年，Ken Thompson回到伯克利分校做访问教授，这个秋天，还有两名当时还是初出茅庐的研究生：Bill Joy 和 Chuck Haley，两个人在Ken Thompson指导下，将Pascal 移植到了新开发的系统上，在1976年夏末，Ken Thompson 结束了其访问教授的工作，然而Bill Joy 和 Chuck Haley 开始对Unix的内核有了更深的兴趣，在另外一位教授 Schriebman 悉心指导下，他们将来自贝尔实验室的经过了“50次变化”磁带的修正和改进部分第一次成功地安装到了系统上。**他们认真地研究了源代码，并建议完成几处小的改进，以在某种程度上解决内核瓶颈的问题。**
 
-无独有偶，最具创新能力的高校不止伯克利，尽管在操作系统和TCP/IP栈占尽了优势，但是这还不是全部。
+到1977年初，Bill Joy 完成了第一个“Berkeley Software Distribution”的版本，并发布了大约三十个拷贝，这等于在伯克利发生了一个Unix的独立发展分支，此后伯克利并没有停止，而是不断的加入新的特性和功能，而且还不断的得到其它大学和科研机构的认可，随着版本的发布，拷贝也越来越多，甚至在1979年还获得DARPA的订单，加入了独特的网络支持，如TCP/IP栈。
+
+到1980年十月，推出了一个焕然一新的发行版本，称为4BSD，其中包括Pascal编译器、Franz Lisp 系统、以及一个增强的邮件处理系统，**最主要的是 Bob Fabry 和AT&T 以及加州大学的律师合作制定了所有人都能接受的正式版本的条款**，这就是BSD许可正式的出现，并被集成到这个版本，在其9个月的生命周期中，差不多发行了150份拷贝，版权控制是以大学为单位的，而不是以每台机器为基础来计算，因此以当时的情况，粗略估算，该发行版在近500台机器上运行。[]
+
+BSD 许可也是极为简单的，极具学术气质的许可，另外 BSD 既是一种许可证，又是一类许可证（通常称为 BSD-like）。修改后的 BSD 许可证（今天广泛使用）与最初用于 Unix 的 BSD 版本的许可证非常相似。仅要求所有代码如果以源代码格式重新分发，则保留 BSD 许可证通知，或者如果以二进制格式重新分发，则复制该通知。BSD 不要求衍生版本必须再次开源。[] []
 
 ### MIT 的出现与发展
 
@@ -215,15 +219,35 @@ Richard Stallman 显然不是一般角色，而是那种人类的翘楚，虽然
 
 软件在计算机为代笔的信息革命中崛起，毫无疑问，掌握这门新兴的技术，会带来无比的财富，前提是在法律的基础上找到合理的商业模式。但是软件的本质，给这个人类的创造物，带来了无比的复杂性。
 
-那么这也就意味着，像人类历史上的其它财产权或知识财产权一样，充满了斗争和变化[2]。
+那么这也就意味着，像人类历史上的其它财产权或知识财产权一样，充满了斗争和变化[]。
 
 
 
-## 商业市场的妥协——开源软件许可证
+## 互联网时代的商业逻辑：改变达到自由的路径——开源许可证的诞生与发展
+
+### apache 许可产生的背景与条款
+
+### MPL 许可
+
+### AGPL 许可
+
+### 小结
 
 
 
 ## 纠缠与平衡——新的技术架构出现之后商业竞争困境
+
+### 云巨头与 ISV 委屈与抗争
+
+
+
+### 数据伦理与纠结
+
+
+
+## 未来：人心不变，继续斗争
+
+
 
 
 
@@ -242,23 +266,26 @@ Richard Stallman 显然不是一般角色，而是那种人类的翘楚，虽然
 9.  《激进市场》， [[美\] 埃里克·A.波斯纳](https://book.douban.com/search/埃里克·A.波斯纳) / [[美\] E.格伦·韦尔](https://book.douban.com/search/E.格伦·韦尔)，[机械工业出版社](https://book.douban.com/press/2793)，2019-8
 10. 《增长的文化：现代经济的起源》，[乔尔·莫基尔（Joel Mokyr）](https://book.douban.com/search/乔尔·莫基尔)，[中国人民大学出版社](https://book.douban.com/press/2618)，2020-1-1
 11. https://en.wikipedia.org/wiki/Software_license ，最后访问：2022-04-06
-12. https://www.ibm.com/ibm/history/history/decade_1960.html ，最后访问：2022-05-07
-13. https://www.create.ac.uk/blog/2018/11/14/the-first-software-licensing-agreement-and-its-relationship-with-copyright-law/ ，最后访问时间：2022-05-06
-14. https://warwick.ac.uk/fac/soc/law/elj/jilt/2003_1/kretschmer/#fn33  ，最后访问：2022-05-07
-15. 《经济解释（二O一九增订版）》第一卷：科学说需求，张五常，中信出版社，2019-8-31
-16. https://en.wikipedia.org/wiki/Stewart_Brand ,最后访问时间：2022-04-18
-17. 《The Media Lab：Inventing the Future at M. I. T.》，[Stewart Brand](https://book.douban.com/author/2009016)，Penguin (Non-Classics)，1988-09-03
-18. https://en.wikipedia.org/wiki/Open_Letter_to_Hobbyists ，最后访问时间：2022-04-18
-19. https://en.wikipedia.org/wiki/History_of_free_and_open-source_software#cite_note-11 ，最后访问时间：2022-04-18
-20. https://en.wikipedia.org/wiki/Apple_Computer,_Inc._v._Franklin_Computer_Corp.  , 最后访问时间：2022-04-26
-21. 《科学社会学（全二册）》，[[美\]R.K.默顿](https://book.douban.com/search/R.K.默顿)，[商务印书馆](https://book.douban.com/press/2851)，2003-11
-22. http://landley.net/notes-2009.html#23-05-2009 , 最后访问时间：2022-04-26
-23. http://www.linfo.org/bsdlicense.html ，最后访问时间：2022-04-22
-24. 《社会理论和社会结构》，罗伯特·k·莫顿，译林出版社，2022-05-09
-25.  《若为自由故：自由软件之父理查德·斯托曼传》，[人民邮电出版社](https://book.douban.com/press/2609)，[[美\] Sam Williams](https://book.douban.com/search/Sam Williams)，2015-4
-26.  The Origin of the “MIT License”, Jerome H. Saltzer Massachusetts Institute of Technology, IEEE Annals of the History of Computing
-27. 《知识财产法哲学》，[[澳\] 彼得·德霍斯](https://book.douban.com/search/彼得·德霍斯)，[商务印书馆](https://book.douban.com/press/2851)，2017-3
-28. 
+12.  《Unix 传奇》，布莱恩·W.克尼汉， 人民邮电出版社，2021-03
+13.  《开源革命之声》，Chris Dibona 等，中国电力出版社，2000-1 
+14. http://www.linfo.org/bsdlicense.html ，最后访问时间：2022-04-22
+15.  https://en.wikipedia.org/wiki/BSD_licenses ，最后访问时间：2022-05-10
+16. https://www.ibm.com/ibm/history/history/decade_1960.html ，最后访问：2022-05-07
+17. https://www.create.ac.uk/blog/2018/11/14/the-first-software-licensing-agreement-and-its-relationship-with-copyright-law/ ，最后访问时间：2022-05-06
+18. https://warwick.ac.uk/fac/soc/law/elj/jilt/2003_1/kretschmer/#fn33  ，最后访问：2022-05-07
+19. 《经济解释（二O一九增订版）》第一卷：科学说需求，张五常，中信出版社，2019-8-31
+20. https://en.wikipedia.org/wiki/Stewart_Brand ,最后访问时间：2022-04-18
+21. 《The Media Lab：Inventing the Future at M. I. T.》，[Stewart Brand](https://book.douban.com/author/2009016)，Penguin (Non-Classics)，1988-09-03
+22. https://en.wikipedia.org/wiki/Open_Letter_to_Hobbyists ，最后访问时间：2022-04-18
+23. https://en.wikipedia.org/wiki/History_of_free_and_open-source_software#cite_note-11 ，最后访问时间：2022-04-18
+24. https://en.wikipedia.org/wiki/Apple_Computer,_Inc._v._Franklin_Computer_Corp.  , 最后访问时间：2022-04-26
+25. 《科学社会学（全二册）》，[[美\]R.K.默顿](https://book.douban.com/search/R.K.默顿)，[商务印书馆](https://book.douban.com/press/2851)，2003-11
+26. http://landley.net/notes-2009.html#23-05-2009 , 最后访问时间：2022-04-26
+27. 《社会理论和社会结构》，罗伯特·k·莫顿，译林出版社，2022-05-09
+28.  《若为自由故：自由软件之父理查德·斯托曼传》，[人民邮电出版社](https://book.douban.com/press/2609)，[[美\] Sam Williams](https://book.douban.com/search/Sam Williams)，2015-4
+29.  The Origin of the “MIT License”, Jerome H. Saltzer Massachusetts Institute of Technology, IEEE Annals of the History of Computing
+30. 《知识财产法哲学》，[[澳\] 彼得·德霍斯](https://book.douban.com/search/彼得·德霍斯)，[商务印书馆](https://book.douban.com/press/2851)，2017-3
+31. 
 
 ## 关于作者
 
