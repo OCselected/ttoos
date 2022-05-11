@@ -57,6 +57,24 @@ Spar 先生的这段论述，也奠定了我们在本书部分，阐述开源的
 最早的知识财产立法，要追溯到古老的英格兰，
 
 
+
+### 知识财产权包括哪些？
+
+#### 著作权
+
+#### 专利
+
+#### 商标
+
+#### 商业秘密
+
+#### 商誉
+
+#### 全球化之下的各国互通
+
+法律具有地域性，但是随着全球化的发展，知识的传播和社会分工的加深，各国政府都期望在生意开展的地方获得保护和秩序，于是诸如伯尔尼公约[]、WTO贸易协定
+
+
 ### 软件产生之前的知识财产纠纷概要
 
 想要理解法律，可能我们还需要在往上游追述一点：律师，这个职业在《法塑美国》[]中位置是非常重要的，可以说没有这些律师，也就谈不上法律。著名历史学者丹尼尔.布尔斯廷在其经典美国人三部曲之《民主的历程》[]当中先是花了巨大的笔墨去描述了技术发明之时，商业上的竞争导致的对所有权的争夺：
@@ -190,14 +208,32 @@ BSD 许可也是极为简单的，极具学术气质的许可，另外 BSD 既�
 
 有一些法律学者使用“宽松”来形容学术型许可，也就是说学术型许可，基本不会对接受许可方有任何的要求，即使有要求也很低，比如保留声明、承认使用了代码等，来自科学共同体的精神：无私利性决定了学术型许可的普惠特性，哪怕是商业上的使用，也不会有多余的要求。
 
-## 专有许可和学术许可之间仍有很大空间
+## 闭源专有条款的扩张与捍卫自由的反抗
 
 随着软件的著作权（源代码和二进制）受到保护，以及申请专利的合法化，这为软件开发商提供了相当的利润，一发不可收拾，在行业渐成壁垒，在这些专有的条款中，有非常强势的禁止项：不可学习源码，了解原理和修改以适应自己的需求。而学术上的许可，基本上就是继承了科学的共有主义[]，对于没有在科学圈工作的人，获取可持续发展的必须的资源几无可能。
 
 有需求的地方，必然有人站出来满足，其中影响整个软件历史的人物走上了舞台：Richard Stallman 在一次被人拒绝提供打印机源代码的情况下[]，愤然发起了GNU项目，并在随后成立了基金会，继而发展出石破天惊的全新许可。
 
+我们要从一个软件作者差点失去自己的软件控制权的故事说起。
 
-### 自由软件许可——天才的创举
+### Gosling Emacs 威胁到 Emacs 原创者
+
+1976年，Richard Stallman 作为联合作者开发了EMACS[]，以共享源码的方式在圈内流传，其中一个版本，是后来设计Java 语言的James Gosling 开发的衍生版，于 1982 年编写了第一个在 Unix 上运行的基于 C 的 Emacs (Gosling Emacs)。稍后 Gosling 将这个版本的版权卖给了UniPress 公司，于是 Gosling Emacs 不再存在，而只有 UniPress Emacs，UinPress 决定不再让人们自由的分发，而是以专有软件付费的方式进行。
+
+Richard Stallman 几番沟通无果之后，决定自己基于最后可自由分发的Gosling 版本重写 ，终于在1985年发布了，并且成为其庞大的GNU 计划的龙头项目——GNU Emacs，并同步发布了许可：Emacs  通用公共许可[]。这就是后来在1989年1月发布的完整版的 GNU 通用许可的原始雏形。
+
+我们在免责部分还可以看到MIT的影子，毕竟 Richard Stallman 当时的Emacs 源代码还放在MIT的服务器上。以下是笔者整理的几个关键点：
+
+1. Emacs 是自由的
+2. Emacs 不是公有领域的：它受版权保护，并且对其分发有限制，但这些限制旨在允许一个良好而合作的公民想要做的一切。
+3. 建议且应该付分发费用给分发者
+4. 可自由的修改和学习
+5. 除非本许可协议明确规定，否则您不得复制、分许可、分发或转让 GNU Emacs。
+
+这个显得粗糙的文本，需要经过律师的加入，才能成为被世人所识别和解读，也就是改变软件产业的GPL 的诞生。
+
+
+### 自由软件许可 GNU GPL——天才般的创举
 
 学术许可显然是非常宽松的了，但是对于 Richard Stallman 而言，这么做显然不够，因为学术许可无法保证分发之后的用户自由，因为能够修改的厂商仍然可以把学术许可的代码包装成闭源专有软件的，而这是违背hacker精神的，既然现有的许可无法满足，那么只能自己开发了。
 
@@ -220,8 +256,6 @@ Richard Stallman 显然不是一般角色，而是那种人类的翘楚，虽然
 软件在计算机为代笔的信息革命中崛起，毫无疑问，掌握这门新兴的技术，会带来无比的财富，前提是在法律的基础上找到合理的商业模式。但是软件的本质，给这个人类的创造物，带来了无比的复杂性。
 
 那么这也就意味着，像人类历史上的其它财产权或知识财产权一样，充满了斗争和变化[]。
-
-
 
 ## 互联网时代的商业逻辑：改变达到自由的路径——开源许可证的诞生与发展
 
@@ -247,11 +281,13 @@ Richard Stallman 显然不是一般角色，而是那种人类的翘楚，虽然
 
 ## 未来：人心不变，继续斗争
 
+人的主体间性[]，导致各种各样的差异，总是有人在不断拓展边界，也总是有人试图将边界固定下来，有人为了占有更有利益而选择保守不前，有人更加的激进想将现有的财富扩张，有人想成为多行星动物看看地球之外的世界，有人收于一隅而不愿意踏出舒适区半步，有人拒绝科学的任何成果，有人为了科学不惜牺牲所有.......
 
+软件作为计算机发展壮大后的多人协作成果，缔造了伟大的商业公司，也形成了伟大的同行共同体，开源作为其中最为开放、公开透明、普遍的开发方式而获得了巨大的成就，但是，仍然需要维护自我，像所有人类社会需要做的那样：形成契约，获得社会的认可，换句话说，需要在法律的保护下继续前行。
 
+保护自我：防止恶意的侵犯；不要消耗殆尽：拒绝搭便车的一味索取；积极自由：亲力亲为的打造开源世界；可持续发展：合理的商业化乃可取之道。
 
-
-
+技术仍然在不断往前发展，相应的法律法规亦须不断演化，开源许可，无尽的前沿，无尽的斗争。在解决集体行动的逻辑之余，还要思考经济的发展，于是创新不断，世界继续。
 
 ## 参考资料
 
@@ -260,32 +296,35 @@ Richard Stallman 显然不是一般角色，而是那种人类的翘楚，虽然
 3. 《窃书为雅罪：中华文化中的知识产权法》，[（美）安守廉](https://book.douban.com/search/安守廉)，法律出版社，2010-11
 4. 《西方世界的兴起》，[[美\] 罗伯特·托马斯](https://book.douban.com/author/1051126/) / [[美国\] 道格拉斯·诺斯](https://book.douban.com/author/4608808/)，[华夏出版社](https://book.douban.com/press/2275)，2009-6-1
 5. 《Ruling the Waves：From the Compass to the Internet, a History of Business and Politics along the Technological Frontier》，[Debora L. Spar](https://book.douban.com/search/Debora L. Spar)，Harvest Books，January 7, 2003
-6. 《法塑美国：15个标志性国会法案及其影响》，[[美\]丹尼斯·W.约翰逊](https://book.douban.com/search/丹尼斯·W.约翰逊)， 中信出版集团，2019-07-01
-7. 《美国人：民主的历程》,丹尼尔.布尔斯廷，[上海译文出版社](https://book.douban.com/press/2582)，2009-09
-8.  《科学的价值》， [[英\] 理查德·道金斯](https://book.douban.com/author/225672)，[天津科学技术出版社](https://book.douban.com/press/2619)，2020-6-18
-9.  《激进市场》， [[美\] 埃里克·A.波斯纳](https://book.douban.com/search/埃里克·A.波斯纳) / [[美\] E.格伦·韦尔](https://book.douban.com/search/E.格伦·韦尔)，[机械工业出版社](https://book.douban.com/press/2793)，2019-8
-10. 《增长的文化：现代经济的起源》，[乔尔·莫基尔（Joel Mokyr）](https://book.douban.com/search/乔尔·莫基尔)，[中国人民大学出版社](https://book.douban.com/press/2618)，2020-1-1
-11. https://en.wikipedia.org/wiki/Software_license ，最后访问：2022-04-06
-12.  《Unix 传奇》，布莱恩·W.克尼汉， 人民邮电出版社，2021-03
-13.  《开源革命之声》，Chris Dibona 等，中国电力出版社，2000-1 
-14. http://www.linfo.org/bsdlicense.html ，最后访问时间：2022-04-22
-15.  https://en.wikipedia.org/wiki/BSD_licenses ，最后访问时间：2022-05-10
-16. https://www.ibm.com/ibm/history/history/decade_1960.html ，最后访问：2022-05-07
-17. https://www.create.ac.uk/blog/2018/11/14/the-first-software-licensing-agreement-and-its-relationship-with-copyright-law/ ，最后访问时间：2022-05-06
-18. https://warwick.ac.uk/fac/soc/law/elj/jilt/2003_1/kretschmer/#fn33  ，最后访问：2022-05-07
-19. 《经济解释（二O一九增订版）》第一卷：科学说需求，张五常，中信出版社，2019-8-31
-20. https://en.wikipedia.org/wiki/Stewart_Brand ,最后访问时间：2022-04-18
-21. 《The Media Lab：Inventing the Future at M. I. T.》，[Stewart Brand](https://book.douban.com/author/2009016)，Penguin (Non-Classics)，1988-09-03
-22. https://en.wikipedia.org/wiki/Open_Letter_to_Hobbyists ，最后访问时间：2022-04-18
-23. https://en.wikipedia.org/wiki/History_of_free_and_open-source_software#cite_note-11 ，最后访问时间：2022-04-18
-24. https://en.wikipedia.org/wiki/Apple_Computer,_Inc._v._Franklin_Computer_Corp.  , 最后访问时间：2022-04-26
-25. 《科学社会学（全二册）》，[[美\]R.K.默顿](https://book.douban.com/search/R.K.默顿)，[商务印书馆](https://book.douban.com/press/2851)，2003-11
-26. http://landley.net/notes-2009.html#23-05-2009 , 最后访问时间：2022-04-26
-27. 《社会理论和社会结构》，罗伯特·k·莫顿，译林出版社，2022-05-09
-28.  《若为自由故：自由软件之父理查德·斯托曼传》，[人民邮电出版社](https://book.douban.com/press/2609)，[[美\] Sam Williams](https://book.douban.com/search/Sam Williams)，2015-4
-29.  The Origin of the “MIT License”, Jerome H. Saltzer Massachusetts Institute of Technology, IEEE Annals of the History of Computing
-30. 《知识财产法哲学》，[[澳\] 彼得·德霍斯](https://book.douban.com/search/彼得·德霍斯)，[商务印书馆](https://book.douban.com/press/2851)，2017-3
-31. 
+6. http://digital-law-online.info/index.html ,最后访问：2022-05-11
+7. 《法塑美国：15个标志性国会法案及其影响》，[[美\]丹尼斯·W.约翰逊](https://book.douban.com/search/丹尼斯·W.约翰逊)， 中信出版集团，2019-07-01
+8. 《美国人：民主的历程》,丹尼尔.布尔斯廷，[上海译文出版社](https://book.douban.com/press/2582)，2009-09
+9. 《科学的价值》， [[英\] 理查德·道金斯](https://book.douban.com/author/225672)，[天津科学技术出版社](https://book.douban.com/press/2619)，2020-6-18
+10. 《激进市场》， [[美\] 埃里克·A.波斯纳](https://book.douban.com/search/埃里克·A.波斯纳) / [[美\] E.格伦·韦尔](https://book.douban.com/search/E.格伦·韦尔)，[机械工业出版社](https://book.douban.com/press/2793)，2019-8
+11. 《增长的文化：现代经济的起源》，[乔尔·莫基尔（Joel Mokyr）](https://book.douban.com/search/乔尔·莫基尔)，[中国人民大学出版社](https://book.douban.com/press/2618)，2020-1-1
+12. https://en.wikipedia.org/wiki/Software_license ，最后访问：2022-04-06
+13.  《Unix 传奇》，布莱恩·W.克尼汉， 人民邮电出版社，2021-03
+14.  《开源革命之声》，Chris Dibona 等，中国电力出版社，2000-1 
+15. http://www.linfo.org/bsdlicense.html ，最后访问时间：2022-04-22
+16.  https://en.wikipedia.org/wiki/BSD_licenses ，最后访问时间：2022-05-10
+17. https://www.ibm.com/ibm/history/history/decade_1960.html ，最后访问：2022-05-07
+18. https://www.create.ac.uk/blog/2018/11/14/the-first-software-licensing-agreement-and-its-relationship-with-copyright-law/ ，最后访问时间：2022-05-06
+19. https://warwick.ac.uk/fac/soc/law/elj/jilt/2003_1/kretschmer/#fn33  ，最后访问：2022-05-07
+20. 《经济解释（二O一九增订版）》第一卷：科学说需求，张五常，中信出版社，2019-8-31
+21. https://en.wikipedia.org/wiki/Stewart_Brand ,最后访问时间：2022-04-18
+22. 《The Media Lab：Inventing the Future at M. I. T.》，[Stewart Brand](https://book.douban.com/author/2009016)，Penguin (Non-Classics)，1988-09-03
+23. https://en.wikipedia.org/wiki/Open_Letter_to_Hobbyists ，最后访问时间：2022-04-18
+24. https://en.wikipedia.org/wiki/History_of_free_and_open-source_software#cite_note-11 ，最后访问时间：2022-04-18
+25. https://en.wikipedia.org/wiki/Apple_Computer,_Inc._v._Franklin_Computer_Corp.  , 最后访问时间：2022-04-26
+26. 《科学社会学（全二册）》，[[美\]R.K.默顿](https://book.douban.com/search/R.K.默顿)，[商务印书馆](https://book.douban.com/press/2851)，2003-11
+27.  https://www.jwz.org/doc/emacs-timeline.html ，最后访问时间：2022-05-11
+28.  https://www.free-soft.org/gpl_history/emacs_gpl.html ，最后访问时间：2022-05-11
+29. http://landley.net/notes-2009.html#23-05-2009 , 最后访问时间：2022-04-26
+30. 《社会理论和社会结构》，罗伯特·k·莫顿，译林出版社，2020-05-09
+31.  《若为自由故：自由软件之父理查德·斯托曼传》，[人民邮电出版社](https://book.douban.com/press/2609)，[[美\] Sam Williams](https://book.douban.com/search/Sam Williams)，2015-4
+32.  The Origin of the “MIT License”, Jerome H. Saltzer Massachusetts Institute of Technology, IEEE Annals of the History of Computing
+33. 《知识财产法哲学》，[[澳\] 彼得·德霍斯](https://book.douban.com/search/彼得·德霍斯)，[商务印书馆](https://book.douban.com/press/2851)，2017-3
+34. 《商贸与文明:现代世界的诞生》,张笑宇,一頁folio | 广西师范大学出版社，2021-10-10
 
 ## 关于作者
 
