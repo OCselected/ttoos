@@ -105,3 +105,7 @@ wikipedia 是现代网络原住民的必经之路，也是搜索引擎推荐的�
 9.  《看不见的大猩猩：无处不在的六大错觉》，[[美\] 克里斯托弗•查布里斯（Christopher F. Chabris）](https://book.douban.com/search/克里斯托弗•查布里斯) / [[美\] 丹尼尔•西蒙斯（Daniel J. Simons）](https://book.douban.com/search/丹尼尔•西蒙斯)，北京联合出版公司，2016-11
 10. 《开源之迷》，适兕，人民邮电出版社，2022-02
 11. 《文化性动物：人类的本性、意义与社会生活》，[罗伊· F.鲍迈斯特](https://book.douban.com/author/100291)，华东师范大学出版社，2021-5
+
+## 关于作者
+
+![](/public/kuosi-face-of-os.png)「发现开源三部曲」（[《开源之迷》](posts/book-of-open-source/the-fascinating-of-open-source/)已出，《开源之道》《开源之思》撰写中。）作者，「开源之道：致力于开源相关思想、知识和价值的探究」主创，Linux基金会亚太区开源布道者（2022年度团队主席），云计算产业联盟（中国信息通信研究院发起)个人开源专家，Apache 本地共同体北京成员，CCF 开源技术丛书编委会委员 。
