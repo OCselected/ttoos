@@ -16,8 +16,7 @@ title: "「开源之史」系列之"
 url: ""
 authors:
 - 「开源之道」·适兕
-draft: 
-- true
+draft: "true"
 ---
 
 ## 闭源专有条款的扩张与捍卫自由的反抗
