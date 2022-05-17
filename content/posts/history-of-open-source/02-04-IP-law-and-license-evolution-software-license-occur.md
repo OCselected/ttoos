@@ -16,7 +16,8 @@ title: "「开源之史」系列之"
 url: ""
 authors:
 - 「开源之道」·适兕
-draft：true
+draft: 
+- true
 ---
 
 ## 学术许可：来自科学共同体的产物

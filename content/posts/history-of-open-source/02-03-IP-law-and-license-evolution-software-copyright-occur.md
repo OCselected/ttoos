@@ -16,7 +16,8 @@ title: "「开源之史」系列之"
 url: ""
 authors:
 - 「开源之道」·适兕
-draft：true
+draft: 
+- true
 ---
 
 ## 是继承不是终结：软件著作权的诞生
