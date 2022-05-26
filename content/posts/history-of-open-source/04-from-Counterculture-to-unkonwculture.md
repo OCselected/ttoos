@@ -65,7 +65,7 @@ authors:
 
 1. 《文化性动物：人类的本性、意义与社会生活》，[罗伊· F.鲍迈斯特](https://book.douban.com/author/100291)，华东师范大学出版社，2021-5
 2. 《文化的重要作用：价值观如何影响人类进步》，[[美\]亨廷顿](https://book.douban.com/author/912667) / [[美\]哈里森 主编](https://book.douban.com/search/哈里森 主编)，[新华出版社](https://book.douban.com/press/2355)，2018-7-1
-3. [历史的维度——开源、拿来主义与自主可控的历史对比](posts/opensource/open_source_tao_and_way/latitude_of_history/)
+3.  [历史的维度——开源、拿来主义与自主可控的历史对比](posts/opensource/open_source_tao_and_way/latitude_of_history/)
 
 ## 关于作者
 
