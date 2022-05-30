@@ -40,11 +40,11 @@ BSD 许可也是极为简单的，极具学术气质的许可，另外 BSD 既�
 
 1983年的MIT 计算机科学实验室旗下的 计算系统研究（Computer Systems Research (CSR)组开发出了一些重要的网络软件，如在Xerox Alto 实现的TCP/IP 栈的 BCPL、以及在IBM PC上的PC/IP 、路由实现External Gateway Protocol (EGP)等，当时面临的问题是，索要软件的人不仅有来自研究机构，还有来自商业公司，本来原本是随意拿的，但是国会和美国版权局要求在软件及其文档上附加版权声明的选项。于是几位MIT的软件作者和律师讨论了一个简单的许可，当年的邮件截图[9]
 
-![](/posts/history-of-open-source/posts/history-of-open-source/medias/mit-license-draft.png )
+![](/posts/history-of-open-source/medias/mit-license-draft.png )
 
 在1984年2月1日正式的写进 PC/IP源码中 include.h  中，这就是世界上第一份 MIT 许可，紧随其后，MIT 另外一个重量级项目 X Window系统，也采用这个协议，并正式在1986年2月在版本10中采用：
 
-![](/posts/history-of-open-source/posts/history-of-open-source/medias/mit-license-second-for-x-window.png)
+![](/posts/history-of-open-source/medias/mit-license-second-for-x-window.png)
 
 早期采用的还有MIT的另外一个重大项目：Kerberos， 一个应用极为广泛的认证系统。后来有更多采用MIT许可的项目，笔者就按此不表。
 
