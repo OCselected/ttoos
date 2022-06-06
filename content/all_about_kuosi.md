@@ -1,4 +1,5 @@
 ---
+
 categories:
 - 开源
 - 感悟
@@ -26,23 +27,16 @@ url: ""
 - 中文姓名：**李建盛**
 - 网络标识： **适兕**
 - GitHub: [lijiangsheng1](http://github.com/lijiangsheng1)
-- E-mail: lijiansheng#ocselectec.org
+- E-mail: lijiansheng#opensourceway.community
 
 ## 当前所做的事情
 
 * 作者
 * [「开源之道」](http://opensourceway.community/) 发起人及主创
-* [LF APAC 开源布道者](https://training.linuxfoundation.cn/news/161)
-* 金融行业开源技术应用社区个人成员
+* [LF APAC 开源布道者团队主席](https://training.linuxfoundation.cn/news/161)
+* OSCAR 金融行业开源技术应用社区个人成员
 * [Apache ALC Beijing Member](https://s.apache.org/alc-beijing)
 * CCF 开源技术丛书编委会委员
-* 前 [开源社](http://www.kaiyuanshe.cn/) 执委会成员、教育工作组
-* [“开源之道图书共读”](http://www.ocselected.org/posts/paper_or_book_reading/establish_reading_os_community/) 活动发起者
-* “开源之道企业培训” 主讲师
-* [开源之道talking](http://opensourceway.community/posts/opensource_talking/2020-done-and-plan-index/) 、[ALC Beijing Podcast](https://alc-beijing.github.io/alc-site/)播客主播
-* InfoQ [社区编辑](https://www.infoq.cn/profile/1277322)
-* [anaconda](https://fedoraproject.org/wiki/Anaconda)、[红旗 Linux(2006~2010)](http://en.wikipedia.org/wiki/Red_Flag_Linux) 、[oVirt](https://www.ovirt.org)、[openstack](https://launchpad.net/openstack) 等开源项目的贡献者
-* 前[X-lab 开放实验室](http://xlab.ioedu.net/)首席开源导师、华东师范大学数据学院[开源软件设计](https://mp.weixin.qq.com/s/c33EP2bluJ_zSwmzqOHxMw)主讲师
 
 
 ## 个人描述
@@ -62,9 +56,15 @@ url: ""
 
 ## 职业生涯
 
-### 2016 ~ 现在
+### 2018～ 现在
 
-**职场经历**：自由职业、社区贡献、UMCloud咨询顾问、QingCloud产品经理等
+创作者，发现开源三部曲（《开源之迷》、《开源之道》、《开源之思》）和《开源之史》
+
+[「开源之道」](.)主创 
+
+### 2016 ~ 2018
+
+**职场经历**：自由职业、共同体贡献、UMCloud咨询顾问、QingCloud产品经理等
 
 思想上的转变：开源不止于技术，更深的背后的思想、文化以及方法论，并以大无畏的精神，进行了风险极高的职业转变，身体力行。撰写博客、四处演讲、参与开源组织、企业培训等，赶上了开源的黄金时代。
 
@@ -78,7 +78,7 @@ url: ""
 
 **职场经历**：河南日报报业集团、中科红旗技术有限公司。
 
-从系统管理、到技术支持、再到系统开发工程师，Linux、Shell、Python、anaconda、peacemaker等等技术的专研，让我受益匪浅。
+从系统管理、到技术支持、再到系统开发工程师，Linux、Shell、Python、anaconda、peacemaker等等开源技术的专研，让我受益匪浅。
 
 ### 2002 ~ 2005 愉快的大学生涯
 
@@ -93,7 +93,6 @@ url: ""
 </p>
 
 
-
 [《开源之迷》](https://book.douban.com/subject/35716759/)，ISBN：978-7-115-57849-5， 人民邮电出版社
 
 
@@ -104,7 +103,7 @@ url: ""
 
 
 
-
+——————————————————————————
 
 [《云落谁家？OpenStack基于场景的架构设计实践》](http://item.jd.com/11887046.html) ISBN: 9787121276491 出版社：电子工业出版社
 
@@ -157,3 +156,15 @@ url: ""
 |开源是同步世界的绝佳机会（[点击下载slide](https://1drv.ms/p/s!Arg2k_5HJFrbgYxlD4ifQLNYBT6W1g?e=QfUrcn)） | 软件自由日. 西安Linux兴趣小组 |2020.9.18 |哔哩哔哩直播|
 |开源共同体评估框架（[点击下载slide](https://1drv.ms/p/s!Arg2k_5HJFrbgZoh4PSPMYaXEV0L3Q?e=cgREcL)） | 全球云计算开源峰会                            |2020.10.16 |北京信通院|
 |通过开源共读来一场别开生面的开源教育（[点击下载slide](https://1drv.ms/p/s!Arg2k_5HJFrbgZ0iJF6k0xIH8HjPmw?e=yCTsS8)） | China Open Source Conference 2020             |2020.10.24 |线上+深圳|
+
+
+
+## 以前做过的事
+
+* 前 [开源社](http://www.kaiyuanshe.cn/) 执委会成员、教育工作组
+* [“「开源之道」图书共读”](http://www.ocselected.org/posts/paper_or_book_reading/establish_reading_os_community/) 活动发起者
+* “开源之道企业培训” 主讲师
+* [开源之道talking](http://opensourceway.community/posts/opensource_talking/2020-done-and-plan-index/) 、[ALC Beijing Podcast](https://alc-beijing.github.io/alc-site/)播客主播
+* InfoQ [社区编辑](https://www.infoq.cn/profile/1277322)
+* [anaconda](https://fedoraproject.org/wiki/Anaconda)、[红旗 Linux(2006~2010)](http://en.wikipedia.org/wiki/Red_Flag_Linux) 、[oVirt](https://www.ovirt.org)、[openstack](https://launchpad.net/openstack) 等开源项目的贡献者
+* 前[X-lab 开放实验室](http://xlab.ioedu.net/)首席开源导师、华东师范大学数据学院[开源软件设计](https://mp.weixin.qq.com/s/c33EP2bluJ_zSwmzqOHxMw)主讲师
