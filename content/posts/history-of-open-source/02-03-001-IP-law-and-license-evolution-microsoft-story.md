@@ -72,11 +72,17 @@ authors:
 >
 > 谁能不计报酬地从事专业性工作呢？哪个纯粹的‘爱好者’会花费3个人一年的工作量或一个人3年的工作量心无旁骛地编写程序、调试、录入和发布？我们也要吃饭的呐。
 
-## 黑客的沉默
+## 软件财产权的确定与巩固
 
-面对Bill Gates 的责难，黑客们并没有做出任何的辩解，只有少数人回复称他们不是窃贼，还附上了钱款，但这样的回复不足1%，黑客们继续在自己的圈子里分享着源代码，并发展出了Tiny BASIC 分支[2]。
+面对Bill Gates 的责难，黑客们并没有做出任何的辩解，只有少数人回复称他们不是窃贼，还附上了钱款，但这样的回复不足1%，黑客们继续在自己的圈子里分享着源代码，并发展出了Tiny BASIC 分支[2]。当然，也有完全站在Bill Gates 对立面的，他们反过来指责微软才是盗版者，指控微软盗用了本应属于公众的东西，BASIC 语言是花了几百个人几年的时间才创造出来的，而微软却把这种公共财产变成了私有物品。
 
-但是，Bill Gates 的信却在商业上获得了很多赞同，微软在分发上更为谨慎，随着80年代，计算机存储计算的发展，以及二进制进入著作权保护，软件授权的加密进一步的收紧，微软也能收到更多的授权费。
+这恰如Spar 所总结的[7]:
+
+> 这是技术前沿的一种典型的僵局：财产权得到确定的同时，先驱者遭遇了强盗。
+
+稍后的1977年，MITS 将自己出售给了Pertec公司，这家公司也发现了Altair 需要BASIC语言，也发现了商机，但是他们没有仔细看当年爱德华·罗伯特和微软签订的合同就声称Pertec拥有BASCI，并且拒绝其他生产商使用。盖茨再次大发雷霆，并拿出了当年的合同，Altair版本的BASIC属于微软！经过了6个月的官司，微软胜诉！结果就是微软随意的销售BASIC，而MITS的母公司Pertec则犯了商业盗版罪。
+
+至此，软件是私有财产这个法律界限已经非常的清晰了，而Bill Gates 也发挥着他在法律经济秩序上的天分和耳濡目染的熏陶，在法律上不断巩固其合法性。同时微软在分发上更为谨慎，随着80年代，计算机存储计算的发展，以及二进制进入著作权保护，软件授权的加密进一步的收紧，微软也能收到更多的授权费。
 
 ## 参考材料
 
@@ -86,6 +92,7 @@ authors:
 4. 《我用微软改变世界》，[保罗·艾伦](https://book.douban.com/search/保罗·艾伦)，[浙江人民出版社](https://book.douban.com/press/2507)，2012-3
 5.  《硅谷之火：个人计算机的诞生与衰落（第3版）》， [迈克尔·斯韦因](https://book.douban.com/search/迈克尔·斯韦因) / [保罗·弗赖伯格](https://book.douban.com/search/保罗·弗赖伯格)，[人民邮电出版社](https://book.douban.com/press/2609)，2019-10-30
 6. https://en.wikipedia.org/wiki/Open_Letter_to_Hobbyists ，最后访问时间：2022-04-18
+7. 《Ruling the Waves：From the Compass to the Internet, a History of Business and Politics along the Technological Frontier》，[Debora L. Spar](https://book.douban.com/search/Debora L. Spar)，Harvest Books，January 7, 2003
 
 ## 关于作者
 

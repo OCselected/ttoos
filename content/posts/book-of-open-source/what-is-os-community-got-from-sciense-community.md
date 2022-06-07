@@ -16,7 +16,7 @@ tags:
 - 图书推荐
 - 开源之道
 - 图书共读
-title: "开源共同体从科学共同体中继承了什么--文化视角"
+title: "「开源之史」系列之一/三：开源共同体从科学共同体中继承了什么"
 url: ""
 authors:
 - 开源之道
@@ -117,4 +117,8 @@ authors:
 8. https://www.gnu.org/licenses/license-list.html ，最后访问时间：2022-05-08
 9. 《知识财产法哲学》，彼得·德霍斯，[商务印书馆](https://book.douban.com/press/2851)，2017-3
 10. Steven Weber， The Political Economy of Open Source Software，June 2000, work paper
+
+## 关于作者
+
+![](/public/kuosi-face-of-os.png)「发现开源三部曲」（[《开源之迷》](posts/book-of-open-source/the-fascinating-of-open-source/)已出，《开源之道》《开源之思》撰写中。）作者，「开源之道：致力于开源相关思想、知识和价值的探究」主创，Linux基金会亚太区开源布道者（2022年度团队主席），云计算产业联盟（中国信息通信研究院发起)个人开源专家，Apache 本地共同体北京成员，CCF 开源技术丛书编委会委员 。
 
