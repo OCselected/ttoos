@@ -36,13 +36,13 @@ Apache Group 在1995年初发布Apache Httpd 的时候，采用了 原始 4 条�
 
 我们在前面章节介绍过BSD许可，属于学术类，这也某种程度上说明了Apache Group 对于这款软件的执念——除了完成自己的功能之外，没有其它诉求，反正大家都有自己的网站工作。
 
-Apache Httpd 在万维网迅猛发展保持了同步，很快就成了众多机构假设网站的选择[4]：
+Apache Httpd 在万维网迅猛发展保持了同步，很快就成了众多机构架设网站的选择[4]：
 
-> Apache 在万维网的最初发展中发挥了关键作用，[11] 迅速超越 NCSA HTTPd 成为主要的 HTTP 服务器。
+> Apache 在万维网的最初发展中发挥了关键作用， 迅速超越 NCSA HTTPd 成为主要的 HTTP 服务器。
 
-## IBM 的介入 与 公益基金会的成立
+## IBM 的介入 与 非赢利慈善基金会的成立
 
-互联网的浪潮势不可挡，基于web的商业模式逐步成形，以电子商务为主的企业应用是主流，IBM 也要进入这个市场，而其中web服务器的选择，让这家巨头在自己开发的项目上备受挫折：只有区区不到2%，市场被三个项目瓜分：微软的IIS、Netscape的企业服务和Apache Httpd，[5] 于是 IBM 开始在内部寻找突破，如何以最快的时间获得市场份额，正如James Barry 坦诚所言： 
+互联网的浪潮势不可挡，基于web的商业模式逐步成形，以电子商务为主的企业应用是主流，IBM 也要进入这个市场，而其中web服务器的选择，让这家巨头在自己开发的项目上备受挫折：只有区区不到2%，市场已经被三个项目瓜分：微软的IIS、Netscape的企业服务和Apache Httpd，[5] 于是 IBM 开始在内部寻找突破，如何以最快的时间获得市场份额，正如James Barry 坦诚所言： 
 
 > “You look at Netscape, and actually IBM had a talk with them about acquisition, but that for a lot of reasons didn’t work out. Microsoft—a little bit expensive to buy. And so that left Apache.”
 
@@ -62,10 +62,10 @@ Apache Httpd 在万维网迅猛发展保持了同步，很快就成了众多机�
 
 ## Apache 2.0 ，让世界安静下来
 
-随着Apache Group 成为更为‘正式’的非营利慈善组织，Apache 许可1.1 已经不能满足，这是一份从BSD借鉴过来的，并没有经过时间推敲的许可，随着Apache之道[12]—— 也露出真容，是该进行一次大的整改了，于是发起了一次面向全世界的意见征求[13]，旨在满足：
+随着Apache Group 成为更为‘正式’的非营利慈善组织，Apache 许可1.1 已经不能满足，这是一份从BSD借鉴过来的，并没有经过时间推敲的许可，此去经年，Apache之道[12]—— 也渐渐露出真容，相应的哲学指导：许可也该进行一次大的整改了，彼时已经是 Apache 软件基金会，于是发起了一次面向全世界的意见征求[13]，旨在满足：
 
-* 让许可更加的普适，非Apache软件基金会项目亦可使用
-* 提高与基于 GPL 的软件的兼容性，
+* 让许可更加的普适，非 Apache 软件基金会项目亦可使用
+* 提高与基于 GPL 的软件的兼容性
 * 允许通过引用包含许可证，而不是在每个文件中列出
 * 明确亲力亲为的许可
 * 在专利方面的明确
@@ -74,7 +74,7 @@ Apache Httpd 在万维网迅猛发展保持了同步，很快就成了众多机�
 
 > 6. Trademarks. This License does not grant permission to use the trade names, trademarks, service marks, or product names of the Licensor, except as required for reasonable and customary use in describing the origin of the Work and reproducing the content of the NOTICE file.
 
- ASF 另外的一个创举，就是需要参与ASF项目的亲力亲为者（contributor）签署许可协议，即CLA，这是一种法律上的成熟！也是开源融入世界的重要标志。
+ASF 另外的一个创举，就是需要参与ASF项目的亲力亲为者（contributor）签署许可协议，即CLA，这是一种法律上的成熟！也是开源融入世界的重要标志。
 
 自此，开源世界之外的诟病的声音开始消弱，开源项目的创作者也不用过分纠结学术还是互惠，而是频谱中有了更多的选择，优雅但不失威严。站在2022年，开源占据软件主流的当下，回顾2004年的这个许可的发布，不得不感慨，就在开源的世界内部的分歧：自由还是技术之际，商业的力量以惊人的力量潜入，这一举动改变了很多，之后商业公司的项目，基本上默认都会选择Apache许可2.0，除非有其它特殊的原因，或者再创建一个。
 
