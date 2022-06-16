@@ -23,15 +23,15 @@ authors:
 
 ## 通过网络提供服务——GPL 的loophole
 
-伴随着互联网、万维网的技术迅猛发展，软件提供商可以不需要分发软件即可为用户提供服务，通过标准的浏览器即可完成诸如电子购物、交友等服务，这也就意味着这些软件服务提供商可以利用GPL条款中没有覆盖到的内容而堂而皇之的违反GPL条款，还不被抓住任何证据，更何况在 GPL 的FAQ中，我们也可以看到关于：“GPL 是否要求将修改版本的源代码公开？”时的回答[1]
+伴随着互联网、万维网的技术迅猛发展，软件提供商可以不需要分发软件即可为用户提供服务，通过标准的浏览器即可完成诸如电子购物、交友等服务，这也就意味着这些软件服务提供商可以利用 GPL 条款中没有覆盖到的内容而堂而皇之的违反 GPL 的精神和哲学，还不被抓住任何证据，更何况在 GPL 的FAQ中，我们也可以看到关于：“GPL 是否要求将修改版本的源代码公开？”时的回答[1]
 
 > GPL不要求你发布你的修改版或者任何一部分修改版。你有自由修改并自用，而不必发布。这个规则也适用于机构（包括公司）；机构可以做出修改版并在内部使用而不向其他外部组织发布。
 
-这也就是意味着，在提供网络服务的技术栈里，可以肆无忌惮的搭便车，在2000年的一次会议上，Linux 发行版 MandrakeSoft 的 CEO Henri Poole[2]在阿姆斯特丹的会议上遇到了 Richard Stallman，并就上面的GPLv2关于提供网络服务不能阻止搭便车者的loophole而进行了探讨，2001 年，Poole 创立了 Affero Inc.（一家 Web 服务企业），他迫切地需要一个许可，能够满足类似GPLv2 在传统软件分发过程的保证软件一直自由，但是现实中没有一款开源或自由软件许可能够做到。
+这也就是意味着，在提供网络服务的技术栈里，可以肆无忌惮的搭便车。在2000年的一次会议上，Linux 发行版 MandrakeSoft 的 CEO Henri Poole[2]在阿姆斯特丹的会议上遇到了 Richard Stallman，并就上面的GPLv2关于提供网络服务不能阻止搭便车者的loophole而进行了探讨，2001 年，Poole 创立了 Affero Inc.（一家 Web 服务企业），他迫切地需要一个许可，能够满足类似GPLv2 在传统软件分发过程的保证软件一直自由，但是现实中没有一款开源或自由软件许可能够做到。
 
 ## AGPL的诞生：网络服务亦须开源
 
-Henri Poole 在Stallman的劝说下加入了自由软件基金会，这样就有更多的机会和自由软件阵营的人进行沟通，尤其是法律人士，尤其是旗帜人物Eben Moglen 和 Bradley M. Kuhn，他们一直都在探讨 GPLv2 “应用服务提供商 (ASP) 问题”，有一天早上，Kuhn 在和Moglen 通电话的时候，突然想起了计算机著名的Stet[3]，即自我复制的Quine [4]，这就为解决这个问题找到新的思路。于是赶紧和 Poole 说了他们的意见，几周之后的2002年3月份，在自由软件基金会发布了称之为第一个 copyleft 的web service 的许可：Affero 通用许可证[5]，即 AGPL：
+Henri Poole 在Stallman的劝说下加入了自由软件基金会，这样就有更多的机会和自由软件阵营的人进行沟通，尤其是法律人士，尤其是旗帜人物Eben Moglen 和 Bradley M. Kuhn，他们一直都在探讨 GPLv2 “应用服务提供商 (ASP) 问题”，有一天早上，Kuhn 在和Moglen 通电话的时候，突然想起了计算机著名的自我复制的Quine[3]，即 Stet[4]，这就为解决这个问题找到新的思路。于是赶紧和 Poole 说了他们的意见，几周之后的2002年3月份，在自由软件基金会发布了称之为第一个 copyleft 的web service 的许可：Affero 通用许可证[5]，即 AGPL：
 
 > AGPL 将 GNU 通用公共许可证 (GNU GPL) V2 与一项附加条款相结合，以解决公众通过网络使用的软件。新规定通过提供下载源的机制和限制删除机制，使作者能够确保用户有权使用、学习、复制、修改和重新分发该软件。
 
@@ -48,7 +48,7 @@ AGPL 在 GPL 中增加了一个新条款——第 2(d) 节。该条款规定，�
 > 13.Offering the Program as a Service.
 > 如果您将本程序的功能或修改版本作为服务提供给第三方，您必须根据本许可的条款通过网络下载免费向所有人提供服务源代码。
 
-OSI 经过了数月的争论，并没有接受这款许可，也没有明确而清晰的反驳。MongoDB 则遭到了一些抵御，RedHat 、Fedora 、Debian等Linux发行版率先声明放弃MongoDB，紧接着，云计算巨头 AWS 则fork了这个项目，发布了兼容版本的 DocumentDB[12]。一场针锋相对的竞争开始了，但是，这还不是最后的谢幕。
+OSI 经过了数月的争论，并没有接受这款许可，也没有明确而清晰的反驳。MongoDB 则遭到了一些抵御，RedHat 、Fedora 、Debian等Linux发行版率先声明放弃MongoDB，紧接着，云计算巨头 AWS 则根据以前的版本，继续提供商业产品，并发布了兼容版本的 DocumentDB[12]。一场针锋相对的竞争开始了，但是，这还不是最后的谢幕。
 
 ## 抢夺利益：针对巨头的许可
 
@@ -74,8 +74,8 @@ MongoDB 并非个案，和它一样的ISV，如Redis、Confluent、CockroachDB�
 
 1.  https://www.gnu.org/licenses/gpl-faq.html#GPLRequireSourcePostedPublic ，最后访问时间：2022-06-14
 2.  https://en.wikipedia.org/wiki/Henry_Poole_(technologist) ，最后访问时间：2022-06-15
-3.  https://web.archive.org/web/20080315231323/http://www.softwarefreedom.org/technology/blog/2007/nov/21/stet-and-agplv3/ ，最后访问时间：2022-06-15
-4.  https://en.wikipedia.org/wiki/Quine_(computing) ，最后访问时间：2022-06-15
+3.  https://en.wikipedia.org/wiki/Quine_(computing) ，最后访问时间：2022-06-15
+4.  https://web.archive.org/web/20080315231323/http://www.softwarefreedom.org/technology/blog/2007/nov/21/stet-and-agplv3/ ，最后访问时间：2022-06-15
 5.  https://www.gnu.org/press/2002-03-19-Affero.html ，最后访问时间：2022-06-15
 6.  https://web.archive.org/web/20050903133132/http://www.devchannel.org/webserviceschannel/02/05/21/2245226.shtml?tid=52 ，最后访问时间：2022-06-15
 7.  https://opensource.google/documentation/reference/using/agpl-policy ，最后访问时间：2022-06-15
