@@ -42,6 +42,8 @@ Stallman 在文章中如此形容此时的心境：群体的崩溃。[4]
 
 Richard Stallman 几番沟通无果之后，决定自己基于最后可自由分发的Gosling 版本重写 ，几经波折，终于在1985年发布了，并且成为其庞大的GNU 计划的龙头项目——GNU Emacs，但是这次惨痛的教训，让Stallman 明白，需要在道德之外来进行约束，因为那个他认为的理想群体，已经衰落，而自己成立人们眼中：**最后的黑客！**[7]
 
+## 发布第一份自由软件许可
+
 在发布软件的同时同步发布了许可：Emacs  通用公共许可[8]。这就是后来在1989年1月发布的完整版的 GNU 通用许可的原始雏形。
 
 像所有人类创造的事物一样，Stallman 并不是全新的写作，而是借鉴了自己熟悉的内容，比如我们可以在 Emacs  通用公共许可的免责部分还可以看到 MIT 许可的影子，毕竟 Richard Stallman 当时的Emacs 源代码还放在MIT的服务器上。以下是笔者整理的几个关键点：
@@ -55,13 +57,13 @@ Richard Stallman 几番沟通无果之后，决定自己基于最后可自由分
 这个显得粗糙的文本，需要经过律师的加入，才能成为被世人所识别和解读，也就是改变软件产业的GPL 的诞生。
 
 
-## 自由软件许可 GNU GPL——天才般的创举
+## 自由软件许可 GNU GPL 发布 —— 天才般的创举
 
 学术许可显然是非常宽松的了，但是对于 Richard Stallman 而言，这么做显然不够，根据自身遭受的经历，学术许可显然无法保证分发之后的用户自由，因为能够修改的厂商仍然可以把学术许可的代码包装成闭源专有软件的，而这是违背 hacker 精神的，既然现有的许可无法满足，那么只能自己开发了。
 
 Richard Stallman 显然不是一般角色，而是那种人类的翘楚，虽然对于现有的著作权应用于软件严重不满，但是他并没有尝试去否定它，而是利用hacker的思路来应对，发明出了“copyleft”这个令大部分接受了“copyright”的人理解起来颇费周折的革命性概念。如果这个名词带有聪明的狡辩嫌疑的话，那么通用公共许可的起草与发布，算是一场正式的社会运动了。
 
-《礼记·曲礼上》有云：***礼尚往来。往而不来，非礼也；来而不往，亦非礼也。\***  几千年的文化积淀，理解起来这样的互惠性，实在是太容易了。有了这个基础，对于GPL这样的许可，不过是实现了这个日常礼仪罢了。
+《礼记·曲礼上》有云：**礼尚往来。往而不来，非礼也；来而不往，亦非礼也。**  几千年的文化积淀，理解起来这样的互惠性，实在是太容易了。有了这个基础，对于 GPL 这样的许可，儒家文化不过是日常礼仪罢了。
 
 没错，GPL 就是互惠性，而且在许可中强调修改、重新分发的衍生作品也必须采用GPL，这样保证了软件的自由可以一直延续下去。这是一种有条件的许可，如果你符合条件，你就有权使用；如果你不符合，你就是侵权。[9]
 
@@ -69,7 +71,7 @@ Richard Stallman 显然不是一般角色，而是那种人类的翘楚，虽然
 
 如果我们只是把GPL当作一般的软件许可的话，那么真的是低估了改变世界的自由软件运动和开源软件运动的背后的深层逻辑。 GPL 绝非那些字面上的条款，而是其解决了人们集体行动的重要的后顾之忧。
 
-GPL 是自由软件共同体的哲学基石，它确保人们可以放心的付出劳动，而毋需为他人做嫁衣裳，如果认同的话，还可以是这力量的一部分。
+GPL 是自由软件共同体的哲学基石，它确保人们可以放心的付出劳动，而毋需为他人做嫁衣裳，如果认同的话，还可以是这力量的一部分。这是开源项目能够成功的重要共识，以及合理的知识财产的分配。
 
 ## 一场改变历史的运动
 
@@ -81,7 +83,7 @@ GPL 1.0 并不完善，至少对于自由软件共同体来说，还是显得有
 
 > The GPL has become a powerful force in the information age. A hack on the copyright system, it turns the concept of copyright upside down, creates a whole community cooperating around the world and enables the development of *software by the people, of the people and for the people.* Many new licenses were modeled after or influcenced by the GPL. [10]
 
- 历史，从此改变了轨迹。
+软件的历史，从此改变了轨迹；软件的世界，也从此被彻底的改变了[11]。
 
 ## 参考资料
 
@@ -95,6 +97,7 @@ GPL 1.0 并不完善，至少对于自由软件共同体来说，还是显得有
 8.  https://www.free-soft.org/gpl_history/emacs_gpl.html ，最后访问时间：2022-05-11
 9.  《知识财产法哲学》，[[澳\] 彼得·德霍斯](https://book.douban.com/search/彼得·德霍斯)，[商务印书馆](https://book.douban.com/press/2851)，2017-3
 10.   https://www.free-soft.org/gpl_history/ ，最后访问时间：2022-06-01
+11.  《Open Source Licensing: Software Freedom and Intellectual Property Law》，Lawrence Rosen ，Prentice Hall，2004
 
 ## 关于作者
 
