@@ -74,6 +74,12 @@ Apache Httpd 在万维网迅猛发展保持了同步，很快就成了众多机�
 
 > 6. Trademarks. This License does not grant permission to use the trade names, trademarks, service marks, or product names of the Licensor, except as required for reasonable and customary use in describing the origin of the Work and reproducing the content of the NOTICE file.
 
+### 商标的利用
+
+从本质上讲，开源的原则 \#3 和商标是冲突的[10]，就是说当我们希望有开发者修改、发布衍生版的时候，连同商标一同发布，所有权的问题就出现了，Apache 2.0许可没有限制开发者再次分发是否开源，允许闭源，但是衍生版本不得使用 Apache 相关商标，否则视为侵权。而这也是Apache在接受捐赠项目时，一定要将商标权转让到基金会的缘故。
+
+相比于GPL v2， 人们似乎更加愿意接受这个，尽管效果都是一样的，开源项目防止fork[14]，以集中本来就薄弱的力量开发项目。背后的心理考量，值得我们深思。
+
 ASF 另外的一个创举，就是需要参与ASF项目的亲力亲为者（contributor）签署许可协议，即CLA，这是一种法律上的成熟！也是开源融入世界的重要标志。
 
 自此，开源世界之外的诟病的声音开始消弱，开源项目的创作者也不用过分纠结学术还是互惠，而是频谱中有了更多的选择，优雅但不失威严。站在2022年，开源占据软件主流的当下，回顾2004年的这个许可的发布，不得不感慨，就在开源的世界内部的分歧：自由还是技术之际，商业的力量以惊人的力量潜入，这一举动改变了很多，之后商业公司的项目，基本上默认都会选择Apache许可2.0，除非有其它特殊的原因，或者再创建一个。
@@ -94,6 +100,7 @@ ASF 另外的一个创举，就是需要参与ASF项目的亲力亲为者（cont
 11. 《开源之迷》，适兕，人民邮电出版社，2022-02
 12. [Apache 之道，开源可持续成功的秘籍](/posts/foundation_introduce/the_apache_way_to_sustainable_os/) 
 13. https://lists.apache.org/list.html?license@apache.org  ，最后访问时间：2022-06-08
+14. 《Understanding Open Source and Free Software Licensing》，Andrew M. St. Laurent，O'Reilly Media, Inc.，2004-08
 
 
 ## 关于作者
