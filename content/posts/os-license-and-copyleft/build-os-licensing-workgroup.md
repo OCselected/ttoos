@@ -41,6 +41,14 @@ authors:
 
 和「开源之道」的其它小组一样，保持本土的联络方式微信群之外，也保持Slack、邮件列表等的工具。
 
+## 构建对话
+
+已经不再维护，但是曾经为开源世界的法律提供了一个对话的广场：Groklaw （http://www.groklaw.net/ ）将自己描述为： 
+
+> "a place where lawyers and geeks could explain things to each other and work together, so they'd understand each other's work better"
+
+「开源之法」小组也希望能够成为开发者、律师、创业者等背景的朋友构建对话的地方。
+
 ## 可以做的事情
 
 *  积极跟进开源世界中关于许可相关的信息；
