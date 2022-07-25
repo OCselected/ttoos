@@ -50,7 +50,11 @@ authors:
 
 我们称之为实用的部分，从技术架构到组织方式，流水线、release与持续交付，透明的沟通和友好的共同体氛围，甚至是代码品味与注释风格，显然都可以统统都包含进我们可以称之为“开源方法论”（Open Source development ）当中来。
 
-![[](https://mp.weixin.qq.com/s/fiJlS0JdKthhPQLomIt8rgv)](./images/oscar-2022.jpeg)
+(点击下面图片，了解详情。)
+
+[![](./images/oscar-2022.jpeg)](https://mp.weixin.qq.com/s/fiJlS0JdKthhPQLomIt8rgv)
+
+
 
 我们希望你能够分享如下（但不限于）关于开源项目中工程文化方面的实践和思考：
 
