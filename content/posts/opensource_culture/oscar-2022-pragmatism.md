@@ -52,7 +52,7 @@ authors:
 
 (点击下面图片，了解详情。)
 
-[![](./images/oscar-2022.jpeg)](https://mp.weixin.qq.com/s/fiJlS0JdKthhPQLomIt8rgv)
+[![](./images/oscar-2022.jpeg)](https://mp.weixin.qq.com/s/fiJlS0JdKthhPQLomIt8rg)
 
 
 
