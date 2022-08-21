@@ -1,7 +1,7 @@
 ---
 categories:
 - 开源
-- 感悟
+- 活动
 date: 2022-08-17T11:49:39+08:00
 description: "疫情让我们所有人反思，原来面对面的交流和沟通是如此的重要，网络是现实的延伸，而不是取代，新冠病毒已经困扰了我们数年，随着疫苗、治疗药物，以及更为重要的社会组织，我们渐渐的学会了和它共存，当世界再度开放的时候，我们作为开源世界的一分子，更要珍惜和巩固线下活动，学无止境！"
 keywords:
@@ -10,12 +10,12 @@ keywords:
 - Reading
 - News
 tags:
-- 每周精选
+- meetup
 - 开源之道
-title: "「开源之道」征稿：Open Source Way Call for Proposals"
+title: "「开源之道」征稿：Open Source Way Call for Presentation"
 url: ""
 authors:
-- 「开源之道」
+- 「开源之道」·适兕
 ---
 
 ## 内容优先的哲学指导
