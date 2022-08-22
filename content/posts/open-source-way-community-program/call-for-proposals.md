@@ -26,8 +26,18 @@ authors:
 
 所以我们会从内容开始作为一切行动的开始[2]，没有内容，我们就会耐心的等待，或者是进一步的发掘分享者。
 
-所以，我们以征稿为举办活动的第一要务：
+在开源的活动中分享，益处是显而易见的，请看官忍受我的啰嗦：
 
+* 软技能的锻炼
+* 提升自己的影响力，树立声望
+* 网络外部性获得更多可能性
+* 建立弱连接[3]，获得更好工作机会
+* 争取获得反馈的机会，进一步完善和改进自身项目
+* 了解商业环境
+* 感知社会和制度环境
+* 挑战社交劣势，主动出击
+
+所以，我们以征稿为举办活动的第一要务：
 
 ## 「开源之道」日常 Meetup 征稿
 
@@ -48,19 +58,6 @@ authors:
 提交表单: [「开源之商」CFP](https://shimo.im/forms/96gTtHYVXvrd9Vrt/fill)
 
 更多关于「开源之商」，请移步：[开源的商业探索 ——「开源之商」演讲分享招募](https://shimo.im/docs/VXvtxYhdPP6jHDJt)
-
-### 「OSCAR·开源之书·共读」
-
-议题范围：
-* 「OSCAR·开源之书·共读」小组成员自己认为可分享的
-* 「OSCAR·开源之书·共读书单」里的图书读后感
-* 「开源学」所列书单读后感
-* 「OSCAR·开源之书·共读」小组推荐图书读后感
-*  如何/怎么阅读书，方法、兴趣培养与功利性
-
-我们愿意等待读者精心准备的分享，因为一本好书和读者的体会是需要时间慢熬的。我们会以年为单位来等待读者的输出。
-
-提交表单：[议题征集：「OSCAR · 开源之书·共读」](https://docs.qq.com/form/page/DUE9Oc3RWcUpaUnZF)
 
 ### 「开源之法」
 
@@ -93,6 +90,59 @@ authors:
 
 提交表单：[]()
 
+### 「开源之算」
+
+正在策划中，敬请期待！
+
+提交表单：[]()
+
+## 「开源之道」·适兕 参与的开源组织及项目
+
+适兕除了是「开源之道」的主创之外，也在担任开源组织的职责，如Linux基金会亚太区发起的开源布道者[4]成员，Apache Local Community beijing [5]的成员，信通院OSCAR联盟的个人开源专家等，那么在这些组织中也会倡导和积极的参与对应的 Meetup，以下这些CFP亦是日常和常年招募的：
+
+### 「OSCAR·开源之书·共读」
+
+议题范围：
+* 「OSCAR·开源之书·共读」小组成员自己认为可分享的
+* 「OSCAR·开源之书·共读书单」里的图书读后感
+* 「开源学」所列书单读后感
+* 「OSCAR·开源之书·共读」小组推荐图书读后感
+*  如何/怎么阅读书，方法、兴趣培养与功利性
+
+我们愿意等待读者精心准备的分享，因为一本好书和读者的体会是需要时间慢熬的。我们会以年为单位来等待读者的输出。
+
+提交表单：[议题征集：「OSCAR · 开源之书·共读」](https://docs.qq.com/form/page/DUE9Oc3RWcUpaUnZF)
+
+### Linux 基金会亚太区 OSPO SIG （开源万里行活动）
+
+OSPOlogy[6] 是一门全新的学科与挑战，因为在这里所汇集的是企业与开源共同体的边界与交叉的汇合，凡是涉及以下（不限于）任何的主题，都是我们希望获得探讨和挖掘知识的目标。
+* 知识财产权相关主题：许可协议、著作权、专利、商业秘密、商标、合规等
+* 安全：技术的吸积效应会导致复杂度上升，开源已经是超越人类的巨大创造难题了。
+* 管理： 企业采用的考核制度，与开源共同体之间的异同之处，尤其我们需要摸索出一条兼得的途径
+* 预算： 开源是需要付费的，付多少划算？不付费显然是吃亏的，究竟是多少？所谓赢亏也。
+* 商业环境： 模式、制度、习俗等都是开源发展的先天条件，OSPO 能否发展，也取决于此。
+
+提交表单：[CFP — OSPO SIG  2022 “开源万里行” 议题征集](https://docs.qq.com/form/page/DUEdqYllSa0VaV1dj)
+
+### Linux 基金会亚太区云原生 SIG Meetup
+
+欢迎来到云原生的时代，我们见证了CNCF 的项目Landscape的迅猛发展，作为中立的组织，我们SIG希望能够让更多人了解云原生——哪些微服务化之下不断细分的技术项目，而这需要更多的沟通与对话。
+
+提交议题范围（不限于）：
+
+* 有关云原生的技术
+* CNCF 下正在sandbox、incubating、Graduated的项目
+* 关于community 构建
+* 关于contributor 的成长故事
+
+提交表单：[议题征集：LFAPAC 云原生 SIG Meetup （常年有效）](https://docs.qq.com/form/page/DUExhZFpQcFlmWUdZ)
+
+### Apache Loacal Community Beijing Meetup
+
+正在酝酿中，敬请期待！
+
+关于 ALC Beijing 的活动，请移步[ALC Beijing Events](https://cwiki.apache.org/confluence/display/COMDEV/ALC+Beijing+Events)了解详情～ 
+
 ## 「开源之道」年度研讨会征稿
 
 正在酝酿中，敬请期待！
@@ -103,3 +153,7 @@ authors:
 
 1. [开源：一场无限的游戏](posts/opensource_culture/open-source-an-infinite-game/)
 2. [LF APAC 开源布道者分享系列之四：如何去组织活动](posts/lfapac-evangelist-sharing/we-need-make-event-happening/)
+3. Mark S. Granovetter，The Strength of Weak Ties， 1973
+4. Linux Foundation APAC 首批开源布道者官方发布会，https://blog.csdn.net/u014249394/article/details/113409827 ，最后访问时间：2022-08-22
+5. https://cwiki.apache.org/confluence/display/COMDEV/ALC+Beijing ，最后访问时间：2022-08-22
+6. https://todogroup.org/guides/ ，最后访问时间：2022-08-22
