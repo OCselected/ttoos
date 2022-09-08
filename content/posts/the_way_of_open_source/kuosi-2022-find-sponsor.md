@@ -12,7 +12,7 @@ keywords:
 tags:
 - 开源人
 - 开源之道
-title: "「开源之道」主创能为我们社会做些什么？"
+title: "「开源之道」主创能为我们做些什么？"
 url: ""
 authors:
 - 「开源之道」·适兕
@@ -80,12 +80,13 @@ opensourceway.community 本身也是实践 Open Source Way 的方式，翻译、
 
 ### LF APAC 开源布道者
 
-作为2021年被大家投选的**“Top evangelist”** ，2022年将会以SIG 治理席位的角色参与更多的布道工作，主要是Open Source Progrm office 在本土的推广和知识普及，鉴于日益增加的安全问题，也会推广OpenSSF等，以撰写文章、组织meetup、对话业界大咖为主要的方式，另外就是提供有偿的培训工作。
+作为2021年被大家投选的 **Top evangelist** ，2022年将会以SIG 治理席位的角色参与更多的布道工作，主要是Open Source Progrm office 在本土的推广和知识普及，鉴于日益增加的安全问题，也会推广OpenSSF等，以撰写文章、组织meetup、对话业界大咖为主要的方式，另外就是提供有偿的培训工作。
+
+另外也会发起拜访行活动，与拥抱开源的企业进行深度交流。
 
 ### Apache Local Community BeiJing
 
 作为这个家门口的Apache 组织创始成员之一，仍然会做一些力所能及的事情，那就是组织策划 meetup 和ALC BeiJing Podcast的联席主持。当然，在 ApacheCon Asia 的时候，会做些力所能及的事情。
-
 
 ## 上述所有的动作有意义吗？
 
