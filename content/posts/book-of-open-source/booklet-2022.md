@@ -21,7 +21,7 @@ authors:
 - 「开源之道」·适兕
 ---
 
-![](/images/oscar-booklet-2022-lists.jpg)
+![](/images/oscar-booklet-2022-booth-of-art.jpg)
 
 ## 掌握开源需要读几本书？
 
