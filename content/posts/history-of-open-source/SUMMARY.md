@@ -22,21 +22,23 @@ authors:
 
 一部写给自己看的有关开源的历史。
 
-## 第一部分
+一部为了准备《开源之道》素材使用的个人资料收集。
+
+## 第一部分：该如何理解历史
 
 * [该如何思考开源的历史？](00-how-to-think-in-history-view.md)
 
 
-## 第二部分
+## 第二部分：开源被忽略了什么？
 
 * [类比：人类历史上那些重要的暗流涌动](001-the-undercurrent-of-human-history.md)
 * [真实世界中看到的开源和看不见的价值](002-what-is-seen-and-unseen-in-real-world.md)
 
-## 第三部分
+## 第三部分：开源的源头
 
 * [开源的史前故事——高等院校和科研机构的代码开放与共享](01-let-us-talk-os-in-high-school.md)
 
-## 第四部分
+## 第四部分：开源许可的演化
 
 * [被迫的反击——捍卫开源知识财产的历程](02-00-IP-law-and-license-evolution-start.md)
 * [知识财产常识及人类的对抗](02-01-IP-law-and-license-evolution-brief-common-knowledge.md)
@@ -56,12 +58,12 @@ authors:
 * [难辨真伪 —— 人人都可以开源许可下的困局](02-10-future-and-more-challenge.md)
 * [君子协定 —— 联盟以对抗万恶的专利](02-11-os-and-software-patents.md)
 
-## 第五部分
+## 第五部分：计算机技术中开源的部分
 
 * [开源的软件史该如何表述](03-software-solution-stack-evolve-and-os-growth.md)
 * [堆栈的演化与开源的增长](03-01-software-solution-stack-evolve-and-os-growth.md)
 
-## 第六部分
+## 第六部分：开源文化溯源
 
 * [从反主流文化到未知的默认文化](04-from-Counterculture-to-unkonwculture.md)
 * [文化的重要作用 —— 开源的本质](04-00-culture-matters-os.md)
@@ -70,19 +72,19 @@ authors:
 * [黑客诞生的来由——反主流文化之源](04-03-counter-culture.md)
 * [开源的发展镶嵌在更大的文化背景之中](04-04-rethink-open-source-culture.md)
 
-## 第七部分
+## 第七部分：不可或缺的力量——商业的探索与演化
 
 * [商业的发展——软件放弃许可费用的艰难探索](05-business-from-freedom-to-subscription.md)
 * [法律经济秩序下的软件商业——开源的温床](05-00-the-economic-structure-of-intellectual-property-law.md)
 * [自由软件的商业模式 —— Cygnus 在许可之外的探索](05-01-emacs-and-cygnus-make-money.md)
 
-## 第八部分
+## 第八部分：软件的核心力量——开源下的协作演变
 
 * [协作的演化——从原子个体到全球开放协作](06-the-evolution-of-open-collaboration.md)
 * [电子邮件的诞生与发展——程序协作的可能性](06-01-email-born-and-build-connection.md)
 * [从文本差异补丁到分布式版本控制](06-02-from-patch-to-git-vcs-evolved.md)
 
-## 第九部分
+## 第九部分：集体行动的保障与逻辑——开源机构与组织
 
 * [开源的治理之道——非营利组织与解决难题](07-os-organzition-and-governance.md)
 * [推动 GNU/Linux —— 企业联盟式的非营利基金会LF的诞生与发展](07-01-the-rise-of-linux-foundataion.md)
