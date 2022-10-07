@@ -3,7 +3,7 @@ categories:
 - 开源
 - 历史
 date: 2022-10-07T14:10:15+08:00
-description: ""
+description: "将文章凑成书，是需要努力的，不然就是乱七八糟，不知所谓的信息罢了。"
 keywords:
 - Open Source
 - Culture
@@ -12,7 +12,7 @@ keywords:
 tags:
 - 历史故事
 - 开源之史
-title: "「开源之史」系列索引"
+title: "「开源之史」索引 —— 假设它是一本书的话"
 url: ""
 authors:
 - 「开源之道」·适兕
@@ -20,11 +20,11 @@ authors:
 
 # 《开源之史》
 
-* [](README.md)
+一部写给自己看的有关开源的历史。
 
 ## 第一部分
 
-* [该如何思考开源的历史？](./00-how-to-think-in-history-view.md)
+* [该如何思考开源的历史？](00-how-to-think-in-history-view.md)
 
 
 ## 第二部分
