@@ -3,7 +3,7 @@ categories:
 - 开源
 - 历史
 date: 2022-10-07T15:39:58+08:00
-description: ""
+description: "将人群区分出来，是商业的必经之路，总是有人愿意购买，无论是商品、服务、理念、承诺，开源项目所形成的能够有效解决问题的知识财产抽象物品，软件作者按照自己的意愿和理解，不同的使用者授予不同的许可，一切都是理所当然、合情合理的。"
 keywords:
 - Open Source
 - Culture
@@ -75,11 +75,29 @@ authors:
 
 ### MySQL AB
 
+说起MySQL 可谓是无人不知，无人不晓，随着万维网崛起的技术栈，MySQL 凭借许可的优势，一举夺得了互联网站采用最多的关系型数据库系统，但是MySQL 本身从来都不是由共同体来主导开发的，从它诞生的第一天起，它就是商业公司的输出， Michael Widenius 早在1979年就开始了数据库的编写工作，基于其在TcX的十多年的积累[10]，在1995年和David Axmark、Allan Larsson一起成立了公司MySQL AB，并在1991年发布了MySQL的第一个版本，从这个时刻起，MySQL都是基于双许可发布的，不过这个时候的开源许可是基于Ghostscript public license，创始人对于开源的力量非常的认同，同时也对商业有着近乎执拗的偏执[11]：
 
+> The licensing was set up to allow us to give MySQL away for free to the majority of our users, and get money from people who wanted to distribute MySQL as part of a closed source product.
+
+在创始人的认知里，将再闭源付费是一件天经地义的事，对于人们遵守开源许可也是理所当然。将规则的定义如此的明确，也是如此的清晰明了，并行之有效的去执行。
+
+MySQL AB 在2001年邀请Mårten Mickos加入并担任CEO一职，这位传奇般的CEO，让MySQL AB 声名鹊起，一路高歌猛进，最终10亿美金卖给了SUN。后来的SUN被Oracle收购，MySQL 系列产品也成为了Oracle 数据库产品的一部分。仍然以双许可叱咤江湖。
 
 ## “天桥卖把式”能走多远？
 
+在一些武侠影视剧的桥段里，经常会看到英雄落魄，街头卖艺，胸口碎大石，然后和围观的群众收点小钱，有的还作为秀场进而卖点大力神丸之类的，也是屡见不鲜，但是通常不可持续，仅用来临时过渡。
 
+![](http://image2.sina.com.cn/dy/c/2007-04-09/9ab2feb25b0c190dc923eaf9ecff0021.jpg)
+
+(图片来源：新浪网)
+
+从市场的隔离理论[12]来讲，在专有软件商家一般为区别为：个人版、家庭版、企业版、企业白金版之类的，当然价格不同，功能不同，但是许可是一致的，按照许可来区别和隔离不同的群体，也未尝不可，但是是不是和OSI所定义的第五条原则：
+
+> No Discrimination Against Persons or Groups
+
+有冲突和矛盾之处，还是需要进一步的讨论和分析的。
+
+不过笔者更为担忧的是在法律不够完善（更多意义上的指不遵守、不执行），社会规范不够的时候，搭便车者会采用双重标准，即将MySQL 开源的许可来构建商品，但是再分发却按照专有软件闭源产品来进行售卖，这样的话，就完全违背了MySQL 原作者的意愿和合同。这就又回到了我们这个部分的开始部分：经济秩序的运行严重依赖于法律的遵从。那么这样最后所导致的局面就是，最上游的项目被无限fork，开源的优势完全无法利用，而商用许可却被无限的分割，眼看着项目不可持续，无以为继。
 
 ## 参考资料
 
@@ -92,6 +110,10 @@ authors:
 7. A Berkeley DB primer， https://web.archive.org/web/20060531032337/http://searchopensource.techtarget.com/originalContent/0,289142,sid39_gci1071880,00.html ，最后访问时间：2022.10.08
 8. https://web.archive.org/web/20060315211506/http://www.sleepycat.com/company/pdfs/sc_about_1205.pdf ，最后访问时间：2022.10.08
 9. https://www.oracle.com/database/technologies/related/berkeleydb-downloads.html ，最后访问时间：2022.10.08
+10. MySQL History and Architecturel， https://www.oreilly.com/library/view/understanding-mysql-internals/0596009577/ch01.html ，最后访问时间：2022.10.09
+11. From Visions to Reality - an interview with David Axmark, Co-Founder of MySQL AB ,https://web.archive.org/web/20100326075814/http://dev.mysql.com/tech-resources/interviews/david-axmark.html ，最后访问时间：2022.10.09
+12. 《经济解释（二O一九增订版）》，张五常，中信出版社，2019.8.31
+
 
 ## 关于作者
 
