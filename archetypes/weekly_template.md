@@ -14,7 +14,7 @@ tags:
 title: "{{ replace .TranslationBaseName "-" " " | title }}"
 url: ""
 authors:
-- 开源之道
+- 「开源之道」·适兕
 ---
 ---
 **声明：本文所言论，仅代表适兕个人观点**
