@@ -88,6 +88,7 @@ authors:
 ## 第九部分：集体行动的保障与逻辑——开源机构与组织
 
 * [开源的治理之道——非营利组织与解决难题](posts/history-of-open-source/07-os-organzition-and-governance/)
+* [OSI 的缔造和历史地位](posts/history-of-open-source/07-008-birth-of-osi.md)
 * [推动 GNU/Linux —— 企业联盟式的非营利基金会LF的诞生与发展](posts/history-of-open-source/07-01-the-rise-of-linux-foundataion/)
 * [Apache 软件基金会的诞生与崛起](posts/history-of-open-source/07-009-apache-foundation-born/)
 
