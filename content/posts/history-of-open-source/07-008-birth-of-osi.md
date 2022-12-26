@@ -28,9 +28,13 @@ authors:
 
 随后，Raymond 乘势将之扩展成为一本书籍发行[5]，并成为了引用广泛的开源开发方法论的作品，这本书进一步扩大了自由/开源软件开发方法论的优势地位。Eric S Raymond 一时之间也成了各种软件开发的红人，他演讲布道的时候，“听者有意”中的一员策划着一件改变软件历史的事件。他就是Frank Hecker[6]。
 
+《大教堂与集市》的影响是深远的，作者在1997年在接受采访感慨总结到：
+
+> 对于大批读到这篇文章的黑客而言，这篇文章就如同点燃的星星之火。同时，人们对于自己所处的文化世界的整个观念，都会迅速改变。[7]
+
 ## 华尔街新宠 NetScape 与妄图霸占软件市场的微软竞争
 
-我们在 Mozilla 公共许可一节[7]，简单谈到了Netscap的崛起，并在1995年8月在纳斯达克上市，当天的市值冲到了220亿美元，靠软件起家并利用法律作为武器树立了软件商业的新秩序的微软也看到了互联网的前景，在当年的12月就启用了进入互联网的战略[8]。微软在 1995 年以 200 万美元的价格获得了 Spyglass Mosaic 的许可，对其进行了修改，并将其重新命名为 Internet Explorer[9]，并以免费的方式预装在其旗舰产品Windows 95中，这样的方式给Netscape强大的威胁，NetScape 在客户端的市场占有率不断的下降，尽管Netscape 提出了反垄断的诉讼，但是漫长的官司，并不能挽救日渐失去的市场。于是，Netscape 想各种办法试图改变这一局面。
+我们在 Mozilla 公共许可一节[8]，简单谈到了Netscap的崛起，并在1995年8月在纳斯达克上市，当天的市值冲到了220亿美元，靠软件起家并利用法律作为武器树立了软件商业的新秩序的微软也看到了互联网的前景，在当年的12月就启用了进入互联网的战略[9]。微软在 1995 年以 200 万美元的价格获得了 Spyglass Mosaic 的许可，对其进行了修改，并将其重新命名为 Internet Explorer[10]，并以免费的方式预装在其旗舰产品Windows 95中，这样的方式给Netscape强大的威胁，NetScape 在客户端的市场占有率不断的下降，尽管Netscape 提出了反垄断的诉讼，但是漫长的官司，并不能挽救日渐失去的市场。于是，Netscape 想各种办法试图改变这一局面。
 
 ## Eric S Raymond 坐在了山景城的 Netscape 总部
 
@@ -40,12 +44,33 @@ authors:
 
 ## 成立开放源代码促进会
 
-## 打算注册品牌
+NetScape 的举动，给了Eric S Raymond 和 Bruce Perens等人极大的鼓励，他们也开始和自由软件的领袖们商议，这是让自由软件发扬光大的大好机会啊，可是自由软件基金会和GNU到发起人Richard Stallman 并不这么认为，Eric Raymond 并没有因此而放弃获得资本和商业力量的支持，而是转向其他领袖们的支持，其实，有很大一部分人对Richard  Stallman 的过分强调道德早就想避而远之了。例如Linux 的创始人 Linus就是其中一例，要想和自由软件走出不同的路径，首先要解决的问题就是名词。如何统一这些项目，以达到社会效应？
 
+就在NetScape 发布消息没几天，准确地说是1998年2月3日，在一次受限邀请的Hacker聚会上，其中有Brian Behlendorf, Michael Tiemann, Todd Anderson,大家头脑风暴之余：Christine Peterson[12]提出了一个绝妙的新词：“Open Source”，大家一致同意这个词的用法，Eric Raymond 立即就行动起来将域名：[opensource.org](https://opensource.org)注册了下来。
 
-## 转而评估开源许可
+Bruce Perens 在撰写《开放源代码定义》[13]一文中，如此回忆当时的几个一连串的动作：
+
+> Raymond 认为 Debian 指南是定义开源最为合适的材料，但是需要一个更为通用的名称，而且要将 Debian 相关的都移除，于是我花了一点时间，将指南变更为开放源代码定义。我曾经为 Debian 组建了一个名为 Software in the Public Interest 的公司，所以我提出为”开放源代码”（Open Source)主持商标，以便我们可以将其用于定义。Raymond 同意这样的做法。于是我就“Open Source”注册为一个认证标志，这个标志是用来为众多的产品做标志的商标。一个月之后，我成功的注册了商标。不过，我们一致认为，将开放源代码的标志放在一家叫做 Software in the Public Interest 的公司下是很不妥当的。于是，我将商标的所有权转移到了 Raymond 的名下。稍后，Raymond 和我组建了开放源代码促进会（Open Source Initiative），这是一个专门用于管理开放源代码活动及其认证标志的组织。
+
+既然成立了组织，就需要有使命感，在4月份的Free Software Summit上，OSI的主要任务就是教育、倡导开源，以及stewardship 开源的定义。
+
+## 评估开源许可
+
+使命感总是采用极度抽象的词汇，这会让务实的人很难感觉到它的意义所在，OSI 成立后首先就是定义开源，由于有 Bruce Perens 在 Debian 的准备，所以开源的定义很快就出来了，但是这9条（后来增加为10条），依旧是非常抽象的，需要加以解释的，于是OSI干脆做了一个事情：在1999年10月，OSI公布了其第一个正式的批准许可证清单。
+
+2004年，OSI在OSD中增加了第10条，以处理有关点击包装许可的一些问题。除此之外，OSD自成立以来一直保持稳定，仅在其他条款中进行了细微的措辞澄清。
 
 ## 自身本身的治理
+
+成立组织之后，Eric Raymond 作为第一届的主席，Bruce Perens 担任VP，独立董事有：Brian Behlendorf, Ian Murdock, Russ Nelson,以及 Chip Salzenberg。最初的董事会的目标是建立一个可持续的机构来代表开源社区并行使对开源定义的管理权。为此，它通过了章程（最近一次修订是在2011年），获得了美国国税局的认可，成为501(c)3非营利组织（2003年），并制定了商标指南。
+
+在稳步扩大其基础后，OSI在2005年随着来自欧洲、南美、日本和印度的理事的加入，成为一个真正意义上的国际组织。它在2011年和2012年进一步加深了与共同体的联系，启动了一个附属机构计划，选举由这些附属机构提名的董事，并启动了个人会员的计划。
+
+## 意义述评
+
+OSI 的定义清晰，一直也稳定发展，它作为软件产业的一种协作力量而有了形成了一种职业势力，没有人否认它的想象力，正如这个世界的社会都是想象的一样[14]。让懒散的人类有了共同的话语，也有了集体行动的逻辑和理由，是的，或许有对OSI发起挑战，从传统的地缘出发来重新定义开源，但正如有的人想试图修改奥林匹克运动的一样，都以失败告终。
+
+开源的崛起，和万维网的崛起密切相关，而其本身也随着全球化的互联网构建而夯实了自己的实力，这也意味着开源的全人类普世性，开源作为人类协作的属性定义，从其诞生之时起便成为其一部分，经过时间的洗礼和各种考验，开源成为了人类宝贵财富的一部分，而且在艰难时期发挥着超越软件的重要作用。笔者不由得想到，除非是更高维度的文明，否则颠覆开源就是颠覆地球人类自身的文明进化。
 
 ## 参考资料
 
@@ -55,10 +80,14 @@ authors:
 4.  http://www.catb.org/~esr/writings/cathedral-bazaar/hacker-revenge/ ，最后访问时间：2022-12-4
 5. https://dl.acm.org/doi/book/10.5555/580808 ，最后访问时间：2022-12-4
 6. https://frankhecker.com/frank-hecker-bio/ ，最后访问时间：2022-12-4
-7. [开源之史」系列之十/四：浏览器竞争下的创新模式——Mozilla公共许可](/posts/history-of-open-source/02-07-01-brower-war-failed-netscape-mpl/) 一节
-8. 《Competing On Internet Time: Lessons From Netscape And Its Battle With Microsoft》，Michael A. Cusumano / David B. Yoffie，Free Press，12 January, 2000
-9.  https://en.wikipedia.org/wiki/Mosaic_(web_browser) ,最后访问时间：2022-12-5
-10. https://www.openoffice.org/editorial/ec1May.html ，最后访问时间：2022-12-5
+7. 《叛逆代码：Linux 和开源的革命》，（美）Glyn Moody，机械工业出版社，2002-06
+8. [开源之史」系列之十/四：浏览器竞争下的创新模式——Mozilla公共许可](/posts/history-of-open-source/02-07-01-brower-war-failed-netscape-mpl/) 一节
+9. 《Competing On Internet Time: Lessons From Netscape And Its Battle With Microsoft》，Michael A. Cusumano / David B. Yoffie，Free Press，12 January, 2000
+10. https://en.wikipedia.org/wiki/Mosaic_(web_browser) ,最后访问时间：2022-12-5
+11. https://www.openoffice.org/editorial/ec1May.html ，最后访问时间：2022-12-5
+12. https://opensource.com/article/18/2/coining-term-open-source-software ，最后访问时间：2022-12-26
+13. 《开源之声——开放源代码运动文集》，Chris DiBona / Sam Ockman / Mark Stone，中国电力出版社，1999-12-01
+14. 《想象的共同体：民族主义的起源与散布》， [美] 本尼迪克特·安德森，上海人民出版社，2016-8
 
 ## 关于作者
 
