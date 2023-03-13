@@ -67,6 +67,11 @@ Richard Stallman 显然不是一般角色，而是那种人类的翘楚，虽然
 
 没错，GPL 就是互惠性，而且在许可中强调修改、重新分发的衍生作品也必须采用GPL，这样保证了软件的自由可以一直延续下去。这是一种有条件的许可，如果你符合条件，你就有权使用；如果你不符合，你就是侵权。[9]
 
+GPL的产生，在《Two Bits：The Cultural Significance of Free Software》[10]一书中是被如此评价的：
+
+> The creation of the GPL and the Free Software Foundation are often understood as expressions of the hacker ethic, or of Stallman’s ideological commitment to freedom. But the story of EMACS and the complex technical and legal details that structure it illustrate how the GPL is more than just a hack: it was a novel, privately ordered legal “commune.” It was a space thoroughly independent of, but insinuated into the existing bedrock of rules and practices of the world of corporate and university software, and carved out of the slippery, changing substance of intellectual-property statutes. At a time when the giants of the software industry were fighting to create a different kind of openness—one that preserved and would even strengthen existing relations of intellectual property—this
+hack was a radical alternative that emphasized the sovereignty not of a national or corporate status quo, but of self-fashioning individuals who sought to opt out of that national-corporate unity. The creation of the GNU GPL was not a return to a golden age of small-scale communities freed from the dominating structures of bureaucratic modernity, but the creation of something new out of those structures. It relied on and emphasized, not their destruction, but their stability—at least until they are no longer necessary.
+
 ## 许可之上的哲学
 
 如果我们只是把GPL当作一般的软件许可的话，那么真的是低估了改变世界的自由软件运动和开源软件运动的背后的深层逻辑。 GPL 绝非那些字面上的条款，而是其解决了人们集体行动的重要的后顾之忧。
@@ -81,9 +86,9 @@ GPL 1.0 并不完善，至少对于自由软件共同体来说，还是显得有
 
 正如一位撰写GPL 历史的同仁评价道：
 
-> The GPL has become a powerful force in the information age. A hack on the copyright system, it turns the concept of copyright upside down, creates a whole community cooperating around the world and enables the development of *software by the people, of the people and for the people.* Many new licenses were modeled after or influcenced by the GPL. [10]
+> The GPL has become a powerful force in the information age. A hack on the copyright system, it turns the concept of copyright upside down, creates a whole community cooperating around the world and enables the development of *software by the people, of the people and for the people.* Many new licenses were modeled after or influcenced by the GPL. [11]
 
-软件的历史，从此改变了轨迹；软件的世界，也从此被彻底的改变了[11]。
+软件的历史，从此改变了轨迹；软件的世界，也从此被彻底的改变了[12]。
 
 ## 参考资料
 
@@ -96,8 +101,9 @@ GPL 1.0 并不完善，至少对于自由软件共同体来说，还是显得有
 7.  《黑客：计算机革命的英雄》，[[美\] Steven Levy](https://book.douban.com/author/646670)，[机械工业出版社](https://book.douban.com/press/2793)，2011-10-31
 8.  https://www.free-soft.org/gpl_history/emacs_gpl.html ，最后访问时间：2022-05-11
 9.  《知识财产法哲学》，[[澳\] 彼得·德霍斯](https://book.douban.com/search/彼得·德霍斯)，[商务印书馆](https://book.douban.com/press/2851)，2017-3
-10.   https://www.free-soft.org/gpl_history/ ，最后访问时间：2022-06-01
-11.  《Open Source Licensing: Software Freedom and Intellectual Property Law》，Lawrence Rosen ，Prentice Hall，2004
+10. 《 Two Bits：The Cultural Significance of Free Software》，Christopher M. Kelty，Duke University Press，2008-06-30
+11.   https://www.free-soft.org/gpl_history/ ，最后访问时间：2022-06-01
+12.  《Open Source Licensing: Software Freedom and Intellectual Property Law》，Lawrence Rosen ，Prentice Hall，2004
 
 ## 关于作者
 
