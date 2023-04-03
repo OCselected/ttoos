@@ -135,6 +135,8 @@ CSDN、InfoQ、SegmentFault思否、51CTO、至顶网
 |时间|状态|
 |----|:-----|
 |2023.1.24|尚在一个想法中，具体还没有和表伟进行详谈|
+|2023.3.1|创建了wechat group，开始招募读者|
+|2023.3.25|在思否Dev·Together大会上宣布了该书的计划和缘由|
 |||
 
 ## 「开源之书·甄选」走进组织
@@ -153,7 +155,7 @@ CSDN、InfoQ、SegmentFault思否、51CTO、至顶网
 * 将发起的项目优质的完成
 * 策划、组织并分享、记录北京的每个月的共读活动
 * 积极参与小组群的管理和维护，并拓展更多对开源感兴趣的书友
-* 维护网站和GitHub仓库，获得更多反馈
+* 维护网站和 GitHub 仓库，获得更多反馈
 
 ## LFAPAC 开源布道者
 
@@ -167,7 +169,7 @@ CSDN、InfoQ、SegmentFault思否、51CTO、至顶网
 
 * 继续拜访和结识布道者，进行对话、交流和沟通，“围炉夜话”进行线下面对面；
 * 深度参与 OSPO SIG ，并横向联合OpenSSF、CHAOSS、OpenChain、Open Metaverse等；
-* 积极参与LF 发起的Event，并contributing自己所长；
+* 积极参与LF 发起的 Event，并 contributing自己所长；
 * 开源万里行和拜访企业活动的策划、组织；
 * 发现和挖掘更多的布道者加入到LFAPAC开源布道者团队；
 
@@ -179,6 +181,30 @@ CSDN、InfoQ、SegmentFault思否、51CTO、至顶网
 * 记录和维护ospo.events站点；
 * 借鉴和学习TODO等OSPOlogy等知识，并传播；
 * 保持和所有OSPO相关组织的联系，并彼此交流，合作。
+
+3.24日，顺利的交付了[29]，口碑尚佳，但仍然要总结不足，继续努力策划第二届。
+
+### OSPO Group 运营
+
+在会上适兕宣布了成立OSPO Group [30]，这也就意味着这是一份新增的工作，这个小组干两件事：
+
+1. 保持日常的成员间的沟通和交流
+2. 每个季度相聚一次，用半天的时间分享问题，共同寻找解决方案。
+
+## 「开源之道」·同行者跨年演讲
+
+经历了疫情后的报复性活动后，适兕觉得认同和践行「开源之道」的同行们对于重拾交谈还是非常重视的，经过几番考量，2023~2024年度的聚会应该有，聚会聚焦于「开源之道」所带来的：
+
+* 个人成长
+* 技能学习
+* 工作晋升
+* 身心健康
+* 共同体归属感与认同
+* 社会价值
+* 声誉和影响力
+* 企业协作
+
+等方面的经验、教训、心得、体会，形式不限，重在参与和提升[31]。
 
 ## 其它
 
@@ -217,3 +243,6 @@ CSDN、InfoQ、SegmentFault思否、51CTO、至顶网
 26. https://osbook.club/posts/open-source-way-collection/ ，最后阅读时间：2023.1.24
 27. 庄表伟的个人站点 https://zhuangbiaowei.github.io ，最后访问时间：2023.1.24
 28. 「开源之书」走进组织项目规划 https://osbook.club/posts/reading-go-into-enterprise/ ，最后访问时间：2023.1.25
+29. https://docs.qq.com/doc/p/bc523608942ffd8331ba2370f6172ca85e76a690 ，最后访问时间：2023.4.3
+30. [推动组织拥抱开源，加速企业开源协作」开源项目办公室小组](/posts/open-source-conference/ospo-summit-what-is-ospo-group/)
+31. [开源之道」·同行者·年会](/posts/the_way_of_open_source/open-source-way-conference)
