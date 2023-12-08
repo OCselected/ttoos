@@ -12,7 +12,7 @@ keywords:
 tags:
 - 布道技能
 - 开源之道
-title: "LF APAC开源布道者实战系列： 全部文章索引"
+title: "成为开源布道者实战系列： 全部文章索引"
 url: ""
 authors:
 - 「开源之道」·适兕
@@ -26,15 +26,15 @@ authors:
 
 ## 系列文章索引
 
-- [LF APAC开源布道者分享系列之一：如何有效规划时间](/posts/lfapac-evangelist-sharing/how-to-steal-time-from-your-boss/)
-- [LF APAC 开源布道者分享系列之二：如何将写作进行下去](/posts/lfapac-evangelist-sharing/how-to-write-article-for-advocate-os/)
-- [LF APAC 开源布道者分享系列之三：演讲这事很重要！](/posts/lfapac-evangelist-sharing/why-we-need-speech-all-the-time/)
-- [LF APAC 开源布道者分享系列之四：如何去组织活动](/posts/lfapac-evangelist-sharing/we-need-make-event-happening/)
-- [LF APAC开源布道者分享系列之五：布道者的修行](/posts/lfapac-evangelist-sharing/advocate-how-to-learning-by-yourself/)
-- [LF APAC开源布道者分享系列之六：建立对话](/posts/lfapac-evangelist-sharing/advocate-how-to-build-conversation-with-peer/)
-- [LF APAC 开源布道者分享系列之七：如何娴熟使用异步沟通之法](/posts/lfapac-evangelist-sharing/async-in-the-open-source-community/)
-- [LF APAC 开源布道者分享系列之八：开源世界中的横向领导力养成与实践](/posts/lfapac-evangelist-sharing/how-to-lead-when-you-are-not-in-charge/)
-- [LF APAC开源布道者分享系列之九：树立全球观念](/posts/lfapac-evangelist-sharing/how-to-shape-global-idea-in-os-world/)
-- [LF APAC 开源布道者分享系列之十：开源布道者的未来](/posts/lfapac-evangelist-sharing/what-the-future-of-open-source-advocate/)
-- [LF APAC 开源布道者分享系列之十一：上游思维与上游优先](posts/lfapac-evangelist-sharing/upstream-first-and-be-upstream-in-os/)
+- [成为开源布道者分享系列之一：如何有效规划时间](/posts/lfapac-evangelist-sharing/how-to-steal-time-from-your-boss/)
+- [成为开源布道者分享系列之二：如何将写作进行下去](/posts/lfapac-evangelist-sharing/how-to-write-article-for-advocate-os/)
+- [成为开源布道者分享系列之三：演讲这事很重要！](/posts/lfapac-evangelist-sharing/why-we-need-speech-all-the-time/)
+- [成为开源布道者分享系列之四：如何去组织活动](/posts/lfapac-evangelist-sharing/we-need-make-event-happening/)
+- [成为开源布道者分享系列之五：布道者的修行](/posts/lfapac-evangelist-sharing/advocate-how-to-learning-by-yourself/)
+- [成为开源布道者分享系列之六：建立对话](/posts/lfapac-evangelist-sharing/advocate-how-to-build-conversation-with-peer/)
+- [成为开源布道者分享系列之七：如何娴熟使用异步沟通之法](/posts/lfapac-evangelist-sharing/async-in-the-open-source-community/)
+- [成为开源布道者分享系列之八：开源世界中的横向领导力养成与实践](/posts/lfapac-evangelist-sharing/how-to-lead-when-you-are-not-in-charge/)
+- [成为开源布道者分享系列之九：树立全球观念](/posts/lfapac-evangelist-sharing/how-to-shape-global-idea-in-os-world/)
+- [成为开源布道者分享系列之十：开源布道者的未来](/posts/lfapac-evangelist-sharing/what-the-future-of-open-source-advocate/)
+- [成为开源布道者分享系列之十一：上游思维与上游优先](posts/lfapac-evangelist-sharing/upstream-first-and-be-upstream-in-os/)
 - [浅谈网络匿名与现实实名的转换 —— 虚拟共同体的构建 ](/posts/community_leadership_development/lets-talking-network-anonymous-and-real-names/)
