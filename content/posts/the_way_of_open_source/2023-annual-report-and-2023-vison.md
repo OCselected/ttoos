@@ -65,6 +65,12 @@ authors:
 
 ## 2023年总结之幻灯篇
 
+### 在Linux 基金会 APAC Leadership Summit上英文演讲
+
+![](/images/kuosi-2023/kuosi-speech-in-lfapac-leadship-summit.jpg)
+
+很难想象我会用英文去做一次演讲，聊聊自己以及过去两年所带领的LFAPAC 布道者团队，在Maggie Chenge 等一干朋友的帮助下，我还是迎接了这次挑战，尽管花了很长的时间进行准备，但是仍然无法克服紧张，那种肚子疼的感觉又找到了。
+
 ## 2024年「开源之道」规划
 
 
