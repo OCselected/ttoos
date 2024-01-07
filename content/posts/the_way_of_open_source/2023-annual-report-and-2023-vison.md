@@ -54,7 +54,7 @@ authors:
 * 庄表伟
 * 郭旭东
 * 杨东杰
-* Maggie Chen
+* Maggie Cheung
 * 陈阳
 * 马乐
 * 边思康
@@ -63,13 +63,38 @@ authors:
 
 ## 2023年总结之项目篇
 
+### 「OSCAR·开源之书·共读」
+
+### KCC 全国城市巡讲
+
+### 「开源之法与经济」
+
+### 「开源之书·走进组织
+
+### 「开源之声」文章合集
+
+### OSPO Group && OSPO Summit
+
+### LFAPAC 开源布道者 && LFAPAC OSPO SIG
+
+
+
+
 ## 2023年总结之幻灯篇
 
 ### 在Linux 基金会 APAC Leadership Summit上英文演讲
 
 ![](/images/kuosi-2023/kuosi-speech-in-lfapac-leadship-summit.jpg)
 
-很难想象我会用英文去做一次演讲，聊聊自己以及过去两年所带领的LFAPAC 布道者团队，在Maggie Chenge 等一干朋友的帮助下，我还是迎接了这次挑战，尽管花了很长的时间进行准备，但是仍然无法克服紧张，那种肚子疼的感觉又找到了。
+很难想象我会用英文去做一次演讲，聊聊自己以及过去两年所带领的LFAPAC 布道者团队，在 Maggie Cheung 等一干朋友的帮助下，我还是迎接了这次挑战，尽管花了很长的时间进行准备，但是仍然无法克服紧张，那种肚子疼的感觉又找到了。
+
+### 成功发起了 First OSPO Summit
+
+![](/images/kuosi-2023/ospo-group-member.jpg)
+
+在OSPO Group的共同努力下，成功举办OSPO Summit。 对我个人来说，这是一个从想法到具体实现的全过程经历者，学习到的东西要远远多于自己所付出的。
+
+
 
 ## 2024年「开源之道」规划
 
