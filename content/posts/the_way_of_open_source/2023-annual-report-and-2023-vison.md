@@ -82,6 +82,8 @@ authors:
 
 ## 2023年总结之幻灯篇
 
+人的大脑很奇特，漫长的时间里，回忆的时候只能是一帧一帧的画面，2023是忙碌的一年，是疲于奔命的一年，是重拾希望的一年，以下是「开源之道」·适兕的moment。
+
 ### 在Linux 基金会 APAC Leadership Summit上英文演讲
 
 ![](/images/kuosi-2023/kuosi-speech-in-lfapac-leadship-summit.jpg)
@@ -98,7 +100,7 @@ authors:
 
 [2023 中国开源发展蓝皮书](https://copu.gitcode.host/copu/2023/1/) 第264页，独立作者。
 
-### 文章被《新程序员》刊登
+### 文章被《新程序员》约稿并刊登
 
 [《新程序员005》](https://mall.csdn.net/item/100492) 期，编辑选取了《开源之史》中一篇文章：[开源的发展镶嵌在更大的文化背景之中](/posts/history-of-open-source/04-04-rethink-open-source-culture/)。
 
@@ -120,7 +122,11 @@ authors:
 
 ![](/images/kuosi-2023/emily-speech-at-kuosi.jpg)
 
-两个月，九座城市，[]()
+两个月，九座城市，[开源巡讲](https://flxgeaiudp.feishu.cn/docx/ViindWgGiozy3exPGZucShexnAg?from=from_copylink)，对于个人来说，不仅是体力上的极限，也是智识上的极限，这九场演讲都是全新的准备，没有任何的重复。每场至少2小时。
+
+完成意味着一种蜕变，对于开源的理解和演讲的认识，有了不一样的感受。
+
+能获得Emily的认可是极为不易之事。
 
 ## 2024年「开源之道」规划
 
