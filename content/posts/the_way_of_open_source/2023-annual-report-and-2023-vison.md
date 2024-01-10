@@ -65,13 +65,35 @@ authors:
 
 ### 「OSCAR·开源之书·共读」
 
+
+
 ### KCC 全国城市巡讲
+
+获得开源社的差旅赞助和全方位支持，[开源全国九城巡讲](https://flxgeaiudp.feishu.cn/docx/ViindWgGiozy3exPGZucShexnAg?from=from_copylink)得以顺利完成。这里罗列一下我为这次巡讲所准备的演示文稿吧：
+
+* [开源人画像：人类学视角](https://1drv.ms/p/s!Arg2k_5HJFrbgfFJIjr9hHTVnrXzrg)
+* [《恶魔、角马与企鹅:自由和开放软件如何改变世界》](https://1drv.ms/p/s!Arg2k_5HJFrbgfFLIjr9hHTVnrXzrg)
+* [揭开软件许可的神秘面纱：法律如何通过许可控制软件访问的](https://1drv.ms/b/s!Arg2k_5HJFrbgfJLQp8qNiN8SlQUow?e=h9gXoP)
+* [商业开源的合理性解释](https://1drv.ms/p/s!Arg2k_5HJFrbgfIsIjr9hHTVnrXzrg)
+* [音乐是怎样成为免费午餐的:一个行业的终结，世代的交替，盗版的零号病人](https://1drv.ms/p/s!Arg2k_5HJFrbgfIvIjr9hHTVnrXzrg)
+* [Linus torvalds ：两次改变世界的工程师](https://1drv.ms/p/s!Arg2k_5HJFrbgfJJIjr9hHTVnrXzrg)
+* [开源许可(Licensing)：软件自由和知识财产权法](https://1drv.ms/p/s!Arg2k_5HJFrbgfMcIjr9hHTVnrXzrg)
+* [开源之商： 开源在软件市场的份额扩张之道](https://1drv.ms/p/s!Arg2k_5HJFrbgfNSIjr9hHTVnrXzrg)
+* [《开源之史》——如何将开源放在经济和社会中思考](https://1drv.ms/p/s!Arg2k_5HJFrbgfJRIjr9hHTVnrXzrg)
+
+输出是建立在更多的输入的基础之上的，我在两个月完成了看起来不可能完成的任务：2023.7～2023.9。
 
 ### 「开源之法与经济」
 
-### 「开源之书·走进组织
+
+
+### 「开源之书·走进组织」
+
+
 
 ### 「开源之声」文章合集
+
+
 
 ### OSPO Group && OSPO Summit
 
@@ -128,7 +150,7 @@ authors:
 
 能获得Emily的认可是极为不易之事。
 
-## 2024年「开源之道」规划
+## 2024年「开源之道」·适兕规划
 
 
 
