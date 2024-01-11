@@ -65,7 +65,25 @@ authors:
 
 ### 「OSCAR·开源之书·共读」
 
+秉承「开源之道」的宗旨：致力于开源相关思想、知识和价值的探究和推动，读书仍然是适兕的重要活动，不仅读而且要分享，关于「OSCAR·开源之书·共读」的日常记录和维护，从其GitHub的[提交记录](https://github.com/oscar-open-source-book)即可看出一年的工作。当然，网站[https://osbook.club/](https://osbook.club/)才是信息的集中之地。
 
+对于我个人来讲，没有什么比分享读书心得更让人成长的事情了，认知觉醒这几个字形容确实非常的恰当，一下演示文稿是我2023年的分享列表：
+
+* [「开源之书」:我们该读哪些书来了解开源](https://1drv.ms/p/s!Arg2k_5HJFrbgecHIjr9hHTVnrXzrg)
+* [交易成本与开源经济](https://1drv.ms/p/s!Arg2k_5HJFrbgehDIjr9hHTVnrXzrg)
+* [开源的核心：为了把事情做好而做好](https://1drv.ms/p/s!Arg2k_5HJFrbgek-Ijr9hHTVnrXzrg)
+* [压迫下的天才创新- GPL的诞生和发展](https://1drv.ms/p/s!Arg2k_5HJFrbgepvIjr9hHTVnrXzrg)
+* [异军突起：Linux和开源革命](https://1drv.ms/p/s!Arg2k_5HJFrbgeZkIjr9hHTVnrXzrg)
+* [数字商品所有权思考](https://1drv.ms/p/s!Arg2k_5HJFrbge4FIjr9hHTVnrXzrg)
+* [秩序、信任与商业:开源许可背后的哲学](https://1drv.ms/p/s!Arg2k_5HJFrbge1hIjr9hHTVnrXzrg)
+* [开源到底改变了什么？————《The Success of Open Source 》深度解读](https://1drv.ms/p/s!Arg2k_5HJFrbge11Ijr9hHTVnrXzrg)
+* [开源人画像：人类学视角](https://1drv.ms/p/s!Arg2k_5HJFrbge9vIjr9hHTVnrXzrg)
+* [从上游思维到上游优先：开源黄金法则的哲学](https://1drv.ms/p/s!Arg2k_5HJFrbgfArIjr9hHTVnrXzrg)
+* [互惠经济学 ——— 关于开源的思考与感悟](https://1drv.ms/p/s!Arg2k_5HJFrbgfQNIjr9hHTVnrXzrg)
+* [如何以「开源之道」构建一个阅读共同体](https://1drv.ms/p/s!Arg2k_5HJFrbgfQmIjr9hHTVnrXzrg)
+* [阅读《知识产权正当性解释》：如何将法律、制度、经济和技术联系起来思考](https://1drv.ms/p/s!Arg2k_5HJFrbgfRGIjr9hHTVnrXzrg)
+* [开源——数字时代伟大的权利让渡](https://1drv.ms/p/s!Arg2k_5HJFrbgfU7Ijr9hHTVnrXzrg)
+* [2023年度总结与未来规划](https://1drv.ms/p/s!Arg2k_5HJFrbgfo9Ijr9hHTVnrXzrg)
 
 ### KCC 全国城市巡讲
 
@@ -83,22 +101,32 @@ authors:
 
 输出是建立在更多的输入的基础之上的，我在两个月完成了看起来不可能完成的任务：2023.7～2023.9。
 
-### 「开源之法与经济」
-
-
-
 ### 「开源之书·走进组织」
 
+在思否Segmentfault和华为OSPO的赞助之下，「开源之书」尝试以企业定制的方式专门系统的进行开源文化的传播与知识的讲解。该项目要比想象中的艰难的多，走进大企业jin xing
+
+* [《开源之迷》作者谈开源之迷](https://1drv.ms/p/s!Arg2k_5HJFrbgegPIjr9hHTVnrXzrg)
+* [《发现开源系列图书》创作者言](https://1drv.ms/p/s!Arg2k_5HJFrbgfAmIjr9hHTVnrXzrg)
+* [《Linux和开源的商业与经济》](https://1drv.ms/p/s!Arg2k_5HJFrbgfFjaEDKmJi5WcjvCA)
+* [企业开源正当时](https://1drv.ms/p/s!Arg2k_5HJFrbgfVBIjr9hHTVnrXzrg)
+* [开源软件的商业化之路：市场形成的重要因素探析](https://1drv.ms/p/s!Arg2k_5HJFrbgfV1Ijr9hHTVnrXzrg)
 
 
 ### 「开源之声」文章合集
 
+尝试做一次编者，那种从各类关注开源的写作者们寻找点点星火的感觉非常棒，我们都知道，每一位拥抱开源的人都有一些打动他们选择开源的坚实理由，能让他们描述出来这些理由是非常之大的挑战，直觉性的价值观、态度、对人性的理解，要远远大于现代人鼓吹的数字、工具理性等。
 
+![](/images/kuosi-2023/voice-open-source-writer.jpg)
 
 ### OSPO Group && OSPO Summit
 
 ### LFAPAC 开源布道者 && LFAPAC OSPO SIG
 
+### 其它
+
+#### 「开源之法与经济」
+
+#### 「开源之商」
 
 
 
