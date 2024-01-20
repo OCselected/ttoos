@@ -61,6 +61,7 @@ authors:
 * 《开源的成功之路》，Steven Weber，外语教学与研究出版社，2007-6
 * [Economic Value Of Open Source Software | LF Research](https://www.youtube.com/watch?v=gLlcdifCEMY)
 * Open source software and global entrepreneurship， Nataliya Langburd Wright , Frank Nagle, Shane Greenstein，2023， Research Policy 104846
+* 《资本主义的法律基础》，约翰·R·康芒斯， 商务印书馆，2003-04
 
 
 ### 第 1 期：软件的生产、分销和消费
@@ -115,6 +116,7 @@ authors:
 * 《确定性的寻求 : 关于知行关系的研究》，[美] 约翰·杜威 / 傅统先 / 华东师范大学出版社 / 2019-8-1 
 * 《动机与人格》，[美]亚伯拉罕•马斯洛，中国人民大学出版社，2013-9
 * The Shifting Sands of Motivation: Revisiting What Drives Contributors in Open Source，Marco Gerosa等，29 Jan 2021，arXiv:2101.10291v3 [cs.SE]
+* 《全球“猎身”：世界信息产业和印度技术劳工》，项飙，北京大学出版社，2012-1-1
 
 ### 第 4 期：交易成本
 
