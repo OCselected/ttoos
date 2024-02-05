@@ -75,7 +75,7 @@ OSPO 与开源项目关系考，技术、工程与许可、Community之间的紧
 * OSPO  功能/如何落地/最佳实践，各种不同的组织（李小明）；
 * TODO Group OSPO 脑图[4]所涉及到的知识、领域（ted）
 
-欢迎有最佳实践的OSPOer提交上面主题相关的分享，形式不限于分享、圆桌、对话、Demo。
+欢迎有最佳实践的OSPOer提交上面主题相关的分享，形式不限于分享、圆桌、对话、Demo。提交你的议题：[The Second OSPO Summit](https://www.bagevent.com/event/speechApply/8490447)
 
 
 ## 参考资料
