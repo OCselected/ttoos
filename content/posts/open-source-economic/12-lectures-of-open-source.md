@@ -62,6 +62,7 @@ authors:
 * [Economic Value Of Open Source Software | LF Research](https://www.youtube.com/watch?v=gLlcdifCEMY)
 * Open source software and global entrepreneurship， Nataliya Langburd Wright , Frank Nagle, Shane Greenstein，2023， Research Policy 104846
 * 《资本主义的法律基础》，约翰·R·康芒斯， 商务印书馆，2003-04
+* The Value of Open Source Software， Manuel Hoffmann， Frank Nagle， Yanuo Zhou，Harvard Business School.January 1, 2024
 
 
 ### 第 1 期：软件的生产、分销和消费
@@ -70,19 +71,23 @@ authors:
 
 只有理解了软件的生产过程，以及当中所产生的成本，我们才能将之置入经济的视角去看待。
 
+演示文稿在线编辑：[开源与经济学第二讲](https://1drv.ms/p/s!Arg2k_5HJFrbgfts1YzTth73KhL6Sg)
+
 #### 提纲
 
-1. 模式分野：闭源与开源；
-2. 方法分野：大教堂与集市
-3. 交付方式
-4. 订阅：从阅读日报与周刊获得灵感
+1. 软件市场的形式与演变；
+2. 模式分野：闭源与开源；
+3. 方法分野：大教堂与集市；
+4. 交付方式的变化；
+5. 订阅：从阅读日报与周刊获得灵感；
 
 #### 推荐阅读书籍
 
-* 《大教堂与集市》
-* 《人月神话》
-* 《持续交付》
-* 《订阅》
+* 《大教堂与集市》，[美] Eric S. Raymond，机械工业出版社，2014-5
+* 《人月神话》， (美) 布鲁克斯(Brooks, F. P.) 著，清华大学出版社，2015-4-1
+* 《持续交付2.0》，乔梁，人民邮电出版社，2018-12-25
+* 《订阅》， [美] 罗伯特·金奇尔 / 马尼·佩伊万， 中信出版社，2018-12
+* 《GO To：The Story of the math majors, Bridge players, engineers, chess wizards, Maverick scientists and iconoclasts —— The programmers who created the software revolution》，Steve Lohr， Basic Books，2001-10
 
 ### 第 2 期：数字时代的知识财产法演变与开源许可
 
@@ -94,6 +99,7 @@ authors:
 
 #### 推荐阅读书籍
 
+* [开源之史](/posts/history-of-open-source/summary/)
 * 
 
 
