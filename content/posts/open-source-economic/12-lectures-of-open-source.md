@@ -88,6 +88,7 @@ authors:
 * 《持续交付2.0》，乔梁，人民邮电出版社，2018-12-25
 * 《订阅》， [美] 罗伯特·金奇尔 / 马尼·佩伊万， 中信出版社，2018-12
 * 《GO To：The Story of the math majors, Bridge players, engineers, chess wizards, Maverick scientists and iconoclasts —— The programmers who created the software revolution》，Steve Lohr， Basic Books，2001-10
+* Luanne Johnson, Creating the software Industry: Recollections of software Company Founders of the 1960s,IEEE Annals of The History of Computing 14,27(2002).
 
 ### 第 2 期：数字时代的知识财产法演变与开源许可
 
@@ -95,11 +96,13 @@ authors:
 
 #### 提纲
 
-1. 
+1. 许可，不是销售
+2. 
 
 #### 推荐阅读书籍
 
 * [开源之史](/posts/history-of-open-source/summary/)
+* Legal Protection of Digital Information. [在线版阅读](https://digital-law-online.info/lpdi1.0/treatise1.html)
 * 
 
 
