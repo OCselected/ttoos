@@ -96,14 +96,19 @@ authors:
 
 #### 提纲
 
-1. 许可，不是销售
-2. 
+1. 许可的出现与软件市场的崛起
+2. 数字时代的知识财产权挑战
+3. 许可，不是销售
+4. 开源在解决什么本质问题？
+5. 开源的难题
 
 #### 推荐阅读书籍
 
 * [开源之史](/posts/history-of-open-source/summary/)
 * Legal Protection of Digital Information. [在线版阅读](https://digital-law-online.info/lpdi1.0/treatise1.html)
-* 
+* 《The Software License Unveiled》，hillips, Douglas E., OXford, 2009-6
+* 《知识产权正当性解释》， [美]罗伯特·P. 莫杰思，商务印书馆，2023-5
+* 《商业开源：开源软件许可实用指南》，【美】希瑟·米克（Heather Meeker），人民邮电出版社，2023-01
 
 
 ### 第 3 期：软件开发劳动力市场
@@ -114,7 +119,11 @@ authors:
 
 #### 提纲
 
-1. 
+1. 代码不是商品
+2. 供需关系的是人才
+3. 软件人才的工资与计算机项目工程的关系
+4. 软件开发者工程师的人才培养
+5. 兴趣与实践培养
 
 #### 推荐阅读书籍
 
