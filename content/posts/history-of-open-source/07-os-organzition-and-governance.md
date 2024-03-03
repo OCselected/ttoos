@@ -18,11 +18,20 @@ authors:
 - 「开源之道」·适兕
 ---
 
-笔者在[《开源之迷》](posts/book-of-open-source/the-fascinating-of-open-source/)里对于开源的非营利性组织有一个短小的描述，也在2019年有过一些具体的案例考察，详情请移步[「开源之道」导航](/posts/ocselected-reading-guide/)找对应的文章。但是并没有详细到每个组织的演进历史，这些组织是为了解决什么问题而创建的，以及最后运转的机制，并实现项目集体行动的保障。「开源之史」的这个系列系统找出其中的脉络。
+## 从制度变迁和演进来看开源的发展
 
-![](https://cpb-us-e1.wpmucdn.com/blogs.ntu.edu.sg/dist/d/1595/files/2017/11/Picture14-21nrrzy.png)
+无论是前面商业的发展，还是学术的资助，甚至是共同体的倔强挣扎，开源项目的可持续发展遇到的问题，仍然无法得到解决，但是人类从来没有让困难给吓住，一个有意义的项目，社会如果让它自生自灭，开源显然也发展布道今天。
 
-( 图片来源：https://blogs.ntu.edu.sg/hp3203-2018-29/tragedy-of-the-commons/ )
+人类具有传播文化的倾向，知识具有溢出效应，那么是不是有那么一种可能性，通过协商、担保、社会声誉等各种方式，让项目的开发者能够继续体面的从事开发工作，同时让更多的人能够从项目中受益，让我们来看看非营利组织是如何一步步解决这个难题的。
+
+
+## 「开源之道」以前的文章参考
+
+> 笔者在[《开源之迷》](posts/book-of-open-source/the-fascinating-of-open-source/)里对于开源的非营利性组织有一个短小的描述，也在2019年有过一些具体的案例考察，详情请移步[「开源之道」导航](/posts/ocselected-reading-guide/)找对应的文章。但是并没有详细到每个组织的演进历史，这些组织是为了解决什么问题而创建的，以及最后运转的机制，并实现项目集体行动的保障。「开源之史」的这个系列系统找出其中的脉络。
+
+> ![](https://cpb-us-e1.wpmucdn.com/blogs.ntu.edu.sg/dist/d/1595/files/2017/11/Picture14-21nrrzy.png)
+
+> ( 图片来源：https://blogs.ntu.edu.sg/hp3203-2018-29/tragedy-of-the-commons/ )
 
 ## “公地悲剧”的故事
 

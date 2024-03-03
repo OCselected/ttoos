@@ -114,6 +114,7 @@ Linux 基金会的实现方式仍然没有变，通过举行大型会议、提�
 14. OSDL/FSG announce collaboration ， https://lwn.net/Articles/102025/ ，最后访问时间：2022-06-14
 15. The Linux Foundation became a force in enterprise tech. Is that a problem? https://www.protocol.com/enterprise/linux-foundation-open-source-enterprise ，最后访问时间：2022-06-21
 16. https://en.wikipedia.org/wiki/Linux_Foundation ，最后访问时间：2022-06-21
+17. linux 基金会简史， https://www.youtube.com/watch?v=b55rd3fEYDE ，最后访问时间：2023-11-19
 
 ## 关于作者
 

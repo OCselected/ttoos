@@ -49,7 +49,7 @@ authors:
 * [独一无二的标识开源 —— 商标和品牌的保护极简史](posts/history-of-open-source/02-03-002-open-source-trademark/)
 * [科学共同体的礼物——学术型开源许可的诞生](posts/history-of-open-source/02-04-ip-law-and-license-evolution-os-software-license-occur/)
 * [软件版权的自我保护完善还是霸权的扩张 —— 二进制被正式纳入版权法](posts/history-of-open-source/02-04-001-copyright-cover-binary/)
-* [夹缝中求生存——自由软件及GPL的艰难抗争](posts/history-of-open-source/02-05-ip-law-and-license-evolution-GPL-born/)
+* [夹缝中求生存——自由软件及GPL的艰难抗争](posts/history-of-open-source/02-05-ip-law-and-license-evolution-gpl-born/)
 * [万维网的许可选择——和GPL擦肩而过](posts/history-of-open-source/02-06-www-did-not-choose-gpl-and-open-public/)
 * [浏览器竞争下的创新模式——Mozilla公共许可](posts/history-of-open-source/02-07-01-brower-war-failed-netscape-mpl/)
 * [开源作为商业策略——Apache 许可的改进与‘完善’](posts/history-of-open-source/02-07-02-wired-mix-apache-and-ibm-license/)
@@ -65,12 +65,13 @@ authors:
 
 ## 第六部分：开源文化溯源
 
-* [从反主流文化到未知的默认文化](posts/history-of-open-source/04-from-Counterculture-to-unkonwculture/)
+* [从反主流文化到未知的默认文化](posts/history-of-open-source/04-from-counterculture-to-unkonwculture/)
 * [文化的重要作用 —— 开源的本质](posts/history-of-open-source/04-00-culture-matters-os/)
 * [从两场改变软件格局的运动讲起](posts/history-of-open-source/04-01-free-software-and-os-movement/)
 * [自由软件运动的源头——黑客文化简史](posts/history-of-open-source/04-02-hacker-culture/)
 * [黑客诞生的来由——反主流文化之源](posts/history-of-open-source/04-03-counter-culture/)
 * [开源的发展镶嵌在更大的文化背景之中](posts/history-of-open-source/04-04-rethink-open-source-culture/)
+* [开源一词发明前的世界](posts/history-of-open-source/04-05-the-world-without-open-sourc/)
 
 ## 第七部分：不可或缺的力量——商业的探索与演化
 
@@ -88,6 +89,7 @@ authors:
 ## 第九部分：集体行动的保障与逻辑——开源机构与组织
 
 * [开源的治理之道——非营利组织与解决难题](posts/history-of-open-source/07-os-organzition-and-governance/)
+* []()
 * [OSI 的缔造和历史地位](posts/history-of-open-source/07-008-birth-of-osi)
 * [推动 GNU/Linux —— 企业联盟式的非营利基金会LF的诞生与发展](posts/history-of-open-source/07-01-the-rise-of-linux-foundataion/)
 * [Apache 软件基金会的诞生与崛起](posts/history-of-open-source/07-009-apache-foundation-born/)
