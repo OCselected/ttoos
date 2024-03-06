@@ -36,6 +36,11 @@ authors:
 
 ### 天才般的稳定三角创新
 
+回顾开源的过去，没有人觉得绕过Richard Stallman 是合适的一件事，他开创性的伟大创举，无疑是历史性的。尽管所有的行动，均是被动的做出回应：为了保护自己的Emacs，而撰写了GPL[6];为了自由软件，而发起了GNU 运动和项目计划[7]；为了实现上述目的而成立了自由软件基金会[7]，这就是其屹立40年的秘诀：
+
+![](/images/fsf-gpl-gnu.png)
+
+三角形具有稳定性，这是学习几何原理的早期掌握的定理，用到制度创新上仍然实用：三者之间相互依赖，相互支撑。
 
 ### 巧妙的社会契约设计
 
@@ -69,8 +74,10 @@ authors:
 2. 《经济增长的迷雾：经济学家的发展政策为何失败》， [美] 威廉·伊斯特利， 中信出版社，2016-7-1
 3. 《知识产权法的经济结构》，【美】威廉•M. 兰德斯 / 理查德•A. 波斯纳，北京大学出版社，2016-8
 4. [「开源之史」](/posts/history-of-open-source/summary/)
-5. 
-6. 
+5. [Legal Protection of Digital Information](https://digital-law-online.info/lpdi1.0/treatise17.html) ，最后访问时间：2024-03-06
+6. [夹缝中求生存——自由软件及GPL的艰难抗争](https://www.opensourceway.community/posts/history-of-open-source/02-05-ip-law-and-license-evolution-gpl-born/)
+7. [以法律的名义捍卫自由软件的权益之二 —— 软件自由法律中心（SFLC）的来龙去脉](posts/foundation_introduce/introduction_of_software_freedom_law_center/)
+8. 
 
 
 ## 关于作者
