@@ -60,9 +60,9 @@ authors:
 
 ### 巧妙的社会契约设计
 
- GNU/Linux 发行版是一个完整的操作系统实现，是可以直接运行在各类服务器上，并为数据库、中间件等提供支撑，换句话说，这是一个离交易非常相近的项目，几乎接近于产品，如果加上商业的服务、咨询和培训的话。
+GNU/Linux 发行版是一个完整的操作系统实现，是可以直接运行在各类服务器上，并为数据库、中间件等提供支撑，换句话说，这是一个离交易非常相近的项目，几乎接近于产品，如果加上商业的服务、咨询和培训的话。
 
- Debian 就是这样一个基于共同体的实现，它的创始人和开发者们并不愿意被资本所左右，希望能够实现共同体自我维持的自由操作系统项目，于是，他们设计了《Debian社会契约》[9]，并将社会捐赠渠道非常巧妙的隐藏在一个专门的机构[10]。通过设置的组织章程，而保持管理上的延续，但是对技术方向没有任何的直接影响，这样稳步向前，一个淡定的自由操作系统从容的走过了它的30年。
+Debian 就是这样一个基于共同体的实现，它的创始人和开发者们并不愿意被资本所左右，希望能够实现共同体自我维持的自由操作系统项目，于是，他们设计了《Debian社会契约》[9]，并将社会捐赠渠道非常巧妙的隐藏在一个专门的机构[10]。通过设置的组织章程，而保持管理上的延续，但是对技术方向没有任何的直接影响，这样稳步向前，一个淡定的自由操作系统从容的走过了它的30年。
 
 ### 想象的共同体：统一的名词
 
@@ -72,11 +72,17 @@ authors:
 
 ### 服务与订阅：商业上的创新
 
-商业作为解决方案，从来都不会缺席，伟大的企业家们总是不断在探索，自由和开源软件从思想和理念上并不是和商业完全冲突的，但是相比于售卖许可的模式，确实需要很多模式上的创新和发掘。
+商业作为解决方案，从来都不会缺席，伟大的企业家们总是不断在探索，自由和开源软件从思想和理念上并不是和商业完全冲突的，但是相比于售卖许可的模式，确实需要很多模式上的创新和发掘。铂铱矿泉水的例子是被津津乐道的，那么既然开源软件的价值是在的，那么从这个价值中找到合适的定位，是可以有利润和空间的。
+
+Michael Tiemann 在GNU的编译项目中找到了其中的价值[11]，创立了Cygnus 公司；无独有偶，Robert Young 则发现了用户喜欢控制权的诀窍，从自己的厨房开启了创业之路，并将 RedHat 送上了纳斯达克，后来的故事大家都知道了，RedHat 发展为价值几百亿美元的公司，并为数万家企业提供开放的解决方案，依靠的就是订阅服务。 
 
 ### 慈善组织与商业诉求
 
+在科学共同体维护的项目中，被商业所利用，尽管从道德和情感上人们难以接受，但是商业团体并没有冒犯科学共同体，历史上的Kerberos、X11等项目，确实是司空见惯，当然，这也给商业公司留下了污点。那么是不是还有既有让项目可持续发展，脱离科学共同体的范畴，然后，商业上进行一定的捐赠和投入？
 
+当然有，而且非常的成功，在web服务爆发的时候，IBM 决定投入web服务的时候，没有选择投入资源从头开始开发web服务，而是选择了当时市场占有率极高的 Apache Httpd服务，[12] 并持续推动 Apache 软件基金会的建立，毕竟作为公司的法律实体是无法和所谓的Community非正式组织进行一些业务往来的，并推动了Apache 软件许可2.0的发布和维护。
+
+Apache 软件基金会是纯粹的慈善机构，旗下托管软件项目均是免许可费用，自己负责的情况下，可任意使用的，专利等条款例外。这是企业最为认可和喜欢的模式，并为后来的Open Core 模式铺平了道路，当然，它也带来了另外的问题，那就是当商业成功后，修改许可为对商业更有利的方向成为了该模式的发展软肋[13]。
 
 ### 商业私人联盟
 
@@ -102,6 +108,9 @@ authors:
 8. [以法律的名义捍卫自由软件的权益之二 —— 软件自由法律中心（SFLC）的来龙去脉](posts/foundation_introduce/introduction_of_software_freedom_law_center/)
 9. Debian 社群契约， https://www.debian.org/social_contract ，最后访问时间：2024-03-07
 10. [Debian 为什么没有成立非营利基金会？](/posts/foundation_introduce/how-debian-growing-without-foundation/)
+11. Future of Cygnus Solutions: An Entrepreneur's Account，节选自《Open Sources: Voices from the Open Source Revolution》，1999-01，O'Reilly & Associates, Inc.
+12. 《Free for All：How LINUX and the Free Software Movement Undercut the High-Tech Titans》，Peter Wayner，HarperCollins，2001-3-1
+13. A historic view of the practice to delay releasing Open Source software: OSI’s report ,  https://opensource.org/blog/a-historic-view-of-the-practice-to-delay-releasing-open-source-software-osis-report , 最后访问时间：2024-03-08
 
 
 ## 关于作者
