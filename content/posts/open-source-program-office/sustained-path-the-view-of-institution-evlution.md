@@ -89,12 +89,35 @@ Apache 软件基金会是纯粹的慈善机构，旗下托管软件项目均是�
 > 哪怕是为了欢乐和消遣，相同行业的人也很少聚在一起，但他们的谈话总是会达成针对公众的合谋，或者商定提高价格的计谋。
 >     ———— 亚当·斯密 《国富论》
 
+商业中的互补模式，开创性的如吉列剃须刀模式，在硬件利润丰厚的情况下，软件如何能够将初始成本降下来，还是很具竞争力的，这就是IBM当年投入Linux的原因，Intel 卖芯片的逻辑也很容易理解：只要足够多的开源软件运行在X86架构上，就可以卖出更多的CPU，相应的互联网厂商也是同样的道理，软件成本稳定且能降下来，就可以有更多的精力投入业务，思考用户的需求。
 
-## 不断的混合
+不如我们结盟吧，Kernel 这样的项目不应该被某一家厂商所霸占，开发Kernel的人也不应该被饿死，不仅可以嵌入在当前的业务中，还能确保市场不被垄断，Linux基金会、OpenStack（Open Infrastructure Foundation）、Eclipse、CNCF等基金会应用而生。
 
-伴随着开源项目的被广泛使用，开源不再是项目及其共同体的事情了，而是每一个使用开源软件的组织： 商业公司、政府、高校、科研机构、非营利/慈善机构...... 
+通过建立透明的规则，以及设置对应的席位，大家共同治理和投入，确保项目的可持续发展、可靠性和安全性。
 
-开源项目办公室
+## 无处不在的开源
+
+接下来，让我们从开源的生产方视角转移到对面：开源软件的消费方。据最新研究结果，这是一个和消费方有着严重不对称的故事[14]:
+
+> A great paper that quantifies the economic impact of Open Source Software by evaluating both its supply-side value ($4.15 billion) and its significantly larger demand-side value ($8.8 trillion). 
+> The study leverages global data to assess the costs firms would incur if they had to internally develop software in the absence of OSS, revealing that firms would spend 3.5 times more on software without OSS. 
+> A notable finding is that a small group of developers (5%) contributes to 96% of OSS's demand-side value, with the top six programming languages accounting for 84% of this value. 
+
+具备敏锐直觉的可能会觉察到不对劲的地方，这不是生产方的问题，而是中间发生了某种错位，消费方也面临着诸多问题。
+
+也就是说伴随着数字化转型，在软件定义一切的时代，开源项目的被大范围广泛使用，开源不再是项目及其共同体的事情了，而是每一个使用开源软件的组织： 商业公司、政府、高校、科研机构、非营利/慈善机构...... 开源软件项目是现代数字世界的道路与桥梁[15]：**数字世界的基础设施**。
+
+### 开源项目办公室 OSPO 
+
+对于这样一个庞然大物，忽略其存在显然是将垃圾扫到地毯下的拖延症行为，想要驾驭这样的力量，还是需要专业的人进行。既然没有一个组织不使用开源软件项目，那么第一件事就是那句管理界的说法：
+
+> 你无法衡量它，就无法管理它。
+
+我们首要做的事情是：识别和收集，到底使用了哪些开源软件？版本是多少？是否是交付业务？ 接着要做的事情是，有没有合规问题？是否将潜在风险留给了我们的客户？是否会影响到业务？答案如果是的话，接下来要做的是：是否选择供应商或合作伙伴？不选择的话是否可以参与到开源共同体中？去哪里招人？招什么样的人？有没有对应的机构可以加入和参与？ 都走到这一步了，接下来就是现代开放式创新的典型做法：是否在开源世界拥有声誉？是否赢得开发者的信赖？平台或生态的构建是否走开源路线？
+
+没错，以上就是笔者描述的开源项目办公室在常见组织中的攀登阶梯的粗略描述，OSPO 不是一个任何管理或组织上的一个部门，也不是管理或组织课程上的必修内容，它是一个市场需求平衡的自然历程，是人们为解决问题而将无形的流程、处理、知识作为一种描述而出现的名词，它仍然有更多的知识需要我们学习，更多棘手的情况，需要我们审时度势进行理性的处理。
+
+OSPO 的未来如何，笔者无从预测，正如开源的未来一样，但是，这是一个值得为之努力的方向，它试图平衡某种“扯皮”，是为我们造福和经济增长的方向的科学方式和方法。
 
 ## 参考或引用资料
 
@@ -109,8 +132,11 @@ Apache 软件基金会是纯粹的慈善机构，旗下托管软件项目均是�
 9. Debian 社群契约， https://www.debian.org/social_contract ，最后访问时间：2024-03-07
 10. [Debian 为什么没有成立非营利基金会？](/posts/foundation_introduce/how-debian-growing-without-foundation/)
 11. Future of Cygnus Solutions: An Entrepreneur's Account，节选自《Open Sources: Voices from the Open Source Revolution》，1999-01，O'Reilly & Associates, Inc.
-12. 《Free for All：How LINUX and the Free Software Movement Undercut the High-Tech Titans》，Peter Wayner，HarperCollins，2001-3-1
+12. 《Rebel Code：Linux and the Open Source Revolution》，Glyn Moody，Perseus Books Group，2002-7-15
 13. A historic view of the practice to delay releasing Open Source software: OSI’s report ,  https://opensource.org/blog/a-historic-view-of-the-practice-to-delay-releasing-open-source-software-osis-report , 最后访问时间：2024-03-08
+14. Hoffmann, Manuel, Frank Nagle, and Yanuo Zhou. ["The Value of Open Source Software."](https://www.hbs.edu/faculty/Pages/download.aspx?name=24-038.pdf) Harvard Business School Working Paper, No. 24-038, January 2024.
+15. Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure / Ford Foundation
+ 
 
 
 ## 关于作者
