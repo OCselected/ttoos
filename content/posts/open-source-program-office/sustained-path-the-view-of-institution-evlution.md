@@ -29,7 +29,9 @@ authors:
 
 ![](https://www.opensourceforu.com/wp-content/uploads/2017/01/Rise-of-OpenSource-illustration.jpg)
 
-无论人们怎么不看好开源，仍然无法离开开源而生活，开源融入人们的日常，是如何做到的？纯粹的金钱激励在这里失效了吗？还是利他主义的胜利？
+无论人们怎么不看好开源，仍然无法离开开源而生活，开源融入人们的日常，是如何做到的？纯粹的金钱激励在这里失效了吗？还是利他主义的胜利？历史上探讨“the common” 的很多，大多持悲观的态度，例如著名的Garrett Hardin 就在1968年根据真实事件协作了《The Tragedy of the Commons》一文，不过，这并不是故事的全部，凭借研究人类各地历史上是如何处理好公共事务而避免造成悲剧故事的Elinor Ostrom 发现大多案例还是来自社区的自治，并非是政府的强制法律介入，借此还赢得了诺贝尔经济学奖。
+
+数字时代来临，这样的抗争仍然在上演。
 
 ## 最初的分歧与最后的角逐
 
@@ -99,9 +101,7 @@ Apache 软件基金会是纯粹的慈善机构，旗下托管软件项目均是�
 
 接下来，让我们从开源的生产方视角转移到对面：开源软件的消费方。据最新研究结果，这是一个和消费方有着严重不对称的故事[14]:
 
-> A great paper that quantifies the economic impact of Open Source Software by evaluating both its supply-side value ($4.15 billion) and its significantly larger demand-side value ($8.8 trillion). 
-> The study leverages global data to assess the costs firms would incur if they had to internally develop software in the absence of OSS, revealing that firms would spend 3.5 times more on software without OSS. 
-> A notable finding is that a small group of developers (5%) contributes to 96% of OSS's demand-side value, with the top six programming languages accounting for 84% of this value. 
+> 计算得出，广泛使用的开放源码软件的供应方价值为 41.5 亿美元，但需求方所需要的则要大得多，共计为 8.8 万亿美元。研究发现，如果不存在开放源码软件，企业在软件方面的支出将是现在的 3.5 倍。此外，96% 的需求方价值是由仅 5% 的开放源码软件开发人员创造的。
 
 具备敏锐直觉的可能会觉察到不对劲的地方，这不是生产方的问题，而是中间发生了某种错位，消费方也面临着诸多问题。
 
@@ -135,7 +135,7 @@ OSPO 的未来如何，笔者无从预测，正如开源的未来一样，但是
 12. 《Rebel Code：Linux and the Open Source Revolution》，Glyn Moody，Perseus Books Group，2002-7-15
 13. A historic view of the practice to delay releasing Open Source software: OSI’s report ,  https://opensource.org/blog/a-historic-view-of-the-practice-to-delay-releasing-open-source-software-osis-report , 最后访问时间：2024-03-08
 14. Hoffmann, Manuel, Frank Nagle, and Yanuo Zhou. ["The Value of Open Source Software."](https://www.hbs.edu/faculty/Pages/download.aspx?name=24-038.pdf) Harvard Business School Working Paper, No. 24-038, January 2024.
-15. Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure / Ford Foundation
+15. Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure / Ford Foundation，Nadia Eghbal，July 2016
  
 
 
