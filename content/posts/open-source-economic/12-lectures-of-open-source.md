@@ -113,6 +113,8 @@ authors:
 * 《The Software License Unveiled》，hillips, Douglas E., OXford, 2009-6
 * 《知识产权正当性解释》， [美]罗伯特·P. 莫杰思，商务印书馆，2023-5
 * 《商业开源：开源软件许可实用指南》，【美】希瑟·米克（Heather Meeker），人民邮电出版社，2023-01
+* [An Interview with Lawrence Lessig on Copyrights](https://www.econlib.org/library/Columns/y2003/Lessigcopyright.html)，最后访问时间：2024-03-24
+* 《数字时代的知识产权法经济学》， [以]妮娃.埃尔金科伦 / [以]伊莱.M.扎尔茨伯格， 知识产权出版社，2023-01
 
 
 -------------
@@ -129,7 +131,7 @@ authors:
 
 本次讲座的原则，尽量是从商业的本质出发，进而推导出现有的模式，而不是相反，幸存者偏差是个极为容易让人走进误区的思维模式。
 
-演示文稿在线编辑：[开源与经济学第四讲]()
+演示文稿在线编辑：[开源与经济学第四讲](https://1drv.ms/p/s!Arg2k_5HJFrbgf4ZhYQgwpi9lNAsDQ)
 
 #### 提纲
 
