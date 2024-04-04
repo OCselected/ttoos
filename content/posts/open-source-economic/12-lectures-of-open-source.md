@@ -150,6 +150,7 @@ authors:
 
 * 《Linux ，Under The Radar》，(美)罗伯特・杨 / 罗姆，中国青年出版社，2000-11
 * 《Rebel Code：Linux and the Open Source Revolution》，Glyn Moody，Perseus Books Group，2002-7-15
+* 《Open Source Law, Policy and Practice》，Amanda Brock主编，Oxford University Press， 2023-1
 * 
 
 ### 第 4 期：软件开发劳动力市场
