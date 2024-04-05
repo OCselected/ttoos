@@ -63,7 +63,7 @@ authors:
 
 > 加速OSPO的建立，对于开源的发展以及组织的受益是双赢的事情，无论是否有实际的部门，都需要做开源相关的事：参与、亲力亲为、合规、知识财产法、协作、节省成本、创新、共赢......
 
-![](./the-2nd-ospo-summit-create-ospo-what-need/make-meetup-great-again.jpg)
+![](/posts/open-source-program-office/the-2nd-ospo-summit-create-ospo-what-need/make-meetup-great-again.jpg)
 
 最让笔者印象深刻的还是非正式会议之：**Make Meetup Great Again！**
 
@@ -85,4 +85,5 @@ authors:
 
 ## 关于作者
 
-![](/public/kuosi-face-of-os.png)「发现开源三部曲」（[《开源之迷》](posts/book-of-open-source/the-fascinating-of-open-source/)，《开源之道》《开源之思》。）、[《开源之史》](posts/history-of-open-source/summary/)作者，「开源之道：致力于开源相关思想、知识和价值的探究、推动」主创，开放原子开源基金会资深顾问，Linux基金会亚太区开源布道者，TODO Group OSPO 大使， 云计算开源产业联盟OSCAR（中国信息通信研究院发起)个人开源专家，OSPO Group 联合发起人。
+![](/public/kuosi-face-of-os.png)「发现开源三部曲」（[《开源之迷》](posts/book-of-open-source/the-fascinating-of-open-source/)，《开源之道》《开源之思》。）、[《开源之史》](posts/history-of-open-source/summary/)作者，「开源之道：致力于开源相关思想、知识和价值的探究、推动」主创，开放原子开源基金会资深顾问，Linux基金会亚太区开源布道者，TODO Ambassadors
+& OSPOlogyLive China Organizer， 云计算开源产业联盟OSCAR（中国信息通信研究院发起)个人开源专家，OSPO Group 联合发起人。
