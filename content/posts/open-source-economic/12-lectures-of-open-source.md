@@ -151,7 +151,7 @@ authors:
 * 《Linux ，Under The Radar》，(美)罗伯特・杨 / 罗姆，中国青年出版社，2000-11
 * 《Rebel Code：Linux and the Open Source Revolution》，Glyn Moody，Perseus Books Group，2002-7-15
 * 《Open Source Law, Policy and Practice》，Amanda Brock主编，Oxford University Press， 2023-1
-* 
+* 《From Project to Profit:How to Build a Business Around Your》，Heather Meeker，Independently published，2023-10-6
 
 ### 第 4 期：软件开发劳动力市场
 
@@ -290,12 +290,13 @@ authors:
 
 1. 互联网拓展的 cyber space
 2. 全新的协作文化
-3. 
+3. 开放、透明、分享
 
 #### 推荐阅读书籍
 
 * 《文化的重要作用：价值观如何影响人类进步》，劳伦斯・哈里森 / 塞缪尔・亨廷顿等，新华出版社，2010-1
 * 《国富国穷》，[美] 戴维·S·兰德斯，新华出版社，2010-1
+* 《The Hacker Ethic and the Spirit of the Information Age》，Pekka Himanen，中信出版社，2002-9-1
 
 ## 讲座安排
 
