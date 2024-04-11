@@ -3,7 +3,7 @@ categories:
 - 开源
 - 感悟
 date: 2024-04-11T11:19:14+08:00
-description: ""
+description: "彼得·德鲁克先生将非营利组织的管理设定为其社会生态学的终极目标，开源软件基金会似乎非常接近这个目标了，但是作为强知识财产权保护下的市场失灵的另类路径，也是值得我们思考的。那么不妨研究一番。"
 keywords:
 - Open Source
 - Culture
@@ -71,4 +71,4 @@ authors:
 
 ## 关于作者
 
-![](/public/kuosi-face-of-os.png)「发现开源三部曲」（[《开源之迷》](posts/book-of-open-source/the-fascinating-of-open-source/)，《开源之道》《开源之思》。）、[《开源之史》](posts/history-of-open-source/summary/)作者，「开源之道：致力于开源相关思想、知识和价值的探究、推动」主创，开放原子开源基金会资深顾问，Linux基金会亚太区开源布道者（2022/2023年度团队主席）， 云计算开源产业联盟OSCAR（中国信息通信研究院发起)个人开源专家，OSPO Group 联合发起人。
+![](/public/kuosi-face-of-os.png)「发现开源三部曲」（[《开源之迷》](posts/book-of-open-source/the-fascinating-of-open-source/)，《开源之道》《开源之思》。）、[《开源之史》](posts/history-of-open-source/summary/)作者，「开源之道：致力于开源相关思想、知识和价值的探究、推动」主创，开放原子开源基金会资深顾问，Linux基金会亚太区开源布道者，TODO Ambassadors & OSPOlogyLive China Organizer， 云计算开源产业联盟OSCAR（中国信息通信研究院发起)个人开源专家，OSPO Group 联合发起人。
