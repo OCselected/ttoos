@@ -97,7 +97,13 @@ SVN 的出现就是为了做到：“目标是成为广泛使用的并发版本�
 > 分布式版本控制系统可能是[过去]十年来软件开发技术的最大进步！
 >     —— Joel Spolsky [12]
 
+分布式版本控制系统的协作模式似乎是我们目前所能理解的人类的最高协作形式了，它是互联网先驱们对 peer-2-peer 的完美实现，所有的副本都是平等的，按照需要进行合并，理论上每次提交都可以做到独一无二的。
 
+### 基于 DVCS 的代码托管平台
+
+太过完美的系统，未必是适合大众的，尽管分布式系统有着去中心化的优势，但是扁平并非效率的首选，于是，基于分布式版本控制系统的web服务平台开始出现，并简化了非常多的功能，甚至整合了诸如 bug 跟踪系统、wiki系统等项目协作的工具，以工程的方式为用户提供服务，更进一步的还提供了DevOps流水线等现代服务。
+
+以 GitHub 为代表的基于ReadMe方式的[13],更是引发了一种数字时代的社会现象，成为一个数字行业的标地，也为下一个时代提供了非常重要的数据基础。
 
 ## 参考资料
 
@@ -113,7 +119,7 @@ SVN 的出现就是为了做到：“目标是成为广泛使用的并发版本�
 10. 10 Years of Git: An Interview with Git Creator Linus Torvalds , https://www.linux.com/news/10-years-git-interview-git-creator-linus-torvalds/ ，最后访问时间：2024.5.10
 11. Tech Talk: Linus Torvalds on git， https://www.youtube.com/watch?v=4XpnKHJAok8&t=90s ，最后访问时间：2024.5.10
 12. Distributed Version Control is here to stay, baby, https://www.joelonsoftware.com/2010/03/17/distributed-version-control-is-here-to-stay-baby/ ，最后访问时间：2024.5.10
-13. 
+13. Readme Driven Development, https://tom.preston-werner.com/2010/08/23/readme-driven-development ，最后访问时间：2024.5.10
 
 
 ## 关于作者
