@@ -179,6 +179,7 @@ authors:
 * 《动机与人格》，[美]亚伯拉罕•马斯洛，中国人民大学出版社，2013-9
 * The Shifting Sands of Motivation: Revisiting What Drives Contributors in Open Source，Marco Gerosa等，29 Jan 2021，arXiv:2101.10291v3 [cs.SE]
 * 《全球“猎身”：世界信息产业和印度技术劳工》，项飙，北京大学出版社，2012-1-1
+* Linux 基金会历年的人才调查报告
 
 ### 第 5 期：交易成本
 
@@ -196,8 +197,9 @@ authors:
 3. 信息的特殊性
 4. 开源
 
-#### 推荐阅读书籍
+#### 推荐阅读书籍和文献
 
+* Coase's Penguin,or Linux and the Nature of the Firm, 112 Yale Law Journal 369 (2002)
 * 
 
 ### 第 6 期：信息规则与网络经济
@@ -261,7 +263,7 @@ authors:
 
 * 《开源的成功之路》，Steven Weber，外语教学与研究出版社，2007-6
 * 《知识产权正当性解释》， [美]罗伯特·P. 莫杰思，商务印书馆，2023-5
-* 
+*  David McGowan, Legal Implications of Open-Source Software, 2001 U. ILL. L. REV. 241.
 
 
 
@@ -309,6 +311,8 @@ authors:
 * 《数字乌托邦：从反主流文化到赛博文化》，[美]弗雷德·特纳，电子工业出版社，2013-5-1
 * 《睡鼠说：个人电脑之迷幻往事》，约翰·马科夫 (John Markoff)， 电子工业出版社，2015-7-1
 * 《The Success of Open Source》，Steven Weber，Harvard University Press，2004-04-30
+*  Lancashire, D. (2001). Code, culture and cash: The fading altruism of open source development. First Monday, 6(12). https://doi.org/10.5210/fm.v6i12.904
+
 
 ## 讲座安排
 
