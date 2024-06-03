@@ -266,15 +266,17 @@ authors:
 #### 提纲
 
 1. 版权的商业模式
-2. 商业服务与合同
-3. 排他权与容他权、
-4. 比例原则与copyleft
+2. Shrinkwrap 和共享软件的许可协议
+3. 商业服务与合同
+4. 排他权与容他权、
+5. 比例原则与copyleft
 
 #### 推荐阅读书籍
 
 * 《开源的成功之路》，Steven Weber，外语教学与研究出版社，2007-6
 * 《知识产权正当性解释》， [美]罗伯特·P. 莫杰思，商务印书馆，2023-5
 *  David McGowan, Legal Implications of Open-Source Software, 2001 U. ILL. L. REV. 241.
+*  
 
 
 ### 第 10 期：劳动报酬与财产分配
