@@ -204,6 +204,7 @@ authors:
 
 * Coase's Penguin,or Linux and the Nature of the Firm, 112 Yale Law Journal 369 (2002)
 * 《技术的本质：技术是什么，它是如何进化的》，布莱恩•阿瑟（Brian Arthur），浙江人民出版社，2014-4-1
+* 《组织的逻辑》， [美]雷•菲斯曼 [美]蒂姆•沙利文，九州出版社，2023-4
 * 
 
 ### 第 6 期：信息规则与网络经济
@@ -222,7 +223,7 @@ authors:
 
 * 
 
-### 第 7 期：组织价值与社会价值：开源的政治经济学
+### 第 7 期：商业价值与社会价值：开源的政治经济学
 
 在现实中的物产所有权中，“公地悲剧”往往频繁发生，尽管历史上在局部有着鲜有成功的“公共事物的治理”案例，但是，终究是归于公共政策。
 
@@ -232,12 +233,15 @@ authors:
 
 #### 提纲
 
-1. 
+1. 开源之算：财富散于无形
+2. 重置成本与人力薪水
+3. 
 
 #### 推荐阅读书籍
 
 * Android and the political economy of the mobile Internet: A renewal of open source critique by Kimberley Spreeuwenberg and Thomas Poell，First Monday, Volume 17, Number 7 - 2 July 2012， https://firstmonday.org/ojs/index.php/fm/article/download/4050/3271 ，doi:10.5210/fm.v17i7.4050
 * 《公共事物的治理之道：集体行动制度的演进》，(美)埃莉诺﹒奥斯特罗姆著， 上海译文出版社，2000-6-1
+* The Value of Open Source Software， Manuel Hoffmann， Frank Nagle， Yanuo Zhou，Harvard Business School.January 1, 2024
 
 
 
