@@ -26,7 +26,7 @@ translater:
 * [译者的话](./README.md)
 * [导读与推荐](./recommand.md)
 * [第一章：机会和挑战并存的时刻](./ch01-introduciton.md)
-* [第二章：](ch02/some-basic-economics-of-info.md)
+* [第二章：信息生产与创新的若干经济学基础](ch02/some-basic-economics-of-info.md)
      * [当前信息生产系统的多样性战略](ch02/the-diversity-of-strategies.md)
      * [排他权的深远影响](ch02/the-effects-of-exclusive-rights.md)
      * [当信息生产遇到计算机网络](ch02/meets-the-computer-network.md)
