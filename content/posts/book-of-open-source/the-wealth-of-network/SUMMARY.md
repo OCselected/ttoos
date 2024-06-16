@@ -8,9 +8,9 @@ keywords:
 - Open Source
 - Culture
 - Reading
-- News
+- book
 tags:
-- 每周精选
+- 图书
 - 开源之道
 title: "《网络的财富：社会生产如何改变市场和自由》（中文版）(在线阅读)"
 url: ""
@@ -25,13 +25,38 @@ translater:
 
 * [译者的话](./README.md)
 * [导读与推荐](./recommand.md)
+* [致谢](./acknowledgments.md)
+
+
+
 * [第一章：机会和挑战并存的时刻](./ch01-introduciton.md)
+
+## 第一部分 网络化的信息经济
+
+
 * [第二章：信息生产与创新的若干经济学基础](ch02/some-basic-economics-of-info.md)
      * [当前信息生产系统的多样性战略](ch02/the-diversity-of-strategies.md)
      * [排他权的深远影响](ch02/the-effects-of-exclusive-rights.md)
      * [当信息生产遇到计算机网络](ch02/meets-the-computer-network.md)
      * [数字环境中的强排他权](ch02/strong-exclusive-rights.md)
+* [第三章]()
+* [第四章]()
 
+
+
+## 第二部分 私有财产和共同财产的政治经济学
+
+* [第五章]()
+* [第六章]()
+* [第七章]()
+* [第八章]()
+* [第九章]()
+* [第十章]()
+
+## 第三部分 转型时期的自由政策
+
+* [第十一章]()
+* [第十二章]()
 
 ## 关于作者
 
