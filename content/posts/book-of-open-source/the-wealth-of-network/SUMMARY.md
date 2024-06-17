@@ -39,24 +39,24 @@ translater:
      * [排他权的深远影响](ch02/the-effects-of-exclusive-rights.md)
      * [当信息生产遇到计算机网络](ch02/meets-the-computer-network.md)
      * [数字环境中的强排他权](ch02/strong-exclusive-rights.md)
-* [第三章]()
-* [第四章]()
+* [第三章:对等生产和分享](ch03/peer-production-and-sharing.md)
+* [第四章：社交生产的经济](ch04/the-economics-of-social-produciton.md)
 
 
 
 ## 第二部分 私有财产和共同财产的政治经济学
 
-* [第五章]()
-* [第六章]()
-* [第七章]()
-* [第八章]()
-* [第九章]()
-* [第十章]()
+* [第五章:个体自由：自治、信息和法律](ch05/individual-freedom-autonomy-information-and-law.md)
+* [第六章：政治自由（上）：大量媒体的麻烦](ch06/the-trouble-with-mass-media.md)
+* [第七章：政治自由（下）：网络化公共氛围的涌现](ch07/emergence-of-the-networked-public-sphere.md)
+* [第八章：文化自由：可塑性与批判性兼具的文化](ch08/cultural-freedom-a-culture-both-plastic-and-critical.md)
+* [第九章：正义和发展](ch09/justice-and-development.md)
+* [第十章：社会纽带： 共同建立联系](ch10/social-ties-networking-together.md)
 
 ## 第三部分 转型时期的自由政策
 
-* [第十一章]()
-* [第十二章]()
+* [第十一章：数字环境的制度生态之争](ch11/the-battle-over-the-institutional-ecology-of-the-digital-environment.md)
+* [第十二章：结论：信息法律与政策的利害关系](ch12/conclusion-the-stakes-of-information-law-and-policy.md)
 
 ## 关于作者
 
