@@ -40,7 +40,11 @@ translater:
      * [当信息生产遇到计算机网络](ch02/meets-the-computer-network.md)
      * [数字环境中的强排他权](ch02/strong-exclusive-rights.md)
 * [第三章:对等生产和分享](ch03/peer-production-and-sharing.md)
+     * [自由和开源软件](ch03/free-open-source-software.md)
+     * [信息、知识和文化的对等生产](ch03/peer-produciton-of-information-knowledge-and-culture-generally.md) 
 * [第四章：社交生产的经济](ch04/the-economics-of-social-produciton.md)
+     * []()
+     * []()
 
 
 
