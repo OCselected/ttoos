@@ -38,9 +38,46 @@ translater:
 
 ## 摘要
 
+本文探讨了 Google 在开发 Android 这一流行的移动操作系统时，如何以及为何战略性地采用了特定的开放源代码实践，而没有选择其他的实践。本文探讨了该公司如何通过这些实践培育并控制了一个庞大的移动互联网生态。这一生态涉及大型电信公司和设备制造商，以及大量第三方应用程序开发商和数亿移动互联网用户。它使谷歌能够利用独立程序员的贡献，并在此基础上继续发展。更重要的是，它有助于获取有价值的安卓用户元数据，这对开发新的特定位置服务和广告至关重要。本文展示了这些结合了复杂的技术、法律和政治经济手段的企业战略如何塑造了快速发展的移动互联网，并因此产生了深远的经济和文化影响。
+
+## 介绍
+
+安卓（Android）是基于 Linux 的移动设备操作系统，作为一个开源项目进行销售。它被宣传为：
+
+> (Android) 是作为移动设备的开源技术栈，再加上由Google 领导开发的对应的一系列开源项目（的系统）。我们创建 Android 的初衷是为了总结我们自己推出移动应用程序的经验。我们希望确保没有中心故障点，这样任何行业参与者都无法限制或控制其他任何参与者的创新。
+
+
+
+## 开源批判
+
+
+## Android 作为技术-法律的组合
+
+## Android 的政治经济学
+
+## 总结
+
+## 致谢
+
+我们要感谢 José van Dijck、Florian Cramer 和 Morgan Currie，以及《First Monday》的匿名审稿人，感谢他们提出的有益意见、建议和帮助。
+
+
+## 注
+
+
+
+
+## 参考材料
+
 
 
 
 ## 关于作者
+
+* **Kimberley Spreeuwenberg (M.A., University of Amsterdam)**，新媒体研究员兼平面设计师。她在阿姆斯特丹大学媒体研究系任教。
+* **Thomas Poell (Ph.D., Utrecht University)**, 阿姆斯特丹大学媒体研究系新媒体和数字文化助理教授。
+
+
+## 关于译者
 
 ![](/public/kuosi-face-of-os.png)「发现开源三部曲」（[《开源之迷》](posts/book-of-open-source/the-fascinating-of-open-source/)，《开源之道》《开源之思》。）、[《开源之史》](posts/history-of-open-source/summary/)作者，「开源之道：致力于开源相关思想、知识和价值的探究、推动」主创，Linux基金会亚太区开源布道者，TODO Ambassadors & OSPOlogyLive China Organizer，云计算开源产业联盟OSCAR（中国信息通信研究院发起）个人开源专家，OSPO Group 联合发起人。
