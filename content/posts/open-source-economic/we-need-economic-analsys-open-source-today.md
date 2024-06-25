@@ -11,7 +11,7 @@ keywords:
 tags:
 - 每周精选
 - 开源之道
-title: "开源的经济解释（Call of Presentation）"
+title: "开源的经济解释（Call for Presentation）"
 url: ""
 authors:
 - 「开源之道」·适兕
