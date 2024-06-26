@@ -57,8 +57,45 @@ translater:
 
 Eric Raymond 的文章“大教堂和集市”于 1997 年首次在 Linux Kongress 上发表，并于 1998 年在 First Monday 发表，可以被视为“开源”的奠基文本。在该文中，理论家和程序员雷蒙德对比了两种软件开发模型：大教堂模型和集市模型。他坚持认为，大教堂建造者的方法最常用于商业软件开发，是基于“先验的、集中的生产模式”。相比之下，他将集市方法与开源联系起来，从“一千名热切的共同开发者”中汲取了专业知识[3]。Raymond 断言，控制产品开发的专家集中模式可以被众多共同开发者所取代——具有不同观点的多个眼球，他们都为产品的开发做出了贡献，并且可以刺激更大规模的创新（Raymond，1998）。
 
-在随后的几年中，各种理论家都赞扬了开源和自由软件的实践和理想。例如，Lawrence Lessig (2005) 认为“开源和自由软件问题是自由社会的根本”[4]。
+在随后的几年中，各种理论家都赞扬了开源和自由软件的实践和理想。例如，Lawrence Lessig (2005) 认为“开源和自由软件问题是自由社会的根本”[4]。反过来，Benkler（2006）断言“自由和开源软件”的开发构成了“有组织生产的新模式”，他称之为“Commons-based 同侪生产”[5]。他将这种模式描述为：
 
+> 彻底去中心化、协作性和非专有性；其基础是在分布广泛、联系松散的个人之间共享资源和产出，这些个人相互合作，不依赖市场信号或管理命令。 [6]
+
+在 Benkler 看来，自由软件和开源的核心是：“自主、自力更生、赠送礼物、协作、积极参与、解放和激励参与的创造力等价值观”[7]。
+
+这些对开源的理想主义描绘招致了来自不同方面的批评。第一批批评者之一是 Richard Stallman 本人，他很快指出了“开源”与自由软件传统之间的差异。Stallman (1998) 坚持认为开源改变了自由软件的核心价值观。他认为，这种“务实的做法”通过强调不受中央控制的自由来使自己合法化，但同时又否认或限制用户的自由。Stallman (1999) 认为，与开源相比，自由软件基于以下自由：
+
+> a）“出于任何目的运行程序”，b) “可以自由修改程序以满足您的需求”，c) “免费或收费地重新分发副本”，d) “分发程序的修改版本，以便共同体可以从您的改进中受益。”[8]
+
+Stallman 认为，开源的务实方法实际上掩盖了这些价值观的重要性。
+
+对于 Raymond 来说，自由软件的实践符合市场的逻辑和需求。他认为：
+
+> Linux 世界在很多方面都表现得像一个自由市场，或者生态学，一群试图最大化效用的自私主体，在这个过程中产生了一种自我纠正的自发秩序，比任何数量的中央计划都更加复杂和有效。 [9]
+
+正如 Christopher M. Kelty (2008) 指出的那样，开源标签是由Raymond和他的合作者引入的，目的是将焦点正如 Stallman 所宣传的“抵制专有软件”转移出来，到自由软件可能提供的“经济价值”和“成本节约”[10]。
+
+事实证明，这种重点转移是成功的。事实上，Raymond 的文章直接启发了 Netscape 在 1998 年发布其 Web 浏览器源代码的决定。20 世纪 90 年代中期，就使用份额而言，Netscape Navigator 一直是占主导地位的浏览器。然而，到了 1998 年，在第一次浏览器战争期间，它的用户很快就被微软的 Internet Explorer 夺走了。网景公司希望通过发布Navigator的源代码，呼应 Raymond 的集市模式，得到广大外部程序员在开发其浏览器时的帮助。然而，这一决定既没有带来经济回报，也没有带来优质的产品。但是它确实极大地增强了开源概念的共鸣，远远超出了自由软件程序员和黑客的圈子。
+
+尽管 Stallman 批评 Raymond 试图让自由软件对企业利益更具吸引力，不过多位学者指出，这些自由软件的做法在当时就已经符合商业利益。从这个角度来看，无论是 Netscape 浏览器源代码的发布，还是 Raymond 的文章，都不是革命性的。它们是资本主义经济和礼品经济已经深深交织在一起的文化及深刻标志。
+
+理查德·巴布鲁克（Richard Barbrook）是最早强调这种相互联系的学者之一。Barbrook（1998）在《高科技礼品经济》中将 20 世纪 90 年代的新互联网经济描述为混合经济。他强调，用户之间信息的自由流通是开源和自由软件礼品经济的核心，它取决于计算机、软件和电信的资本主义生产。此外，他强调商业互联网公司的利润依赖于越来越多的人参与高科技礼品经济。
+
+Tiziana Terranova (2004) 也进行了类似的观察，但从更批判性的角度出发。反思开源运动及其适应企业利益的尝试，她坚持认为：
+
+> 开源问题表明了数字经济本身对自由劳动力的过度依赖，这种自由既包括“没有经济回报”的含义，也包括“自愿给予”的含义。 [11]
+
+这种免费劳动力不仅包括开源程序员的工作，还包括业余网页设计师、邮件列表编辑和在线共同体领导者的工作。Terranova 坚持认为，“特别是自 1994 年以来，互联网始终同时是一种礼物经济和先进的资本主义经济”[12]。从Barbrook和Terranova的角度来看，Lessig、Benkler和 Raymond 所拥护的理想主义，甚至是 Stallman 试图将自由软件与开源区分开来，似乎也掩盖了自由软件发展的更广泛的政治经济。
+
+根据 Terranova (2004) 的说法，大企业对免费劳动力的依赖不仅仅是软件开发和互联网的一个特有特征，但这是晚期资本主义的典型特征，其特点是整个文化经济的补偿和剥削（另见Söderberg，2008）。以类似的方式，Matteo Pasquinelli (2010a) 批评了开源和自由软件的辩护者。他坚持认为“阅读像Stallman 和 Lessig 这样的作家，就会产生一个问题：所谓的自由社会中的利润最终去了哪里？”反思这个问题，Pasquinelli 将自由社会中的关系描述为“寄生性”。他强调，“自由文化主义者”所推崇的同侪生产肯定不会改善“最后的数字一代”的生活条件[13]。
+
+鉴于这种批评以及开源和免费软件的历史，Android 提供了一个有趣的案例。一方面，它表现为开源与企业利益之间密切关系的延续；Kelty (2008) 和 Weber (2004) 的研究详细追踪了这种关系，并受到 Terranova (2004) 和 Pasquinelli (2010a) 的批判性质疑。然而，与此同时，Android 对开源的特殊使用也引入了许多新的、更大的问题，这需要重新审视开源批评，或者更具体地说，对 Android 开源实践所处的政治经济进行批评。
+
+尽管这种政治经济的一般特征已经被理论化，但仍不清楚在这种经济背景下，谷歌和 OHA 如何以及为何采用特定的开源实践。Terranova 和 Pasquinelli 讨论了晚期资本主义的寄生本质，对当今互联网的研究表明，大型 Web 2.0 公司，例如 Google 和 Facebook，首先也是最重要的是，通过收集用户活动的元数据来精确描述这些用户来赚钱，这反过来又使得开发有针对性的广告和服务成为可能。为了促进必要元数据的收集，开发了 Facebook、Google+ 和 YouTube 等社交媒体平台，邀请用户表达和分享他们的个人兴趣和身份Allen，2008；Cheney–Lippold，2011；Fuchs 等，2011；Langlois 等，2009；van Dijck，2009；Petersen，2008）。
+
+基于这些见解，本文的以下部分将阐明 Google 和 OHA 在这种政治经济背景下如何战略性地采用特定的开源实践，而没有采用其他的方式。网上记录的合法许可和技术规范，以及围绕Android的争议和诉讼，是这一探索的基础。首先，Android 将被视为技术与法律的组合，以了解 Android 的特定开源实践如何嵌入技术规范和法律框架中。这部分分析特别受到关键软件研究的启发（Chun，2006；Fuller，2008；Galloway，2004；Langlois 等，2009）。随后，在第二部分中，将展示Android的技术法律宪法如何让谷歌在移动互联网的政治经济中发挥核心作用。这部分涉及批判性互联网研究传统以及更广泛的批判性政治经济学中阐述的一些关键问题（Dean，2009；Dyer-Witheford，1999；Fuchs，2011；Terranova，2004）。
+
+虽然 Android 被公开介绍为一个旨在防止任何“行业参与者限制或控制任何其他参与者的创新”的项目，但在 Android 生态中，谷歌显然拥有对其他相关参与者的控制权。正如下一节将要讨论的，它通过法律和技术规范的结合，有效地设定了Android生态中自由和控制的参数。
 
 ## Android 作为技术-法律的组合
 
@@ -75,16 +112,30 @@ Eric Raymond 的文章“大教堂和集市”于 1997 年首次在 Linux Kongre
 
 1.  http://source.android.com, accessed 3 May 2011.
 2.  http://techcrunch.com/2011/12/22/android-700000/, accessed 22 December 2011.
-3.   E. Raymond, 1998, p. 8.
-4.   L. Lessig, 2005, p. 350.
+3.  E. Raymond, 1998, p. 8.
+4.  L. Lessig, 2005, p. 350.
+5.  Y. Benkler, 2006, p. 60.
+6.  Ibid.
+7.  Y. Benkler and H. Nissenbaum, 2006, p. 411.  
+8.  R. Stallman, 1999, p. 17.
+9.  E. Raymond, 1998, p. 20.
+10. C. Kelty, 2008, p. 99.
+11. T. Terranova, 2004, pp. 93–94.
+12. T. Terranova, op.cit., p. 94.
+13. M. Pasquinelli, 2010a, p. 289.
 
 
 
 ## 参考材料
 
+* Y. Benkler, 2006. The wealth of networks: How social production transforms markets and freedom. New Haven, Conn.: Yale University Press.
+* Y. Benkler and H. Nissenbaum, 2006. “Commons–based peer production and virtue,” Journal of Political Philosophy, volume 14, number 4, pp. 394–419.http://dx.doi.org/10.1111/j.1467-9760.2006.00235.x
+* C. Kelty, 2008. Two bits: The cultural significance of free doftware. Durham, N.C.: Duke University Press.
 * L. Lessig, 2005. “Open code and open societies,” In: J. Feller, B. Fitzgerald, S. Hissam and K. Lakhani (editors). Perspectives on free and open source software. Cambridge, Mass.: MIT Press, pp. 349–360.
-
+* M. Pasquinelli, 2010a. “The ideology of free culture and the grammar of sabotage,” In: D. Araya and M. Peters (editors), Education in the creative economy: Knowledge and learning in the age of innovation. New York: Peter Lang, pp. 285–304.
 * E. Raymond, 1998. “The cathedral and the bazaar,” First Monday, volume 3, number 3, at http://firstmonday.org/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/578/499, accessed 22 June 2012.
+* R. Stallman, 1999. “The GNU project,” In: J. Gay (editor). Free software: Selected essays of Richard M. Stallman. Boston: GNU Press, p. 17.
+* T. Terranova, 2004. Network culture: Politics for the information age. London: Pluto Press.
 
 
 ## 关于作者
