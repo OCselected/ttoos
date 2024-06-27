@@ -3,7 +3,7 @@ categories:
 - 开源
 - 感悟
 date: 2024-06-19T16:15:57+08:00
-description: ""
+description: "我们很难想象一家公司能够利用开源的实践来占领市场，然而Android就是这样超越我们想象力的创新，它不仅是法律上的，还有组织上的，当然也有技术上，从政治经济学的角度来看，它是一场全新的胜利。"
 keywords:
 - Open Source
 - Culture
@@ -121,18 +121,47 @@ APL2.0 是一种宽松的自由软件许可证，由 Apache Software Foundation 
 
 谷歌尤其是通过技术规范来主导Android生态。为了理解它是如何运作的，重要的是要看到该公司并没有完全接受 Raymond 所描述的软件开发的“集市”模式，以及 Netscape 在 20 世纪 90 年代末尝试过的模式。相反，谷歌在很大程度上遵循软件生产的“大教堂”模式。仅发布操作系统完整版本的源代码。由于谷歌完全控制操作系统的开发，因此它可以确定Android合作伙伴必须遵守的技术规范。
 
+这些规范随后如何让谷歌迫使行业合作伙伴遵守其规则，可以通过“兼容性”问题清楚地观察到。兼容性至关重要，因为只有拥有庞大用户群的平台才能吸引足够数量的第三方应用程序开发人员。针对 OEM，Google 指出：“通过构建完全兼容的 Android 设备，您可以从为 Android 编写的大量应用程序中受益，同时增加开发人员构建更多此类应用程序的动力”[18]。
 
+兼容性问题与“碎片化”问题直接相关。得益于 Android 的开源许可，硬件制造商可以定制 Android 源代码并开发自己的用户界面和独特的应用程序 [19]。然后将定制的操作系统绑定到特定的硬件。如果每部 Android 手机都需要自己特定的第三方应用程序和其他服务，这种做法可能会导致碎片化。这种碎片化不符合Android作为“平台”的推广愿景，即每个设备都有自己的特定功能，但仍然与其他Android设备兼容，以确保为第三方应用程序提供一个大平台。
+
+由碎片和分叉引起的兼容性问题在开源共同体中是众所周知的。它们经常被视为开源项目的主要弱点（Kelty，2008；Lerner 和 Tirole，2002；Weber，2004）。对于移动设备来说，不兼容性尤其成问题，因为并非每个设备都具有相同的硬件功能，例如相机或 GPS。这进一步限制了基于这些功能的应用程序的兼容性。
+
+为了防止碎片化，Google 开发了 Android 兼容性计划 [20]。该计划围绕兼容性定义文档（CDD）[21]。CDD 解决了 Android 硬件和软件的要求，以及操作系统应如何运行。例如，它在很大程度上定义了 Android 应用程序编程接口 (API) 的开发和管理方式。API 是一种技术规范，使第三方应用程序开发人员能够控制对设备硬件功能（例如相机或 GPS）或特定服务后端（例如 Google 地图）的访问。
+
+一般来说，API 的开发是为了让第三方访问现有的硬件功能，以便他们可以将它们用于自己的应用程序。对于 Android，情况正好相反。**Android 的 API 并不允许第三方应用程序开发人员访问硬件制造商提供的功能，而是直接指示可以呈现哪些硬件功能。**他们有效地引导硬件开发人员的创新过程。为了促进这一点，CDD 声明：“设备实现不得省略任何托管 API、更改 API 接口或签名、偏离记录的行为或包含无操作，除非本兼容性定义明确允许”[22]。因此，设备制造商绝对禁止更改 Android 的 API，除非 CDD 以及 Google 明确允许。
 
 ### Skyhook 案例
 
+除了利用兼容性来引导硬件开发之外，谷歌还可以将其用作进攻性战略武器。“Skyhook 案”清楚地说明了这一点。2010 年 9 月，Skyhook Wireless（一项通过 Wi-Fi 和手机信号塔信号精确定位移动设备位置的服务）起诉谷歌，指控其业务干扰和专利侵权。该案尚未结案（截止本文撰写期间），但 Business Insider 网站在线提供的大量未密封文件提供了对 Android 审批流程的深入了解。
+
+这些文件主要涉及摩托罗拉和谷歌之间或谷歌内部的电子邮件对话。他们透露，谷歌不同意摩托罗拉选择使用 Skyhook 作为其网络位置提供商服务，该服务确定移动设备的地理位置。它的目的是“说服”摩托罗拉选择谷歌的服务。位置提供商服务对于 Google 很重要：
+
+> 因为我们需要收集 wifi 数据来维护和改进我们的 wifi 定位服务（...）。我们的wifi位置数据库对谷歌来说非常有价值，因为它不是一个竞争市场，甚至比地图数据市场还要糟糕。Skyhook 是唯一可行的替代方案，依赖它们会带来难以置信的风险。 [23]
+
+位置提供商服务允许 Google 收集有价值的最终用户元数据。
+
+谷歌的电子邮件揭示了他们如何考虑采取多种策略来说服摩托罗拉使用其服务。首先，它考虑强调即将推出的移动服务创新，并利用这些创新作为杠杆。一封电子邮件内容提到：“我认为，如果我们就我们计划在 Places、Latitude 和 GMM 中计划的一些创新向摩托罗拉提供更多教育，我们的成功机会可能会进一步提高。”此外，“如果我们认为有价值，我们可能会给摩托罗拉一个非正式的‘主导地位’，以便更快地向最终用户推销这些功能”[24]。
+
+此外，谷歌还考虑采取更激进的做法，通过引入技术限制来推动摩托罗拉使用其服务。它特别考虑将其网络位置提供商（NLP）直接与谷歌地图服务绑定。在这种情况下，谷歌内部的一封电子邮件解释道：“地图只使用 Google NLP 或 GPS，而忽略任何其他 [第 3 方位置提供商] 就可以了。在这样的技术限制下，OEM 可以自由地预加载第 3 方位置提供商——我们只是不会在地图中使用它;-)”[25]。
+
+最终，谷歌决定援引“兼容性”论点。在发给摩托罗拉的电子邮件中，谷歌争论了兼容性计划“为应用程序开发人员设定了一个期望，即他们将获得精度小于 10m 的 GPS 位置，可用于需要非常细粒度位置的情况，例如逐向导航”[26]。它认为 Skyhook 服务没有提供这样的准确性，因此不兼容。
+
+当 Google 说服摩托罗拉不要使用 Skyhook 时，兼容性也是摩托罗拉向 Skyhook 传达其决定的主要论点。谷歌确实建议摩托罗拉使用这个论点：“我们认为最好解释一下这是Android兼容性问题。”摩托罗拉最终发给 Skyhook 的电子邮件指出：“如您所知，摩托罗拉有一定的合同义务，通常要求摩托罗拉的 Android 设备是 Google 定义的 Android 兼容设备”[27]。总而言之，谷歌对兼容性问题的战略利用体现了技术规范的政治性。它展示了“代码和软件的条件如何与权力、资本和控制相关”（Langlois 等，2009）。它说明Android的开源模式，以及随之而来的兼容性和碎片化问题，成为了推动Google服务和引导Android设备硬件开发的武器。
 
 ## Android 的政治经济学
+
+技术和法律规范的政治使谷歌在移动互联网的政治经济中占据了中心位置。反思 Android 在当前经济中的角色，重要的是要看到 Google 首先是一个广告网络公司。它通过 AdSense 和 AdWords 服务产生超级份额的收入（Anderson，2009；Levy，2011；Vaidhyanathan，2011）。
+
+
 
 ### 移动互联网的未来 
 
 ## 总结
 
 通过对Android的反思，我们认为对于开源的批判需要重新审视，在过去的十年中，开源经常受到批评，因为它通过将自由软件与企业利益结合起来，促进了对开源程序员自由劳动力的利用。在Android构成、谷歌主导的政治经济格局中，剥削不仅变得更加普遍，而且更加包容和多面。在这种配置中，开源实际上是认知资本主义的技术法律工具。Android 使 Google 能够系统地收集、分析移动用户数据并将其商品化。该操作系统不仅可以分析用户兴趣，还可以密切跟踪用户移动，这对于开发新的特定位置服务和广告至关重要。为了促进这一点，战略性地采用了特定的开源实践。通过这些实践，谷歌能够培育并掌控庞大的移动互联网生态，包括：全球众多电信运营商、各大设备制造商、海量第三方应用开​​发商、各类社交媒体企业、数亿移动互联网用户。在这个生态中，谷歌可以利用独立程序员的贡献，更重要的是，还可以利用Android用户的元数据。
+
+鉴于企业控制力对移动互联网政治经济的大规模集中，政府开始对这种控制力施加限制至关重要。
 
 
 ## 致谢
@@ -159,8 +188,18 @@ APL2.0 是一种宽松的自由软件许可证，由 Apache Software Foundation 
 15. 关于自由软件与知识共享之间关系的讨论，见 C. Kelty, 2008, 第 269-300 页。
 16. http://source.android.com/source/licenses.html, accessed 3 May 2011.
 17. http://source.android.com/source/cla-corporate.html, accessed 12 July 2011.
-18. 
-
+18. http://source.android.com/compatibility/index.html, accessed 12 July 2011.
+19.  http://source.android.com/compatibility/overview.html, accessed 12 July 2011
+20.  同上
+21.  http://source.android.com/compatibility/2.3/android-2.3.3-cdd.pdf, accessed 23 March 2011.
+22.  Op.cit., p. 4.
+23.  http://www.businessinsider.com/google-skyhook-documents-2011-5, accessed 4 July 2011;
+     http://www.businessinsider.com/google-skyhook-documents-2011-5-a-bunch-of-the-good-stuff-lots-of-emails-from-inside-google-and-tofrom-skyhook-and-motorola-employees-1?, accessed 4 July 2011;
+      http://www.businessinsider.com/google-skyhook-documents-2011-5#more-emails-and-the-documents-where-skyhook-is-requesting-documents-from-google-for-the-case-2, accessed 4 July 2011, p. GOOG_SKY_ST 00046598.
+24.  http://www.businessinsider.com/google-skyhook-documents-2011-5#more-emails-and-the-documents-where-skyhook-is-requesting-documents-from-google-for-the-case-2, accessed 4 July 2011, p. GOOG_SKY_ST 00017371.
+25.  Op.cit., p. GOOG_SKY_ST 00040970.
+26.  Op.cit., p. GOOG_SKY_ST 00027006.
+27.  Op.cit., p. SKY00000159.
 
 
 ## 参考材料
@@ -168,6 +207,7 @@ APL2.0 是一种宽松的自由软件许可证，由 Apache Software Foundation 
 * Y. Benkler, 2006. The wealth of networks: How social production transforms markets and freedom. New Haven, Conn.: Yale University Press.
 * Y. Benkler and H. Nissenbaum, 2006. “Commons–based peer production and virtue,” Journal of Political Philosophy, volume 14, number 4, pp. 394–419.http://dx.doi.org/10.1111/j.1467-9760.2006.00235.x
 * C. Kelty, 2008. Two bits: The cultural significance of free doftware. Durham, N.C.: Duke University Press.
+* G. Langlois, F. McKelvey, G. Elmer and K. Werbin, 2009. “Mapping commercial Web 2.0 worlds: Towards a new critical ontogenesis,” Fibreculture, issue 14, at http://journal.fibreculture.org/issue14/issue14_langlois_et_al_print.html, accessed 21 May 2011.
 * L. Lessig, 2005. “Open code and open societies,” In: J. Feller, B. Fitzgerald, S. Hissam and K. Lakhani (editors). Perspectives on free and open source software. Cambridge, Mass.: MIT Press, pp. 349–360.
 * M. Pasquinelli, 2010a. “The ideology of free culture and the grammar of sabotage,” In: D. Araya and M. Peters (editors), Education in the creative economy: Knowledge and learning in the age of innovation. New York: Peter Lang, pp. 285–304.
 * E. Raymond, 1998. “The cathedral and the bazaar,” First Monday, volume 3, number 3, at http://firstmonday.org/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/578/499, accessed 22 June 2012.
