@@ -153,15 +153,35 @@ APL2.0 是一种宽松的自由软件许可证，由 Apache Software Foundation 
 
 技术和法律规范的政治使谷歌在移动互联网的政治经济中占据了中心位置。反思 Android 在当前经济中的角色，重要的是要看到 Google 首先是一个广告网络公司。它通过 AdSense 和 AdWords 服务产生超级份额的收入（Anderson，2009；Levy，2011；Vaidhyanathan，2011）。
 
+AdWords 是一种按点击付费的关键字广告计划，广告商可以通过该计划根据与其内容相关的关键字投放广告。反过来，AdSense 是一个广告投放程序，它利用 Google 的搜索功能来确定通过 Google AdWords 程序购买的广告的最佳定位。Adsense 允许任何人发布网站来产生收入。它使用有关访问网站的用户的信息来更好地定位其广告。最终，这些信息用于“根据推断的兴趣和人口统计类别，展示可能吸引（...）用户的广告”[28]。因此，Google 能够更准确地推断用户兴趣并确定他们所属的人口统计类别，AdSense 的效果就越好。此类分析所需的元数据是通过各种 Google 服务获取的：Google 搜索、YouTube、Google+、Google Reader、Google Checkout、Google Books 等。因此，对于 Google 来说，让尽可能多的人使用这些服务至关重要。
 
+从这个角度来看，移动互联网的快速增长对公司构成了挑战。为了维持其在在线广告领域的领先地位并确保未来的增长，**其服务必须能够且始终能够在移动互联网设备上轻松访问。** 此外，它能够为新的移动服务（例如 Google Offers、Google Wallet 和 Google Shopper）建立庞大的用户群也至关重要。最后，至关重要的是它能够从新的和现有的服务中收集关键的移动用户数据。移动互联网设备不再局限于点击和搜索的在线活动，它可能使谷歌能够更密切地监控用户的活动，跟踪他们的每一步。显然，此类特定位置数据使谷歌能够更准确地分析用户，预测他们在特定地点和时间的特定兴趣。
+
+Android 的发展应该与这种商业模式紧密联系起来。**Android 是谷歌试图保持对人们访问其服务方式的控制，并确保它能够获取重要的移动用户元数据的手段。**虽然该公司还为 iOS 和 Windows 7 用户提供服务，但尚不确定这些服务是否仍可通过这些移动操作系统轻松访问。此外，也正是因为谷歌独特的商业模式，Android的开源分发策略才如此有效。对于谷歌来说，最重要的是让Android在尽可能多的移动设备上运行，从而最大限度地扩大其服务的用户群。Android 的开源策略对于实现这一目标特别有帮助。对于工业合作伙伴来说，该操作系统的吸引力不仅在于它是免费的，还在于它可以轻松定制，允许制造商和电信公司在 Android 设备上打上自己的印记，同时可以访问大量的第三方应用程序。反过来，对于Google来说，正如前一部分所讨论的，开源战略和APL2.0使其能够推送其服务。
+
+为了能够使用 Android 作为其不同服务的平台，并作为收集用户数据的工具，谷歌保持对操作系统本身开发的完全控制至关重要。在真正的开源软件开发模型中，即 Raymond 所说的“集市”模型中，谷歌必须让独立开发人员直接参与操作系统的编码。这将使谷歌很难（如果不是不可能的话）控制用户如何访问其服务，并且会使用户数据的收集变得复杂。此外，它将不再允许谷歌向特定原始设备制造商“提前访问”新版本操作系统的源代码，这是其与制造商相关的关键管理策略之一。例如，摩托罗拉就获得了早期访问 Android 3.0（操作系统 Honeycomb 版本）源代码的权限。因此，也正是考虑到这些政治经济因素，谷歌决定按照所谓的“大教堂”模式开发操作系统的决定也应该被理解。
+
+因此，虽然谷歌战略性地采用了特定的开源实践，但它也战略性地避免完全拥抱开源模式。Steven Weber（2004）在反思开源的核心原则和实践时指出，“开源是一种组织生产、共同制造事物的方式”[29]。它“从根本上是围绕分发权而不是排除权配置的”[30]。对于此两种情形，谷歌采取了不同的方法。
 
 ### 移动互联网的未来 
+
+谷歌特定的商业模式和开源实践与其他生产移动操作系统的公司的商业模式有着直接的冲突。Apple 开发 iOS 主要是为了销售 Apple 硬件，并且与 Apple 硬件紧密捆绑。RIM 也是如此，它开发了 Blackberry OS，并于 2010 年春季购买了操作系统 QNX，以便能够创建和销售自己的平板电脑硬件 Blackberry Playbook [31]。与苹果和 RIM 不同，微软不销售自己的硬件，但该公司将其 Windows Phone 7 操作系统与诺基亚和 HTC 等开发商开发的硬件捆绑在一起。微软首先通过许可费产生收入。相比之下，谷歌开发Android并不是为了通过许可或硬件销售来创收。如上所述，其主要目标是构建一个收集用户元数据和显示有针对性的广告的平台。
+
+通过向原始设备制造商“免费”提供 Android 操作系统，谷歌实际上正在颠覆其他开发移动操作系统的公司的原有的商业模式。毫不奇怪，这些公司做出了积极的回应，引发了一系列诉讼，主要涉及 Android 中实施的“开源”代码的专利和版权侵权。总共有 37 起 Android 相关诉讼 [32]。其中大多数的诉讼已经和解。其中一个鲜明的例子是，在提起知识产权侵权诉讼后，微软与 HTC 达成协议，对每售出的 HTC 手机收取许可费 [33]。以类似的方式，微软与 11 家不同的 Android 制造商达成了专利许可协议，包括 HTC、三星、宏碁和 LG [34]。总而言之，这些诉讼特别增加了 Android 操作系统的“价格”，它不再被认为是“免费”的。
+
+虽然大多数诉讼并未直接针对谷歌，但它们确实可能会破坏 Android 的发展。例如，苹果公司指控 HTC 侵犯了苹果公司的 10 项专利。关于此案，美国国际贸易委员会裁定，运行 Android 的 HTC 设备确实侵犯了一项易于解决的苹果专利 [35]。然而，这起诉讼可能会产生深远的影响，因为它还涉及一项涉及 Android 操作系统核心功能的专利。如果法院做出有利于苹果的裁决，谷歌将被迫重组操作系统的架构，甚至可能重组底层 Linux 内核的架构 [36]。甲骨文发起了另一起可能具有破坏性的诉讼，这是第一起直接指控谷歌 Android 侵犯其 Java 专利的诉讼。为了和解，谷歌向甲骨文提供了 Android 收入的一定比例——如果他们确实能证明专利侵权的话。甲骨文拒绝了这一提议。 2012 年 5 月，联邦陪审团做出了基本有利于谷歌的裁决。它裁定谷歌在 Android 操作系统中使用 Java 软件时并未侵犯甲骨文的专利，这使得甲骨文的版权侵权索赔相对较小[37]。
+
+为了保护自己免受这些诉讼的影响，谷歌在 2011 年夏天以 125 亿美元收购了摩托罗拉移动。此次收购的目的主要是扩大谷歌相对较小的移动专利组合并“帮助保护Android生态系统”[38]。考虑到谷歌愿意花多少钱来捍卫Android，很明显，在移动互联网的政治经济斗争中，赌注已经变得非常高。双方涉及专利或版权侵权的大多数诉讼都引发了“反”诉讼，这一事实进一步强调了这一结论。
+
+当然，这些斗争的结果不仅影响相关企业，也对数亿移动互联网用户产生重大影响。到目前为止，这些后果主要是从隐私问题的角度考虑的。特别是在大众媒体中，人们对 Android 智能手机如何跟踪用户活动进行了大量报道。这些手机因向谷歌发送位置数据而受到批评。此外，第三方开发商的某些 Android 应用程序因包含“嵌入式信息收集代码 API”而受到批评，这些应用程序用于“收集广告和应用程序使用指标”。据说“有关用户的详细信息，包括他们的位置和唯一的移动标识符”被发送“到移动广告公司以跟踪、分析和个人识别用户”[39]。这种类型的数据收集被认为侵犯了用户的隐私。
+
+
 
 ## 总结
 
 通过对Android的反思，我们认为对于开源的批判需要重新审视，在过去的十年中，开源经常受到批评，因为它通过将自由软件与企业利益结合起来，促进了对开源程序员自由劳动力的利用。在Android构成、谷歌主导的政治经济格局中，剥削不仅变得更加普遍，而且更加包容和多面。在这种配置中，开源实际上是认知资本主义的技术法律工具。Android 使 Google 能够系统地收集、分析移动用户数据并将其商品化。该操作系统不仅可以分析用户兴趣，还可以密切跟踪用户移动，这对于开发新的特定位置服务和广告至关重要。为了促进这一点，战略性地采用了特定的开源实践。通过这些实践，谷歌能够培育并掌控庞大的移动互联网生态，包括：全球众多电信运营商、各大设备制造商、海量第三方应用开​​发商、各类社交媒体企业、数亿移动互联网用户。在这个生态中，谷歌可以利用独立程序员的贡献，更重要的是，还可以利用Android用户的元数据。
 
-鉴于企业控制力对移动互联网政治经济的大规模集中，政府开始对这种控制力施加限制至关重要。
+鉴于企业控制力对移动互联网政治经济的大规模集中，政府开始对这种控制力施加限制至关重要。到目前为止，这些后果主要是从隐私问题角度考虑的。
 
 
 ## 致谢
@@ -200,6 +220,19 @@ APL2.0 是一种宽松的自由软件许可证，由 Apache Software Foundation 
 25.  Op.cit., p. GOOG_SKY_ST 00040970.
 26.  Op.cit., p. GOOG_SKY_ST 00027006.
 27.  Op.cit., p. SKY00000159.
+28. http://www.google.com/adsense/support/bin/answer.py?hl=en&answer= 140378, accessed 30 May 2011.
+29. S. Weber, 2004, p. 224.
+30. Op.cit., p. 228.
+31. http://www.eweek.com/c/a/Mobile-and-Wireless/BlackBerry-PlayBook-Tablet-a-Winner-Despite-Heavy-Costs-RIM-283057/, accessed 14 April 2012.
+32. http://www.fosspatents.com/2011/03/infographic-37-android-related-patent.html, accessed 12 April 2012
+33.  http://moconews.net/article/41 9-htc-will-pay-royalties-to-microsoft-for-android-phones/, accessed 14 April 2012.
+34.  http://www.techspot.com/news/47030-microsoft-strikes-another-android-patent-licensing-deal.html, accessed 12 January 2012.
+35. http://www.businessweek.com/articles/2012-03-29/apple-s-war-on-android, accessed 14 April 2012.
+36.  http://www.ibtimes.com/articles/182074/20110718/android-apple-htc-itc-mobile-os-patent-infringement-oracle-motorola-oem-samsung-iphone-steve-jobs-li.htm, accessed 18 July 2011.
+37. http://www.reuters.com/article/2012/03/28/oracle-google-lawsuit-idUSL2E8ESRKB20120328, accessed 14 April 2012; http://bits.blogs.nytimes.com/2012/05/23/google-cleared-of-java-patent-violation/, accessed 7 June 2012; http://www.businessinsider.com/oracle-google-android-lawsuit-legal-fees-2012-6, accessed 7 June 2012.
+38. http://www.google.com/press/motorola/, accessed 14 April 2012.
+39.  http://www.huffingtonpost.com/2011/04/22/google-android-and-apple-track-your-location_n_852529.html, accessed 12 July 2011.
+40. 
 
 
 ## 参考材料
@@ -213,6 +246,7 @@ APL2.0 是一种宽松的自由软件许可证，由 Apache Software Foundation 
 * E. Raymond, 1998. “The cathedral and the bazaar,” First Monday, volume 3, number 3, at http://firstmonday.org/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/578/499, accessed 22 June 2012.
 * R. Stallman, 1999. “The GNU project,” In: J. Gay (editor). Free software: Selected essays of Richard M. Stallman. Boston: GNU Press, p. 17.
 * T. Terranova, 2004. Network culture: Politics for the information age. London: Pluto Press.
+* S. Weber, 2004. The success of open source. Cambridge, Mass.: Harvard University Press.
 
 
 ## 关于作者
