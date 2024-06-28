@@ -175,19 +175,28 @@ Android 的发展应该与这种商业模式紧密联系起来。**Android 是�
 
 当然，这些斗争的结果不仅影响相关企业，也对数亿移动互联网用户产生重大影响。到目前为止，这些后果主要是从隐私问题的角度考虑的。特别是在大众媒体中，人们对 Android 智能手机如何跟踪用户活动进行了大量报道。这些手机因向谷歌发送位置数据而受到批评。此外，第三方开发商的某些 Android 应用程序因包含“嵌入式信息收集代码 API”而受到批评，这些应用程序用于“收集广告和应用程序使用指标”。据说“有关用户的详细信息，包括他们的位置和唯一的移动标识符”被发送“到移动广告公司以跟踪、分析和个人识别用户”[39]。这种类型的数据收集被认为侵犯了用户的隐私。
 
+从更广泛的政治经济角度来看，Android的崛起应该被理解为移动互联网整合的关键一步，从不同的理论角度，可以分为“信息资本主义”、“交往资本主义”和“认知资本主义”（Dean，2009；Fuchs，2011；Pasquinelli，2010b；Terranova，2004）。在这种资本主义模式中，这里广义概念化的知识已经成为一种生产力。正如 Fuchs (2011) 所明确指出的，知识生产不仅包括企业知识产权的生产，还包括“产生社会意义的媒体消费者”，以及“产生信息内容的 MySpace、YouTube、Facebook 等用户”[40]。在信息资本主义中，这种知识被资本所占有。Pasquinelli (2010b) 强调“认知资本主义的图解……不仅仅是一个监视或控制的工具，还是一台捕捉生活时间和生活劳动并将共同智慧转化为网络价值的机器”。这正是 Android 在移动互联网政治经济中引入的内容，因为它使 Google 能够捕获移动互联网用户活动、分析这些用户并将其出售给广告商。
 
+有明显迹象表明，这种政治经济格局正在迅速产生影响。为了应对Android的崛起，其他移动互联网公司除了诉讼之外，也开始活跃在个性化广告领域。苹果试图收购最大的移动广告公司AdMob，但被谷歌出价超越。最终，一家较小的公司 Quattro Wireless 允许苹果开发自己的移动广告平台 iAd。微软则通过在 Windows 8 中集成应用程序商店以及开发一种名为“People Powered Stories”的新“社交广告解决方案”来推动自己的广告平台。微软声称“有了它，广告商可以将真实的人们对其产品的评级和评论纳入丰富的品牌广告中”[41]。此外，除了移动操作系统的生产商之外，还有很多公司（其中最著名的是 Facebook）也从事对移动互联网用户进行分析以开发有针对性的广告和服务的业务。**从这个角度来看，Android 是移动互联网政治经济发展总体方向的典范。**
 
 ## 总结
 
 通过对Android的反思，我们认为对于开源的批判需要重新审视，在过去的十年中，开源经常受到批评，因为它通过将自由软件与企业利益结合起来，促进了对开源程序员自由劳动力的利用。在Android构成、谷歌主导的政治经济格局中，剥削不仅变得更加普遍，而且更加包容和多面。在这种配置中，开源实际上是认知资本主义的技术法律工具。Android 使 Google 能够系统地收集、分析移动用户数据并将其商品化。该操作系统不仅可以分析用户兴趣，还可以密切跟踪用户移动，这对于开发新的特定位置服务和广告至关重要。为了促进这一点，战略性地采用了特定的开源实践。通过这些实践，谷歌能够培育并掌控庞大的移动互联网生态，包括：全球众多电信运营商、各大设备制造商、海量第三方应用开​​发商、各类社交媒体企业、数亿移动互联网用户。在这个生态中，谷歌可以利用独立程序员的贡献，更重要的是，还可以利用Android用户的元数据。
 
-鉴于企业控制力对移动互联网政治经济的大规模集中，政府开始对这种控制力施加限制至关重要。到目前为止，这些后果主要是从隐私问题角度考虑的。
+鉴于企业控制力对移动互联网政治经济的大规模集中，政府开始对这种控制力施加限制至关重要。到目前为止，这些后果主要是从隐私问题角度考虑的。在过去的几年里，政府监管机构尤其对企业收集用户数据表现出越来越多的关注。已经采取了各种举措来解决这些问题。2012 年 1 月 25 日，欧盟发布了一项“通用数据保护条例”提案，其中包括个人不被分析的权利，即“旨在评估与该自然人相关的某些个人方面或特别是分析或预测该自然人在工作中的表现的自动处理，经济状况、地点、健康、个人喜好、可靠性或行为”[42]。2012年2月，奥巴马政府提出了《消费者隐私权法案》。该法案提出的第一个原则是“消费者有权控制公司从他们那里收集的个人数据以及他们如何使用这些数据”[43]。此外，作为这项新隐私保护举措的一部分，我们还制定了“请勿追踪”协议，包括谷歌和微软，允许用户选择退出定向广告，并阻止跟踪 cookie。
 
+虽然政府提出的举措在一定程度上限制了定向广告和用户分析，但它们并没有使这些做法成为单一的选择，这将对谷歌等公司收集和商品化用户数据的方式造成重大限制。此外，这些举措主要侧重于保护用户隐私，并只能部分解决企业控制权高度集中的问题。移动互联网的政治经济日益分裂为几个紧密结合的生态系统，其中 Android 正迅速成为最大的生态系统。如果政府不介入监管这些生态系统的组织方式，我们很可能会看到这样一个未来：只有少数公司控制着推动移动互联网经济的数据，以及我们塑造与世界关系的技术架构。
+
+新媒体理论家可以为这一问题的讨论做出重要贡献。正如本文试图表明的那样，要理解移动互联网的政治经济如何运作和演变，将技术法律和政治经济方法结合起来至关重要。正如所讨论的，谷歌及其竞争对手的企业权力战略结合了复杂的技术、法律和政治经济策略。如果只关注其中一个方面，无论是法律框架、剥削行为还是技术规范，人们势必会误解这些企业战略如何塑造移动互联网的发展。以及它们如何产生深远的经济和文化影响。面临的挑战是追踪技术法律规范和政治经济战略如何相互加强，并随后思考如何监管这种复杂的配置。
+
+## 关于作者
+
+* **Kimberley Spreeuwenberg (M.A., University of Amsterdam)**，新媒体研究员兼平面设计师。她在阿姆斯特丹大学媒体研究系任教。
+* **Thomas Poell (Ph.D., Utrecht University)**, 阿姆斯特丹大学媒体研究系新媒体和数字文化助理教授。
 
 ## 致谢
 
 我们要感谢 José van Dijck、Florian Cramer 和 Morgan Currie，以及《First Monday》的匿名审稿人，感谢他们提出的有益意见、建议和帮助。
-
 
 ## 注
 
@@ -232,13 +241,16 @@ Android 的发展应该与这种商业模式紧密联系起来。**Android 是�
 37. http://www.reuters.com/article/2012/03/28/oracle-google-lawsuit-idUSL2E8ESRKB20120328, accessed 14 April 2012; http://bits.blogs.nytimes.com/2012/05/23/google-cleared-of-java-patent-violation/, accessed 7 June 2012; http://www.businessinsider.com/oracle-google-android-lawsuit-legal-fees-2012-6, accessed 7 June 2012.
 38. http://www.google.com/press/motorola/, accessed 14 April 2012.
 39.  http://www.huffingtonpost.com/2011/04/22/google-android-and-apple-track-your-location_n_852529.html, accessed 12 July 2011.
-40. 
-
+40. C. Fuchs, 2011, p. 280.
+41. http://community.microsoftadvertising.com/blogs/advertising/archive/2012/02/14/people-powered-stories-social-advertising.aspx, accessed 14 April 2012.
+42. http://ec.europa.eu/justice/data-protection/document/review2012/com_2012_11_en.pdf, accessed 25 January 2012; for a discussion of these regulations see http://fuchs.uti.at/789/.
+43. http://www.whitehouse.gov/sites/default /files/privacy-final.pdf; http://arstechnica.com/tech-policy/news/2012/02/white-house-announces-new-privacy-bill-of-rights-do-not-track-agreement.ars, accessed 14 April 2012.
 
 ## 参考材料
 
 * Y. Benkler, 2006. The wealth of networks: How social production transforms markets and freedom. New Haven, Conn.: Yale University Press.
 * Y. Benkler and H. Nissenbaum, 2006. “Commons–based peer production and virtue,” Journal of Political Philosophy, volume 14, number 4, pp. 394–419.http://dx.doi.org/10.1111/j.1467-9760.2006.00235.x
+* C. Fuchs, 2011. Foundations of critical media and information studies. New York: Routledge.
 * C. Kelty, 2008. Two bits: The cultural significance of free doftware. Durham, N.C.: Duke University Press.
 * G. Langlois, F. McKelvey, G. Elmer and K. Werbin, 2009. “Mapping commercial Web 2.0 worlds: Towards a new critical ontogenesis,” Fibreculture, issue 14, at http://journal.fibreculture.org/issue14/issue14_langlois_et_al_print.html, accessed 21 May 2011.
 * L. Lessig, 2005. “Open code and open societies,” In: J. Feller, B. Fitzgerald, S. Hissam and K. Lakhani (editors). Perspectives on free and open source software. Cambridge, Mass.: MIT Press, pp. 349–360.
@@ -247,13 +259,6 @@ Android 的发展应该与这种商业模式紧密联系起来。**Android 是�
 * R. Stallman, 1999. “The GNU project,” In: J. Gay (editor). Free software: Selected essays of Richard M. Stallman. Boston: GNU Press, p. 17.
 * T. Terranova, 2004. Network culture: Politics for the information age. London: Pluto Press.
 * S. Weber, 2004. The success of open source. Cambridge, Mass.: Harvard University Press.
-
-
-## 关于作者
-
-* **Kimberley Spreeuwenberg (M.A., University of Amsterdam)**，新媒体研究员兼平面设计师。她在阿姆斯特丹大学媒体研究系任教。
-* **Thomas Poell (Ph.D., Utrecht University)**, 阿姆斯特丹大学媒体研究系新媒体和数字文化助理教授。
-
 
 ## 关于译者
 
