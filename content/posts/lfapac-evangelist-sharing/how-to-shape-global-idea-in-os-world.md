@@ -18,6 +18,9 @@ authors:
 - 「开源之道」·适兕
 ---
 
+> 我们的文明，不管是它的起源还是它的维持，都取决于这样一件事情，它的准确表述，就是在人类合作中不断扩展的秩序。
+>     ————(英)弗里德里希·奥古斯特·冯·哈耶克 《致命的自负》
+
 ## 缘由
 
 按照人类学家的说法，人是很难理解附近之外的事物的，著名的人类学家罗宾·邓巴（Robin Dunbar）所研究得出的“150定律”[1]，也说明了人的有限性。说到开源，我们在基于互联网的环境中，并不能做到一呼百应，大多数时候仍然是现实中的同学、校友、同事、同行、老乡等关系才去关注，那么想要在茫茫人海中，找寻愿意帮助自己，一同前行的人，简直是势比登天。
@@ -165,6 +168,30 @@ RFC 的网络协议协作，奠定了互联网的大部分基础，也开创了�
 > 贸易的扩展给人类心智带来了新挑战。
 >    ————[法] Pascal Boyer 《心智社会》
 
+## 开源作为扩展秩序的新领域
+
+没有人质疑开源和互联网的相互造就的关系，只有在新的疆域 —— CyberSpace 中，才能整合来自全球的合作——一种人类前所未有的合作秩序。
+
+纵观人类的历史，我们也能看到这种秩序的建立与发展，包刚升老师在其新著[14]中引用著名思想家哈耶克的话：
+
+> 人们在不断交往中养成某些得到共同遵守的行为模式，而这种模式又为一个群体带来了范围不断扩大的有益影响，它可以使完全素不相识的人为了各自的目标而形成相互合作。
+
+换句话说，想要理解和参与在开源共同体中，需要有现代数字世界的赛博空间观，相比于天下观、民族国家观、世界观而言的更大的虚拟空间，这需要在新的空间内遵守相应的新的秩序，也就是哈耶克说的合作秩序的再次扩展，超越了现在人类在地球上的合作。我们不妨回顾一下John Perry Barlow 发布的《网络空间独立宣言》[15]:
+
+> We must declare our virtual selves immune to your sovereignty, even as we continue to consent to your rule over our bodies. We will spread ourselves across the Planet so that no one can arrest our thoughts.
+
+想要在开源的世界合作，需要将一些固有的属性隐藏，就像我们基于法律和规则和陌生人合作一样，需要放弃家族、同村等狭小的观念，而是遵守现代文明。
+
+> We are creating a world that all may enter without privilege or prejudice accorded by race, economic power, military force, or station of birth.
+
+> We are creating a world where anyone, anywhere may express his or her beliefs, no matter how singular, without fear of being coerced into silence or conformity.
+
+扩展的疆域，会带来一些冲击，需要理性的对待和学习，而不是退回到固有的疆域去坚守什么，不在 CyberSpace 中，也就不会从CyberSpace中获益，就更加不用提及影响力和主导力了。当然，这个过程并不容易，中国人从天下观到民族国家观[16]到走出就费了漫长而曲折的经历，具体到我们个人，从民族教育如此多年的深厚基础中，走到大合流后到CyberSpace中合作，并非易事。凡事都以中国为思考路径，挡在了任何事之前，不得不说是一种思维上的规训，当然它带来的好处和坏处是五五分的，长远来看，坏处更大一些。比如有人形容在开源的项目中提交和亲力亲为形容和比较为：
+
+> 在别人的地里中庄稼。
+
+这真是一种时代的悲哀！
+
 
 ## 参考资料
 
@@ -181,4 +208,7 @@ RFC 的网络协议协作，奠定了互联网的大部分基础，也开创了�
 11.  《上游思维：变被动为主动的上游思考法》，丹·希思， 中信出版集团，2021-08
 12.  《文化性动物：人类的本性、意义与社会生活》，[罗伊· F.鲍迈斯特](https://book.douban.com/author/100291)，华东师范大学出版社，2021-5
 13.  LF APAC BlockChain SIG 的日常探讨
+14.  《大国的命运：从政治危机到国家现代化》，包刚升，浙江人民出版社，2024-6
+15.  https://www.eff.org/cyberspace-independence ,最后访问事件：2024.7.6
+16.  《从“天下”国家到民族国家：历史中国的认知与实践》， 王柯，上海人民出版社，2020-3
 
