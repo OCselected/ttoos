@@ -120,6 +120,7 @@ SVN 的出现就是为了做到：“目标是成为广泛使用的并发版本�
 11. Tech Talk: Linus Torvalds on git， https://www.youtube.com/watch?v=4XpnKHJAok8&t=90s ，最后访问时间：2024.5.10
 12. Distributed Version Control is here to stay, baby, https://www.joelonsoftware.com/2010/03/17/distributed-version-control-is-here-to-stay-baby/ ，最后访问时间：2024.5.10
 13. Readme Driven Development, https://tom.preston-werner.com/2010/08/23/readme-driven-development ，最后访问时间：2024.5.10
+14. https://blog.brachiosoft.com/posts/git/ 
 
 
 ## 关于作者
