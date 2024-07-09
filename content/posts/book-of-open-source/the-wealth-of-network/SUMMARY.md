@@ -14,6 +14,7 @@ tags:
 - 开源之道
 title: "《网络的财富：社会生产如何改变市场和自由》（中文版）(在线阅读)"
 url: ""
+draft : true
 authors:
 - Yochai Benkler
 translater:
