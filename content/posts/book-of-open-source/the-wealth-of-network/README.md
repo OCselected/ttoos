@@ -31,6 +31,14 @@ authors:
 
 这大概是唯一能做的。
 
+## 翻译助手
+
+Yochai Benkler 教授在2005年的表述方式，确实是对于非英语背景的难度很大，所幸现在有很多工具可以帮助：
+
+* Google translate
+* DeepL
+* https://kimi.moonshot.cn/
+
 ## 参考材料
 
 1. https://en.wikipedia.org/wiki/Great_Firewall ，最后访问时间：2024.6.11
