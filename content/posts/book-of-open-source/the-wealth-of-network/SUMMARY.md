@@ -1,25 +1,3 @@
----
-categories:
-- 开源
-- 感悟
-date: 2024-06-10T15:55:10+08:00
-description: ""
-keywords:
-- Open Source
-- Culture
-- Reading
-- book
-tags:
-- 图书
-- 开源之道
-title: "《网络的财富：社会生产如何改变市场和自由》（中文版）(在线阅读)"
-url: ""
-draft : true
-authors:
-- Yochai Benkler
-translater:
-- 「开源之道」·适兕
----
 
 # 网络的财富：社会生产如何改变市场和自由
 
