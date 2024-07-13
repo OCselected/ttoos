@@ -2,7 +2,7 @@
 categories:
 - 开源
 - 思考
-date: 2024-06-19T15:55:10+08:00
+date: 2024-07-13T10:55:10+08:00
 description: "历史往往就会和我们开大大的玩笑。适兕实在忍不住体验这个思维的实验,想象虚拟的历史，于是尝试花几个月的时间翻译。Enjoy！Happy Reading～"
 keywords:
 - Open Source
