@@ -25,3 +25,5 @@ translater:
 
 1. Robert Post, "Meiklejohn's Mistake: Individual Autonomy and the Reform of Public Discourse," University of Colorado Law Review 64 (1993): 1109, 1130-1132.
 2. 这种财产观念最初由罗伯特·李·黑尔（Robert Lee Hale）在20世纪20年代和30年代系统地引入和发展，并且最近由邓肯·肯尼迪（Duncan Kennedy）在其著作《Sexy Dressing Etc.: Essays on the Power and Politics of Cultural Identity》（剑桥，马萨诸塞州：哈佛大学出版社，1993年）中与当代对权力的后现代批判相结合。
+3. White Paper, "Controlling Your Network, A Must for Cable Operators" (1999), http://www.cptech.org/ecom/openaccess/cisco1.html .
+4. 所有数据均基于 FCC《高速服务报告》第四份 706 报告 NOI 附录（华盛顿特区：联邦通信委员会，2003 年 12 月）。
