@@ -33,6 +33,8 @@ authors:
 ### 开放源代码的知识财产合理性该当如何看待？
 
 
+
+
 ### 开放源代码能够解除软件工程危机吗？
 
 
@@ -40,14 +42,28 @@ authors:
 ### 开源有什么社会价值吗？
 
 
+
+### 开源的组织形态有何特别之处?
+
+开源是伴随着万维网的迅猛崛起而被大众所熟知的（Glyn Moody, 2001），但是其更早的共同体的形成并非是万维网，而是互联网形成之前的IETF（Scott Bradner，1999）和第一个杀手级应用e-mail 的发起，
+
+
 ### 开源对一个国家或地区的经济有正面影响吗？
 
 
+
+### 开源是否对创新有着积极的作用？
 
 
 ## 文献引用
 
 
+* Chris DiBona, Sam Ockman, and Mark Stone 等，Open Sources: Voices from the Open Source Revolution，1st Edition January 1999 
+* Glyn Moody, Rebel Code: Linux and the Open Source Revolution, London: Allen Lane, 2001,
+* 
+*  O'Neil, Mathieu ,  Cyberchiefs: Autonomy and Authority in Online Tribes, Pluto Press,  2009-3
+*  Scott Bradner，The Internet Engineering Task Force， 节选自 （Chris DiBona, Sam Ockman, and Mark Stone，1999）
+*  
 
 
 
