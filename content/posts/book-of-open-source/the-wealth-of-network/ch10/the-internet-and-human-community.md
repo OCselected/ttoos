@@ -31,5 +31,12 @@ translater:
 ## 参考资料
 
 1. 雪莉·特克尔，《虚拟性及其不满：在网络空间中寻找社区》，《美国前景》7号，第24期（1996年）；雪莉·特克尔，《屏幕生活：互联网时代的身份认同》（纽约：西蒙与舒斯特，1995年）。
+2. Robert Kraut 等人，“互联网悖论：一种降低社会参与度和心理健康的社会技术”，美国心理学家 53（1998）：1017-1031。
+3. Kellogg Foundation 委托进行的一项研究引用了这种观点的一个相当典型的表述：“电视或其他媒体，如电脑，不再是一种‘电子壁炉’，一家人会聚在一起做决定或进行讨论。根据我们最近的研究，我的观点是，大多数家庭媒体都在阻碍家人团聚。” Christopher Lee 等人，《评估信息和通信技术：平衡方法的视角》，Kellogg Foundation报告（2001 年 12 月 17 日），http://www.si.umich.edu/pne/kellogg/013.html。
+4. Norman H. Nie 和 Lutz Ebring，《互联网与社会：初步报告》，斯坦福社会量化研究中心，2000 年 2 月 17 日，第 15 页（新闻稿），http://www.pkp.ubc.ca/bctf/Stanford_Report.pdf。
+5. 同上., 42-43, tables CH-WFAM, CH-WFRN.
+6. 请参阅 John Markoff 和 A​​. Newer 的《互联网研究中出现了更加孤独的人群》，《纽约时报》，2000 年 2 月 16 日，A 部分，第 1 页，第 1 栏。
+7. Nie and Ebring, "Internet and Society," 19.
+8. Amitai Etzioni，《辩论互联网的社会影响：与世界联系》，《公共观点》第 11 期（2000 年 5 月/6 月）：42，也可在 http://www.gwu.edu/~ccps/etzioni/A273.html 上查阅。
 
 
