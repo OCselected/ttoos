@@ -38,5 +38,13 @@ translater:
 6. 请参阅 John Markoff 和 A​​. Newer 的《互联网研究中出现了更加孤独的人群》，《纽约时报》，2000 年 2 月 16 日，A 部分，第 1 页，第 1 栏。
 7. Nie and Ebring, "Internet and Society," 19.
 8. Amitai Etzioni，《辩论互联网的社会影响：与世界联系》，《公共观点》第 11 期（2000 年 5 月/6 月）：42，也可在 http://www.gwu.edu/~ccps/etzioni/A273.html 上查阅。
+9. Manuel Castells, The Rise of Networked Society 2d ed. (Malden, MA: Blackwell Publishers, Inc., 2000). 中文版：《信息时代三部曲：经济、社会与文化》之《网络社会的崛起》， 社会科学文献出版社，2003
+10. Barry Wellman et al., "The Social Affordances of the Internet for Networked Individualism," Journal of Computer Mediated Communication 8, no. 3 (April 2003).
+11. Robert Kraut et al., "Internet Paradox Revisited," Journal of Social Issues 58, no. 1 (2002): 49.
+12. Keith Hampton and Barry Wellman, "Neighboring in Netville: How the Internet Supports Community and Social Capital in a Wired Suburb," City & Community 2, no. 4 (December 2003): 277.
+13. Gustavo S. Mesch and Yael Levanon, "Community Networking and Locally-Based Social Ties in Two Suburban Localities," City & Community 2, no. 4 (December 2003): 335.
+14. Useful surveys include: Paul DiMaggio et al., "Social Implications of the Internet," Annual Review of Sociology 27 (2001): 307-336; Robyn B. Driskell and Larry Lyon, "Are Virtual Communities True Communities? Examining the Environments and Elements of Community," City & Community 1, no. 4 (December 2002): 349; James E. Katz and Ronald E. Rice, Social Consequences of Internet Use: Access, Involvement, Interaction (Cambridge, MA: MIT Press, 2002).
+15. Barry Wellman, "Computer Networks as Social Networks," Science 293, issue 5537 (September 2001): 2031.
+16. Jeffery I. Cole et al., "The UCLA Internet Report: Surveying the Digital Future, Year Three" (UCLA Center for Communication Policy, January 2003), 33, 55, 62, http://www.ccp.ucla.edu/pdf/UCLA-Internet-Report-Year-Three.pdf .
 
 
