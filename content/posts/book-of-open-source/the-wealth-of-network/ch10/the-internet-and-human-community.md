@@ -46,5 +46,9 @@ translater:
 14. Useful surveys include: Paul DiMaggio et al., "Social Implications of the Internet," Annual Review of Sociology 27 (2001): 307-336; Robyn B. Driskell and Larry Lyon, "Are Virtual Communities True Communities? Examining the Environments and Elements of Community," City & Community 1, no. 4 (December 2002): 349; James E. Katz and Ronald E. Rice, Social Consequences of Internet Use: Access, Involvement, Interaction (Cambridge, MA: MIT Press, 2002).
 15. Barry Wellman, "Computer Networks as Social Networks," Science 293, issue 5537 (September 2001): 2031.
 16. Jeffery I. Cole et al., "The UCLA Internet Report: Surveying the Digital Future, Year Three" (UCLA Center for Communication Policy, January 2003), 33, 55, 62, http://www.ccp.ucla.edu/pdf/UCLA-Internet-Report-Year-Three.pdf .
+17. Pew Internet and Daily Life Project (August 11, 2004), report available at http://www.pewinternet.org/PPF/r/131/report_display.asp .
+18. See Barry Wellman, "The Social Affordances of the Internet for Networked Individualism," Journal of Computer Mediated Communication 8, no. 3 (April 2003); Gustavo S. Mesch and Yael Levanon, "Community Networking and Locally-Based Social Ties in Two Suburban Localities, City & Community 2, no. 4 (December 2003): 335.
+19. Barry Wellman, "The Social Affordances of the Internet."
+20. 对伊藤本人以及其他研究日本科技青年文化的学者的作品的评论，请参阅伊藤美津子的《手机、日本青年和社会联系的重新取代》，即将发表在《移动通信：社会领域的重新谈判》中，由 Rich Ling 和 P. Pedersen 编辑（纽约：Springer，2005 年）。
 
 
