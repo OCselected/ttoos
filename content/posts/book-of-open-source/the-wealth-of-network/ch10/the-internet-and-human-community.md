@@ -51,5 +51,7 @@ translater:
 19. Barry Wellman, "The Social Affordances of the Internet."
 20. 对伊藤本人以及其他研究日本科技青年文化的学者的作品的评论，请参阅伊藤美津子的《手机、日本青年和社会联系的重新取代》，即将发表在《移动通信：社会领域的重新谈判》中，由 Rich Ling 和 P. Pedersen 编辑（纽约：Springer，2005 年）。
 21. Dana M. Boyd, "Friendster and Publicly Articulated Social Networking," Conference on Human Factors and Computing Systems (CHI 2004) (Vienna: ACM, April 24-29, 2004).
+22. James W. Carrey ,《 作为文化的传播 ：“媒介与社会”论文集》， 中国人民大学出版社， 2019-01
+23. Clay Shirky, "A Group Is Its Own Worst Enemy," published first in Networks, Economics and Culture mailing list July 1, 2003.
 
 
