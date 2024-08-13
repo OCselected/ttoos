@@ -22,3 +22,9 @@ translater:
 ---
 
 ## 有关安全的问题
+
+## 参考资料
+
+1. Paul Starr, The Creation of the Media: Political Origins of Modern Communications (New York: Basic Books, 2004).
+2. Ithiel de Sola-Pool, Technologies of Freedom (Cambridge, MA: Belknap Press, 1983), 91-100.
+3. 
