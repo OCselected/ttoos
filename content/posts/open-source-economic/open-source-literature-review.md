@@ -63,6 +63,13 @@ Kata Container 联合创始人王旭在一次圆桌讨论中谈到作为开发�
 ### 开源是否对创新有着积极的作用？
 
 
+
+### 开源发展的理论逻辑
+
+人类文化的演化的过程中，会将有效的方式继承下来，而淘汰不靠谱的方式。任何一种方法是否能够持续，或者说成功率更高，或者说能够克服某种困难，都是值得为之探索的。开源运动或现象以来，一直被关注，无论媒体如何唱衰，不争的事实是开源一直在增长。
+
+在知识财产权方面的思考和理论方面，关于软件的版权、专利等，如
+
 ## 文献引用
 
 
@@ -72,6 +79,9 @@ Kata Container 联合创始人王旭在一次圆桌讨论中谈到作为开发�
 *  O'Neil, Mathieu ,  Cyberchiefs: Autonomy and Authority in Online Tribes, Pluto Press,  2009-3
 *  Scott Bradner，The Internet Engineering Task Force， 节选自 （Chris DiBona, Sam Ockman, and Mark Stone，1999）
 *  《我们的信任：为什么有时信任，有时不信任》，（美）布鲁斯•施奈尔， 机械工业出版社，2013-5
+*  Weber, Steven. (2009). The Political Economy of Open Source Software and Why It Matters. 10.1515/9781400831616.178. 
+*  《The Sucess of Open Source》，Steve Weber, Harvard University Press (4 Oct. 2005)
+*  
 
 
 
