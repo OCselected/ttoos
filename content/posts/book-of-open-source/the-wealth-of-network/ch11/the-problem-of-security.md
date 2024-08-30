@@ -31,5 +31,10 @@ translater:
 4. 其它基于层的抽象也有被提出，其中颇有影响力的是 Lawrence Solum 和 Minn Chung 提出的《The Layers Principle: Internet Architecture and the Law,》，圣地亚哥大学公法研究论文第 55 号。他们的模型更接近 OSI 层，并且经过量身定制，更适用于特定的法律原则——永远不要在低于需要的水平上进行监管。我寻求一种更高层次的抽象，其作用不是作为约束特定规则的工具，而是作为理解各种制度要素之间关系的地图，因为它们与信息在社会中如何产生和交换的基本问题有关。
 5. 第一个对这一现象进行重要论述的是 Michael Froomkin 的《互联网作为监管套利的源头》（1996 年）。http://www.law.miami.edu/froomkin/articles/arbitr.htm 
 6. Jonathan Krim, "AOL Blocks Spammers' Web Sites," Washington Post, March 20, 2004, p. A01; also available at http://www.washingtonpost.com/ac2/wp-dyn?pagename=article&contentId=A9449-2004Mar19&notFound=true.
-7. 
+7. FCC Report on High Speed Services, December 2003 (Appendix to Fourth 706 Report NOI).
+8. 216 F.3d 871 (9th Cir. 2000).
+9. National Cable and Telecommunications Association v. Brand X Internet Services (decided June 27, 2005).
+10. Turner Broad. Sys. v. FCC, 512 U.S. 622 (1994) and Turner Broad. Sys. v. FCC, 520 U.S. 180 (1997).
+11. Chesapeake & Potomac Tel. Co. v. United States, 42 F.3d 181 (4th Cir. 1994); Comcast Cablevision of Broward County, Inc. v. Broward County, 124 F. Supp. 2d 685, 698 (D. Fla., 2000).
+12. 
 
