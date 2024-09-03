@@ -12,23 +12,44 @@ keywords:
 tags:
 - 开源人
 - 开源之道
-title: "LF APAC 开源布道者分享系列之十：开源布道者的未来"
+title: "成为开源布道者分享系列之十：开源布道者的未来"
 url: ""
 authors:
 - 「开源之道」·适兕
 ---
 
-## 引子
+## 这个世界需要开源布道者吗？
 
-笔者之所以走上开源布道这条道路，是发现身边的人对于开源有很多的误会和曲解，初心就是希望自己能够踏实的做点创造性的工作，从来没有想过把开源这件事掰扯清楚，需要走如此之远，不仅需要完成发现开源三部曲的大部头著作，还要身体力行的去走上一线。
+我们是因为被需要而存在的，经济学经常用如下一个故事来调侃自己：
+
+> 假如有一个一个城市的清洁工消失了，那么很快这个城市将会被垃圾所堆满，城市将陷入停滞状态，但是说一个经济学家消失了，城市仍然会运行的很好。
+
+我们会自然而然的想到，这个世界没有布道者，将一切运转良好。事实上是这样吗？显然知识型社会，分工使得经济学家能够用超越当前环境的视角去思考过去和当下，并为决策者提供可能的方向。
+
+开源世界没有布道者，我们也不敢想象，没有Eric S Raymond、Tim O’Reilly、Chris DiBona等解释、推广开源，开源能够走到今天，布道者做的事情，是因为人及其社会本身的属性：
+
+* 每个人都需要从头开始学习；
+* 每个人的注意力都是有限的；
+* 文化是需要被继承和发扬的；
+* 任何抽象的都需要被记录和解释；
+* 开源是软件产业中不可或缺的部分；
+* 开源是人类观念的部分；
+
+毫无疑问，这个世界是需要布道者的，但是，认知这个工作却需要相应的创新者和制度企业家（经济学家张维迎语），而后者是极为少数的人，也就是说在创新的道路上，布道者和这些创新者是同行者/同路人，既然是创新，就意味着否定现实，那就会被现实所误解、阻挠，甚至产生冲突。这就回到了[成为开源布道者分享系列之五：布道者的修行](/posts/lfapac-evangelist-sharing/advocate-how-to-learning-by-yourself/) 这个主题了。
+
+另外要提醒的是，观念的部分是所有解决问题当中最难的，并不是说它多么的难以理解，而是在现实情况中的执行，我们每个人都是自带观念的，从出生到接受教育，再到融入社会和职场磨练，受到无数人的影响，那么开源作为众多的文明、先进观念，想要被大众接受，是一个巨大的社会工程，而布道者是其中之一。
+
+## 适兕感慨自身经历
+
+笔者之所以走上开源布道这条道路，是发现身边的人对于开源有很多的误会和曲解，初心就是希望自己能够踏实的做点创造性的工作，从来没有想过把开源这件事掰扯清楚，需要走如此之远，不仅需要完成『发现开源三部曲』的大部头著作，还要身体力行的在一线实践和拼搏。
 
 但是笔者从来没有对开源有任何的价值怀疑，反而是在探索和挫折中，更加强化和坚信了这一点，甚至会解释人类的发展也是因为开源的理念与践行，把开源解释到经济增长、技术进步、社会发展等方面，深信未来有一天，身边的人能够明白，有几个结伴同行的好友，自己也可以回到布道之前的工作：利用计算机或其它技术做点力所能及的事情。
 
 ## 历史的终结与最后的人
 
-这个小节的标题借用了著名学者弗朗西斯•福山（Francis Fukuyama）的同名畅销作品，也希望表达的是，软件的开发模式，终究是会以开源的模式终结，这么说可能就像这本书一样会遭受无数的臭鸡蛋。但是，作为布道师的终极目的就是开源成为默认，不再需要过多的解释，一如成为人类发展的一部分：货币、复式记账法、不使用童工......
+这个小节的标题借用了著名学者弗朗西斯•福山（Francis Fukuyama）的同名畅销作品，也希望表达的是，软件的开发模式，终究是会以开源的模式终结，这么说可能就像这本书一样会遭受无数的臭鸡蛋。但是，作为布道师的终极目的就是开源成为默认，不再需要过多的解释，一如成为人类发展的一部分：货币、复式记账法、税收制度、组织章程、民主......
 
-这意味着所有理想中的开源都成为现实：参与项目的人都在所有人看得见的地方工作，信息无丢失，数字化100%，从想法到沟通再到编码，项目所声明的许可证被所有人遵守，GPL的互惠特性惠及所有人，商人在此基础上有相当的创新，但是坚持公开、透明的利润原则，消费者对于采用的价值心知肚明，工程师和开发者将Learning By Doing 的方式发挥到极致，技术的隐性传承相当到位。开源成为创新的完美温床，自由繁殖的想法和实现源源不断的产生和发展，可持续发展，无论是来自社会各界的捐赠，还是商业公司的投入，均可观而公平。开源世界一片欣欣向荣，蓬勃发展。
+这意味着所有理想中的开源都成为现实：参与项目的人都在所有人看得见的地方工作，信息无丢失，数字化100%，从想法到沟通再到编码，项目所声明的许可证被所有人遵守，GPL的互惠特性惠及所有人，商人在此基础上有相当的创新，但是坚持公开、透明的利润原则，消费者对于采用的价值心知肚明，工程师和开发者将 Learning By Doing 的方式发挥到极致，技术的隐性传承相当到位。开源成为创新的完美温床，自由繁殖的想法和实现源源不断的产生和发展，可持续发展，无论是来自社会各界的捐赠，还是商业公司的投入，均可观而公平。开源世界一片欣欣向荣，蓬勃发展。
 
 这个时候，作为开源布道者，犹如武侠小说中的了断了江湖是非，天下太平的样子，侠客们终于可以过自己的小日子了，做点自己想做的事，Just for fun～ 
 
@@ -38,16 +59,16 @@ authors:
 
 让我们回顾这个系列文章的前九篇：
 
-* [LF APAC开源布道者分享系列之一：如何有效规划时间](/posts/lfapac-evangelist-sharing/how-to-steal-time-from-your-boss/)
-* [LF APAC 开源布道者分享系列之二：如何将写作进行下去](/posts/lfapac-evangelist-sharing/how-to-write-article-for-advocate-os/)
-* [LF APAC 开源布道者分享系列之三：演讲这事很重要！](/posts/lfapac-evangelist-sharing/why-we-need-speech-all-the-time/)
-* [LF APAC 开源布道者分享系列之四：如何去组织活动](/posts/lfapac-evangelist-sharing/we-need-make-event-happening/)
-* [LF APAC开源布道者分享系列之五：布道者的修行](/posts/lfapac-evangelist-sharing/advocate-how-to-learning-by-yourself/)
-* [LF APAC开源布道者分享系列之六：建立对话](/posts/lfapac-evangelist-sharing/advocate-how-to-build-conversation-with-peer/)
-* [LF APAC 开源布道者分享系列之七：如何娴熟使用异步沟通之法](/posts/lfapac-evangelist-sharing/async-in-the-open-source-community/)
-* [LF APAC 开源布道者分享系列之八：开源世界中的横向领导力养成与实践](/posts/lfapac-evangelist-sharing/how-to-lead-when-you-are-not-in-charge/)
-* [LF APAC开源布道者分享系列之九：树立全球观念](/posts/lfapac-evangelist-sharing/how-to-shape-global-idea-in-os-world/)
-* [LF APAC 开源布道者分享系列之十：终章——开源布道者的未来](.)
+* [成为开源布道者分享系列之一：如何有效规划时间](/posts/lfapac-evangelist-sharing/how-to-steal-time-from-your-boss/)
+* [成为 开源布道者分享系列之二：如何将写作进行下去](/posts/lfapac-evangelist-sharing/how-to-write-article-for-advocate-os/)
+* [成为 开源布道者分享系列之三：演讲这事很重要！](/posts/lfapac-evangelist-sharing/why-we-need-speech-all-the-time/)
+* [成为 开源布道者分享系列之四：如何去组织活动](/posts/lfapac-evangelist-sharing/we-need-make-event-happening/)
+* [成为开源布道者分享系列之五：布道者的修行](/posts/lfapac-evangelist-sharing/advocate-how-to-learning-by-yourself/)
+* [成为开源布道者分享系列之六：建立对话](/posts/lfapac-evangelist-sharing/advocate-how-to-build-conversation-with-peer/)
+* [成为 开源布道者分享系列之七：如何娴熟使用异步沟通之法](/posts/lfapac-evangelist-sharing/async-in-the-open-source-community/)
+* [成为 开源布道者分享系列之八：开源世界中的横向领导力养成与实践](/posts/lfapac-evangelist-sharing/how-to-lead-when-you-are-not-in-charge/)
+* [成为开源布道者分享系列之九：树立全球观念](/posts/lfapac-evangelist-sharing/how-to-shape-global-idea-in-os-world/)
+* [成为 开源布道者分享系列之十：终章——开源布道者的未来](.)
 
 这是一次完整的探索，也是人生的修炼！像任何行业出类拔萃的杰出者一样，布道如果说是一种牺牲的话，那么接下来做你热爱做的事情吧！你值得拥有一份完美的人生答卷，你改变过这个世界，让它变得更为美好！更具活力！
 
