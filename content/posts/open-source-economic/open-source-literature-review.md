@@ -68,6 +68,11 @@ Kata Container 联合创始人王旭在一次圆桌讨论中谈到作为开发�
 
 人类文化的演化的过程中，会将有效的方式继承下来，而淘汰不靠谱的方式。任何一种方法是否能够持续，或者说成功率更高，或者说能够克服某种困难，都是值得为之探索的。开源运动或现象以来，一直被关注，无论媒体如何唱衰，不争的事实是开源一直在增长。
 
+软件市场的形成，当然要从IBM Unbundling 软件(Grad, B.. 2002)说起，但是崛起的源头是微软的创始人Bill Gates写的那封技巧极高的公开信（Bill Gates, 1976）
+
+> As the majority of hobbyists must be aware, most of you steal your software. Hardware must be paid for, but software is something to share. Who cares if the people who worked on it get paid?
+>          ——— Bill Gates ,An Open Letter to Hobbyists
+
 在知识财产权方面的思考和理论方面，关于软件的版权、专利等，如
 
 ## 文献引用
@@ -81,7 +86,8 @@ Kata Container 联合创始人王旭在一次圆桌讨论中谈到作为开发�
 *  《我们的信任：为什么有时信任，有时不信任》，（美）布鲁斯•施奈尔， 机械工业出版社，2013-5
 *  Weber, Steven. (2009). The Political Economy of Open Source Software and Why It Matters. 10.1515/9781400831616.178. 
 *  《The Sucess of Open Source》，Steve Weber, Harvard University Press (4 Oct. 2005)
-*  
+*  Grad, B.. (2002). A personal recollection: IBM's unbundling of software and services. Annals of the History of Computing, IEEE. 24. 64 - 71. 10.1109/85.988583. 
+*  Bill Gates is the first programmer to raise the issue of software piracy. February 3, 1976 , "An Open Letter to Hobbyists," 
 
 
 
