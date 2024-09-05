@@ -38,5 +38,7 @@ translater:
 11. Chesapeake & Potomac Tel. Co. v. United States, 42 F.3d 181 (4th Cir. 1994); Comcast Cablevision of Broward County, Inc. v. Broward County, 124 F. Supp. 2d 685, 698 (D. Fla., 2000).
 12. 经济学家们批评的典型案例是罗纳德·科斯的《联邦通信委员会》，《法律与经济学杂志》第 2 期（1959 年）：1。关于这些产权如何呈现，最完善的版本仍然是亚瑟·S·德·瓦尼等人的《电磁频谱市场配置的产权制度：法律-经济-工程研究》，《斯坦福法律评论》第 21 期（1969 年）：1499。
 13. City of Abilene, Texas v. Federal Communications Commission, 164 F3d 49 (1999).
-14. 
+14. Nixon v. Missouri Municipal League, 541 U.S. 125 (2004).
+15. Bill Number S. 2048, 107th Congress, 2nd Session.
+16. 
 
