@@ -88,6 +88,7 @@ Kata Container 联合创始人王旭在一次圆桌讨论中谈到作为开发�
 *  《The Sucess of Open Source》，Steve Weber, Harvard University Press (4 Oct. 2005)
 *  Grad, B.. (2002). A personal recollection: IBM's unbundling of software and services. Annals of the History of Computing, IEEE. 24. 64 - 71. 10.1109/85.988583. 
 *  Bill Gates is the first programmer to raise the issue of software piracy. February 3, 1976 , "An Open Letter to Hobbyists," 
+*  Moglen, E. (1999). Anarchism triumphant: Free software and the death of copyright. First Monday, 4(8). https://doi.org/10.5210/fm.v4i8.684
 
 
 
