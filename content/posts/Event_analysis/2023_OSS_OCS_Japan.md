@@ -35,9 +35,19 @@ authors:
 
 注册完成后，就是往主会场走，会有一段电梯，我也看到了日本的Linus粉丝带着他的自传《Just for fun》找他签名和合影。而我就默默的跟在他后面，拍了一张近距离的背影。
 
-![](/images/oss-japan-2023/)
+在 KeyNote 完了之后，通常是在后台的休息室门口与开源的大人物们合影、交谈的好机会，能和行业的翘楚聊几句话，总是一件美妙的事情。比如和Jim Say Hi～ 
+
+![](/images/oss-japan-2023/picture-with-jim-and-keith.jpg)
+
+这次戴了帽子（因为手术的原因，十几天没有洗头了），Jim Zemlin 并没有认出我来，我们今年总共见了三次，前两次他都会和说：How are you， Thanks for your work。不过没有关系，一年能见三次，说三次How are you本身就是一件非常幸福的事情。
 
 ![](/images/meet-jim-in-oss-japan.jpg)
+
+OSPO Group 的成员们和Jim、Keith的合影，OSPO Group 发起第二届OSPO Summit，需要和世界建立起连接来，本土的问题也需要世界参与进来，方有可能解决。
+
+![](/images/oss-japan-2023/picture-with-openatom-and-LF.jpg)
+
+和开放原子开源基金会的王荷舒等合影～ 
 
 ## 哪些打动人的观点
 
@@ -58,6 +68,8 @@ Linux的重要，已经让我们几乎感觉不到它的存在，它就是那么
 ### wordpress 的尴尬
 
 当一位在[Automattic](https://automattic.com/about/)工作的女士和我聊天的时候，我颇为尴尬的说wordpress.com在中国大陆是无法被访问的，当我问她日本有多少位 Automattic 员工的时候，她的回答是12位。要知道，这是一家以远程和分布式著名的公司，也是以支持开源出名的公司，当然也是GPL的忠实追随者。
+
+![](/images/oss-japan-2023/photo-with-automattic-employee.jpg)
 
 Wordpress 在中国有着大量的用户，也有着蛮多的围绕该生态的开发者，我当时的气氛是蛮尴尬的。尽管我是以一位开源布道者身份出现的。
 
