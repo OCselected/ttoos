@@ -41,5 +41,6 @@ translater:
 14. Nixon v. Missouri Municipal League, 541 U.S. 125 (2004).
 15. Bill Number S. 2048, 107th Congress, 2nd Session.
 16. Felten v. Recording Indust. Assoc. of America Inc., No. CV- 01-2669 (D.N.J. June 26, 2001).
-17. 
+17. Metro-Goldwyn-Mayer v. Grokster, Ltd. (decided June 27, 2005).
+18. 
 
