@@ -45,5 +45,6 @@ translater:
 18. 请参阅 Felix Oberholzer 和 Koleman Strumpf 的《文件共享对唱片销售的影响》（工作论文），http://www.unc.edu/cigar/papers/FileSharing_March2004.pdf
 19. Mary Madden 和 Amanda Lenhart，《音乐下载、文件共享和版权》（Pew，2003 年 7 月），http://www.pewinternet.org/pdfs/PIP_Copyright_Memo.pdf
 20. 参见 111 F.Supp.2d 第 310 页，脚注 69-70；PBS Frontline 报告，http://www.pbs.org/wgbh/pages/frontline/shows/hollywood/business/windows.html
-21. 
+21. See 111 F.Supp.2d at 310, fns. 69-70; PBS Frontline report, http://www.pbs.org/wgbh/pages/frontline/shows/hollywood/business/windows.html .
+22. 
 
