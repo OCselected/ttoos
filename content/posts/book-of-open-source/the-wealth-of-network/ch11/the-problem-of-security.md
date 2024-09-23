@@ -46,5 +46,6 @@ translater:
 19. Mary Madden 和 Amanda Lenhart，《音乐下载、文件共享和版权》（Pew，2003 年 7 月），http://www.pewinternet.org/pdfs/PIP_Copyright_Memo.pdf
 20. 参见 111 F.Supp.2d 第 310 页，脚注 69-70；PBS Frontline 报告，http://www.pbs.org/wgbh/pages/frontline/shows/hollywood/business/windows.html
 21. See 111 F.Supp.2d at 310, fns. 69-70; PBS Frontline report, http://www.pbs.org/wgbh/pages/frontline/shows/hollywood/business/windows.html .
-22. 
+22. A. M. Froomkin，《半私人国际规则制定：从 WIPO 域名流程中吸取的教训》，http://www.personal.law.miami.edu/froomkin/articles/TPRC99.pdf 
+23. 
 

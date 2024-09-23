@@ -62,6 +62,8 @@ Kata Container 联合创始人王旭在一次圆桌讨论中谈到作为开发�
 
 ### 开源是否对创新有着积极的作用？
 
+答案是显而易见的，创新是出现在技术的不断的扩散和知识的传播（Bessen, James. (2022)）的地方，从解绑(unbundling)的角度而言，几次的技术变革浪潮都和它有关，从1969年IBM的解绑战略，将软件从硬件中分离出来(Grad, Burton (2002)),再到Linux成为互联网时代事实上的标准（Joel West and Jason Dedrick,2001），再到Amazon开发出EC2,以及CNCF 发布的云原生Landscape，我们看到解决技术复杂性和降低成本，工程师们在努力的通过知识的扩散途径：开源的另外一个副作用来实现的。
+
 
 
 ### 开源发展的理论逻辑
@@ -78,18 +80,23 @@ Kata Container 联合创始人王旭在一次圆桌讨论中谈到作为开发�
 ## 文献引用
 
 
+* Bessen, James. (2022). The New Goliaths: How Corporations Use Software to Dominate Industries, Kill Innovation, and Undermine Regulation. 10.12987/9780300265026. 
+* Bill Gates is the first programmer to raise the issue of software piracy. February 3, 1976 , "An Open Letter to Hobbyists," 
 * Chris DiBona, Sam Ockman, and Mark Stone 等，Open Sources: Voices from the Open Source Revolution，1st Edition January 1999 
 * Glyn Moody, Rebel Code: Linux and the Open Source Revolution, London: Allen Lane, 2001,
-* 
+*  Grad, Burton (2002). A personal recollection: IBM's unbundling of software and services. Annals of the History of Computing, IEEE. 24. 64 - 71. 10.1109/85.988583. 
+*  Joel West and Jason Dedrick, “Open Source Standardization: The Rise of Linux in the Network Era,” Knowledge, Technology & Policy, 14, 2 (Summer 2001): 88-112. DOI: 10.1007/PL00022278 
+* Moglen, E. (1999). Anarchism triumphant: Free software and the death of copyright. First Monday, 4(8). https://doi.org/10.5210/fm.v4i8.684
 *  O'Neil, Mathieu ,  Cyberchiefs: Autonomy and Authority in Online Tribes, Pluto Press,  2009-3
 *  Scott Bradner，The Internet Engineering Task Force， 节选自 （Chris DiBona, Sam Ockman, and Mark Stone，1999）
-*  《我们的信任：为什么有时信任，有时不信任》，（美）布鲁斯•施奈尔， 机械工业出版社，2013-5
+*  Schrape, Jan-Felix (2017) : Open source projects as incubators of innovation: From niche phenomenon to integral part of the software industry, SOI Discussion Paper, No. 2017-03, Universität Stuttgart, Institut für Sozialwissenschaften, Abteilung für Organisations- und Innovationssoziologie, Stuttgart
+* Simcoe, Timothy & Watson, Jeremy. (2019). Forking, Fragmentation, and Splintering. Strategy Science. 4. 10.1287/stsc.2019.0094. 
 *  Weber, Steven. (2009). The Political Economy of Open Source Software and Why It Matters. 10.1515/9781400831616.178. 
 *  《The Sucess of Open Source》，Steve Weber, Harvard University Press (4 Oct. 2005)
-*  Grad, B.. (2002). A personal recollection: IBM's unbundling of software and services. Annals of the History of Computing, IEEE. 24. 64 - 71. 10.1109/85.988583. 
-*  Bill Gates is the first programmer to raise the issue of software piracy. February 3, 1976 , "An Open Letter to Hobbyists," 
-*  Moglen, E. (1999). Anarchism triumphant: Free software and the death of copyright. First Monday, 4(8). https://doi.org/10.5210/fm.v4i8.684
+* 
+* 
 
+*   《我们的信任：为什么有时信任，有时不信任》，（美）布鲁斯•施奈尔， 机械工业出版社，2013-5
 
 
 ## 关于作者
