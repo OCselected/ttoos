@@ -47,5 +47,6 @@ translater:
 20. 参见 111 F.Supp.2d 第 310 页，脚注 69-70；PBS Frontline 报告，http://www.pbs.org/wgbh/pages/frontline/shows/hollywood/business/windows.html
 21. See 111 F.Supp.2d at 310, fns. 69-70; PBS Frontline report, http://www.pbs.org/wgbh/pages/frontline/shows/hollywood/business/windows.html .
 22. A. M. Froomkin，《半私人国际规则制定：从 WIPO 域名流程中吸取的教训》，http://www.personal.law.miami.edu/froomkin/articles/TPRC99.pdf 
-23. 
+23. Jessica Litman, “The Exclusive Right to Read,” Cardozo Arts and Entertainment Law Journal 13(1994)： 29.
+24. MAI Systems Corp. v. Peak Computer, Inc., 991 F.2d 511 (9th Cir. 1993).
 
