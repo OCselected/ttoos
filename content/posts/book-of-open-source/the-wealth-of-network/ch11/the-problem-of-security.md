@@ -49,4 +49,8 @@ translater:
 22. A. M. Froomkin，《半私人国际规则制定：从 WIPO 域名流程中吸取的教训》，http://www.personal.law.miami.edu/froomkin/articles/TPRC99.pdf 
 23. Jessica Litman, “The Exclusive Right to Read,” Cardozo Arts and Entertainment Law Journal 13(1994)： 29.
 24. MAI Systems Corp. v. Peak Computer, Inc., 991 F.2d 511 (9th Cir. 1993).
+25. Lawrence Lessig, Free Culture: How Big Media Uses Technology and the Law to Lock Down Culture and Control Creativity (New York: Penguin Press, 2004).  国内翻译为：《免费文化：创意产业的未来》， (美)劳伦斯·莱斯格，中信出版社，2009-10
+26. Jessica Litman, "Electronic Commerce and Free Speech," Journal of Ethics and Information Technology 1 (1999): 213.
+27. 请参阅司法部知识产权政策和计划， http://www.usdoj.gov/criminal/cybercrime/ippolicy.html .
+28. Eldred v. Ashcroft, 537 U.S. 186 (2003).
 
