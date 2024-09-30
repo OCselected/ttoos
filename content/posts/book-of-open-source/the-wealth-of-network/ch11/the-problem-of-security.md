@@ -53,4 +53,9 @@ translater:
 26. Jessica Litman, "Electronic Commerce and Free Speech," Journal of Ethics and Information Technology 1 (1999): 213.
 27. 请参阅司法部知识产权政策和计划， http://www.usdoj.gov/criminal/cybercrime/ippolicy.html .
 28. Eldred v. Ashcroft, 537 U.S. 186 (2003).
+29. Bridgeport Music, Inc. v. Dimension Films, 383 F.3d 390 (6th Cir.2004).
+30. 383 F3d 390, 400.
+31. Mark A. Lemley，“知识产权与 Shrinkwrap 许可”，《南加州法律评论》68 (1995)： 1239, 1248-1253.
+32. 86 F.3d 1447 (7th Cir. 1996).
+33. 
 
