@@ -57,5 +57,11 @@ translater:
 30. 383 F3d 390, 400.
 31. Mark A. Lemley，“知识产权与 Shrinkwrap 许可”，《南加州法律评论》68 (1995)： 1239, 1248-1253.
 32. 86 F.3d 1447 (7th Cir. 1996).
-33. 
+33. 有关更完整的技术解释，请参阅 Yochai Benkler 的《信息交易中的私人订购的从容视角》，《范德比尔特法律评论》53（2000）：2063
+34. James Boyle, "Cruel, Mean or Lavish? Economic Analysis, Price Discrimination and Digital Intellectual Property," Vanderbilt Law Review 53 (2000); Julie E. Cohen, "Copyright and the Jurisprudence of Self-Help," Berkeley Technology Law Journal 13 (1998): 1089; Niva Elkin-Koren, "Copyright Policy and the Limits of Freedom of Contract," Berkeley Technology Law Journal 12 (1997): 93.
+35. Feist Publications, Inc. v. Rural Telephone Service Co., Inc., 499 U.S. 340, 349-350 (1991).
+36. Directive No. 96/9/EC on the legal protection of databases, 1996 O.J. (L 77) 20.
+37. J. H. Reichman and Paul F. Uhlir, "Database Protection at the Crossroads: Recent Developments and Their Impact on Science and Technology," Berkeley Technology Law Journal 14 (1999): 793; Stephen M. Maurer and Suzanne Scotchmer, "Database Protection: Is It Broken and Should We Fix It?" Science 284 (1999): 1129.
+38. See Stephen M. Maurer, P. Bernt Hugenholtz, and Harlan J. Onsrud, "Europe's Database Experiment," Science 294 (2001): 789; Stephen M. Maurer, "Across Two Worlds: Database Protection in the U.S. and Europe," paper prepared for Industry Canada's Conference on Intellectual Property and Innovation in the Knowledge-Based Economy, May 23-24 2001.
+39. 
 
