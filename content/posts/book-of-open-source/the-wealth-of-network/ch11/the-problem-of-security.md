@@ -63,5 +63,8 @@ translater:
 36. Directive No. 96/9/EC on the legal protection of databases, 1996 O.J. (L 77) 20.
 37. J. H. Reichman and Paul F. Uhlir, "Database Protection at the Crossroads: Recent Developments and Their Impact on Science and Technology," Berkeley Technology Law Journal 14 (1999): 793; Stephen M. Maurer and Suzanne Scotchmer, "Database Protection: Is It Broken and Should We Fix It?" Science 284 (1999): 1129.
 38. See Stephen M. Maurer, P. Bernt Hugenholtz, and Harlan J. Onsrud, "Europe's Database Experiment," Science 294 (2001): 789; Stephen M. Maurer, "Across Two Worlds: Database Protection in the U.S. and Europe," paper prepared for Industry Canada's Conference on Intellectual Property and Innovation in the Knowledge-Based Economy, May 23-24 2001.
-39. 
+39. Peter Weiss, "Borders in Cyberspace: Conflicting Public Sector Information Policies and their Economic Impacts" (U.S. Dept. of Commerce, National Oceanic and Atmospheric Administration, February 2002).
+40. eBay, Inc. v. Bidder's Edge, Inc., 2000 U.S. Dist. LEXIS 13326 (N.D.Cal. 2000).
+41. 优先权模式可能类似于第二巡回法院在 NBA 诉摩托罗拉案（105 F.3d 841 (2d Cir. 1997)）中采用的模式，该模式将州挪用索赔限制在《版权法》中嵌入的联邦政策所划定的狭窄范围内。这可能需要实际证据证明机器人已停止服务或威胁到服务的存在。
+42. New York Times v. Sullivan, 376 U.S. 254, 266 (1964).
 
