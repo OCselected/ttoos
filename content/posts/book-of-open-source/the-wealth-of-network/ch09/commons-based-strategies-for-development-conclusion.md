@@ -25,3 +25,5 @@ translater:
 
 ## 参考材料
 
+1. Anne Alstott and Bruce Ackerman, The Stakeholder Society (New Haven, CT: Yale University Press, 1999).
+2. 
