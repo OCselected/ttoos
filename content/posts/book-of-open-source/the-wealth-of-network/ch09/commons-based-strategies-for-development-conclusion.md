@@ -26,4 +26,6 @@ translater:
 ## 参考材料
 
 1. Anne Alstott and Bruce Ackerman, The Stakeholder Society (New Haven, CT: Yale University Press, 1999).
-2. 
+2. 所有数字均取自《2004​​ 年人类发展报告》（纽约：联合国发展计划署，2004 年）。
+3. Amartya Sen, Development as Freedom (New York: Knopf, 1999), 46-47.（中文版：《 以自由看待发展 》， [印度]阿马蒂亚·森， 中国人民大学出版社，2024-1）
+4. 
