@@ -30,5 +30,7 @@ translater:
 3. Amartya Sen, Development as Freedom (New York: Knopf, 1999), 46-47.（中文版：《 以自由看待发展 》， [印度]阿马蒂亚·森， 中国人民大学出版社，2024-1）
 4. Carol Tenopir 和 Donald W. King，《走向电子期刊：科学家、图书管理员和出版商的现实》(华盛顿特区：专业图书馆协会，2000 年)，第 273 页。
 5. Harold Varmus，E-Biomed：生物医学科学电子出版物提案（马里兰州贝塞斯达：国立卫生研究院，1999 年）。
-6.  C. K. Prahald，《金字塔底层的财富：通过利润消除贫困》（新泽西州上萨德尔河：沃顿商学院出版学院，2005 年），319-357，第 4 部分“ITC e-Choupal 的故事”。
-7.  
+6. C. K. Prahald，《金字塔底层的财富：通过利润消除贫困》（新泽西州上萨德尔河：沃顿商学院出版学院，2005 年），319-357，第 4 部分“ITC e-Choupal 的故事”。
+7. 关于软件行业的数据来源，请参见本书的第2章。特别是，IBM 的数据在图2.1中有所展示。
+8. 这些论点在秘鲁代表Villanueva Nunez和微软在该国的代表之间的公开信件交流中被最清晰、最早地阐述出来。这次交流可以在开源倡议（OSI）的网站找到。http://www.opensource.org/docs/peru_and_ms.php
+9. 
