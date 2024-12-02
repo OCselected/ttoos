@@ -57,7 +57,7 @@ Linux 基金会董事主席 Nithya Ruff ，同时也是AWS 开源项目办公室
 
 我以为主要原因，也就是大家所了解的原因，是我的祖母， 也就是上面图片中站在我父亲旁边的女士。她是在上世纪50年代就开创了非营利组织，1953年，我的叔叔Jim，也就是我的名字所跟随的，左边即是我的叔叔，自小患有精神障碍，我祖母悉心照料， 另外我的祖母也是位单亲妈妈，所以决定创办一家非营利组织，来帮助有残疾的成年人接受职业训练，以让他们可以顺利走上工作岗位，即使他们身体上有残疾，但仍然有工作的能力，所以，如果有时你看到患有唐氏综合症的人在工作，又可能是在星巴克，或者其它地方。我的祖母就是为残障人士培训走上工作岗位也可以过好一生的早期领导者之一，当我发现非营利性工作和技术整合时，这对于我来说，简直是完美的契合，这就是真正让我是：是的，是的，让我去尝试做些什么的事情。
 
-[](/images/Jim-Zemlin-20-years/state-of-open-source-slide-6.png)
+![](/images/Jim-Zemlin-20-years/state-of-open-source-slide-6.png)
 
 正如刚才 Nithya 所说，我最初是在 Free Standard [5]工作，Free Standard 是一家尝试创建一类可以跨不同Linux发行版的应用标准，大家知道，在彼时Linux有很多不同的发行版，对于应用程序的开发是一个真正的问题，Linux Standard Base [6]时好时坏，但是对于推广Linux是真的有用，而且让Linux迈上了新的台阶，
 
@@ -81,15 +81,24 @@ Linux 基金会董事主席 Nithya Ruff ，同时也是AWS 开源项目办公室
 
 ![](/images/Jim-Zemlin-20-years/state-of-open-source-slide-11.png)
 
-当然，对于开源的怀疑一直都存在，不仅仅是2004年，当前的情况也是如此。
+当然，对于开源的怀疑一直都存在，不仅仅是2004年，当前的情况也是如此。对于在座的很多人来说，都是记忆犹新的，我们依然面临着为大众解释为什么说开源是一种极佳的创新方式，它如何克服专有平台带来的缺陷，那时候的微软还不是开源的朋友，而是敌人，微软当时的言论是我不想在这里引述的。如果你呆在开源世界足够长，不间断一定会被问及：**开源根本不行**，但是
 
 ![](/images/Jim-Zemlin-20-years/state-of-open-source-slide-12.png)
 
+我们坚持不懈，在过去的20年里，我们取得了一个又一个的成果：
+
 ![](/images/Jim-Zemlin-20-years/state-of-open-source-slide-13.png) 
 
+Linux 已经是我们这个星球上最为流行的软件之一了，它简直是一个大满贯的本垒打，在最初Linux基金会成立时，它仅仅占有很小的超级计算市场的份额，而到今天，所有的超级计算平台都在使用它；在企业级计算平台，Linux也是不二的选择；在移动设备上，Linux也是独占优势，Linux总是能够丝滑的从一个领域切换到另一个领域，当然，这也是它强大的特点之一。一个月前，我们和NASA合作，开发太空级别的Linux，这只是一次非常常见的飞跃。但是，大家都懂，这是一场幸运的眷顾，并非我之努力，众所周知，我们当时的工作实际上就是围绕Linux做点必然性的工作，例如将Linux和Microsoft对立起来，使得二者处于战斗之中，这是一场大卫对抗格利亚的战役，
+
+接到了 Brain Stevens[8] 和 Urs Hölzle[9] 打来的电话，
 ![](/images/Jim-Zemlin-20-years/state-of-open-source-slide-14.png)
 
+我们依然在保持增长，每一年都有更多的项目加入到Linux基金会，开源已经成为我们现代人生活重要的组成部分。
+
 ![](/images/Jim-Zemlin-20-years/state-of-open-source-slide-15.png)
+
+我从未想到有一天，
 
 ![](/images/Jim-Zemlin-20-years/state-of-open-source-slide-16.png)
 
@@ -130,8 +139,8 @@ Linux 基金会所做事的风格中，或许在座的各位有以前听我讲�
 5. https://en.wikipedia.org/wiki/Free_Standards_Group 
 6. https://en.wikipedia.org/wiki/Linux_Standard_Base
 7. https://en.wikipedia.org/wiki/Theodore_Ts%27o
-8. 
-9. https://www.linkedin.com/in/brianmarkstevens/
+8. https://www.linkedin.com/in/brianmarkstevens/
+9.  https://en.wikipedia.org/wiki/Urs_H%C3%B6lzle
 10. https://www.linkedin.com/in/martin-robert-fink/ 
 
 
