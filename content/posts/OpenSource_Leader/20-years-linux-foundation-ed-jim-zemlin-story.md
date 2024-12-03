@@ -85,22 +85,25 @@ Linux 基金会董事主席 Nithya Ruff ，同时也是AWS 开源项目办公室
 
 ![](/images/Jim-Zemlin-20-years/state-of-open-source-slide-12.png)
 
-我们坚持不懈，在过去的20年里，我们取得了一个又一个的成果：
+我们坚持不懈，在过去的20年里，我们取得了一个又一个的成果：Linux 已经是我们这个星球上最为流行的软件之一了，它简直是一个大满贯的本垒打，在最初Linux基金会成立时，它仅仅占有很小的超级计算市场的份额，而到今天，所有的超级计算平台都在使用它；在企业级计算平台，Linux也是不二的选择；在移动设备上，Linux也是独占优势，Linux总是能够丝滑的从一个领域切换到另一个领域，当然，这也是它强大的特点之一。一个月前，我们和NASA合作，开发太空级别的Linux，这只是一次非常常见的飞跃。但是，大家都懂，这是一场幸运的眷顾，并非我之努力，众所周知，我们当时的工作实际上就是围绕Linux做点必然性的工作，例如将Linux和Microsoft对立起来，使得二者处于战斗之中，这是一场大卫对抗格利亚的战役，
+
+接到了 Brain Stevens[8] 和 Urs Hölzle[9] 打来的电话，谈论云计算的竞争， 
 
 ![](/images/Jim-Zemlin-20-years/state-of-open-source-slide-13.png) 
 
-Linux 已经是我们这个星球上最为流行的软件之一了，它简直是一个大满贯的本垒打，在最初Linux基金会成立时，它仅仅占有很小的超级计算市场的份额，而到今天，所有的超级计算平台都在使用它；在企业级计算平台，Linux也是不二的选择；在移动设备上，Linux也是独占优势，Linux总是能够丝滑的从一个领域切换到另一个领域，当然，这也是它强大的特点之一。一个月前，我们和NASA合作，开发太空级别的Linux，这只是一次非常常见的飞跃。但是，大家都懂，这是一场幸运的眷顾，并非我之努力，众所周知，我们当时的工作实际上就是围绕Linux做点必然性的工作，例如将Linux和Microsoft对立起来，使得二者处于战斗之中，这是一场大卫对抗格利亚的战役，
+当我回顾过去之时，Linux基金会旗下所有的项目、所有的参与者，都是一种礼物，例如，由Academy 软件基金会创造的机会，Linus 和我有机会参加 OSCAR 颁奖典礼；Linux 基金会 Network项目让无数的移动设备连接起数十亿人，（这张图上）所有的这些技术太令人惊叹了！
 
-接到了 Brain Stevens[8] 和 Urs Hölzle[9] 打来的电话，
 ![](/images/Jim-Zemlin-20-years/state-of-open-source-slide-14.png)
 
 我们依然在保持增长，每一年都有更多的项目加入到Linux基金会，开源已经成为我们现代人生活重要的组成部分。
 
 ![](/images/Jim-Zemlin-20-years/state-of-open-source-slide-15.png)
 
-我从未想到有一天，
+我从未想到有一天，能够与 Microsoft Azure 的 CTO Mark Russinovich[12] 一起吃晚餐，这张图片所展示的是Scott Guthrie[13] 宣布 Microsoft 加入 Linux 基金会的场景，如果说在2004年，有人说到这，我是绝对不会相信会发生的，到今天，Microsoft 已经是最大和最重要的开源投入公司之一了，并且和包括Linux在内的很多开源项目保持很好的合作。我从来没有预料到这些！在Linux基金会工作如此长到年限中，每年我们都会思考如何度量成功，例如市场份额、垂直领域的影响，尤其是Linux，在早年间，我们一直在谈论它的市场份额，Linux占据了多少企业级市场，有占据了多少超级计算，但过了一段时间后，就开始变得离谱了，它快到让我们无法计算。
 
 ![](/images/Jim-Zemlin-20-years/state-of-open-source-slide-16.png)
+
+对于当下来说，我以为最好的方式是确认总体开源的价值，哈佛大学做了一项令人惊叹的研究，
 
 ![](/images/Jim-Zemlin-20-years/state-of-open-source-slide-17.png)
 
@@ -142,7 +145,15 @@ Linux 基金会所做事的风格中，或许在座的各位有以前听我讲�
 8. https://www.linkedin.com/in/brianmarkstevens/
 9.  https://en.wikipedia.org/wiki/Urs_H%C3%B6lzle
 10. https://www.linkedin.com/in/martin-robert-fink/ 
+11. f
+12. https://en.wikipedia.org/wiki/Mark_Russinovich
+13. https://en.wikipedia.org/wiki/Scott_Guthrie
+14. 
 
+
+## 其它媒体报道和总结
+
+* Jim Zemlin, 'head janitor of open source,' marks 20 years at Linux Foundation  https://www.zdnet.com/article/jim-zemlin-head-janitor-of-open-source-marks-20-years-at-linux-foundation/#google_vignette
 
 ## 关于译者
 
