@@ -48,7 +48,7 @@ authors:
 
 ##  收听渠道
 
-[![](./os-conversation-episode-13.png)](https://www.xiaoyuzhoufm.com/episodes/673da7558d1233fb0da99d3c)
+[![](posts/OpenSource_Talking/os-conversation-episode-13.png)](https://www.xiaoyuzhoufm.com/episodes/673da7558d1233fb0da99d3c)
 
 
 ## 本期人物
