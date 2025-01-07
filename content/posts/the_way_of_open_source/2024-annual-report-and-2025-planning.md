@@ -42,7 +42,7 @@ authors:
 
 以及在开源之路上帮助和支持我的朋友和同事、同行们：
 
-孙振华、郁志强、郭雪、陶冶、刘洁、Keith Chan、王哲、杨振涛、薛植元、Bruce Perens、王厚、淮景阳、朱中华、江波、庄表伟、郭旭东、杨东杰、薛杨洁、王荷舒、Maggie Cheung、陈阳、马乐、边思康、杨轩、徐剑敏、朱其罡、Shane Coughlan、过泳安、何苗、王旭、范凡、侯佩秀、王峰、龚宇华、范晶晶、夏小雅、孟伟、胡捷、靳东颖、梁辰晔、高琨、程勇、刘天栋、付钦伟、刘伟、张家驹、AlphaTu、赵海玲、范小青、罗广明、李小明、Ana Jiménez Santamaría、赵云虎、陈锐、博达......
+孙振华、郁志强、郭雪、陶冶、柳丽英、刘洁、Keith Chan、王哲、杨振涛、薛植元、Bruce Perens、王厚、淮景阳、朱中华、江波、庄表伟、郭旭东、杨东杰、薛杨洁、王荷舒、Maggie Cheung、陈阳、马乐、边思康、杨轩、徐剑敏、朱其罡、Shane Coughlan、过泳安、何苗、王旭、范凡、侯佩秀、王峰、龚宇华、范晶晶、夏小雅、孟伟、胡捷、靳东颖、梁辰晔、高琨、程勇、刘天栋、付钦伟、刘伟、张家驹、AlphaTu、赵海玲、范小青、罗广明、李小明、Ana Jiménez Santamaría、赵云虎、陈锐、博达......
 
 以及所有支持「开源之道」而没有被适兕认识和见面的朋友。
 
@@ -110,10 +110,13 @@ authors:
 
 每个人都是有限的，承认自己的有限，然后就有了交流和分享的驱动，过去的一年中，我们保持每个月一次的交流，这是日常，也是学习的最佳途径。
 
-#### 「开源之道」·适兕的分享
+#### 「开源之道」·适兕的读书分享
 
 * 2024.01 [Linus torvalds 金句赏析](https://1drv.ms/p/c/db5a2447fe9336b8/Ebg2k_5HJFoggNsAfgAAAAABDiwBQSJLkoas-cL4Rg0VmQ)
-* 
+* 2024.04 [保护集体财产：自组织共同体和知识财产制度创新](https://1drv.ms/p/c/db5a2447fe9336b8/Ebg2k_5HJFoggNtQgAAAAAABwRjlBz5anDFBHPNAov13QQ)
+* 2024.07 [复杂：我们的日常面对](https://1drv.ms/p/c/db5a2447fe9336b8/Ebg2k_5HJFoggNtJgQAAAAABpoyqyvLYrdS9OcoIMVUDIA)
+* 2024.08 [网络的财富:我们是如何错失未来的](https://1drv.ms/p/c/db5a2447fe9336b8/Ebg2k_5HJFoggNtCggAAAAABGxpM1yBvxakrPW3I8ZJ2Fg)
+* 2024.11 [《谁是斯图尔特·布兰德》阅读感悟](https://1drv.ms/p/c/db5a2447fe9336b8/Ebl2GoJRJb5KmvDILe7p5l4BXoHOi6KKJn1VfcYK-W4NcA)
 
 ### 开源分享或讲座
 
@@ -155,10 +158,15 @@ authors:
 * CCF开源高校行·西南大学[观念的跃迁:那些拥抱开源所需要的思想](https://1drv.ms/p/c/db5a2447fe9336b8/Ea_JboayIk9Bs5VEYD65Y68BXBOmeUVgWHZU_Avlt49wbw)
 * 北京联合大学 [「开源通识」讲谈](https://1drv.ms/p/c/db5a2447fe9336b8/Ebg2k_5HJFoggNvfgwAAAAABDyuWi2r7PhInYlONwjBNKA)
 * 中国开源年会 [无知与敬畏：「开源之书」的阅读之旅](https://1drv.ms/p/c/db5a2447fe9336b8/Ebg2k_5HJFoggNsDhAAAAAABzcTnDEeVDrzRL4ePm8a6kg)
-* 
-
+* Dev·Together 大会 [开发者关系的哲学思考](https://1drv.ms/p/c/db5a2447fe9336b8/Ebg2k_5HJFoggNtMfwAAAAABe7IgVDu6iWy-5wkHfv4xtA)
+* 第二届 OSPO Summit [跨越鸿沟：创建 OSPO 需要征服的难题](https://1drv.ms/p/c/db5a2447fe9336b8/Ebg2k_5HJFoggNujfgAAAAABn1JUD6MIiz-MJfv3AKYveg)
+* GOTC 全球开源峰会 [探索 LFAPAC 开源布道者之旅与开源行动力量](https://1drv.ms/p/c/db5a2447fe9336b8/Ebg2k_5HJFoggNuPggAAAAABLd-KmH9qxE34v1h2N1DEXw)
+* 走进初中课堂 [上游思维随谈](https://1drv.ms/p/c/db5a2447fe9336b8/Ebg2k_5HJFoggNu1gAAAAAABY8Rdx_1w98uB9Lh5dmio_w)
+* OSCAR 2024 [转向：从排他到容他，数字世界的知识财产观念](https://1drv.ms/p/c/db5a2447fe9336b8/Ebg2k_5HJFoggNuCgwAAAAABFbmldM6iR6eE1-JVf_c5fg)
+* OSPOlogy Live China [开源之法的经济分析综述](https://1drv.ms/p/c/db5a2447fe9336b8/Ebg2k_5HJFoggNujgAAAAAABBGL_6YJ00uABoRdPhNbmZg)
 
 ## 2024年总结之幻灯篇
+
 
 
 
