@@ -20,8 +20,15 @@ authors:
 
 ## 引子
 
+俗语有云：“当雪崩的时候，没有一片雪花是无辜的。“ 拥抱开源到底需要用什么样的姿态？什么样的知识？什么样的经验？可能每一个人的答案是不同的，走的路也是不一样的，但是破坏开源的情况，我们却是可以看的清清楚楚的。
 
+「开源之道」·适兕，以自己作为方法，走过了第九个年头，认识世界大概这是最快的方式了，拓荒，走别人没有走过的路，没有背景的约束，不断的和这个世界接触，读书、分享、实践、寻真，只为找到事情发生的核心驱动力。
 
+为什么会这样？大约是独立思考的缘故，总是觉得现实的答案并不能说服适兕本人，他希望通过自己的观察和实践，以及学习，进而解释开源这个强大的力量背后的所有。
+
+2024 有个意外，无意之间进入了一个奇怪的场所，被强迫早晚签到，被无厘头的否定，被限定地理位置区域，没有工作计划，也见识了被规制后的年轻人的各种扭曲精神状态，所幸半年就结束了。类似的经历，适兕并不陌生，但是经过多年的锤炼和学习，相对于当年是完全不同的思考和感悟。可能苦难才能带来成长，这半年的行为艺术，也让适兕学会了换到完全不同的他人的视角，在糟糕的制度下，聪明的人会将精力和时间花在什么地方，他们又是如何的利用人的欲望来达到控制的目的。对于组织的权力来源的思考，也是适兕另外的收获，技术的权力被否定，而只有来自组织架构的权力，会产生很多超出想象的事情。
+
+虽然艰难，但是适兕并为停下脚步，节奏可能慢了点，还是稍稍的往前挪了几步的。
 
 ## 感谢&&致谢
 
@@ -39,10 +46,11 @@ authors:
 * 大成律师事务所
 * 国浩律师事务所
 * 天工开物开源基金会
+* 中兴 OSPO
 
 以及在开源之路上帮助和支持我的朋友和同事、同行们：
 
-孙振华、郁志强、郭雪、陶冶、柳丽英、刘洁、Keith Chan、王哲、杨振涛、薛植元、Bruce Perens、王厚、淮景阳、朱中华、江波、庄表伟、郭旭东、杨东杰、薛杨洁、王荷舒、Maggie Cheung、陈阳、马乐、边思康、杨轩、徐剑敏、朱其罡、Shane Coughlan、过泳安、何苗、王旭、范凡、侯佩秀、王峰、龚宇华、范晶晶、夏小雅、孟伟、胡捷、靳东颖、梁辰晔、高琨、程勇、刘天栋、付钦伟、刘伟、张家驹、AlphaTu、赵海玲、范小青、罗广明、李小明、Ana Jiménez Santamaría、赵云虎、陈锐、博达......
+孙振华、郁志强、郭雪、陶冶、柳丽英、刘洁、Keith Chan、王哲、杨振涛、薛植元、范娇、胡灵灵、董超、Bruce Perens、王厚、淮景阳、朱中华、江波、庄表伟、郭旭东、杨东杰、薛杨洁、王荷舒、Maggie Cheung、陈阳、马乐、边思康、杨轩、徐剑敏、朱其罡、Shane Coughlan、过泳安、何苗、王旭、范凡、侯佩秀、王峰、龚宇华、范晶晶、夏小雅、孟伟、胡捷、靳东颖、梁辰晔、高琨、程勇、刘天栋、付钦伟、刘伟、张家驹、AlphaTu、赵海玲、范小青、罗广明、李小明、Ana Jiménez Santamaría、赵云虎、陈锐、博达、董吉甫......
 
 以及所有支持「开源之道」而没有被适兕认识和见面的朋友。
 
@@ -52,7 +60,7 @@ authors:
 
 ### 开源经济学12讲座
 
-这是适兕在2024年最为重要的项目，他甚至为此不惜隐藏了大半年之久，埋首于资料中间，探索开源的经济学，更多详情访问：[开源经济学十二讲](/posts/open-source-economic/12-lectures-of-open-source/)。
+这是适兕在2024年最为重要的项目，他甚至为此不惜隐忍了大半年之久，埋首于资料中间，探索开源的经济学，更多详情访问：[开源经济学十二讲](/posts/open-source-economic/12-lectures-of-open-source/)。
 
 旨在为不同背景的人解释开源能够运行和发展的原则和逻辑，以一个上游的视角来观察数字世界的林林种种，讲座的设计没有采用单一的视角，而是通过社会和经济的嵌入来解读，适兕不断挖掘历史中的案例和事件，试图给出一个开源的全景图。
 
@@ -67,9 +75,9 @@ authors:
 * [开源与经济学第七讲：组织结构与治理](https://1drv.ms/p/s!Arg2k_5HJFrbgoJLLhanoUlyo9620w?e=6Ke7fU)
 * [开源与经济学第八讲：文化的重要作用](https://1drv.ms/p/s!Arg2k_5HJFrbgoFU7xMG57XBAaHzbA?e=mHmZ3o)
 * [开源与经济学第九讲：商业价值与社会价值](https://1drv.ms/p/s!Arg2k_5HJFrbgoRjQkaewcZDlKXANA?e=5k1UJ2)
-* [开源与经济学第十讲：模块化设计与unbundling]()
-* [开源与经济学第十一讲：供应链思维与开源共同体]()
-* [开源与经济学第十二讲：网络的财富与互联网协作]()
+* [开源与经济学第十讲：模块化设计与unbundling](https://1drv.ms/p/c/db5a2447fe9336b8/Ebg2k_5HJFoggNtZgwAAAAABRxWVyoz8UhgCbub48FKfTQ?e=4OcBCm)
+* [开源与经济学第十一讲：供应链思维与开源共同体](.)
+* [开源与经济学第十二讲：网络的财富与互联网协作](.)
 
 ### 《网络的财富》翻译
 
@@ -116,6 +124,7 @@ authors:
 * 2024.04 [保护集体财产：自组织共同体和知识财产制度创新](https://1drv.ms/p/c/db5a2447fe9336b8/Ebg2k_5HJFoggNtQgAAAAAABwRjlBz5anDFBHPNAov13QQ)
 * 2024.07 [复杂：我们的日常面对](https://1drv.ms/p/c/db5a2447fe9336b8/Ebg2k_5HJFoggNtJgQAAAAABpoyqyvLYrdS9OcoIMVUDIA)
 * 2024.08 [网络的财富:我们是如何错失未来的](https://1drv.ms/p/c/db5a2447fe9336b8/Ebg2k_5HJFoggNtCggAAAAABGxpM1yBvxakrPW3I8ZJ2Fg)
+* 2024.09 [《unbundling、全球化与开源》](https://1drv.ms/p/c/db5a2447fe9336b8/Ebg2k_5HJFoggNtZgwAAAAABRxWVyoz8UhgCbub48FKfTQ?e=4OcBCm)
 * 2024.11 [《谁是斯图尔特·布兰德》阅读感悟](https://1drv.ms/p/c/db5a2447fe9336b8/Ebl2GoJRJb5KmvDILe7p5l4BXoHOi6KKJn1VfcYK-W4NcA)
 
 ### 开源分享或讲座
@@ -151,6 +160,10 @@ authors:
 * 2024.12.21 上海[《Copyleft ：Linux和开源软件的经济引擎》](https://1drv.ms/p/c/db5a2447fe9336b8/EaDKqL3RZH9Dg5d9Odd9fkwBYgz1iLnXCziJC0BAtwSh7g?e=1wrD25)
 * 长沙[《网络的财富：开源协作的基座》](https://1drv.ms/p/c/db5a2447fe9336b8/EfZ4y4FDnfpMqiHe6q8wT80Ba7bGZhT3p8U9YFiFBP101A?e=DCrVjn)
 
+在KCC各城市站的照片集合：
+
+![](/images/osw-2024-report/kcc-2024-kuosi.jpg)
+
 #### 其它分享和演讲
 
 * 和北大计算机学院学生分享：[开源之悟：通过开源探索和理解世界](https://1drv.ms/p/c/db5a2447fe9336b8/EXdYhSrXwFBNnwCZKGOi5nYBx2xkfzYJOritFLAAnMz-fQ)
@@ -165,7 +178,21 @@ authors:
 * OSCAR 2024 [转向：从排他到容他，数字世界的知识财产观念](https://1drv.ms/p/c/db5a2447fe9336b8/Ebg2k_5HJFoggNuCgwAAAAABFbmldM6iR6eE1-JVf_c5fg)
 * OSPOlogy Live China [开源之法的经济分析综述](https://1drv.ms/p/c/db5a2447fe9336b8/Ebg2k_5HJFoggNujgAAAAAABBGL_6YJ00uABoRdPhNbmZg)
 
+演讲的照片集合：
+
+![](/images/osw-2024-report/kuosi-sharing-in-2024-event.jpg)
+
 ## 2024年总结之幻灯篇
+
+### COSCon 开源之星
+
+开源社[3] 给我颁发这个奖项完全出乎意料，2024年相对来说，较少的抛头露面，开源社理事和成员们还是一致通过了这个表彰，感谢对微薄工作的认可！
+
+![](/images/osw-2024-report/kuosi-award-of-coscon-2024.jpeg)
+
+### LFOSSA 开源推广大使
+
+![](/images/osw-2024-report/2024-award-lijiansheng.png)
 
 
 
@@ -174,7 +201,7 @@ authors:
 
 1. https://opensource.org/ai/open-source-ai-definition 
 2. https://www.benkler.org/
-3. 
+3. https://kaiyuanshe.cn/ 
 
 ## 关于作者
 
