@@ -48,7 +48,7 @@ authors:
 
 以及在开源之路上帮助和支持我的朋友和同事、同行们：
 
-孙振华、郁志强、郭雪、陶冶、柳丽英、刘洁、Keith Chan、王哲、杨振涛、薛植元、范娇、胡灵灵、董超、Bruce Perens、王厚、淮景阳、朱中华、江波、庄表伟、郭旭东、杨东杰、薛杨洁、王荷舒、Maggie Cheung、陈阳、马乐、边思康、杨轩、徐剑敏、朱其罡、Shane Coughlan、过泳安、何苗、王旭、范凡、侯佩秀、王峰、龚宇华、范晶晶、夏小雅、孟伟、胡捷、靳东颖、梁辰晔、高琨、程勇、刘天栋、付钦伟、刘伟、张家驹、AlphaTu、赵海玲、范小青、罗广明、李小明、Ana Jiménez Santamaría、赵云虎、陈锐、博达、董吉甫......
+孙振华、郁志强、郭雪、陶冶、柳丽英、刘洁、Keith Chan、王哲、杨振涛、薛植元、范娇、胡灵灵、董超、Bruce Perens、王厚、淮景阳、朱中华、江波、庄表伟、郭旭东、杨东杰、薛杨洁、王荷舒、Maggie Cheung、陈阳、马乐、边思康、杨轩、徐剑敏、朱其罡、Shane Coughlan、过泳安、何苗、王旭、范凡、侯佩秀、王峰、龚宇华、范晶晶、夏小雅、孟伟、胡捷、靳东颖、梁辰晔、高琨、程勇、刘天栋、付钦伟、刘伟、张家驹、AlphaTu、赵海玲、范小青、罗广明、李小明、Ana Jiménez Santamaría、赵云虎、陈锐、博达、董吉甫、向鑫雨、vivian、陈道清......
 
 以及所有支持「开源之道」而没有被适兕认识和见面的朋友。
 
@@ -180,15 +180,27 @@ authors:
 
 ![](/images/osw-2024-report/kuosi-sharing-in-2024-event.jpg)
 
+### OSPO Summit 
+
+作为 OSPO Summit 的联合发起人，旨在连接在组织内利用开源的同行，共同探讨经验，让企业、高校、政府等更多组织受益于开源，作为交流和网络的年度活动，第二届 OSPO Summit [4]的组织、策划、任务执行都有参与，相比于第一届，适兕更多的考虑的是如何让更多人参与进来，更多的是配合他人的工作，尤其是支持两位联席主席的工作。
+
 ### 其它探究和推动
 
 #### LFAPAC OSPO SIG
 
-专门的总结和展望，已经记录在[LFAPAC OSPO SIG 2024 年报告及 2025 年规划](https://mp.weixin.qq.com/s/voz50MpQwE1KGDi1Kg-x7A)，作为本地的一个OSPO兴趣小组，有无限可能。
+专门的总结和展望，已经记录在[LFAPAC OSPO SIG 2024 年报告及 2025 年规划](https://mp.weixin.qq.com/s/voz50MpQwE1KGDi1Kg-x7A)，作为本地的一个 OSPO 兴趣小组，有无限可能。
 
 #### 「开源之法与经济」
 
 #### 「开源之商」
+
+#### 「开源之道」对话
+
+终于还是找到对话的节奏：
+
+* [Episode 13 ：对话《开源项目成功之道》译者](https://opensourceway.community/posts/opensource_talking/2024-11-1-episode-13-talk-to-beyond-code-translator/)
+* [Episode 14 ：对话 开放智算产业联盟秘书长孟伟](https://opensourceway.community/posts/opensource_talking/2024-12-31-episode-14-talk-to-coia-mengwei/)
+
 
 
 
@@ -211,7 +223,9 @@ authors:
 
 ### 《开源之史》继续撰写
 
-这是一个艰难的历程，随着对于开源表象的深度挖掘，
+这是一个艰难的历程，随着对于开源表象的深度挖掘，渐渐地进入了一个庞大而复杂的社会系统中，法律、文化、技术、数字、商业、资本等等力量的众多纠缠中，开源作为一种人类创造物的出现，在封闭原理与开放协作之间，有了相当的角逐过程，将开源嵌入到整个技术历史的过程中，对于一名不小心闯入历史的工程师而言，确实是充满了挑战。
+
+但是这个过程非常的有趣，适兕也非常的希望能够花更多的时间去探索。希望2025年，能有新的突破～ 
 
 
 ### LFAPAC 开源布道者 Meetup 
@@ -224,6 +238,7 @@ authors:
 1. https://opensource.org/ai/open-source-ai-definition 
 2. https://www.benkler.org/
 3. https://kaiyuanshe.cn/ 
+4. https://ospo.events/
 
 ## 关于作者
 
