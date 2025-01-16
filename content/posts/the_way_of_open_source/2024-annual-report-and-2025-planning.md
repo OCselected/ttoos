@@ -132,7 +132,7 @@ authors:
 * [「开源之史」大纲](https://1drv.ms/p/s!Arg2k_5HJFrbgfs3NUftlK38dzr_kA)
 * 开源软件许可简史之一：[软件许可的起源](https://1drv.ms/p/s!Arg2k_5HJFrbgfwxNCheepmM8PuqYg)
 * 开源软件许可简史之二：[学术开源许可的出现和演变](https://1drv.ms/p/s!Arg2k_5HJFrbgf0RTxFlnXs1F3K5fg)
-* [分布式协作的演化](https://1drv.ms/p/s!Arg2k_5HJFrbgoB-9G8UXQJoWMX3Vg)
+* 开源通识讲座之[分布式协作的演化](https://1drv.ms/p/s!Arg2k_5HJFrbgoB-9G8UXQJoWMX3Vg)
 * 开源通识讲座之[如何像开源之道一样思考](https://1drv.ms/p/s!Arg2k_5HJFrbgoFqX2hvyFXk5CbV3g?e=vMwPxj)
 * 开源通识讲座之[哪些解释开源的比喻](https://1drv.ms/p/s!Arg2k_5HJFrbgoJ_l20KyjSb-KNaSQ?e=Z8yAJq)
 * 开源通识讲座之[开源世界的上游思维与上游优先](https://1drv.ms/p/s!Arg2k_5HJFrbgoN5YXD2yaAQFLjftQ)；
@@ -149,6 +149,9 @@ authors:
 
 #### 开源社城市社区 KCC 全国巡讲
 
+
+和去年保持一致，进行全国性的巡回meetup活动，并给大家带来新的洞见。
+
 * 2024.9.21 北京 ，[《unbundling、全球化与开源》](https://1drv.ms/p/c/db5a2447fe9336b8/Ebg2k_5HJFoggNtZgwAAAAABRxWVyoz8UhgCbub48FKfTQ?e=4OcBCm)
 * 杭州 ，[《创新在别处：开源作为企业战略》](https://1drv.ms/p/c/db5a2447fe9336b8/Ebg2k_5HJFoggNu_gwAAAAABjRCWy7QjO3IvaFgxE93Ohg)
 * 广州，[《开源与经济增长：技术、组织、与法律的演进》](https://1drv.ms/p/c/db5a2447fe9336b8/Ebg2k_5HJFoggNvbgwAAAAABcCPf0HGeBBUwaqoUVi__tg?e=cXmKW9)
@@ -163,6 +166,8 @@ authors:
 ![](/images/osw-2024-report/kcc-2024-kuosi.jpg)
 
 #### 其它分享和演讲
+
+相比于以往，大众对于开源的关注，已经不再是简单的技术代码了，而是有了进一步了解其运作原理的诉求，故适兕还是有机会阐释和宣讲开源背后的运行逻辑：
 
 * 和北大计算机学院学生分享：[开源之悟：通过开源探索和理解世界](https://1drv.ms/p/c/db5a2447fe9336b8/EXdYhSrXwFBNnwCZKGOi5nYBx2xkfzYJOritFLAAnMz-fQ)
 * 电子科技大学交流分享：[真相：被传言掩盖的开源故事](https://1drv.ms/p/c/db5a2447fe9336b8/EU62DJuz1bVAnv1LbK5k2woBBCiUZ-p_bnpbU9wMUQhl3g)
@@ -190,18 +195,12 @@ authors:
 
 专门的总结和展望，已经记录在[LFAPAC OSPO SIG 2024 年报告及 2025 年规划](https://mp.weixin.qq.com/s/voz50MpQwE1KGDi1Kg-x7A)，作为本地的一个 OSPO 兴趣小组，有无限可能。
 
-#### 「开源之商」
-
-潮水过后，才能知道谁在裸泳，这个小组今年明显落魄，不仅有一部分人退了群，而且也没有什么真正意义上的商业模式等探讨，这其实就是隐忍的来源，人们都是在一个有天花板的情况下探讨问题的，也就是说绝大多数人是在承认copyright的无比正确的情况下来试图通过开源来投机取巧一下，并不承认开源之法的正常性和合理性。我个人的兴趣也转移到希望探究更多商业的基础方面的内容，这个小组就慢慢地成了闲聊的地方。
-
 #### 「开源之法与经济」
 
 在和人们聊了很久的商业之后，发现了一个根本上的差异，那就是开源的核心根本是和闭源专有，有着本质上的不同的，开源的法律是其经济的基础，也是其商业的基础，所以成立这个小组。除了日常的微信群探讨之外，也举办了几次 Meetup：
 
 * 2024.3.9 中关村创业大街 Talk with Andrew Katz and Stephen Pollard
 * 2024.5.25  上海大成律师事务所 开源的法经济分析
-
-
 
 #### 「开源之道」对话
 
@@ -226,19 +225,20 @@ OpenChain 的一系列最佳实践，是非常值得学习和实践的内容。�
 
 ![](/images/osw-2024-report/2024-award-lijiansheng.png)
 
-
 ## 2025年 计划
+
+
+### 寻求赞助合作
 
 2025 年注定是艰难的一年，当然，对于适兕来说，未必是最艰难的一年，但仍然是充满希望的一年，也就是说必须挺过这一年，要能赚到一家人的生活必需。
 
 换句话说，适兕需要大家的帮助，获得生活的基本需求。需要大家的赞助，适兕提供相应的服务作为回报：
 
-* 开源经济学系列宣讲
+* 开源经济学系列[宣讲](/posts/open-source-economic/12-lectures-of-open-source/)
 * 「开源之书」·甄选
 * OSPO 战略规划和实践
 * 一对一观念思想咨询
-* 组织开源战略案例讲解系列宣讲
-
+* 商业公司开源战略案例讲解系列宣讲
 
 那么下面的每件事都可以多做点。
 
@@ -261,17 +261,19 @@ OpenChain 的一系列最佳实践，是非常值得学习和实践的内容。�
 
 限于能力和圈子，拓展这个领域确实困难重重，首先遇到的难题是学习法律科班出身的，大多没有商业上的增值观念，多数是防守保护，以一个对抗的姿态出现的，这意味着需要拓展知识财产法的经济分析和商业战略人才，然后才能有对应的内容，以及相关的研讨，进而去推动现实。
 
-2025，物色几位对这方面感兴趣的朋友～ 尽管现代的数字世界是由知识财产相关的律师们塑造的，但是，相对开放的律师人才却是凤毛麟角。
+2025，希望能遇到几位对这方面感兴趣的朋友～ 尽管现代的数字世界是由知识财产相关的律师们塑造的，但是，相对开放的律师人才却是凤毛麟角。
 
 ### LFAPAC OSPO SIG
 
 维持日常～ 挖掘企业、高校、政府等组织的真实需求，尤其是对开源的认知，然后才会有可能推动组织拥抱开源。这将是个漫长的过程。
 
+更多具体的细节，见[LFAPAC OSPO SIG 2024 年报告及 2025 年规划](https://mp.weixin.qq.com/s/voz50MpQwE1KGDi1Kg-x7A)。
+
 ### LFAPAC 开源布道者 Meetup 
 
 2024年的 LFAPAC 开源布道者团队里的一名成员：Fine，对我说了句话：“没有人帮助我，我不知道干什么。” 刺激到了我，我深感自责，其实有很多事情需要去做，也就是说有一些年轻的布道者是需要引领和指导的。
 
-2025年，我希望能够将[开源布道者系列](https://opensourceway.community/posts/lfapac-evangelist-sharing/all-articles-index/)落实到具体的线下聚会上。
+2025年，我希望能够将[开源布道者系列](https://opensourceway.community/posts/lfapac-evangelist-sharing/all-articles-index/)落实到具体的线下聚会上。而不是在年终听到有人抱怨说，没有人帮助他们。
 
 ### 「开源之道」对话
 
@@ -280,6 +282,7 @@ OpenChain 的一系列最佳实践，是非常值得学习和实践的内容。�
 ### 「开源之道」研讨会
 
 整个的中国经济正在转型中，从制造到服务，提升服务是下一个时代的关键词，其中开源的文化和理念，恰恰契合了这个时代，无论是开放式的厨房、还是透明式的超市经营，都在往诚信、文明、互惠的方向上转变，「开源之道」也不应该停留在软件行业，而是要提升跃迁，拓展到更多的领域。
+
 
 ## 参考资料
 
