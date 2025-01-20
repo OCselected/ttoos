@@ -286,6 +286,10 @@ OpenChain 的一系列最佳实践，是非常值得学习和实践的内容。�
 
 整个的中国经济正在转型中，从制造到服务，提升服务是下一个时代的关键词，其中开源的文化和理念，恰恰契合了这个时代，无论是开放式的厨房、还是透明式的超市经营，都在往诚信、文明、互惠的方向上转变，「开源之道」也不应该停留在软件行业，而是要提升跃迁，拓展到更多的领域。
 
+### 翻译《培育开源文化》一书
+
+来自 Intel 的  Arun Gupta 去年写了一本书：《Fostering Open Source Culture: Increase Innovation and Deliver Faster with Open Source》[5]， 这本书对于本土来说实在是太重要了，开源在本土的发展遇到的最大障碍就是文化，而文化的变革，是需要显式的推动和理性的思考、以及不断的提醒才有望成功。对于OSPO的建设和推动，过去20年的IT公司案例是多么的宝贵。适兕希望通过本书的翻译为倡导和推动OSPO迈出微小的一步。
+
 
 ## 参考资料
 
@@ -293,6 +297,7 @@ OpenChain 的一系列最佳实践，是非常值得学习和实践的内容。�
 2. https://www.benkler.org/
 3. https://kaiyuanshe.cn/ 
 4. https://ospo.events/
+5. https://www.amazon.com/Fostering-Open-Source-Culture-Innovation-ebook
 
 ## 关于作者
 
