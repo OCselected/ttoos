@@ -43,4 +43,6 @@ translater:
 8. 这些论点在秘鲁代表Villanueva Nunez和微软在该国的代表之间的公开信件交流中被最清晰、最早地阐述出来。这次交流可以在开源倡议（OSI）的网站找到。http://www.opensource.org/docs/peru_and_ms.php
 9. 关于教育剥夺程度和细节的一项优秀的区域研究是马哈布·乌尔·哈克和卡迪加·乌尔·哈克所著的《1998年南亚人类发展：教育挑战》（巴基斯坦伊斯兰堡：人类发展中心出版）。
 10. Robert Evenson 和 D. Gollin 编，《作物品种改良及其对生产力的影响：国际农业研究的影响》（纽约：CABI Pub.，2002 年）；结果总结于 Robert Evenson 和 D. Gollin 的《评估 1960-2000 年绿色革命的影响》，《科学》300（2003 年 5 月）：758-762。
-11. 
+11. Jack R. Kloppenburg, Jr.，《种子第一：1492-2000年植物生物技术的政治经济学》（剑桥和纽约：剑桥大学出版社，1988 年），表 2.2。
+12. USDA National Agriculture Statistics Survey (2004), http://www.usda.gov/nass/aggraphs/fncht3.htm .
+13. 
