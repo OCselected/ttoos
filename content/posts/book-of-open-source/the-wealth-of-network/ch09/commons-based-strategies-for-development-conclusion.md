@@ -45,4 +45,6 @@ translater:
 10. Robert Evenson 和 D. Gollin 编，《作物品种改良及其对生产力的影响：国际农业研究的影响》（纽约：CABI Pub.，2002 年）；结果总结于 Robert Evenson 和 D. Gollin 的《评估 1960-2000 年绿色革命的影响》，《科学》300（2003 年 5 月）：758-762。
 11. Jack R. Kloppenburg, Jr.，《种子第一：1492-2000年植物生物技术的政治经济学》（剑桥和纽约：剑桥大学出版社，1988 年），表 2.2。
 12. USDA National Agriculture Statistics Survey (2004), http://www.usda.gov/nass/aggraphs/fncht3.htm .
-13. 
+13. 转基因科学审查小组第一份报告，《基于公众利益和关注对转基因作物和食品相关科学的公开审查》，英国，2003 年 7 月。
+14. Robert E. Evenson，《转基因生物：发展中国家生产力提高的前景》，《农业与食品工业组织杂志》2（2004 年）：第 2 篇文章。
+15. 
