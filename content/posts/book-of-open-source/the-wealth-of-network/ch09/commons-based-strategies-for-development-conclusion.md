@@ -47,4 +47,9 @@ translater:
 12. USDA National Agriculture Statistics Survey (2004), http://www.usda.gov/nass/aggraphs/fncht3.htm .
 13. 转基因科学审查小组第一份报告，《基于公众利益和关注对转基因作物和食品相关科学的公开审查》，英国，2003 年 7 月。
 14. Robert E. Evenson，《转基因生物：发展中国家生产力提高的前景》，《农业与食品工业组织杂志》2（2004 年）：第 2 篇文章。
-15. 
+15. Elliot Marshall, "A Deal for the Rice Genome," Science 296 (April 2002): 34.
+16. Jikun Huang et al., "Plant Biotechnology in China," Science 295 (2002): 674.
+17. Huang et al., "Plant Biotechnology."
+18. Richard Atkinson et al., "Public Sector Collaboration for Agricultural IP Management," Science 301 (2003): 174.
+19. 
+
