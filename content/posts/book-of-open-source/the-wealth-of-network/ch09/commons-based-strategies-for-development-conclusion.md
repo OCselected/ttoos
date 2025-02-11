@@ -51,5 +51,6 @@ translater:
 16. Jikun Huang et al., "Plant Biotechnology in China," Science 295 (2002): 674.
 17. Huang et al., "Plant Biotechnology."
 18. Richard Atkinson et al., "Public Sector Collaboration for Agricultural IP Management," Science 301 (2003): 174.
-19. 
+19. 该表格是 Yochai Benkler 在《基于公共资源的战略和专利问题》一文中发表的表格的略微扩展版本，Science 305（2004）：1110。
+20. Wim Broothaertz et al., "Gene Transfer to Plants by Diverse Species of Bacteria," Nature 433 (2005): 629.
 
