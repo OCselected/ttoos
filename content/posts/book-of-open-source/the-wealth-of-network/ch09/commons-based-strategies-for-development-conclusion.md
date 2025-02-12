@@ -53,4 +53,6 @@ translater:
 18. Richard Atkinson et al., "Public Sector Collaboration for Agricultural IP Management," Science 301 (2003): 174.
 19. 该表格是 Yochai Benkler 在《基于公共资源的战略和专利问题》一文中发表的表格的略微扩展版本，Science 305（2004）：1110。
 20. Wim Broothaertz et al., "Gene Transfer to Plants by Diverse Species of Bacteria," Nature 433 (2005): 629.
+21. 本段中的这些数字和其他数字取自 2004 年世界卫生组织世界卫生报告附件表 2。
+22. 
 
