@@ -39,20 +39,65 @@ authors:
 
 ## 从微软收购GitHub说起
 
+2018年，微软花了75亿美金收购一直以来都在亏损的GitHub，即使是当年的HBR也仅仅说微软是战略投资[4]，并没有预料到 GitHub Copilot 的发布，距离微软收购GitHub 三年之后，2021年，作为开发者的代码检索工具上线，不过当OpenAI 发布GPT-3之后，微软就接入了此大模型，从此Copilot [5]飞跃式发展，因为有了巨大的代码仓库可以让大模型进行训练，到今天，该项目已经可以完成大部分的编码工作。
 
+无论微软是否遇见到大模型时代的到来，就像当年人们并不明白搜索引擎的行为数据会成为搜索成为了数字垄断的霸主一样，或许代码仅仅是僵硬的对大多数人150Gigabytes 的数据没有任何意义，但是它却让工程师的效率更高了。当然，也让大多数复制粘贴式的开发者失去了劳动意义。尽管像很多事情一样，在法律许可上有一些争端[6]，但是并不能阻挠他们的发展。
+
+用时候诸葛亮的角度解释微软收购是不道德的，但是即使是从战略上讲，微软当年的推理也不仅仅是一个代码托管平台，它看重的是人才市场，就像它花更高的钱收购linkedin那样。毕竟，得人才者得天下。
 
 ## GitHub 不仅仅是代码托管平台
 
+人们往往是矛盾的，一方面肆意的破坏GitHub 的Star作用，另一方面在哪里搜寻对自己有用的代码，可是忘记了GitHub 是Web2.0时代的产品，基于社交属性是明线，真正的暗线是fork、PR组成的基于开源项目的网络[7]，换句话说，这是一个计算机相关的人才网络，同时也是一个巨大的市场，当然对于GitHub本身来说它更是一个平台：一个围绕源代码的协作平台。
+
+
+![](https://user-images.githubusercontent.com/32434520/220118178-42017202-53a3-40ac-9f6c-96e83f4843ac.gif)
+
+它通过多种机制，有效地连接和促进人与人之间的交流：
+
+* 代码仓库： 知识的开放共享平台: GitHub 上的代码仓库，就像一个个开放的知识库，任何人都可以 浏览、学习、借鉴 他人的代码，获取最新的技术信息和最佳实践。 这种开放透明的环境，打破了知识垄断，加速了知识的传播和扩散，为创新提供了肥沃的土壤。 创新理论中的 知识溢出效应 (Knowledge Spillover) 在这里得到了充分体现。
+* Issues： 问题的协同解决空间: GitHub 的 Issues 功能，提供了一个开放的问题讨论和协同解决平台。 用户可以提交 bug 报告、Feature Request、或者提出任何疑问，项目维护者和社区成员可以共同参与讨论、提供解决方案、协作修复问题。 这种 开放透明的问题解决机制，能够集思广益，加速问题解决，并从中产生新的思路和改进方向，推动创新。
+* Pull Requests： 代码贡献与协作的桥梁: Pull Requests (PRs) 是 GitHub 上代码贡献和协作的核心机制。 当开发者想要为项目贡献代码时，需要提交 PR，请求项目维护者将自己的代码合并到主分支。 PR 机制不仅方便了代码贡献，更重要的是，它 搭建了一个代码审查和知识交流的平台
+* Code Review： 知识的深度交流与技能提升: 项目维护者会对 PR 代码进行 Code Review (代码审查)， 检查代码质量、逻辑、风格，并提出修改意见。 Code Review 不仅仅是代码质量控制的手段，更是一种 宝贵的学习和交流机会。 贡献者可以从 Code Review 中学习到更规范的编码技巧、更深入的项目知识、以及更优秀的软件设计思想。 维护者也可以通过 Code Review 传播项目文化、指导社区贡献、提升整体代码质量。 这种 深度、互动、高质量的知识交流，是创新的重要催化剂。
+* Discussions： 更自由、更广泛的交流空间: GitHub Discussions 功能，提供了一个更自由、更开放的交流平台，用户可以在这里发起各种话题讨论，例如技术选型、项目规划、社区发展、甚至行业趋势等等。 Discussions 突破了 Issues 的 “问题解决” 局限， 为更广泛的 灵感碰撞、 思想交流、 社区共建 提供了空间。
+* Community Features： 社区连接与文化塑造的工具: GitHub 还提供了各种社区功能，例如 Projects (项目看板), Wiki (项目文档), Releases (版本发布), Stars (点赞), Followers (关注者) 等等， 这些功能不仅方便了项目管理和信息传播， 更重要的是， 它们 促进了社区成员之间的连接， 塑造了开源社区独特的文化氛围。 一个活跃、开放、友好的社区，本身就是创新的沃土。
+
+GitHub 不仅仅是一个代码托管平台，更是一个 连接全球开发者、激发创新灵感的强大引擎。 它改变了软件开发的模式，加速了技术进步的速度，也深刻地影响着我们的生活。
+
 ## GitHub 作为交流的市场，创新加速器
 
+GitHub：可谓是开源世界的创新引擎。想象一下，创新就像火花，需要碰撞才能迸发。而 GitHub，正是这样一个让全球开发者 “碰撞” 的平台。  创新理论告诉我们，人与人之间的连接和交流，是灵感的重要来源。  GitHub 就如同一个巨大的线上咖啡馆，汇聚了来自世界各地的程序员、设计师、研究者，甚至各行各业的爱好者。想象一下，创新就像火花，需要碰撞才能迸发。而 GitHub，正是这样一个让全球开发者 “碰撞” 的平台。  创新理论告诉我们，人与人之间的连接和交流，是灵感的重要来源。  GitHub 就如同一个巨大的线上咖啡馆，汇聚了来自世界各地的程序员、设计师、研究者，甚至各行各业的爱好者。GitHub 就是灵感碰撞之地：连接激发创新。
 
+从创新理论的角度来看，GitHub 完美地印证了以下几点：
 
+* 知识溢出效应： GitHub 的开放性让知识自由流动，促进了 知识溢出效应，激发更多创新。
+* 组合创新： 海量的开源项目就像一个个 创新积木，开发者可以轻松组合复用，加速 组合创新。
+* 开放式创新： GitHub 支持 开放式创新，任何人都可以参与贡献，集众人之智，降低创新风险。
+* 网络效应： GitHub 用户越多，平台价值越大，形成 网络效应，进一步放大创新促进作用。
+* 用户主导创新： GitHub 让普通用户也能参与软件开发，实现 用户主导的创新，更好地满足个性化需求。
+
+## DeepSeek 仍然以 GitHub 为主战场
+
+在2025年2月21日中午12点，DeepSeek 在X社交平台上发布了如下内容[]：
+
+> Day 0: Warming up for #OpenSourceWeek!
+> We're a tiny team @deepseek ai exploring AGl. Startingnext week, we'll be open-sourcing 5 repos, sharing oursmall but sincere progress with full
+transparency
+> These humble building blocks in our online service havebeen documented, deployed and battle-tested inproduction.
+> As part of the open-source community, we believe thatevery line shared becomes collective momentum thataccelerates the journey.
+> Daily unlocks are coming soon. No ivory towers -just puregarage-energyand community-driven innovation.
+
+从 DeepSeek 的代码仓库来看，它仅仅利用了GitHub 平台众多功能中的一种，它仍然是孤岛项目（尽管它使用的英语），并没有和它所构建的项目形成网络，也很少接受外部的PR，issue 的数量也极少。提交次数更像是从内部切出来的分支，寥寥的几笔而已。即使是这样，DeepSeek 仍然以GitHub 为主要的承载，无论是吸引眼球还是炫技，GitHub 都是胜任的。
 
 ## 参考资料
 
 1. https://github.com/deepseek-ai
 2. https://www.theregister.com/2021/09/06/github_merges_useless_garbage_says/
 3. DeepSeek 全球渗透报告，GitHub 数据惊现东方崛起！ https://mp.weixin.qq.com/s/ptp47zJGea1zZcgr-_lz4A
+4. https://hbr.org/2018/06/why-microsoft-is-willing-to-pay-so-much-for-github
+5. https://en.wikipedia.org/wiki/GitHub_Copilot
+6. https://sfconservancy.org/blog/2022/feb/03/github-copilot-copyleft-gpl/
+7. https://github.com/X-lab2017/open-galaxy?tab=readme-ov-file
+8. https://x.com/deepseek_ai/status/1892786555494019098 
 
 ## 关于作者
 
@@ -62,4 +107,4 @@ authors:
 
 ### 「开源之道」·窄廊
 
-![](/public/zhailang.jpg) 来自于大语言模型的 Chat，如DeepSeek R1、Gemini 2.0 Flash thinking expermental、ChatGPT 4o、甚至整合类应用 Monica等， 「开源之道」·窄廊 负责对话、提出问题、对回答进行反馈等操作。
+![](/public/zhailang.jpg) 来自于大语言模型的 Chat，如DeepSeek R1、Gemini 2.0 Flash thinking expermental、ChatGPT 4o、Grok3、甚至整合类应用 Monica等， 「开源之道」·窄廊 负责对话、提出问题、对回答进行反馈等操作。
