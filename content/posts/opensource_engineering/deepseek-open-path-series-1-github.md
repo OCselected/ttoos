@@ -45,9 +45,21 @@ authors:
 
 用时候诸葛亮的角度解释微软收购是不道德的，但是即使是从战略上讲，微软当年的推理也不仅仅是一个代码托管平台，它看重的是人才市场，就像它花更高的钱收购linkedin那样。毕竟，得人才者得天下。
 
+即使我们不用大模型时代的数据集训练的思路来考虑问题，我们回到搜索、社交媒体时代的分析数据行为也是可以洞悉这一行为的，作为全球的开源代码托管地带，除了代码本身之外，在GitHub网站上的动作有：star、fork、follow、watch、issue、pr、explore、action、page等等，当有1.5个亿的人做这些事的时候，它一定蕴藏着无穷的价值。
+
+在《监控资本主义时代》[7]一书中，作者以如下一图做了最为精辟的总结：
+
+![](/images/data-as-cpatial.png)
+
+作者以Google 为例进行了说明：
+
+> “簡言之，在谷歌發展初期，搜尋引擎使用者無意間提供谷歌的珍貴數據，都被拿來提升服務品質並全然回饋給使用者。在這種再投資循環中，為了提供使用者優異的搜尋結果，搜尋引擎必須「消耗」使用者創造的價值，而這些價值則是來自使用者提供的額外行為數據。使用者需要搜尋引擎，搜尋引擎也仰賴使用者，此一現象使谷歌與使用者之間達成完美的力量平衡。群眾被視為目的本身，也是非市場獨立循環中之主體，這個概念跟谷歌主張的宗旨完美吻合：「匯整全球資訊，供大眾使用，使人人受惠。”
+
+这句话，照葫芦画瓢形容 GitHub 也是成立的，当我们免费使用GitHub所有功能时候，自己也是数据的生产者。
+
 ## GitHub 不仅仅是代码托管平台
 
-人们往往是矛盾的，一方面肆意的破坏GitHub 的Star作用，另一方面在哪里搜寻对自己有用的代码，可是忘记了GitHub 是Web2.0时代的产品，基于社交属性是明线，真正的暗线是fork、PR组成的基于开源项目的网络[7]，换句话说，这是一个计算机相关的人才网络，同时也是一个巨大的市场，当然对于GitHub本身来说它更是一个平台：一个围绕源代码的协作平台。
+人们往往是矛盾的，一方面肆意的破坏GitHub 的Star作用，另一方面在哪里搜寻对自己有用的代码，可是忘记了GitHub 是Web2.0时代的产品，基于社交属性是明线，真正的暗线是fork、PR组成的基于开源项目的网络[8]，换句话说，这是一个计算机相关的人才网络，同时也是一个巨大的市场，当然对于GitHub本身来说它更是一个平台：一个围绕源代码的协作平台。
 
 
 ![](https://user-images.githubusercontent.com/32434520/220118178-42017202-53a3-40ac-9f6c-96e83f4843ac.gif)
@@ -88,6 +100,8 @@ transparency
 
 从 DeepSeek 的代码仓库来看，它仅仅利用了GitHub 平台众多功能中的一种，它仍然是孤岛项目（尽管它使用的英语），并没有和它所构建的项目形成网络，也很少接受外部的PR，issue 的数量也极少。提交次数更像是从内部切出来的分支，寥寥的几笔而已。即使是这样，DeepSeek 仍然以GitHub 为主要的承载，无论是吸引眼球还是炫技，GitHub 都是胜任的。
 
+**DeepSeek走开放这条路，GitHub 并不能满足所有，这里只是一部分的代码，训练后的模型还需要其它的平台来实现，下一篇文章，我们就来介绍一下Hugging Face这个平台。**
+
 ## 参考资料
 
 1. https://github.com/deepseek-ai
@@ -96,8 +110,9 @@ transparency
 4. https://hbr.org/2018/06/why-microsoft-is-willing-to-pay-so-much-for-github
 5. https://en.wikipedia.org/wiki/GitHub_Copilot
 6. https://sfconservancy.org/blog/2022/feb/03/github-copilot-copyleft-gpl/
-7. https://github.com/X-lab2017/open-galaxy?tab=readme-ov-file
-8. https://x.com/deepseek_ai/status/1892786555494019098 
+7. 《監控資本主義時代》， 肖莎娜．祖博夫（Shoshana Zuboff），时报出版，2020.7.24
+8. https://github.com/X-lab2017/open-galaxy?tab=readme-ov-file
+9. https://x.com/deepseek_ai/status/1892786555494019098 
 
 ## 关于作者
 
