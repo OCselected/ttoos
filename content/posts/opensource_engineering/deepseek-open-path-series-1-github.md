@@ -25,7 +25,10 @@ authors:
 
 上期内容回顾：[非官方观察：DeepSeek 的开放之路系列之一：arXiv](/posts/opensource_engineering/deepseek-open-path-series-0/)
 
-这次我们依然是从DeepSeek 官网上的“研究”一栏为出发点，这也是 DeepSeek 对外发布的入口处[1]，相对于其发布的研究项，代码仓库也不多，仅16个仓库，整体而言，这并非是一个非常活跃的组织和仓库，提交次数也屈指可数。用Git的创始人描述github，可能是比较贴合DeepSeek使用GitHub的：
+这次我们依然是从DeepSeek 官网上的“研究”一栏为出发点，这也是 DeepSeek 对外发布的入口处[1]，相对于其发布的研究项，代码仓库也不多，仅16个仓库，整体而言，这并非是一个非常活跃的组织和仓库，提交次数也屈指可数。当然，如果是深究起来的话，这里几乎没有代码，要么是论文的入口，要么是大模型的下载链接，GitHub 作为全球开发者的聚集之地，没有代码照样能引起瞩目。
+
+
+用Git的创始人描述github，可能是比较贴合 DeepSeek 使用GitHub的：
 
 > "Git comes with a nice pull-request generation module, but GitHub instead decided to replace it with their own totally inferior version. As a result, I consider GitHub useless for these kinds of things. It's fine for hosting, but the pull requests and the online commit editing, are just pure garbage."[2]
 
@@ -89,7 +92,7 @@ GitHub：可谓是开源世界的创新引擎。想象一下，创新就像火�
 
 ## DeepSeek 仍然以 GitHub 为主战场
 
-在2025年2月21日中午12点，DeepSeek 在X社交平台上发布了如下内容[]：
+在2025年2月21日中午12点，DeepSeek 在X社交平台上发布了如下内容[9]：
 
 > Day 0: Warming up for #OpenSourceWeek!
 > We're a tiny team @deepseek ai exploring AGl. Startingnext week, we'll be open-sourcing 5 repos, sharing oursmall but sincere progress with full
