@@ -34,7 +34,6 @@ DeepSeek 所生产的东西不是软件，尽管它是构建在软件之上的�
 2. 从Hugging face上下载到它的模型，将模型作为服务运行起来；
 
 
-
 # 训练模型环境
 
 环境和能力所限，笔者并不能也没有条件，复现一个所有的过程，从其发表的论文、GitHub发布的仓库[1]中的代码、Hugging Face 发布的模型，以及安装需求等来**推测**其所使用的开源项目。
@@ -93,7 +92,17 @@ Linux 的成功源于其开源模式带来的社区力量和创新活力，以�
 
 # 数据集
 
+大语言模型的训练需要海量的数据。  DeepSeek 可能会使用以下类型的开源数据集：
 
+* Common Crawl[5]: Common Crawl 是一个巨大的网络文本数据集，包含了来自互联网的大量网页内容。 它是训练很多大型语言模型的基石数据集之一。
+* Wikipedia (维基百科)[6]: 维基百科是一个高质量的知识库，常被用于语言模型的训练，以提升模型的知识性和事实性。
+* 来自 Hugging Face Datasets Hub 的数据集[7]: Hugging Face Datasets Hub 上托管了大量的开源数据集，涵盖各种 NLP 任务和数据类型。
+
+Hugging Face Datasets Hub 是一个极其宝贵的资源，它汇集了海量、多样化、高质量的开源数据集，覆盖了机器学习的多个领域和任务。其数据集来源广泛，内容丰富，并提供了便捷的数据访问和处理工具。无论是学术研究人员还是工业界开发者，都可以从 Datasets Hub 中找到所需的数据资源，加速其机器学习项目的开发和迭代。Hugging Face Datasets Hub极大地 促进了数据共享，降低了数据获取的门槛，推动了整个机器学习领域的进步和繁荣。
+
+## 小结
+
+向上游出发，是开源的一个重要的精神内核，理解 DeepSeek 背后所使用到的开源项目、开放数据集，以及开放科学等等是一个重要的背景，而这就是人类继承的力量，创新的力量。根本就没有所谓的横空出世，都是经过了大量的累积，然后才会在某个点上爆发，DeepSeek 恰好找到了一个，这是开源、开放的力量。
 
 ## 参考材料
 
@@ -101,7 +110,9 @@ Linux 的成功源于其开源模式带来的社区力量和创新活力，以�
 2. https://pytorch.org/
 3. https://github.com/vllm-project/vllm?tab=readme-ov-file
 4. https://github.com/sgl-project/sglang
-5. 
+5. https://commoncrawl.org/
+6. https://www.wikipedia.org/
+7. https://huggingface.co/datasets
 
 ## 关于作者
 
