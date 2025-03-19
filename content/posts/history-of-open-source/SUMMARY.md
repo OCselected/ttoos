@@ -24,6 +24,8 @@ authors:
 
 一部为了准备《开源之道》素材使用的个人资料收集。
 
+* [回顾：已有的开源历史书籍和论文](posts/history-of-open-source/00-review-of-os-history-book-and-pape/)
+
 ## 第一部分：该如何理解历史
 
 * [该如何思考开源的历史？](posts/history-of-open-source/00-how-to-think-in-history-view/)
@@ -83,13 +85,14 @@ authors:
 ## 第八部分：软件的核心力量——开源下的协作演变
 
 * [协作的演化——从原子个体到全球开放协作](posts/history-of-open-source/06-the-evolution-of-open-collaboration/)
+* [](/posts/history-of-open-source/06-00-hacker-culture-and-origin-collabration/)
 * [电子邮件的诞生与发展——程序协作的可能性](posts/history-of-open-source/06-01-email-born-and-build-connection/)
 * [从文本差异补丁到分布式版本控制](posts/history-of-open-source/06-02-from-patch-to-git-vcs-evolved/)
 
 ## 第九部分：集体行动的保障与逻辑——开源机构与组织
 
 * [开源的治理之道——非营利组织与解决难题](posts/history-of-open-source/07-os-organzition-and-governance/)
-* []()
+* [](posts/history-of-open-source/07-000-free-software-foundation-introduction.md)
 * [OSI 的缔造和历史地位](posts/history-of-open-source/07-008-birth-of-osi)
 * [推动 GNU/Linux —— 企业联盟式的非营利基金会LF的诞生与发展](posts/history-of-open-source/07-01-the-rise-of-linux-foundataion/)
 * [Apache 软件基金会的诞生与崛起](posts/history-of-open-source/07-009-apache-foundation-born/)
