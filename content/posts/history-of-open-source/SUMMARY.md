@@ -85,14 +85,14 @@ authors:
 ## 第八部分：软件的核心力量——开源下的协作演变
 
 * [协作的演化——从原子个体到全球开放协作](posts/history-of-open-source/06-the-evolution-of-open-collaboration/)
-* [](/posts/history-of-open-source/06-00-hacker-culture-and-origin-collabration/)
+* [早期编码的中的协作](/posts/history-of-open-source/06-00-hacker-culture-and-origin-collabration/)
 * [电子邮件的诞生与发展——程序协作的可能性](posts/history-of-open-source/06-01-email-born-and-build-connection/)
 * [从文本差异补丁到分布式版本控制](posts/history-of-open-source/06-02-from-patch-to-git-vcs-evolved/)
 
 ## 第九部分：集体行动的保障与逻辑——开源机构与组织
 
 * [开源的治理之道——非营利组织与解决难题](posts/history-of-open-source/07-os-organzition-and-governance/)
-* [](posts/history-of-open-source/07-000-free-software-foundation-introduction.md)
+* [自由软件基金会的出现及其深远影响](posts/history-of-open-source/07-000-free-software-foundation-introduction.md)
 * [OSI 的缔造和历史地位](posts/history-of-open-source/07-008-birth-of-osi)
 * [推动 GNU/Linux —— 企业联盟式的非营利基金会LF的诞生与发展](posts/history-of-open-source/07-01-the-rise-of-linux-foundataion/)
 * [Apache 软件基金会的诞生与崛起](posts/history-of-open-source/07-009-apache-foundation-born/)
@@ -100,4 +100,4 @@ authors:
 
 ## 关于作者
 
-![](/public/kuosi-face-of-os.png)「发现开源三部曲」（[《开源之迷》](posts/book-of-open-source/the-fascinating-of-open-source/)已出版，《开源之道》《开源之思》撰写中。）作者，「开源之道：致力于开源相关思想、知识和价值的探究、推动」主创，Linux基金会亚太区开源布道者（2022年度团队主席），云计算产业联盟（中国信息通信研究院发起)个人开源专家，Apache 本地共同体北京成员，CCF 开源技术丛书编委会委员 。
+![](/public/kuosi-face-of-os.png)「发现开源三部曲」（[《开源之迷》](posts/book-of-open-source/the-fascinating-of-open-source/)已出版，《开源之道》《开源之思》《开源之商》撰写中。）作者，「开源之道：致力于开源相关思想、知识和价值的探究、推动」主创。
