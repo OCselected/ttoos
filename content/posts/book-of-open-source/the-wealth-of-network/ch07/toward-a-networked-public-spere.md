@@ -32,4 +32,4 @@ translater:
 7. 爱德华·沃尔什，《选举日将成为投票过程的考验》，《华盛顿邮报》，2002 年 11 月 4 日，A1 版。
 8. 华盛顿邮报，2002 年 12 月 12 日。
 9. Online Policy Group v. Diebold, Inc., 337 F. Supp. 2d 1195 (2004).
-10. 
+10. 加州州务卿投票系统小组会议纪要，2003 年 11 月 3 日， http://www.ss.ca.gov/elections/vsp_min_110303.pdf 
