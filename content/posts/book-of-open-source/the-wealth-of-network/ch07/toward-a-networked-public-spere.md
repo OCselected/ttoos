@@ -33,3 +33,5 @@ translater:
 8. 华盛顿邮报，2002 年 12 月 12 日。
 9. Online Policy Group v. Diebold, Inc., 337 F. Supp. 2d 1195 (2004).
 10. 加州州务卿投票系统小组会议纪要，2003 年 11 月 3 日， http://www.ss.ca.gov/elections/vsp_min_110303.pdf 
+11. Eli Noam，《互联网会损害民主吗？》（2001 年 11 月） http://www.citi.columbia.edu/elinoam/articles/int_bad_dem.htm 
+12. 
