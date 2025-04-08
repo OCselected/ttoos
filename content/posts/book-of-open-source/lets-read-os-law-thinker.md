@@ -81,6 +81,26 @@ authors:
 *  《说话算数：技术、法律以及娱乐的未来》，上海三联书店，2013-1
 *  “Theories of Intellectual Property,” in Stephen Munzer, ed., New Essays in the Legal and Political Theory of Property (Cambridge University Press, 2001) 《中文翻译：知识产权理论》[http://cyber.law.harvard.edu/people/tfisher/iptheorychinese.pdf](http://cyber.law.harvard.edu/people/tfisher/iptheorychinese.pdf)
   
+## Jessica Litman[7]
+
+是一位专注于版权法的学者，她的工作强调版权法的公共利益维度，并对版权的过度扩张提出了质疑。她认为版权法应该在激励创作和促进公众获取之间取得平衡。她被评为美国知识产权/网络法领域被引用次数最多的法学教授之一。
+
+### 推荐作品
+
+* 《Digital Copyright：Protecting Intellectual Property on the Internet 》， Maize Books，April 2017
+
+## Pamela Samuelson [8]
+
+被公认为数字版权法、知识产权、网络法和信息政策领域的先驱。
+
+知识产权法领域的权威学者，尤其关注数字版权、软件保护以及法律如何适应新技术。她对版权法的局限性以及在数字环境中促进创新和获取的必要性进行了深入研究。
+
+### 推荐作品
+
+* The Uneasy Case for Software Copyrights Revisited,79 Geo. Wash. L. Rev. 1746 (2010) 
+* IBM's Pragmatic Embrace of Open Source,49 Comm. ACM 15 (2006) 
+* Book Review - Is Open-Source Software the Answer? 28 Issues Sci. & Tech. 92 (2012)
+
 
 ## 参考资料
 
@@ -90,6 +110,8 @@ authors:
 4. https://en.wikipedia.org/wiki/Yochai_Benkler
 5. https://en.wikipedia.org/wiki/James_Boyle_(legal_scholar)
 6. https://en.wikipedia.org/wiki/William_W._Fisher
+7. https://en.wikipedia.org/wiki/Jessica_Litman
+8. https://www.law.berkeley.edu/library/ir/faculty/?id=5476#tab_publications
 
 
 ## 关于作者
