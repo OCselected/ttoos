@@ -34,4 +34,6 @@ translater:
 9. Online Policy Group v. Diebold, Inc., 337 F. Supp. 2d 1195 (2004).
 10. 加州州务卿投票系统小组会议纪要，2003 年 11 月 3 日， http://www.ss.ca.gov/elections/vsp_min_110303.pdf 
 11. Eli Noam，《互联网会损害民主吗？》（2001 年 11 月） http://www.citi.columbia.edu/elinoam/articles/int_bad_dem.htm 
-12. 
+12. Eli Noam，《互联网仍然广阔、开放且具有竞争力吗？》论文，发表于 2003 年 9 月的电信政策研究会议，http://www.tprc.org/papers/2003/200/noam_TPRC2003.pdf
+13. 联邦通信委员会，《高速服务报告》，2003 年 12 月。
+14. 
