@@ -36,4 +36,8 @@ translater:
 11. Eli Noam，《互联网会损害民主吗？》（2001 年 11 月） http://www.citi.columbia.edu/elinoam/articles/int_bad_dem.htm 
 12. Eli Noam，《互联网仍然广阔、开放且具有竞争力吗？》论文，发表于 2003 年 9 月的电信政策研究会议，http://www.tprc.org/papers/2003/200/noam_TPRC2003.pdf
 13. 联邦通信委员会，《高速服务报告》，2003 年 12 月。
-14. 
+14. 请参阅 Eszter Hargittai 的《不断变化的网络格局：从自由竞争到商业把关》:http://www.eszter.com/research/pubs/hargittai-onlinelandscape.pdf
+15. Derek de Solla Price，“科学论文网络”，Science 149（1965）：510；Herbert Simon，“论一类倾斜分布函数”，Biometrica 42（1955）：425-440，转载自Herbert Simon的《人类的社会和理性模型：社会环境下人类理性行为的数学论文》（纽约：Garland，1957）。
+16. Albert-Lászio Barabási 和 Reka Albert，“随机网络中缩放的涌现”，《科学》286 (1999)：509。
+17. Bernardo Huberman 和 Lada Adamic，《万维网的增长动力》，《自然》401（1999）：131。
+18. Albert-Lászio Barabási，《链接：一切如何相互联系，以及它对商业、科学和日常生活的意义》（纽约：企鹅出版社，2003 年），56-57。一项未发表的定量研究特别指出，这种偏差在与美国各种热门政治议题（如堕胎、枪支管制或死刑）相关的政治网站上也存在。讨论这些问题的网站中，只有一小部分占据了链接的绝大部分。马修·欣德曼 (Matthew Hindman)、科斯塔斯·齐奥特西奥利克利斯 (Kostas Tsioutsiouliklis) 和朱迪·约翰逊 (Judy Johnson)，《‘谷歌统治’：少数几个高链接网站如何主宰网络政治》，2003 年 7 月 28 日,http://www.princeton.edu/~mhindman/googlearchy--hindman.pdf 。
