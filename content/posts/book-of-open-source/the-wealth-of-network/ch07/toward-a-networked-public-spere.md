@@ -41,3 +41,8 @@ translater:
 16. Albert-Lászio Barabási 和 Reka Albert，“随机网络中缩放的涌现”，《科学》286 (1999)：509。
 17. Bernardo Huberman 和 Lada Adamic，《万维网的增长动力》，《自然》401（1999）：131。
 18. Albert-Lászio Barabási，《链接：一切如何相互联系，以及它对商业、科学和日常生活的意义》（纽约：企鹅出版社，2003 年），56-57。一项未发表的定量研究特别指出，这种偏差在与美国各种热门政治议题（如堕胎、枪支管制或死刑）相关的政治网站上也存在。讨论这些问题的网站中，只有一小部分占据了链接的绝大部分。马修·欣德曼 (Matthew Hindman)、科斯塔斯·齐奥特西奥利克利斯 (Kostas Tsioutsiouliklis) 和朱迪·约翰逊 (Judy Johnson)，《‘谷歌统治’：少数几个高链接网站如何主宰网络政治》，2003 年 7 月 28 日,http://www.princeton.edu/~mhindman/googlearchy--hindman.pdf 。
+19. Lada Adamic 和 Bernardo Huberman，《万维网的幂律分布》，《科学》287（2000）：2115。
+20. Ravi Kumar 等人，“在网络上寻找新兴的网络社区”，WWW8/计算机网络 31，第 11-16 期（1999 年）：1481-1493。
+21. Gary W. Flake 等人，“网络社区的自组织与识别”，IEEE 计算机 35，第 3 期（2002 年）：66-71。另一篇在主题内显示出大量内部引用的论文是 Soumen Chakrabati 等人的“网络上广泛主题的结构”，WWW2002，夏威夷檀香山，2002 年 5 月 7-11 日。
+22. Lada Adamic 和 Natalie Glance，《政治博客圈与 2004 年大选：分裂的博客》，2005 年 3 月 1 日，http://www.blogpulse.com/papers/2005/AdamicGlanceBlogWWW.pdf
+23. M.E.J. Newman，《复杂网络的结构和功能》，《工业与应用数学评论学会》45，第 4.2.2 节（2003 年）：167-256；S. N. Dorogovstev 和 J.F.F. Mendes，《网络的演化：从生物网络到互联网和万维网》（牛津：牛津大学出版社，2003 年）。
