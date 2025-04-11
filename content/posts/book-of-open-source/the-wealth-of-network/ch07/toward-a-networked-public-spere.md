@@ -46,3 +46,8 @@ translater:
 21. Gary W. Flake 等人，“网络社区的自组织与识别”，IEEE 计算机 35，第 3 期（2002 年）：66-71。另一篇在主题内显示出大量内部引用的论文是 Soumen Chakrabati 等人的“网络上广泛主题的结构”，WWW2002，夏威夷檀香山，2002 年 5 月 7-11 日。
 22. Lada Adamic 和 Natalie Glance，《政治博客圈与 2004 年大选：分裂的博客》，2005 年 3 月 1 日，http://www.blogpulse.com/papers/2005/AdamicGlanceBlogWWW.pdf
 23. M.E.J. Newman，《复杂网络的结构和功能》，《工业与应用数学评论学会》45，第 4.2.2 节（2003 年）：167-256；S. N. Dorogovstev 和 J.F.F. Mendes，《网络的演化：从生物网络到互联网和万维网》（牛津：牛津大学出版社，2003 年）。
+24. 这种结构最初是由 Andrei Broder 等人在 1999 年 www9 会议上发表的论文《Web 的图形结构》中描述的。http://www.almaden.ibm.com/webfountain/resources/GraphStructureintheWeb.pdf 此后，它在各种研究中得到了进一步的研究、完善和证实。
+25. Dill 等人，《网络中的自相似性》（加利福尼亚州圣何塞：IBM 阿尔马登研究中心，2001 年）；S. N. Dorogovstev 和 J.F.F. Mendes，《网络的演化》。
+26. Soumen Chakrabarti 等人，《网络上广泛主题的结构》，WWW2002，夏威夷檀香山，2002 年 5 月 7 日至 11 日。
+27. Daniel W. Drezner 和 Henry Farrell，《博客的力量与政治》（2004 年 7 月），http://www.danieldrezner.com/research/blogpaperfinal.pdf 
+28. D. J. Watts 和 S. H. Strogatz，《‘小世界’网络的集体动力学》，《自然》393（1998）：440-442；D.J. Watts，《小世界：有序与随机之间的网络动态》（新泽西州普林斯顿：普林斯顿大学出版社，1999 年）。
