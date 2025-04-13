@@ -63,4 +63,9 @@ translater:
 29. Clay Shirky，《幂律、网络日志和不平等》（2003 年 2 月 8 日），http://www.shirky.com/writings/powerlaw_weblog.htm ;Jason Kottke，《网络日志与幂律》（2003 年 2 月 9 日）,http://www.kottke.org/03/02/weblogs-and-power-laws 。
 30. Ravi Kumar 等人，《论博客空间的爆发式发展》，《WWW2003 会议录》，2003 年 5 月 20-24 日，http://www2003.org/cdrom/papers/refereed/p477/p477-kumar/p477-kumar.htm 
 31. 这两个发现与哈吉塔伊（Hargittai, E.）、加洛（J. Gallo）和泽恩德尔（S. Zehnder）2005年所做的更近期的研究是一致的。他们的研究成果《绘制政治博客圈地图：对大规模在线政治讨论的分析》以海报形式在纽约国际传播协会会议上展示。
-32. 
+32. 哈佛大学肯尼迪政府学院案例项目：“‘主流媒体’遇上‘博客作者’：对特伦特·洛特在斯特罗姆·瑟蒙德生日聚会上言论的报道” http://www.ksg.harvard.edu/presspol/Research_Publications/Case_Studies/1731_0.pdf 
+33. 霍华德·莱茵戈尔德（Howard Rheingold），《聪明的暴民：下一次社会革命》（马萨诸塞州剑桥：Perseus Publishing，2002 年）。
+34. 数据取自中央情报局世界概况（华盛顿特区：中央情报局，2004 年）。
+35. Lawrence Solum 和 Minn Chung，“分层原则：互联网架构与法律”（工作论文第 55 号，圣地亚哥大学法学院，公法和法律理论，2003 年 6 月）。
+36. 国际特赦组织，中华人民共和国，《中国互联网的国家控制》(2002)。
+37. 巴巴克·拉希米（Babak Rahimi）的《网络异议：革命时期的伊朗的互联网》是一篇综合新闻报道的文章，发表于《中东国际事务评论》第 7 卷第 3 期（2003 年）。
