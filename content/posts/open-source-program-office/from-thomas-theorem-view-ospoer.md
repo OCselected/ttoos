@@ -164,7 +164,7 @@ authors:
 ## 参考资料
 
 1. https://ospo.events/
-2. 欧建深的典型开源生涯 https://kimi.moonshot.cn/share/cvuc2bun3mke7usd2dug
+2. 典型开源生涯 https://kimi.moonshot.cn/share/cvuc2bun3mke7usd2dug
 3. 《共赢：商业生态系统对企业战略、创新和可持续性的影响》，马尔科·扬希蒂，罗伊·莱维恩 ，商务印书馆，2006.6
 4. 《Rebel Code：Linux and the Open Source Revolution》，Glyn Moody，Perseus Books Group， 2002-7
 5. Pamela Samuelson. 2006. IBM's pragmatic embrace of open source. Commun. ACM 49, 10 (October 2006), 21–25. https://doi.org/10.1145/1164394.1164412
