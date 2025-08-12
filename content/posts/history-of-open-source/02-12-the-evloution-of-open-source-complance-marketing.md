@@ -59,9 +59,46 @@ Doug Levin [2]，那时刚刚完成一次软件创业项目的出售，但这次
 
 那一刻，他意识到——企业对开源的依赖正在飙升，而对合规的理解却接近空白。
 
-## 违规使用开源软件是个常态
+## 违反许可使用开源软件是个常态
+
+自从自由软件基金会发布GPL许可以来，违反许可的使用者便没有断过，在1991到2001这段时间内，GPL 的起草者、GNU运动发起人 Richard Stallman 主要通过非正式的邮件来处理这些事，偶尔也会由FSF的律师 Eben Moglen 来处理[3]，例如在1994年在邮件列表里的一个回复[4]：
+
+> I've been told that people are distributing CD-ROMS of Linux binaries which include neither the source code nor a written offer to supply source code later.
+
+> The GPL says that any distribution of binaries must contain either the source code or a written offer to supply source code (see the GPL for details of what is required).
+> ......
 
 
+
+## 作为应对违反许可的方法
+
+从技术内幕收集的 GPL 执法的事件来看，这一阶段确实不多，随着www的崛起，LAMP 的广泛应用，违规的事件越来越多了，自由软件基金会先是在2001年成立了GPL Compliance Labs，自由软件基金会的做法是相当宽容的，主要是说服和教育，显然随着2002～2004的更加夸张的巨头违规行为，自由软件基金会无意也没有兴趣处理这些事，这也就意味着外溢到社会的其它力量来承担，其中颇有建树的是2004年，Harald Welte 成立了 gpl-violations.org ，以及2006年成立的软件自由管理委员会[5]，后者也是自由软件基金会指定的发现违反许可情况的维权机构。[6]
+
+## 没有那家公司更能比微软理解开发者的优势
+
+作为积极推动软件作为版权保护和技术锁定的公司，微软从其创始人的“致电脑爱好者的一封信”就开启了和盗版作斗争的姿态，当然，自由软件开始的时候并没有引起微软的重视，直到1998年，NetScape 开源其浏览器，以及Linux被广泛采用，甚至是IBM的加入，据微软爆料出来的“万圣节文档”[]来看，开源的开放方式确实是微软相当羡慕的一种卓越方式。
+
+>
+> 
+
+到了2000年的时候，时任微软CEO的Steve Ballmer 则在接受采访时，对GPL授权下的软件做了如下的解读[]，
+
+> "Linux is a cancer that attaches itself in an intellectual property sense to everything it touches,The way the license is written, if you use any open-source software, you have to make the rest of your software open source,"
+
+是相当的负面了。目前为止，癌症仍然是大多数不可治愈的致命疾病。
+
+无巧不成书的是，Doug Levin 在微软工作多年，[]
+
+## 一些引人注目的官司
+
+
+## BlackDuck 与OpenHub
+
+
+
+## SPDX
+
+## OpenChain
 
 
 
@@ -69,6 +106,12 @@ Doug Levin [2]，那时刚刚完成一次软件创业项目的出售，但这次
 
 1.  Salus, Peter H. (2005). The Daemon, the Gnu and the Penguin. Groklaw. 
 2.  Doug Levin Looks Back https://medium.com/%40gcvp/doug-levin-looks-back-6f0a3c867803
+3.  https://en.wikipedia.org/wiki/Free_Software_Foundation 
+4.  https://www.tech-insider.org/free-software/research/1994/0104.html
+5.  Conservancy's Copyleft Compliance Projects https://sfconservancy.org/copyleft-compliance/ 
+6.  违反GNU许可证的情况 https://www.gnu.org/licenses/gpl-violation.html
+7.  
+8.  https://www.theregister.com/2001/06/02/ballmer_linux_is_a_cancer/
 
 
 ## 关于作者
