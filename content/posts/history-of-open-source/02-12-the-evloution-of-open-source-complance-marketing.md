@@ -57,7 +57,7 @@ authors:
 
 Doug Levin [2]，那时刚刚完成一次软件创业项目的出售，但这次收购过程中的种种不确定性，让他心生警惕：现代软件如此依赖开源组件，却没有一家企业能说得清楚，他们使用了什么、从哪儿来、又是否符合原始许可。
 
-那一刻，他意识到——企业对开源的依赖正在飙升，而对合规的理解却接近空白。
+那一刻，他意识到——企业对开源的依赖正在飙升，而对合规的理解却接近空白。我们常常说灵感来自于长时间的累积，其实 Levin 在此前参与两家公司出售过程中，发现潜在收购方询问是否使用开源代码时，团队只能靠口头访谈无法提供数据证明。真正的技术审查工具不存在，使他深刻觉察到一个真实市场需求。
 
 ## 违反许可使用开源软件是个常态
 
@@ -68,37 +68,109 @@ Doug Levin [2]，那时刚刚完成一次软件创业项目的出售，但这次
 > The GPL says that any distribution of binaries must contain either the source code or a written offer to supply source code (see the GPL for details of what is required).
 > ......
 
+从技术内幕收集的 GPL 执法的事件来看，这一阶段确实不多，随着www的崛起，LAMP 的广泛应用，违规的事件越来越多了，当有一定规模的公司开始“不知不觉”中采用了或收购了采用开源项目的代码时，就有了更多的
+
+### 一些引人注目的官司
+
 
 
 ## 作为应对违反许可的方法
 
-从技术内幕收集的 GPL 执法的事件来看，这一阶段确实不多，随着www的崛起，LAMP 的广泛应用，违规的事件越来越多了，自由软件基金会先是在2001年成立了GPL Compliance Labs，自由软件基金会的做法是相当宽容的，主要是说服和教育，显然随着2002～2004的更加夸张的巨头违规行为，自由软件基金会无意也没有兴趣处理这些事，这也就意味着外溢到社会的其它力量来承担，其中颇有建树的是2004年，Harald Welte 成立了 gpl-violations.org ，以及2006年成立的软件自由管理委员会[5]，后者也是自由软件基金会指定的发现违反许可情况的维权机构。[6]
+在现代的观念中，出现问题并不是尝试掩盖或逃避，而是积极的应对，作为软件的后起力量，自由/开源世界的人们不会坐视不管。这就是合规市场形成的源头。
+
+自由软件基金会先是在2001年成立了GPL Compliance Labs，自由软件基金会的做法是相当宽容的，主要是说服和教育，显然随着2002～2004的更加夸张的巨头违规行为，自由软件基金会无意也没有兴趣处理这些事，这也就意味着外溢到社会的其它力量来承担，其中颇有建树的是2004年，Harald Welte 成立了 gpl-violations.org ，以及2006年成立的软件自由管理委员会[5]，后者也是自由软件基金会指定的发现违反许可情况的维权机构。[6]
 
 ## 没有那家公司更能比微软理解开发者的优势
 
-作为积极推动软件作为版权保护和技术锁定的公司，微软从其创始人的“致电脑爱好者的一封信”就开启了和盗版作斗争的姿态，当然，自由软件开始的时候并没有引起微软的重视，直到1998年，NetScape 开源其浏览器，以及Linux被广泛采用，甚至是IBM的加入，据微软爆料出来的“万圣节文档”[]来看，开源的开放方式确实是微软相当羡慕的一种卓越方式。
+作为积极推动软件作为版权保护和技术锁定的公司，微软从其创始人的“致电脑爱好者的一封信”就开启了和盗版作斗争的姿态，当然，自由软件开始的时候并没有引起微软的重视，直到1998年，NetScape 开源其浏览器，以及Linux被广泛采用，甚至是IBM的加入，据微软爆料出来的“万圣节文档”[7]来看，开源的开放方式确实是微软相当羡慕的一种卓越方式。
 
->
-> 
+>Recent case studies (the Internet) provide very dramatic evidence ... that commercial quality can be achieved / exceeded by OSS projects.
 
-到了2000年的时候，时任微软CEO的Steve Ballmer 则在接受采访时，对GPL授权下的软件做了如下的解读[]，
+到了2000年的时候，时任微软CEO的Steve Ballmer 则在接受采访时，对GPL授权下的软件做了如下的解读[8]，
 
 > "Linux is a cancer that attaches itself in an intellectual property sense to everything it touches,The way the license is written, if you use any open-source software, you have to make the rest of your software open source,"
 
 是相当的负面了。目前为止，癌症仍然是大多数不可治愈的致命疾病。
 
-无巧不成书的是，Doug Levin 在微软工作多年，[]
-
-## 一些引人注目的官司
-
+无巧不成书的是，Doug Levin 在微软工作多年，[9] 作为Windows的布道者，对于软件的许可理解，有着多年的训练痕迹。
 
 ## BlackDuck 与OpenHub
 
 
 
-## SPDX
+
+### 开源情报前哨 —— OpenHub
+
+经济学的互补理论，没有哪个行业能像软件这么分工的让人难以琢磨，当然，计算机信息产业将这个理论是玩出了新高度，尤其是和开源相关联的，我们现在对于芯片和硬件厂商支持开源的情况已经理解的非常透彻了，但是作为SCA工具厂商收购开源代码分析网站Ohloh，也就是现在的OpenHub，那么就有很多人难以理解了。这里的一个鲜明的例子就是，中国有十几家作开源代码扫描的厂家，但是没有一家提供开源代码项目的，当然对OpenHub也没啥贡献。
+
+BlackDuck 之所以能够成为业界的王者，对于代码匹配的知识库建设可谓是煞费苦心，Ohloh 是 2006 年由 Jason Allen 和 Scott Collison (前微软产品经理)创立的开源项目分析平台，2009 年 5 月 28 日，Ohloh 被流行开源开发平台 SourceForge 的所有者 Geeknet 收购，Geeknet 于 2010 年 10 月 5 日将 Ohloh 出售给了开源分析公司 Black Duck Software，Black Duck 将 Ohloh 的功能与其现有产品相结合，将该网站发展成为 FOSS 开发的主要资源，并于2014年改名为Black Duck OpenHub [10]。
+
+OpenHub 可以视为“开源项目的 GitHub + Crunchbase + Alexa 排行榜”的混合体。收录了大量开源项目的：
+
+* 开发者活动
+* 代码规模
+* 技术栈构成
+* 许可信息
+* 贡献图谱
+
+作为历史的后来者，我们可以总结一下BlackDuck 收购Ohloh的战略精彩之处：
+
+* 战略目的 1：构建“情报中台”
+
+Ohloh 是 Black Duck 的开源情报采集前哨站：自动同步 Git、SVN、CVS、Mercurial 等项目代码；为 KnowledgeBase（代码指纹库）持续补充元数据；从开源项目自然爬取许可证变更、贡献者、维护活跃度等指标。 这是 Black Duck 能维持数据库新鲜度和广度的关键，后来者难以用商业手段快速复制。
+
+* 战略目的 2：建立公信力和开放性门面
+
+虽然 Black Duck 是闭源商业公司，但 OpenHub 是开放平台；它向开发者展示“我们不是黑盒审查，我们也是贡献者的一部分”；增强客户信任，也为销售提供“前门导流”（软着陆）。
+
+* 战略目的 3：反哺销售线索
+
+企业 CTO、合规官在使用 OpenHub 查开源项目信息时，容易转化为 SCA 产品潜在用户；形成从“开源可视化”到“合规扫描”的一站式路径。
+
+所以，OpenHub 是 Black Duck 真正构筑“全球开源雷达网”的关键资产。它不直接赚钱，但提供数据、信誉与引流，是战略级“情报高地”。
+
+有人总结这个收购的神来之笔：
+
+> “Black Duck 的核心资产不是软件，而是它所掌握的开源世界的结构性知识图谱——而 OpenHub 正是这幅图谱的探照灯。”
+
+
+## 说服律师和法务
+
+法律市场的形成，除了那些已经成为既定事实的
+
+## SPDX 与SBOM
+
+
 
 ## OpenChain
+
+
+## 总结一下：
+
+当人们讨论 GPL、MIT、Apache 这些“开源许可证”时，常误以为这不过是一套“开发者友善的建议规范”。但法律与合约的角度提供了全然不同的解释：
+
+> 每一份开源许可，都是一纸授权合同（license agreement），其作用等同于商业软件的授权合同，只不过其“对价”不是金钱，而是责任（obligation）与协作。
+
+Copyleft（如 GPL）更进一步，它将“继承义务”写入法律结构：凡是使用、修改 GPL 代码者，必须将其修改后的衍生代码也在同样许可下开源。这种“传染性”设计，被视为法律合约中的“持续义务条款（perpetual obligation clause）”。
+
+在法经济学家波斯纳（Richard Posner）所强调的契约自由原则下，开源开发者对其代码拥有完整的授权支配力。这种支配力并未因其“免费”而消失，反而通过精妙的许可机制，构建了一个庞大的“合约网络”——这正是 SCA 工具要审查和追踪的核心。
+
+SCA 工具的崛起、SBOM 的标准化、合规工作的职业化，本质上是对这套经济逻辑的制度回应。没有合规，开源就无法大规模融入商业供应链，也无法获得法律上的可托付性（legitimacy）。
+
+这也是为什么波斯纳所强调的“效率导向的法律制度”理念，能在开源治理中找到深刻映射：
+
+* 开源的制度效率不靠警察和法院，而靠许可可视性 + 合规自动化；
+* 合规工具的出现，降低了交易成本，使软件生态中的信任可持续。
+
+简而言之，**开源合规就是对“代码即契约”这一新型制度结构的工程回应**，它不是对开源自由的约束，而是让自由得以在商业世界中被托付、被执行、被依赖。
+
+如果说专有软件时代，开发者的权力来自于许可收费的控制权，那么在开源时代，权力则来自于社区秩序的约束性执行。
+
+开源不是“无政府主义”，也不是技术乌托邦。它是一种对“自愿协作”与“责任结构”高度敏感的制度工程。开源合规不是破坏自由，而是维护自由赖以运作的最低秩序。
+
+从 GPL 诞生的那一刻起，这种秩序就已嵌入开源世界的 DNA。而 Doug Levin 之所以创办 Black Duck，是因为他看到了——在全球商业正面临“开放转型”之际，最宝贵的不是更多的自由，而是更多 对自由的尊重。
+
+## 番外：中国市场的形成尚待时日
 
 
 
@@ -110,8 +182,10 @@ Doug Levin [2]，那时刚刚完成一次软件创业项目的出售，但这次
 4.  https://www.tech-insider.org/free-software/research/1994/0104.html
 5.  Conservancy's Copyleft Compliance Projects https://sfconservancy.org/copyleft-compliance/ 
 6.  违反GNU许可证的情况 https://www.gnu.org/licenses/gpl-violation.html
-7.  
+7.  https://en.wikipedia.org/wiki/Halloween_documents
 8.  https://www.theregister.com/2001/06/02/ballmer_linux_is_a_cancer/
+9.  https://www.linkedin.com/in/bduck1/details/experience/
+10. https://en.wikipedia.org/wiki/Open_Hub
 
 
 ## 关于作者
