@@ -72,31 +72,39 @@ Doug Levin [2]，那时刚刚完成一次软件创业项目的出售，但这次
 
 ### 一些引人注目的官司
 
+在这里，很可能让惯有的那种案例多吗这种思路的人失望了，关于官司并不是越多越好，而是越少越好，法律制定了边界，原因是过去没有边界，例如1982年Apple Computer, Inc. 诉 Franklin Computer Corp. 二进制也受到保护。换句话说，开源需要的不是狠多无关紧要的官司，而是确定边界的对抗。
 
+关于Linksys的故事，大家可能耳熟能详，OpenTV 也是强硬的对抗案例，均是开源世界一再劝解都无济于事，最后不得不依靠舆论压力，甚至是开启诉讼历程。我想在这里没有比全文引用Heather J. Meeker的文章更为合适的描述当时的状态了，不过限于篇幅，笔者还是摘取其中一段，剩余部分还是看管自行阅读[5]:
+
+> Linksys is a very successful purveyor of WiFi More about WiFi routers, in particular the WRT54G 802.11g wireless home gateway. In March, 2003, Cisco Systems >(Nasdaq: CSCO) More about Cisco Systems bought Linksys for US$500 million. After the acquisition, in June 2003, complaints appeared on discussion boards such >as LKML and Slashdot claiming that Linksys was violating the GPL by not providing source code for certain code used in its WRT54G wireless access point. (See >for instance this posting.) The Linksys product included both the Linux kernel and other GPL code.
+
+>This is the nightmare scenario for an acquiror worried about open source. In the trade this is known as "buying a lawsuit."
+
+这个长达十几年的例子，最终以和解解决，但是讨论的时间足够长了。
 
 ## 作为应对违反许可的方法
 
 在现代的观念中，出现问题并不是尝试掩盖或逃避，而是积极的应对，作为软件的后起力量，自由/开源世界的人们不会坐视不管。这就是合规市场形成的源头。
 
-自由软件基金会先是在2001年成立了GPL Compliance Labs，自由软件基金会的做法是相当宽容的，主要是说服和教育，显然随着2002～2004的更加夸张的巨头违规行为，自由软件基金会无意也没有兴趣处理这些事，这也就意味着外溢到社会的其它力量来承担，其中颇有建树的是2004年，Harald Welte 成立了 gpl-violations.org ，以及2006年成立的软件自由管理委员会[5]，后者也是自由软件基金会指定的发现违反许可情况的维权机构。[6]
+自由软件基金会先是在2001年成立了GPL Compliance Labs，自由软件基金会的做法是相当宽容的，主要是说服和教育，显然随着2002～2004的更加夸张的巨头违规行为，自由软件基金会无意也没有兴趣处理这些事，这也就意味着外溢到社会的其它力量来承担，其中颇有建树的是2004年，Harald Welte 成立了 gpl-violations.org ，以及2006年成立的软件自由管理委员会[6]，后者也是自由软件基金会指定的发现违反许可情况的维权机构。[7]
 
 但是这还不够，遵守法律还是要从主体的自觉执行才能运转的，光是执法者在外围呼吁并不能形成一个市场，那么就需要有工具的支撑，以及律师和法务们的共识，整个市场才能将每一块拼图找到。
 
 ## 没有那家公司更能比微软理解开发者的优势
 
-作为积极推动软件作为版权保护和技术锁定的公司，微软从其创始人的“致电脑爱好者的一封信”就开启了和盗版作斗争的姿态，当然，自由软件开始的时候并没有引起微软的重视，直到1998年，NetScape 开源其浏览器，以及Linux被广泛采用，甚至是IBM的加入，据微软爆料出来的“万圣节文档”[7]来看，开源的开放方式确实是微软相当羡慕的一种卓越方式。
+作为积极推动软件作为版权保护和技术锁定的公司，微软从其创始人的“致电脑爱好者的一封信”就开启了和盗版作斗争的姿态，当然，自由软件开始的时候并没有引起微软的重视，直到1998年，NetScape 开源其浏览器，以及Linux被广泛采用，甚至是IBM的加入，据微软爆料出来的“万圣节文档”[8]来看，开源的开放方式确实是微软相当羡慕的一种卓越方式。
 
 >Recent case studies (the Internet) provide very dramatic evidence ... that commercial quality can be achieved / exceeded by OSS projects.
 
-到了2000年的时候，时任微软CEO的Steve Ballmer 则在接受采访时，对GPL授权下的软件做了如下的解读[8]，
+到了2000年的时候，时任微软CEO的Steve Ballmer 则在接受采访时，对GPL授权下的软件做了如下的解读[9]，
 
 > "Linux is a cancer that attaches itself in an intellectual property sense to everything it touches,The way the license is written, if you use any open-source software, you have to make the rest of your software open source,"
 
 是相当的负面了。目前为止，癌症仍然是大多数不可治愈的致命疾病。
 
-无巧不成书的是，Doug Levin 在微软工作多年，[9] 作为Windows的布道者，对于软件的许可理解，有着多年的训练痕迹。
+无巧不成书的是，Doug Levin 在微软工作多年，[10] 作为Windows的布道者，对于软件的许可理解，有着多年的训练痕迹。
 
-> "跟踪特定贡献的个人许可，以确保衍生作品符合原始代码所附带的任何许可限制，这可能有助于开源。任何能让应用许可和确保合规的过程变得更简单的东西都是好东西。"[10]
+> "跟踪特定贡献的个人许可，以确保衍生作品符合原始代码所附带的任何许可限制，这可能有助于开源。任何能让应用许可和确保合规的过程变得更简单的东西都是好东西。"[11]
 >
 >   Steve O’Grady ,Red Monk 联合创始人，《Kingmaker》
 
@@ -113,7 +121,7 @@ Doug Levin [2]，那时刚刚完成一次软件创业项目的出售，但这次
 
 经济学的互补理论，没有哪个行业能像软件这么分工的让人难以琢磨，当然，计算机信息产业将这个理论是玩出了新高度，尤其是和开源相关联的，我们现在对于芯片和硬件厂商支持开源的情况已经理解的非常透彻了，但是作为SCA工具厂商收购开源代码分析网站Ohloh，也就是现在的OpenHub，那么就有很多人难以理解了。这里的一个鲜明的例子就是，中国有十几家作开源代码扫描的厂家，但是没有一家提供开源代码项目的，当然对OpenHub也没啥贡献。
 
-BlackDuck 之所以能够成为业界的王者，对于代码匹配的知识库建设可谓是煞费苦心，Ohloh 是 2006 年由 Jason Allen 和 Scott Collison (前微软产品经理)创立的开源项目分析平台，2009 年 5 月 28 日，Ohloh 被流行开源开发平台 SourceForge 的所有者 Geeknet 收购，Geeknet 于 2010 年 10 月 5 日将 Ohloh 出售给了开源分析公司 Black Duck Software，Black Duck 将 Ohloh 的功能与其现有产品相结合，将该网站发展成为 FOSS 开发的主要资源，并于2014年改名为Black Duck OpenHub [11]。
+BlackDuck 之所以能够成为业界的王者，对于代码匹配的知识库建设可谓是煞费苦心，Ohloh 是 2006 年由 Jason Allen 和 Scott Collison (前微软产品经理)创立的开源项目分析平台，2009 年 5 月 28 日，Ohloh 被流行开源开发平台 SourceForge 的所有者 Geeknet 收购，Geeknet 于 2010 年 10 月 5 日将 Ohloh 出售给了开源分析公司 Black Duck Software，Black Duck 将 Ohloh 的功能与其现有产品相结合，将该网站发展成为 FOSS 开发的主要资源，并于2014年改名为Black Duck OpenHub [13]。
 
 OpenHub 可以视为“开源项目的 GitHub + Crunchbase + Alexa 排行榜”的混合体。收录了大量开源项目的：
 
@@ -150,13 +158,13 @@ Ohloh 是 Black Duck 的开源情报采集前哨站：自动同步 Git、SVN、C
 
 > 道格在组建团队和宣传开源合规理念方面做得非常出色。他招募了凯伦-科本哈弗（Karen Copenhaver），她是一位非常著名的开源律师，作为这一使命的忠实信徒，她与各大科技公司的法律顾问就开源的适当使用进行了交谈。
 
-Karen Copenhaver 加入BluckDuck 之后，到离开后加入Linux基金会[13]，一直都致力于说服企业法务要在并购、诉讼之前最好开源代码的合规工作。
+Karen Copenhaver 加入BluckDuck 之后，到离开后加入Linux基金会[14]，一直都致力于说服企业法务要在并购、诉讼之前最好开源代码的合规工作。
 
 ![](https://cdn.facesofopensource.com/wp-content/uploads/2017/02/09202156/karencopenhaver.faces22359.web_.jpg)
 
 > “winning the right hearts and minds before charting a course of action. You should also avoid mandating a course of action advocated by lawyers alone,” 
 
-Karen Copenhaver 在2005年度OSDL Enterprise Linux Summit上的分享时如此倡导[14]。
+Karen Copenhaver 在2005年度OSDL Enterprise Linux Summit上的分享时如此倡导[15]。
 
 
 
@@ -190,7 +198,7 @@ SCA 工具的崛起、SBOM 的标准化、合规工作的职业化，本质上�
 
 开源不是“无政府主义”，也不是技术乌托邦。它是一种对“自愿协作”与“责任结构”高度敏感的制度工程。开源合规不是破坏自由，而是维护自由赖以运作的最低秩序。
 
-从 GPL 诞生的那一刻起，这种秩序就已嵌入开源世界的 DNA。而 Doug Levin 之所以创办 Black Duck，是因为他看到了——在全球商业正面临“开放转型”之际，最宝贵的不是更多的自由，而是更多 对自由的尊重。
+从 GPL 诞生的那一刻起，这种秩序就已嵌入开源世界的 DNA。而 Doug Levin 之所以创办 Black Duck，是因为他看到了——在全球商业正面临“开放转型”之际，最宝贵的不是更多的自由，而是更多对自由的尊重。
 
 ## 番外：中国市场的形成尚待时日
 
@@ -198,23 +206,52 @@ SCA 工具的崛起、SBOM 的标准化、合规工作的职业化，本质上�
 
 笔者看到的情况是，作为整体的开源搭便车状态，以及对开源知识财产权的敌意，尤其是刻意贬低GPL和Copyleft的观念占据上风，这个市场还不存在，拓展和开拓也将面临极大的挑战，这是经济系统的结构性问题。只能说期待未来会有可能～ 尊重互惠的市场规范。
 
+我们不妨以BlackDuck在中国的黯然离场为例，来结束开源的许可和知识财产权这样一章。
+
+### Black Duck 在中国：全球化红利与制度环境的消退
+
+当我们回顾开源合规市场的全球化进程时，中国是一个必须单独拎出来的特殊案例。
+
+在 2000 年代后期到 2010 年代初，中国正快速融入全球化。那时，国内互联网与软件企业的雄心不再局限于本地市场，而是直指国际资本市场与跨国供应链。无论是寻求在纳斯达克上市的科技公司，还是想成为思科、诺基亚、丰田的零部件软件供应商，它们都面临着一个现实的问题：如何证明自己的软件堆栈不触犯 GPL 与其他开源协议。
+
+这正是 Black Duck 进入中国市场的契机。它所提供的“开源合规扫描”，并非技术创新的象征，而是一种进入国际市场的法律通行证。IPO 尽调、跨国客户审核、跨境投资谈判，都需要一份可信的“软件物料清单”（SBOM），来证明企业不会因为潜在的版权纠纷而被拒之门外。可以说，那一时期中国企业对 Black Duck 的需求，本质上是全球化压力的投射。
+
+然而，随着时间的推移，这一逻辑逐渐瓦解。
+
+* 市场重心内转：越来越多的中国科技公司放弃在美股 IPO，转向科创板、港股，甚至只专注于国内市场。客户本身不再提出合规要求，自然也不需要工具来“背书”。
+
+* 法律约束缺位：在欧美，违反 GPL 可能意味着诉讼、和解金、强制公开源代码；而在中国，这类诉讼几乎没有先例。没有外部约束，合规就失去了作为“成本-收益”逻辑的必要性。
+
+* 政策环境变化：国产替代成为国家战略重点，强调“自主可控”。在这种氛围下，开源合规甚至被边缘化——有人甚至误以为“开源就是免费的”，合规变成了无足轻重的议题。
+
+结果是，Black Duck 在中国的存在感逐渐减弱。它并非被技术淘汰，而是失去了生长的土壤。市场需求并未彻底消失，但仅存于少数仍需对接国际市场的行业：如新能源汽车出海、手机厂商的海外业务、以及面向欧美的 AI 初创公司。这种零散的需求不足以支撑一个大规模市场。
+
+从行业评论的角度看，中国的案例揭示了一个更深刻的命题：
+
+* 在欧美，合规市场的兴起是制度与法律的产物，没有 GPL 的强制执行，就没有 SCA 工具的商业化。
+
+* 在中国，制度缺失让合规成为“自觉性市场”，而企业的自觉往往服从于短期利益，而不是合规的长远价值。
+
+因此，Black Duck 在中国的兴衰，不仅仅是一个商业故事，更是制度与市场如何交织、如何塑造技术工具命运的缩影。
+
 ## 参考资料
 
 1.  Salus, Peter H. (2005). The Daemon, the Gnu and the Penguin. Groklaw. 
 2.  Doug Levin Looks Back https://medium.com/%40gcvp/doug-levin-looks-back-6f0a3c867803
 3.  https://en.wikipedia.org/wiki/Free_Software_Foundation 
 4.  https://www.tech-insider.org/free-software/research/1994/0104.html
-5.  Conservancy's Copyleft Compliance Projects https://sfconservancy.org/copyleft-compliance/ 
-6.  违反GNU许可证的情况 https://www.gnu.org/licenses/gpl-violation.html
-7.  https://en.wikipedia.org/wiki/Halloween_documents
-8.  https://www.theregister.com/2001/06/02/ballmer_linux_is_a_cancer/
-9.  https://www.linkedin.com/in/bduck1/details/experience/
-10. https://www.linuxinsider.com/story/black-duck-provides-open-source-legal-tool-37427.html
-11. https://en.wikipedia.org/wiki/Open_Hub
-12. https://www.generalcatalyst.com/stories/congratulations-black-duck
-13. https://www.linux-magazine.com/Online/News/Legal-Experts-Join-Linux-Foundation-Team
-14. https://www.eweek.com/servers/black-duck-lawyer-due-diligence-can-help-avoid-ip-disputes/
-15. 
+5.  The Legend of Linksys https://web.archive.org/web/20090419230853/http://linuxinsider.com/story/qECCd2x743n32T/The-Legend-of-Linksys.xhtml 
+6.  Conservancy's Copyleft Compliance Projects https://sfconservancy.org/copyleft-compliance/ 
+7.  违反GNU许可证的情况 https://www.gnu.org/licenses/gpl-violation.html
+8.  https://en.wikipedia.org/wiki/Halloween_documents
+9.  https://www.theregister.com/2001/06/02/ballmer_linux_is_a_cancer/
+10. https://www.linkedin.com/in/bduck1/details/experience/
+11. https://www.linuxinsider.com/story/black-duck-provides-open-source-legal-tool-37427.html
+12. https://en.wikipedia.org/wiki/Open_Hub
+13. https://www.generalcatalyst.com/stories/congratulations-black-duck
+14. https://www.linux-magazine.com/Online/News/Legal-Experts-Join-Linux-Foundation-Team
+15. https://www.eweek.com/servers/black-duck-lawyer-due-diligence-can-help-avoid-ip-disputes/
+16. 
 
 
 ## 关于作者
