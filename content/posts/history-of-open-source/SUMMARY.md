@@ -59,6 +59,7 @@ authors:
 * [如何限制基于网络服务的闭源？从AGPL到SSPL，开源许可正在失控？](posts/history-of-open-source/02-09-cloud-computer-and-new-non-os-license/)
 * [难辨真伪 —— 人人都可以开源许可下的困局](posts/history-of-open-source/02-10-future-and-more-challenge/)
 * [君子协定 —— 联盟以对抗万恶的专利](posts/history-of-open-source/02-11-os-and-software-patents/)
+* [开源遵从（合规）市场的形成与演变：开源的商业或信任基石](posts/history-of-open-source/02-12-the-evloution-of-open-source-complance-marketing/)
 
 ## 第五部分：计算机技术中开源的部分
 

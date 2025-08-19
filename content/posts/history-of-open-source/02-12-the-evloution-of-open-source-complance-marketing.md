@@ -166,13 +166,31 @@ Karen Copenhaver 加入BluckDuck 之后，到离开后加入Linux基金会[14]�
 
 Karen Copenhaver 在2005年度OSDL Enterprise Linux Summit上的分享时如此倡导[15]。
 
+## 工程和体系化
 
+商业上的解决方案，并非是唯一的处理之道，毕竟这涉及到预算、PoE、支持和订阅等关键因素，然而，在走极端之外还有很多种路径，那就是中立的推广开源的机构所做的事情。让开源受益更多人和组织，那么，使用和识别开源组件的工程就是尚待解决的问题。
 
-## SPDX 与SBOM
+### SPDX 与SBOM
 
+有问题就一定会有解决问题的人，时间不等人，随着开源被广泛的应用，正如大家所预料到的那样，到了 2010 年，开源组件的复杂性让企业法务和工程师都感到头痛。一个软件可能包含上百个依赖，许可证彼此交织，兼容性问题乱如麻，手工追踪几乎不可能。
+这时，Linux 基金会内部的一群工程师和法务专家发起了 SPDX（Software Package Data Exchange）[16]。他们的初心很简单：为软件建立一个机器可读的“成分表”，像食品标签一样清晰标注许可证、版权和来源。 SPDX 的坚持在于，它不是一份抽象标准，而是逐步落地，被社区和工具接受，最终成为事实标准。
 
+2021年，美国总统令推动 SBOM（软件物料清单） 成为关键议题[17]。此时，SPDX 的坚持终于展现威力，它直接成为 SBOM 的核心格式之一。
 
 ## OpenChain
+
+但即便有 SPDX，企业之间仍缺乏信任。一个供应商的合规清单，能不能保证真实可靠？
+
+2016 年，Linux 基金会的 Shane Coughlan 牵头发起 OpenChain 项目[18]。他的初心是：把合规流程本身标准化，让供应链上的企业能够用共同语言沟通，减少摩擦。他常说的一句话是——“合规是一种质量管理，而不仅仅是风险管理。”
+
+经过数年努力，OpenChain 在 2019 年被采纳为 ISO/IEC 5230 [19] 国际标准。这标志着开源合规第一次站上了与 ISO 9001、ISO 27001 等同级的高度，成为可审计、可认证的体系。而 OpenChain 的流程化思路，也开始与供应链安全治理结合。合规不再只是“避免诉讼”，而是扩展为建立数字信任。
+
+### 开源合规峰会
+
+
+
+至此，开源许可的合规进入了日常状态。
+
 
 
 ## 总结一下：
@@ -251,7 +269,10 @@ SCA 工具的崛起、SBOM 的标准化、合规工作的职业化，本质上�
 13. https://www.generalcatalyst.com/stories/congratulations-black-duck
 14. https://www.linux-magazine.com/Online/News/Legal-Experts-Join-Linux-Foundation-Team
 15. https://www.eweek.com/servers/black-duck-lawyer-due-diligence-can-help-avoid-ip-disputes/
-16. 
+16. https://en.wikipedia.org/wiki/Software_Package_Data_Exchange
+17. Executive Order on Improving the Nation’s Cybersecurity https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/05/12/executive-order-on-improving-the-nations-cybersecurity/
+18. https://openchainproject.org/
+19. https://en.wikipedia.org/wiki/ISO/IEC_5230
 
 
 ## 关于作者
