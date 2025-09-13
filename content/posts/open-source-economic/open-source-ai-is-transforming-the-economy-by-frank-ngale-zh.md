@@ -71,9 +71,7 @@ OSAI 是一股强大的经济力量。它正在降低成本、加速创新，并
 
 ## 关于作者
 
-![](https://www.linuxfoundation.org/hs-fs/hubfs/NagleFrank_final.jpg?width=330&height=330&name=NagleFrank_final.jpg) Frank Nagle，
-
-
+![](https://www.linuxfoundation.org/hs-fs/hubfs/NagleFrank_final.jpg?width=330&height=330&name=NagleFrank_final.jpg) Frank Nagle，是哈佛商学院战略系助理教授，也是 Linux 基金会的首席经济学家。纳格尔教授研究竞争对手如何合作创造核心技术，同时仍在基于这些技术构建的产品和服务上展开竞争——尤其是在人工智能领域。他的研究涉及工作的未来、IT 经济学和数字化转型等更广泛的类别，并思考技术如何削弱公司界限。他的工作利用来自在线社交网络、开源软件仓库、金融市场信息和企业 IT 使用情况调查的大型数据集。Nagle 教授的作品发表在顶级学术期刊以及面向实践者的出版物上，例如《哈佛商业评论》、《麻省理工学院斯隆管理评论》和布鲁金斯学会 TechStream。他曾获得 AOM、NBER、SMS、INFORMS、EURAM、GitHub、斯隆基金会和 Linux 基金会颁发的奖项和资助。他是哈佛大学数字、数据和设计 (D^3) 研究所、管理未来工作项目和哈佛大学创新科学实验室 (LISH) 的附属教员。
 
 ## 关于译者
 
