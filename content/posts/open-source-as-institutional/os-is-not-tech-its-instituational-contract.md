@@ -21,7 +21,7 @@ authors:
 
 ### 引言
 
-在当今数字时代，开源软件（Open Source Software, OSS）已成为信息技术生态中不可或缺的一部分。从操作系统（如 Linux）到 web 服务器、数据库、容器平台，无数商业产品与服务都依赖于开源组件。然而，当我们谈论“开源”时，往往集中于它的技术和工程属性：完成功能、代码开放、协作开发、社区贡献、版本控制、分布式开发模型等。鲜少有人从制度的角度去考察：开源为何能够持续运作？为什么能够跨越组织与地域？维持社区参与与治理？这些现象的背后，并非仅仅是代码，更是**制度契约（institutional contract）**的构建与执行。
+在当今数字时代，开源软件（Open Source Software, OSS）已成为信息技术生态中不可或缺的一部分。从操作系统（如 Linux）到 web 服务器、数据库、容器平台，无数商业产品与服务都依赖于开源组件。然而，当我们谈论“开源”时，往往集中于它的技术和工程属性：功能实现、代码开放、协作开发、社区贡献、版本控制、分布式开发模型等。鲜少有人从制度的角度去考察：开源为何能够持续运作？为什么能够跨越组织与地域？维持社区参与与治理？这些现象的背后，并非仅仅是代码，更是**制度契约（institutional contract）**的构建与执行。
 
 本文提出一个核心命题：**开源不是技术，而是制度契约**。在这一命题下，开源生态被视为一个复杂制度体系——由许可证、社区治理、贡献流程、参与者契约与治理结构共同构成。通过这一视角，我们能够更深入理解开源为什么能够长期稳定发展、在何种条件下会失效、如何面对商业化与制度弱化的挑战。
 
@@ -31,7 +31,12 @@ authors:
 
 ### 理论框架：制度生成、自我复制与信任
 
-要理解“开源是制度契约”，必须从制度理论出发。制度经济学家道格拉斯·诺斯指出：制度是“减少不确定性的”约束结构，它们形成于人类互动过程中，从而稳定预期、降低交易成本。制度并非一开始就被设计完备，而是在人类长期互动中被“生成”出来。类似地，埃莉诺·奥斯特罗姆研究了公共物品治理，指出制度是自组织社区通过规则、监控、适应机制所生成。制度生成（institutional genesis）强调：制度是实践中的产物，而非外部强加。
+要理解“开源是制度契约”，必须从制度理论出发。制度经济学家道格拉斯·诺斯指出：
+
+> 制度是“减少不确定性的”约束结构，它们形成于人类互动过程中，从而稳定预期、降低交易成本。
+
+制度并非一开始就被设计完备，而是在人类长期互动中被“生成”出来。  卡尔·波兰尼在《大转型：我们时代的政治与经济起源》中论述关于制度嵌入经济社会中的情形。
+类似地，埃莉诺·奥斯特罗姆研究了公共物品治理，指出制度是自组织社区通过规则、监控、适应机制所生成。制度生成（institutional genesis）强调：制度是实践中的产物，而非外部强加。
 
 在另一方面，德国社会学家尼克拉斯·鲁曼 (Niklas Luhmann) 引入了“自创生系统（autopoiesis）”的概念。他认为，社会系统不是由个体构成，而是由“交流 (communication)” 构成；系统通过自身的沟通网络维持与再生产自身。制度视角下，自我复制（autopoiesis）意味着制度通过自身规则、流程、惯例的循环运作，得以延续而不靠外部强行维持。制度若失去了内在的循环机制，就会僵化、崩溃。
 
@@ -49,15 +54,15 @@ authors:
 
 #### 社区治理结构作为制度载体
 
-开源项目通常建立贡献者、维护者、项目委员会（Project Management Committee, PMC）等治理结构。例如，Apache Software Foundation (ASF) 所采用的“Apache Way”治理模式，就包括了项目自治、贡献者晋升机制、PMC 投票等制度安排。这些治理结构不是随机的，而是在实践中逐渐生成，成为项目制度再生产的机制。正如研究指出，开源项目治理可分为“自发治理（spontaneous）”、“内部治理（internal）”和“对外治理（governance towards outside parties）”三类型。 ([SpringerLink][4])
+开源项目通常建立贡献者、维护者、项目委员会（Project Management Committee, PMC）等治理结构。例如，Apache Software Foundation (ASF) 所采用的“Apache Way”治理模式，就包括了项目自治、贡献者晋升机制、PMC 投票等制度安排。这些治理结构不是随机的，而是在实践中逐渐生成，成为项目制度再生产的机制。正如研究指出，开源项目治理可分为“自发治理（spontaneous）”、“内部治理（internal）”和“对外治理（governance towards outside parties）”三类型。 [4]
 
 #### 社会契约视角
 
-例如，Debian 项目制定了其 “Social Contract” —— 一份社区与用户之间、项目与社会之间的契约式文件。 ([维基百科][1]) 该契约明确项目的责任与承诺：保持系统自由、回馈社区、保持透明、优先用户。这种契约是制度化的表达，使参与者——包括志愿者、使用者、捐赠者——在一种制度框架中实现共享义务与权利。
+例如，Debian 项目制定了其 “Social Contract” —— 一份社区与用户之间、项目与社会之间的契约式文件。 [1] 该契约明确项目的责任与承诺：保持系统自由、回馈社区、保持透明、优先用户。这种契约是制度化的表达，使参与者——包括志愿者、使用者、捐赠者——在一种制度框架中实现共享义务与权利。
 
 #### 商业组织参与与制度张力
 
-这一切机制中的一个现实挑战是：当企业进入开源生态，技术与制度之间的张力变得明显。公司虽然贡献代码、开源项目，但也追求盈利、控制、专有化。一旦企业利用开源但忽视契约义务（如不回馈社区、在许可证下进行闭源变体），契约逻辑将被侵蚀。研究表明，商业组织在开源治理中不仅带来资源，也带来风险。 ([AIS eLibrary][5])
+这一切机制中的一个现实挑战是：当企业进入开源生态，技术与制度之间的张力变得明显。公司虽然贡献代码、开源项目，但也追求盈利、控制、专有化。一旦企业利用开源但忽视契约义务（如不回馈社区、在许可证下进行闭源变体），契约逻辑将被侵蚀。研究表明，商业组织在开源治理中不仅带来资源，也带来风险。 [5]
 
 ---
 
@@ -69,11 +74,11 @@ authors:
 
 #### 治理机制：制度而非混沌
 
-研究指出，开源项目的成功与否，并非仅取决于技术质量，而在于治理机制。治理本质上是一种制度安排：如何决策、如何分工、如何处理冲突、如何贡献被接受。 ([SpringerLink][2]) 从制度视角看，治理是制度持续运作的保障：它通过规则、流程与角色结构使得生态能够稳定再生产。
+研究指出，开源项目的成功与否，并非仅取决于技术质量，而在于治理机制。治理本质上是一种制度安排：如何决策、如何分工、如何处理冲突、如何贡献被接受。 [2] 从制度视角看，治理是制度持续运作的保障：它通过规则、流程与角色结构使得生态能够稳定再生产。
 
 #### 制度维持与自我复制
 
-成功的开源项目往往具备制度化特征：明确贡献流程、治理结构、文档、社区文化、可持续参与机制。正如制度理论中自我复制机制所言，制度通过自身运作机制维持。若社区贡献者持续进入、项目治理流程清晰、贡献者角色晋升机制存在，则制度能够复制、扩张。相反，若流程模糊、角色晋升停滞、社区参与减少，制度便失活，项目可能陷入停滞或衰退。近期研究在对 Apache Software Foundation 孵化项目的分析中指出：制度分析 + 社会-技术网络分析能更精确理解项目的可持续性。 ([arXiv][6])
+成功的开源项目往往具备制度化特征：明确贡献流程、治理结构、文档、社区文化、可持续参与机制。正如制度理论中自我复制机制所言，制度通过自身运作机制维持。若社区贡献者持续进入、项目治理流程清晰、贡献者角色晋升机制存在，则制度能够复制、扩张。相反，若流程模糊、角色晋升停滞、社区参与减少，制度便失活，项目可能陷入停滞或衰退。近期研究在对 Apache Software Foundation 孵化项目的分析中指出：制度分析 + 社会-技术网络分析能更精确理解项目的可持续性。 [6]
 
 ---
 
@@ -138,13 +143,13 @@ authors:
 
 ## 参考资料
 
-[1]: https://en.wikipedia.org/wiki/Debian_Social_Contract?utm_source=chatgpt.com "Debian Social Contract"
-[2]: https://link.springer.com/article/10.1007/s10997-007-9022-9?utm_source=chatgpt.com "Governance of open source software: state of the art | Journal of Management and Governance"
-[3]: https://dirkriehle.com/wp-content/uploads/2022/09/2023-print-version-Harutyunyan-Riehle-Supply-Chain-Management-in-Corporate-Open-Source-Governance_-A-Case-Study-Evaluation-of-Industry-Best-Practices-4.pdf?utm_source=chatgpt.com "Open Source Software Governance:"
-[4]: https://link.springer.com/article/10.1007/s10997-007-9025-6?utm_source=chatgpt.com "Introduction to a roundtable on the governance of open source software: particular solutions and general lessons | Journal of Management and Governance"
-[5]: https://aisel.aisnet.org/amcis2009/307/?utm_source=chatgpt.com "\"Governance of Collaborative Open Source Software: Inference from Trans\" by Mohamed Sidahmed and James Gerlach"
-[6]: https://arxiv.org/abs/2203.03144?utm_source=chatgpt.com "Open Source Software Sustainability: Combining Institutional Analysis and Socio-Technical Networks"
-[7]: https://opensym.org/wp-content/uploads/2019/08/os19-paper-A1-harutyunyan.pdf?utm_source=chatgpt.com "Getting Started with Open Source Governance and"
+1. https://en.wikipedia.org/wiki/Debian_Social_Contract?utm_source=chatgpt.com "Debian Social Contract"
+2. https://link.springer.com/article/10.1007/s10997-007-9022-9?utm_source=chatgpt.com "Governance of open source software: state of the art | Journal of Management and Governance"
+3. https://dirkriehle.com/wp-content/uploads/2022/09/2023-print-version-Harutyunyan-Riehle-Supply-Chain-Management-in-Corporate-Open-Source-Governance_-A-Case-Study-Evaluation-of-Industry-Best-Practices-4.pdf?utm_source=chatgpt.com "Open Source Software Governance:"
+4. https://link.springer.com/article/10.1007/s10997-007-9025-6?utm_source=chatgpt.com "Introduction to a roundtable on the governance of open source software: particular solutions and general lessons | Journal of Management and Governance"
+5. https://aisel.aisnet.org/amcis2009/307/?utm_source=chatgpt.com "\"Governance of Collaborative Open Source Software: Inference from Trans\" by Mohamed Sidahmed and James Gerlach"
+6. https://arxiv.org/abs/2203.03144?utm_source=chatgpt.com "Open Source Software Sustainability: Combining Institutional Analysis and Socio-Technical Networks"
+7. https://opensym.org/wp-content/uploads/2019/08/os19-paper-A1-harutyunyan.pdf?utm_source=chatgpt.com "Getting Started with Open Source Governance and"
 
 
 ## 关于作者
