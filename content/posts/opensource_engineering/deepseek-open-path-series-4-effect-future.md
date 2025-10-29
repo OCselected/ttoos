@@ -18,7 +18,7 @@ authors:
 - 「开源之道」·适兕 && 「开源之道」·窄廊
 ---
 
-本文是系列文章的第三篇，如有需要，可先预习前四篇：
+本文是系列文章的第五篇，如有需要，可先预习前四篇：
 
 * [非官方观察：DeepSeek 的开放之路系列之一：arXiv](/posts/opensource_engineering/deepseek-open-path-series-0/)
 * [非官方观察：DeepSeek 的开放之路系列之二：重识 GitHub](/posts/opensource_engineering/deepseek-open-path-series-1-github.md)
