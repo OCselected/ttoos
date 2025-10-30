@@ -22,9 +22,9 @@ authors:
 
 # 🗣 Speech: *OSPO in China – The Institutional Journey of Open Source*
 
-**Speaker:** Kuo Sì (适兕), *The Way of Open Source*
-**Event:** *Open Source @ Siemens 2025*
-**Date:** October 30–31, 2025
+* **Speaker:** Kuo Sì (适兕), *The Way of Open Source*
+* **Event:** *Open Source @ Siemens 2025*
+* **Date:** October 30–31, 2025
 
 ![](/images/2025/ospo-in-china-at-os-siemens-my-journey.jpg)
 
@@ -45,14 +45,20 @@ I want to explore a question that goes far beyond software engineering:
 
 ## 1. My OSPO Journey
 
-My journey with OSPOs started in early 2021.
-Back then, “OSPO” was an almost unknown term in China.
+I think I know OSPO in local, Because I did something in the past 5 years. 
+
+My journey with OSPOs started in early 2021. with Mr Yu , we found LFAPAC OSPO SIG ,and support TODO Group. We Go into companies which created OSPO.
+
+and importly we organized OSPO Summit every year. this is the event for OSPOer -- doing the job of open source in their org. we share, communcation, learning in this event. and try to reslove problem together.
+
+and we host OSPOlive , the online knowledge share.
+
+
+### Tips 
+
+Back to 2021 , “OSPO” was an almost unknown term in China.
 Most companies had open source teams, legal advisors, or developer relations,
 but there was little understanding that **OSPO is not about technology management** — it is about **institutional innovation**.
-
-Since then, I’ve interviewed and observed OSPOs in dozens of Chinese organizations — from internet giants like Huawei, Alibaba, and ByteDance, to state research institutes and universities.
-Each tried to build its own version of an OSPO —
-and in that process, each revealed something profound about how institutions evolve, imitate, and transform.
 
 ---
 
