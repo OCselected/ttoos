@@ -31,6 +31,6 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           external_repository: OCselected/ocselected.github.io
           publish_dir: ./public
-          cname: opensourceway.community
+          cname: opensourceway.blog
           publish_branch: gh-pages
           allow_empty_commit: true
