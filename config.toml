@@ -1,4 +1,4 @@
-baseurl = "http://www.opensourceway.blog"
+baseurl = "https://www.opensourceway.blog"
 title = "「开源之道」"
 languageCode = "zh-CN"
 hasCJKLanguage = true
