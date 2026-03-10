@@ -24,4 +24,4 @@ rssLimit = 100
           block = [['\[', '\]'], ['$$', '$$']]
           inline = [['\(', '\)']]
 [params]
-  math = false
+  math = true

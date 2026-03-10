@@ -5,10 +5,6 @@
 
     {{ partial "meta.html" . }}
 
-    {{ if .Param "math" }}
-       {{ partialCached "math.html" . }}
-     {{ end }}
-    
      <base href="{{ .Site.BaseURL }}">
     <title>{{ .Site.Title }}</title>
     <link rel="canonical" href="{{ .Permalink }}">

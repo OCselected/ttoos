@@ -4,7 +4,8 @@
     <meta charset="utf-8">
 
     {{ partial "meta.html" . }}
-
+<!-- support latex math -->
+    {{ partial "math.html" . }}
     <base href="{{ .Site.BaseURL }}">
     <title> {{ .Title }} - 「开源之道」 </title>
     <link rel="canonical" href="{{ .Permalink }}">
