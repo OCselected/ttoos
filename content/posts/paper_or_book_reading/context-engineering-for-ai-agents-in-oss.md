@@ -4,7 +4,7 @@ categories:
 - 哲学
 - 智识
 - 思考
-date: 2026-04-08T14:11:57+08:00
+date: 2026-04-21T14:11:57+08:00
 description: "本文以《Context Engineering for AI Agents in OSS》为引，揭示了开源协作正从“人类辅助”向“硅基接管”演进。面对 Agent 产生的代码幻觉，开源社区正通过“上下文工程”将六大维度的隐性知识转化为机器可读的契约。文章展望，未来只要拥有 Token 与算力，开源门槛将无限降低，迎来生产力大爆炸。但其前提是，社会骇客必须构筑由 `License`、`Governance`、`agent`、`skill` 到 `soul.md` 组成的“五维契约矩阵”。人类的终极使命将从编写代码，升维至设计机器的社会契约。"
 keywords:
 - Open Source
