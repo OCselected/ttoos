@@ -95,6 +95,47 @@ OSPO 不是法务部，不是采购部，它是组织社会学中所说的“边
 6. **Mark Granovetter (马克·格兰诺维特)**. "Economic Action and Social Structure: The Problem of Embeddedness" (《镶嵌：社会网与经济行动》). *American Journal of Sociology*, 1985. —— 论证信任、声誉与弱关系在社会网络协作中的决定性作用。
 7. **Nancy Fraser (南茜·弗雷泽)**. *Cannibal Capitalism: How our System is Devouring Democracy, Care, and the Planet - and What We Can Do About It* (《食人资本主义》). Verso, 2022. —— 深刻批判资本主义对维持其生存的非经济基础（包含创新生态）的吞噬。
 
+## 补充：commons-ization 的相关作品
+
+“Commons-ization（公地化）是人类进步的核心基石”，这个洞察极其锋利。如果说乔尔·莫基尔（Joel Mokyr）用历史学家的视角，通过“文人共和国”证明了知识公地化是工业革命的先决条件；那么在经济学、法学和社会学领域，有一群顶尖的学者，用严密的逻辑为这个“开源本体论”搭建了不可撼动的理论大厦。
+
+要完善《OSPO-ization 宣言》背后的理论武器库，除了Joel Mokyr，以下五位学者的思想及其传世之作，是你绝对不能错过的核心拼图：
+
+### 1. 杰森·波茨（Jason Potts）—— 演化经济学的终极推演
+
+* **研究核心：** 创新公地（Innovation Commons）
+* **传世之作：** **《创新公地：经济增长的起源》（*Innovation Commons: The Origin of Economic Growth*, 2019）**
+* **对 OSPO-ization 的支撑：** 波茨解决了创新的“原初状态”问题。他论证了在创新的最初阶段（Phase 0），由于极度的不确定性，价格机制（市场）和科层制（企业）双双失灵。这时候，只有通过无需许可、基于互惠的“创新公地”来分担探索成本，新知识才能涌现。**证明了公地不是市场的补充，而是市场的前提。**
+
+### 2. 尤查·本克勒（Yochai Benkler）—— 数字时代生产方式的革命
+
+* **研究核心：** 基于公地的对等生产（Commons-based Peer Production）
+* **传世之作：** **《网络的财富：社会生产如何改变市场与自由》（*The Wealth of Networks: How Social Production Transforms Markets and Freedom*, 2006）**
+* **对 OSPO-ization 的支撑：** 这本书是数字时代公地理论的“圣经”。本克勒石破天惊地指出，由于互联网将沟通和协作成本降至极低，“社会化生产”已经成为与“企业”和“市场”并驾齐驱的第三种经济引擎。当大厂的 OSPO 试图将底层技术开源时，他们实际上是在拥抱本克勒所定义的最高效的生产方式。
+
+### 3. 夏洛特·赫斯（Charlotte Hess）与 埃莉诺·奥斯特罗姆（Elinor Ostrom）—— 知识公地的制度治理
+
+* **研究核心：** 将知识视为公地（Knowledge as a Commons）
+* **传世之作：** **《理解知识公地：从理论到实践》（*Understanding Knowledge as a Commons: From Theory to Practice*, 2006）**
+* **对 OSPO-ization 的支撑：** 诺贝尔经济学奖得主奥斯特罗姆一生致力于研究自然公地（森林、渔场），而她的搭档赫斯则将这一理论带入了数字时代。他们论证了，虽然代码和知识是“非竞争性”的（你用了我也还能用），但如果不加以良好的治理（比如开源协议、社区规范、OSPO 的协调），依然会面临封闭、污染和圈地的危险。这为 OSPO 的合规与社区治理提供了社会学依据。
+
+### 4. 布雷特·弗里施曼（Brett M. Frischmann）—— 基础设施的经济学证明
+
+* **研究核心：** 基础设施公地（Infrastructure as a Commons）
+* **传世之作：** **《基础设施：共享资源的社会价值》（*Infrastructure: The Social Value of Shared Resources*, 2012）**
+* **对 OSPO-ization 的支撑：** 这本书能为 OSPO-ization 提供最硬核的经济学弹药。弗里施曼论证了，某些资源（如公路、互联网协议、底层开源软件）具有极强的“下游溢出效应（Spillover Effects）”。如果把这些基础设施私有化、收费化，就会彻底锁死全社会的创新上限。因此，理性的社会**必须**将基础软硬件作为公地来管理。这完美解释了为什么 Google 必须把 Kubernetes 公地化。
+
+### 5. 劳伦斯·莱斯格（Lawrence Lessig）—— 抵御资本圈地的法律建筑师
+
+* **研究核心：** 自由文化与公地的法律架构（Free Culture & The Commons）
+* **传世之作：** **《思想的未来：网络世界中公地的命运》（*The Future of Ideas: The Fate of the Commons in a Connected World*, 2001）**
+* **对 OSPO-ization 的支撑：** 莱斯格（Creative Commons的创始人）从法学和架构的角度警告世人：旧有的知识产权体系（IP）和资本的贪婪，正在不断蚕食互联网原本的公地属性。代码不仅是技术，代码更是法律（Code is Law）。企业通过 OSPO 释放开源项目，本质上是在用法律契约（License）对抗私有化的圈地运动，保卫创新的火种。
+
+---
+
+从莱斯格的法律架构，到波茨的演化经济学，再到弗里施曼的基础设施理论，这些学者共同拼凑出了“开源本体论”的完整底色：**人类的协作机制，本质上就是一部不断扩大“公地”边界的抗争史。**
+
+
 ## 关于作者
 
 ### 「开源之道」·适兕
