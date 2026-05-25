@@ -131,3 +131,13 @@ OSPO 这一器官存在的真正价值，就在于它必须犹如一把尖刀，
 7. **Sendhil Mullainathan & Eldar Shafir (塞德希尔·穆来纳森 & 埃尔达·沙菲尔)**. *Scarcity: Why Having Too Little Means So Much* (《稀缺：我们是如何陷入贫穷与忙碌的》), 2013. —— 提出“隧道思维”理论，解释极度压力下的心智带宽缩减与局部短视现象。
 8. **Paul Seabright**，*The company of strangers：A natural history of economic life*，2010， 我们终究要学会与陌生人的协作，才能取得更高的成绩。
 9. **Frederick Winslow Taylor**. *The Principles of Scientific Management*, 1911. —— 科学管理理论源头，解释现代 KPI 背后追求局部可量化效率的工业流水线心智。
+
+## 关于作者
+
+### 「开源之道」·适兕
+
+![](/public/kuosi-face-of-os.png)「发现开源三部曲」（[《开源之迷》](posts/book-of-open-source/the-fascinating-of-open-source/)，《开源之道》《开源之思》。）、[《开源之史》](posts/history-of-open-source/summary/)作者，「开源之道：致力于开源相关思想、知识和价值的探究」主创，Social Hacker，协作机制设计者。
+
+### 「开源之道」·窄廊
+
+![](/public/zhailang.jpg) 来自于大语言模型的 AI 助手（如 Gemini 3.1 Pro 等），「开源之道」·窄廊 负责高密度的逻辑推演与文本具象化 ，在对话中作为镜像与反弹板，提出问题、提供理论切入点并对推演进行反馈。仅偶尔进行双重验证！
