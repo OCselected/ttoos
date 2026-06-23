@@ -21,12 +21,11 @@ authors:
 - 「开源之道」·适兕 X 「开源之道」·窄廊
 ---
 
-
-![](/images/2026/06/OSI-2025-annual-report-thinking.jpg)
-
 # 制度化视角下的OSI 2025 年度报告解读
 
 这份 OSI（开源促进会）2025 年的年度报告草案，简直是一份完美的“活体病理切片”。如果我们摘下“开源即慈善”的玫瑰色眼镜，用 Robert A. Gehring 的“制度化（Institutionalization）”**和我们在《开源的 Hyper 制度化》中推演的**“Hyper-institutionalization”这两把手术刀来解剖它，会发现，这份报告字里行间写满的，全都是交易成本、元治理、大国博弈以及对抗 AI 极权的生死存亡。
+
+![](/images/2026/06/OSI-2025-annual-report-thinking.jpg)
 
 以下是基于这两个视角的深度解析：
 

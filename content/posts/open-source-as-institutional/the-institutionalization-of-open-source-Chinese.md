@@ -18,8 +18,8 @@ tags:
 title: "开源的制度化（译）"
 url: ""
 authors:
-- ** R.A. 格林**
-translator:
+- Robert A. Gehring
+translater:
 - 「开源之道」·适兕 X 「开源之道」·窄廊
 ---
 
