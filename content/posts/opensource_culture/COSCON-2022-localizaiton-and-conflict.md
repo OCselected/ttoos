@@ -9,7 +9,7 @@ keywords:
 - Culture
 tags:
 - 开源文化
-title: "文化的落地与冲突解决 —— COSCon\'22 开源文化主题 "
+title: "文化的落地与冲突解决 —— COSCon'22 开源文化主题 "
 url: ""
 authors:
 - 「开源之道」·适兕

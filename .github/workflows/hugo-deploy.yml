@@ -3,29 +3,28 @@ name: Hugo deploy
 on:
   push:
     branches:
-      - master  # Set a branch name to trigger deployment
+      - papermod-theme  # test branch for PaperMod theme deployment
   pull_request:
 
 jobs:
   deploy:
     runs-on: ubuntu-22.04
     steps:
-      - uses: actions/checkout@master
-#        with:
-#          submodules: true  # Fetch Hugo themes (true OR recursive)
-#          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+      - uses: actions/checkout@v4
+        with:
+          submodules: false  # PaperMod is committed directly
 
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
+        uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: '0.52'
+          hugo-version: '0.155.1'
 
       - name: Build
         run: hugo --minify
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
-        if: github.ref == 'refs/heads/master'
+        if: github.ref == 'refs/heads/papermod-theme'
         with:
           deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           github_token: ${{ secrets.GITHUB_TOKEN }}

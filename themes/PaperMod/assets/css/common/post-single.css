@@ -1,0 +1,215 @@
+.page-header,
+.post-header {
+    margin: 24px auto var(--content-gap) auto;
+}
+
+.post-title {
+    font-size: 40px;
+}
+
+.post-description {
+    margin-top: 10px;
+}
+
+.post-meta {
+    margin-top: 5px;
+}
+
+.post-meta,
+.breadcrumbs {
+    color: var(--secondary);
+    font-size: 14px;
+}
+
+.breadcrumbs {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.2rem;
+}
+
+.breadcrumbs a {
+    font-size: 16px;
+}
+
+.breadcrumbs svg {
+    height: 1em;
+}
+
+.i18n_list {
+    display: inline-flex;
+}
+
+.post-meta .i18n_list li {
+    list-style: none;
+    margin: auto 3px;
+}
+
+.post-meta a,
+.toc a:hover {
+    text-underline-offset: 0.3rem;
+    text-decoration: underline;
+}
+
+.post-meta a {
+    color: var(--secondary);
+    text-decoration-style: dotted;
+}
+
+details.toc {
+    margin-bottom: var(--content-gap);
+    background: var(--code-bg);
+    border-radius: var(--radius);
+    border: 1px solid var(--border);
+}
+
+[data-theme="dark"] details.toc {
+    background: var(--entry);
+}
+
+details.toc summary {
+    padding: 0.3rem 1.2rem;
+    border-radius: var(--radius);
+}
+
+details summary {
+    cursor: pointer;
+    display: list-item;
+    width: 100%;
+    margin-inline-start: 0;
+    user-select: none;
+}
+
+details .title {
+    display: inline;
+    font-weight: 500;
+    margin-inline-start: 0.2rem;
+}
+
+details {
+    interpolate-size: allow-keywords;
+}
+
+details::details-content {
+    height: 0;
+    opacity: 0;
+    overflow: clip;
+    transition: height 150ms ease,
+        opacity 150ms ease,
+        content-visibility 150ms allow-discrete;
+}
+
+details[open]::details-content {
+    height: auto;
+    opacity: 1;
+}
+
+details .inner {
+    margin: 0 2.4rem;
+    padding-bottom: 0.6rem;
+}
+
+details li ul {
+    margin-inline-start: var(--gap);
+}
+
+.post-content {
+    color: var(--content);
+    margin: 30px 0;
+}
+
+.post-footer {
+    margin-top: var(--content-gap);
+}
+
+.post-footer>* {
+    margin-bottom: 10px;
+}
+
+.post-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.post-tags li {
+    display: inline-block;
+}
+
+.post-tags a,
+.share-buttons,
+.paginav {
+    border-radius: var(--radius);
+    background: var(--code-bg);
+    border: 1px solid var(--border);
+}
+
+.post-tags a {
+    display: block;
+    padding: 0 14px;
+    color: var(--secondary);
+    font-size: 14px;
+    line-height: 34px;
+    background: var(--code-bg);
+}
+
+.post-tags a:hover,
+.paginav a:hover {
+    background: var(--border);
+}
+
+.share-buttons {
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+.share-buttons li,
+.share-buttons a {
+    display: inline-flex;
+}
+
+.share-buttons a:not(:last-of-type) {
+    margin-inline-end: 12px;
+}
+
+.paginav {
+    display: flex;
+    line-height: 1.2;
+}
+
+.paginav .title {
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    font-size: 0.8rem;
+    color: var(--secondary);
+}
+
+.paginav a {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    padding: 0.8rem;
+    border-radius: var(--radius);
+}
+
+.paginav span:hover:not(.title) {
+    text-underline-offset: 0.2rem;
+    text-decoration: underline;
+}
+
+.paginav .next {
+    margin-inline-start: auto;
+    text-align: right;
+}
+
+[dir="rtl"] .paginav .next {
+    text-align: left;
+}
+
+h1>a>svg {
+    display: inline;
+}
