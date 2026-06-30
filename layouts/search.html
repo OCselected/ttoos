@@ -16,16 +16,27 @@
     {{- end }}
 </header>
 
-<div id="searchbox" class="search-form">
-    <input id="searchInput" disabled 
+<link crossorigin="anonymous" rel="preload" as="fetch" href="../index.json">
+
+<div id="searchbox">
+    <input id="searchInput" autofocus disabled 
         placeholder='搜索文章标题、摘要、内容...'
         aria-label="search" type="search" autocomplete="off" maxlength="128">
-    <div class="search-stat" id="searchStat"></div>
     <ul id="searchResults" class="searchResults" aria-label="search results"></ul>
+    <div class="search-stat" id="searchStat"></div>
 </div>
 
+{{- $search_js := resources.Get "js/search.js" }}
+{{- if $search_js }}
+<script defer src="{{ $search_js.RelPermalink }}"></script>
+{{- else }}
+{{- $fuse := resources.Get "js/fuse.basic.min.js" }}
+{{- $fast := resources.Get "js/fastsearch.js" | js.Build (dict "params" (dict)) }}
+{{- $search := slice $fuse $fast | resources.Concat "assets/js/search.js" | resources.Minify | fingerprint }}
+<script defer src="{{ $search.RelPermalink }}" integrity="{{ $search.Data.Integrity }}" crossorigin="anonymous"></script>
+{{- end }}
+
 <script>
-// Add keyboard shortcut: press "/" anywhere to focus search
 document.addEventListener('keydown', function(e) {
     if (e.key === '/' && !e.ctrlKey && !e.metaKey && 
         !['INPUT', 'TEXTAREA', 'SELECT'].includes(e.target.tagName)) {
