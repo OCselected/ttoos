@@ -1,0 +1,90 @@
+/* Responsive optimizations for Chinese text on various devices */
+
+/* Tablet: medium screens */
+@media screen and (max-width: 1024px) {
+    .post-content {
+        font-size: 1em;
+    }
+    .page-header h1 {
+        font-size: 1.6em;
+    }
+    .entry-header h2 {
+        font-size: 1.3em;
+    }
+}
+
+/* Mobile: phone screens */
+@media screen and (max-width: 768px) {
+    body {
+        font-size: 0.95em;
+    }
+    .post-content {
+        font-size: 1em;
+        line-height: 1.75;
+    }
+    .entry-header h2 {
+        font-size: 1.2em;
+        line-height: 1.4;
+    }
+    .page-header h1 {
+        font-size: 1.4em;
+    }
+    /* Improve touch targets on mobile */
+    .post-entry {
+        padding: calc(var(--gap) * 0.8);
+    }
+    .entry-content {
+        font-size: 0.95em;
+    }
+    /* Menu: allow horizontal scroll instead of wrapping */
+    .header-nav #menu {
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+        scrollbar-width: none;
+        gap: 0.5rem;
+        padding-bottom: 4px;
+    }
+    .header-nav #menu::-webkit-scrollbar {
+        display: none;
+    }
+    .header-nav #menu li {
+        white-space: nowrap;
+        flex-shrink: 0;
+    }
+    /* Footer text smaller on mobile */
+    .footer {
+        font-size: 0.85em;
+    }
+    /* Search page mobile adjustments */
+    #searchInput {
+        font-size: 1em;
+        padding: 0.6em 0.8em;
+    }
+}
+
+/* Very small screens */
+@media screen and (max-width: 480px) {
+    .post-content {
+        font-size: 0.95em;
+        line-height: 1.7;
+    }
+    .entry-header h2 {
+        font-size: 1.1em;
+    }
+    .first-entry {
+        min-height: 200px;
+    }
+    .pagination {
+        font-size: 0.9em;
+    }
+}
+
+/* Improve readability on wide screens */
+@media screen and (min-width: 1400px) {
+    .post-content {
+        font-size: 1.1em;
+        max-width: 800px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
