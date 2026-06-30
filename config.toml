@@ -33,8 +33,8 @@ enableRobotsTXT = true
 
 [params]
   env = "production"
-  author = "适兕"
-  description = "致力于开源及其相关思想的传播与探讨"
+  author = "「开源之道」·适兕"
+  description = "致力于开源及其相关思想、知识和价值的探究！"
   defaultTheme = "auto"
   ShowReadingTime = true
   ShowWordCount = true
@@ -45,7 +45,7 @@ enableRobotsTXT = true
   ShowPageNums = true
   ShowToc = true
   ShowPostNavLinks = true
-  ShowShareButtons = false
+  ShowShareButtons = true
   ShowFullTextinRSS = false
   mainSections = ["posts"]
 
@@ -60,9 +60,12 @@ enableRobotsTXT = true
   [params.homeInfoParams]
     Title = "「开源之道」"
     Content = """
-致力于开源及相关思想、文化和经济的传播与探讨。
+**致力于开源及其相关思想、知识和价值的探究！**
 
-这里记录着对开源运动的观察、思考与翻译，涵盖开源历史、社区治理、商业模式、OSPO 演化、制度经济学等多个维度。**917+ 篇文章，持续更新中。**
+来自DeepSeek Deep review 的评价：
+
+> 开源之道是中文世界**唯一以系统性学术框架（新制度经济学）组织开源知识**的知识库，区别于碎片化的技术博客或新闻聚合。其最大特色在于**将开源置于制度经济学的解析框架之下**，而非诉诸技术决定论或道德说教。
+
 """
 
   [params.fuseOpts]
@@ -91,17 +94,13 @@ enableRobotsTXT = true
   name = "Github"
   url = "https://github.com/OCselected/ttoos"
 
-[[menu.main]]
-  identifier = "nav"
-  name = "📖 导航"
-  url = "/posts/ocselected-reading-guide/"
-  weight = 1
+[[params.socialIcons]]
+  name = "X"
+  url = "https://x.com/lijiangsheng1"
 
-[[menu.main]]
-  identifier = "community"
-  name = "💬 连接"
-  url = "/community/communication/"
-  weight = 2
+[[params.socialIcons]]
+  name = "Linkedin"
+  url = "https://www.linkedin.com/in/lijiansheng/"
 
 [[menu.main]]
   identifier = "reading"
@@ -113,7 +112,7 @@ enableRobotsTXT = true
   identifier = "works"
   name = "✍️ 作品"
   url = "/posts/book-of-open-source/the-fascinating-of-open-source/"
-  weight = 4
+  weight = 1
 
 [[menu.main]]
   identifier = "sponsor"
@@ -133,11 +132,6 @@ enableRobotsTXT = true
   url = "/archives/"
   weight = 7
 
-[[menu.main]]
-  identifier = "join"
-  name = "🌱 参与"
-  url = "/community/welcome-to-anyone-contribute/"
-  weight = 8
 
 [[menu.main]]
   identifier = "dialogue"
@@ -145,20 +139,9 @@ enableRobotsTXT = true
   url = "/posts/osw-dialogue/introduce-open-source-way-dialogue/"
   weight = 9
 
-[[menu.main]]
-  identifier = "subscribe"
-  name = "📡 订阅"
-  url = "/index.xml"
-  weight = 10
 
 [[menu.main]]
   identifier = "search"
   name = "🔍 搜索"
   url = "/search/"
   weight = 11
-
-[[menu.main]]
-  identifier = "about"
-  name = "ℹ️ 关于"
-  url = "/posts/the_way_of_open_source/open_source_way/"
-  weight = 12
