@@ -66,10 +66,14 @@ enableRobotsTXT = true
   [params.fuseOpts]
     isCaseSensitive = false
     shouldSort = true
+    includeScore = true
+    includeMatches = true
+    findAllMatches = true
+    ignoreLocation = true
     location = 0
-    distance = 1000
-    threshold = 0.3
-    minMatchCharLength = 0
+    distance = 2000
+    threshold = 0.35
+    minMatchCharLength = 1
     keys = ["title", "permalink", "summary", "content"]
 
   [params.editPost]

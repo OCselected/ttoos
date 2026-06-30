@@ -1,0 +1,38 @@
+{{- define "main" }}
+
+<header class="page-header">
+    <h1>{{- (printf "%s&nbsp;" .Title ) | htmlUnescape -}}
+        <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none"
+            stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <circle cx="11" cy="11" r="8"></circle>
+            <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+        </svg>
+        <span class="search-shortcut-hint">/</span>
+    </h1>
+    {{- if .Description }}
+    <div class="post-description">
+        {{ .Description }}
+    </div>
+    {{- end }}
+</header>
+
+<div id="searchbox" class="search-form">
+    <input id="searchInput" disabled 
+        placeholder='搜索文章标题、摘要、内容...'
+        aria-label="search" type="search" autocomplete="off" maxlength="128">
+    <div class="search-stat" id="searchStat"></div>
+    <ul id="searchResults" class="searchResults" aria-label="search results"></ul>
+</div>
+
+<script>
+// Add keyboard shortcut: press "/" anywhere to focus search
+document.addEventListener('keydown', function(e) {
+    if (e.key === '/' && !e.ctrlKey && !e.metaKey && 
+        !['INPUT', 'TEXTAREA', 'SELECT'].includes(e.target.tagName)) {
+        e.preventDefault();
+        document.getElementById('searchInput')?.focus();
+    }
+});
+</script>
+
+{{- end }}{{/* end main */}}
