@@ -45,6 +45,7 @@ enableRobotsTXT = true
   ShowPostNavLinks = true
   ShowShareButtons = false
   ShowFullTextinRSS = false
+  mainSections = ["posts"]
 
   [params.assets]
     disableHLJS = true
@@ -121,27 +122,27 @@ enableRobotsTXT = true
   weight = 6
 
 [[menu.main]]
+  identifier = "archive"
+  name = "📅 归档"
+  url = "/archives/"
+  weight = 7
+
+[[menu.main]]
   identifier = "join"
   name = "🌱 参与"
   url = "/community/welcome-to-anyone-contribute/"
-  weight = 7
+  weight = 8
 
 [[menu.main]]
   identifier = "dialogue"
   name = "🎙️ 对话"
   url = "/posts/osw-dialogue/introduce-open-source-way-dialogue/"
-  weight = 8
+  weight = 9
 
 [[menu.main]]
   identifier = "subscribe"
   name = "📡 订阅"
   url = "/index.xml"
-  weight = 9
-
-[[menu.main]]
-  identifier = "about"
-  name = "ℹ️ 关于"
-  url = "/posts/the_way_of_open_source/open_source_way/"
   weight = 10
 
 [[menu.main]]
@@ -149,3 +150,9 @@ enableRobotsTXT = true
   name = "🔍 搜索"
   url = "/search/"
   weight = 11
+
+[[menu.main]]
+  identifier = "about"
+  name = "ℹ️ 关于"
+  url = "/posts/the_way_of_open_source/open_source_way/"
+  weight = 12
