@@ -1,0 +1,22 @@
+<div id="reading-progress"></div>
+<script>
+(function() {
+    const bar = document.getElementById('reading-progress');
+    if (!bar) return;
+    
+    function updateProgress() {
+        const scrollTop = window.scrollY;
+        const docHeight = document.documentElement.scrollHeight - window.innerHeight;
+        if (docHeight <= 0) {
+            bar.style.width = '100%';
+            return;
+        }
+        const progress = Math.min((scrollTop / docHeight) * 100, 100);
+        bar.style.width = progress + '%';
+    }
+    
+    window.addEventListener('scroll', updateProgress, { passive: true });
+    window.addEventListener('resize', updateProgress, { passive: true });
+    updateProgress();
+})();
+</script>

@@ -1,0 +1,16 @@
+/* Reading progress bar - thin bar at top of article pages */
+#reading-progress {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 0%;
+    height: 3px;
+    background: linear-gradient(90deg, var(--primary) 0%, var(--tertiary) 100%);
+    z-index: 1000;
+    transition: width 0.1s ease-out;
+    display: none;
+}
+
+.single #reading-progress {
+    display: block;
+}

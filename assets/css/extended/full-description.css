@@ -1,0 +1,11 @@
+/* Show full description text in article list entries */
+.post-entry .entry-content {
+    -webkit-line-clamp: unset !important;
+    line-clamp: unset !important;
+    overflow: visible !important;
+}
+
+.first-entry .entry-content {
+    -webkit-line-clamp: unset !important;
+    line-clamp: unset !important;
+}
