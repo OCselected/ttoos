@@ -1,5 +1,31 @@
 /* Responsive optimizations for Chinese text on various devices */
 
+/* ============ Content width optimization ============ */
+
+/* Default: increase main content width for better use of laptop screen space */
+:root {
+    --main-width: 860px;
+    --nav-width: 1000px;
+}
+
+/* Narrow screens: restore PaperMod defaults */
+@media screen and (max-width: 900px) {
+    :root {
+        --main-width: 720px;
+        --nav-width: 900px;
+    }
+}
+
+/* Very narrow: even tighter */
+@media screen and (max-width: 768px) {
+    :root {
+        --main-width: 100%;
+        --nav-width: 100%;
+    }
+}
+
+/* ============ Typography ============ */
+
 /* Tablet: medium screens */
 @media screen and (max-width: 1024px) {
     .post-content {
@@ -79,12 +105,15 @@
     }
 }
 
-/* Improve readability on wide screens */
+/* Wide screens: more generous spacing */
 @media screen and (min-width: 1400px) {
-    .post-content {
-        font-size: 1.1em;
-        max-width: 800px;
-        margin-left: auto;
-        margin-right: auto;
+    :root {
+        --main-width: 920px;
+    }
+}
+
+@media screen and (min-width: 1600px) {
+    :root {
+        --main-width: 980px;
     }
 }
