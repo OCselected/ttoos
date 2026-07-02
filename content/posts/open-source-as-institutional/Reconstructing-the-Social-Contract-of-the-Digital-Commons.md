@@ -19,6 +19,7 @@ title: "重构数字公地的社会契约：从要素禀赋到 Akrites 的多中
 url: ""
 authors:
 - 「开源之道」·适兕 X 「开源之道」·窄廊
+comments: true
 ---
 
 ## 引言
