@@ -7,9 +7,30 @@
     renderMathInElement(document.body, {
       delimiters: [
         {left: "$$", right: "$$", display: true},
-        {left: "$", right: "$", display: false}
+        {left: "$", right: "$", display: false},
+        {left: "\\[", right: "\\]", display: true},
+        {left: "\\(", right: "\\)", display: false}
       ],
       throwOnError: false
     });
   });
 </script>
+<style>
+  /* Prevent KaTeX formulas from being clipped by PaperMod's overflow rules */
+  .post-content .katex-display,
+  .md-content .katex-display {
+    overflow-x: auto;
+    overflow-y: hidden;
+    padding: 0.5em 0;
+  }
+  .post-content .katex,
+  .md-content .katex {
+    font-size: 1.05em;
+  }
+  /* Ensure scrollable display math on narrow screens */
+  .katex-display > .katex {
+    max-width: 100%;
+    overflow-x: auto;
+    overflow-y: hidden;
+  }
+</style>
