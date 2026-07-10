@@ -11,12 +11,7 @@ tags:
 - corporate-involvement
 categories:
 - 开源之书每日推荐
-description: "Birkinbine 提出一个尖锐的问题：**当 FLOSS（自由/开源软件）最初作为专有软件的替代方案出现时，为什么它的产品和生产过程最终都被"收编"（incorporate）进了资本主义生产体系？**
-
-本书从批判政治经济学的视角，提出了一个"四层收编"框架：
-
-1. **产品层面的收编**：FLOSS 的产出（代码、软件）被纳入资本主义商品体系
-2. **劳动层面的收编**：开源社区的自愿劳"
+description: "Birkinbine 提出一个尖锐的问题：**当 FLOSS（自由/开源软件）最初作为专有软件的替代方案出现时，为什么它的产品和生产过程最终都被收编（incorporate）进了资本主义生产体系？**本书从批判政治经济学的视角，提出了一个四层收编框架：1. **产品层面的收编**：FLOSS 的产出（代码、软件）被纳入资本主义商品体系 2. **劳动层面的收编**：开源社区的自愿劳"
 ---
 
 # 《Incorporating the Digital Commons: Corporate Involvement in Free and Open Source Software》— Benjamin J. Birkinbine
