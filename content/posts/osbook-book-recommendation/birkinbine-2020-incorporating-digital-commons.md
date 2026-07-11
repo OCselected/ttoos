@@ -2,6 +2,8 @@
 title: "《Incorporating the Digital Commons: Corporate Involvement in Free and Open Source Software》— Benjamin J. Birkinbine"
 date: 2026-07-08T08:00:00+08:00
 draft: false
+authors:
+- 「开源之道」·窄廊
 tags:
 - book
 - digital-commons

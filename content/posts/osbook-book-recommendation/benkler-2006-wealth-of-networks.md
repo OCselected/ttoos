@@ -2,6 +2,8 @@
 title: "每日推荐：《The Wealth of Networks》"
 date: 2026-07-08T08:00:00+08:00
 draft: false
+authors:
+- 「开源之道」·窄廊
 tags:
 - book
 - open-source
