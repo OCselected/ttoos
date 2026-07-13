@@ -382,6 +382,33 @@ comments: true
 6. 代码即资本——当开源代码成为数字基础设施，维护者从「劳动者」变为「基础设施管理者」时，财产分配的逻辑需要重新设计。Heartbleed 漏洞揭示的「开源基础设施危机」本质上是制度设计失败：没有为关键基础设施维护者设计可持续的回报机制
 7. 开源的政治经济学展望——从 Commons-based Peer Production（Benkler）到 Platform Cooperativism（Scholz），开源的生产模式能否通向更公平的财产分配制度？还是说，它会像资本主义历史上的每一次技术创新一样，最终被现有制度收编？ 
 
+## 结语：开源经济学，也是 The Economics of Open Source
+
+当我们回顾这 12 讲的内容——软件生产、知识财产、商业模式、劳动力市场、交易成本、组织治理、文化作用、政治经济学、信息规则、排他与容他、劳动报酬——我们实际上是在回答一个被主流经济学长期忽视的问题：
+
+> 在没有雇佣关系、没有层级命令、没有价格信号的前提下，人类如何实现大规模、高可靠、持续几十年的协作？
+
+这不是一个边缘问题。它和以下问题属于同一个家族：
+
+- **The Economics of Crime**（Gary Becker，1968）：罪犯是理性的——任何行为，包括违法，都可以用激励分析来理解
+- **An Economist’s Lessons on Happiness：Farewell Dismal Science!**（Richard Easterlin，2021）：经济增长不必然带来幸福感——经济学不能只关心 GDP
+- **The Economics of AI**（Agrawal, Gans, Goldfarb，2018）：AI 的经济本质是预测成本下降——当一种关键生产要素成本趋近于零时，整个经济结构会重组
+- **The Economics of the Commons**（Elinor Ostrom，1990）：公共资源不一定被过度使用——自组织可以比政府或市场更有效
+- **Pirate Economics**（Peter Leeson，2009）：即使在非法领域，人类也能建立可信的民主治理——制度可以在没有正式法律的情况下演化
+- **Doughnut Economics**（Kate Raworth，2017）：无限增长不是经济的目标——人类福祉应在生态边界内实现
+- **Complexity Economics**（W. Brian Arthur，2015）：经济不是均衡系统，而是复杂适应系统——涌现行为无法被中央计划者预测
+- Roland T. Rust 的《The feeling Economy： How Artificial Intelligence Is Creating the Era of Empathy》：AI 接管了认知劳动（思考、分析、计算）
+                                                                                                ┣━ 人类剩余的稀缺能力是情感劳动（共情、判断、审美）
+                                                                                                ┗━ 经济价值从「理性效率」转向「情感体验」
+
+**开源经济学属于这个家族。** 它不是一个「又来一个 XX 经济学」的标签，而是对上述所有问题的延伸：如果犯罪是理性的，如果幸福感不来自增长，如果预测成本趋近于零，如果公地可以自组织，如果海盗都能建立民主，如果增长不是唯一目标，如果经济是复杂适应系统——那么，**在没有雇佣关系、没有层级命令、没有价格信号的世界里，协作如何可能？**
+
+这个问题的答案，不仅是关于开源的，也是关于人类在数字时代如何组织自身的。这 12 讲试图提供一些线索，但远未完成。接下来的路，需要每一位参与者用自己的研究和实践来填补。
+
+> 经济学不是关于钱的，而是关于选择的。开源经济学不是关于代码的，而是关于不靠钱和权也能协作的选择。
+>
+> —— 「开源之道」·适兕
+
 #### 推荐阅读书籍和材料
 
 * Gates, Bill, 1976: An Open Letter to Hobbyists. In: Computer Notes 1(9), 3.
