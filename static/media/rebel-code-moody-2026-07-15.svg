@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800" width="600" height="800">
+<defs>
+<filter id="s" x="-5%" y="-5%" width="110%" height="110%">
+  <feDropShadow dx="2" dy="4" stdDeviation="6" flood-color="#1A1A1A" flood-opacity="0.06"/>
+</filter>
+</defs>
+<rect width="600" height="800" rx="10" fill="#F5F0E8" filter="url(#s)"/>
+<rect x="0" y="0" width="600" height="5" fill="#1B3B6B"/>
+<circle cx="550" cy="50" r="130" fill="none" stroke="#1B3B6B" stroke-width="1.5" opacity="0.07"/>
+<circle cx="560" cy="40" r="80" fill="none" stroke="#1B3B6B" stroke-width="1" opacity="0.10"/>
+<rect x="20" y="90" width="14" height="14" fill="none" stroke="#1B3B6B" stroke-width="2" opacity="0.10" transform="rotate(15, 27, 97)"/>
+<rect x="40" y="65" width="72" height="22" rx="3" fill="#1B3B6B"/>
+<text x="76" y="80" text-anchor="middle" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="2" fill="#FFFFFF">BOOK</text>
+<text x="560" y="80" text-anchor="end" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="9" fill="#555555" opacity="0.5">2026-07-15</text>
+<text x="40" y="109" font-family="Georgia, Songti SC, Noto Serif CJK SC, serif" font-size="26" font-weight="900" fill="#1A1A1A">
+  <tspan x="40" dy="0">Rebel Code: Linux</tspan>
+  <tspan x="40" dy="34">and the Open Source</tspan>
+  <tspan x="40" dy="34">Revolution</tspan>
+</text>
+<text x="40" y="217" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="12" fill="#555555">Glyn Moody (2001)</text>
+<line x1="40" y1="245" x2="222" y2="245" stroke="#1B3B6B" stroke-width="1.5" opacity="0.25"/>
+<text x="40" y="267" font-family="-apple-system, PingFang SC, Helvetica Neue, Noto Sans CJK SC, Microsoft YaHei, Arial, sans-serif" font-size="12" fill="#1A1A1A">
+  <tspan x="40" dy="0">Rebel Code is the most complete and</tspan>
+  <tspan x="40" dy="20">vivid historical narrative of the</tspan>
+  <tspan x="40" dy="20">open source movement. Moody</tspan>
+  <tspan x="40" dy="20">chronicles the journey from the</tspan>
+  <tspan x="40" dy="20">early idealism of the Free Software</tspan>
+  <tspan x="40" dy="20">Foundation, through the unexpected</tspan>
+  <tspan x="40" dy="20">rise of the Linux kernel, to</tspan>
+</text>
+<rect x="40" y="429" width="90" height="18" rx="2" fill="#1A1A1A" opacity="0.04"/>
+<text x="85" y="442" text-anchor="middle" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="9" font-weight="700" fill="#555555">KEY IDEAS</text>
+<text x="40" y="457" font-family="-apple-system, PingFang SC, Helvetica Neue, Noto Sans CJK SC, Microsoft YaHei, Arial, sans-serif" font-size="11" fill="#1A1A1A">
+  <tspan x="40" dy="0">• Linux origin story</tspan>
+  <tspan x="40" dy="18">• Open source history</tspan>
+  <tspan x="40" dy="18">• Hacker ideal to industry</tspan>
+</text>
+<rect x="420" y="742" width="140" height="22" rx="2" fill="none" stroke="#1B3B6B" stroke-width="1" opacity="0.12"/>
+<text x="490" y="757" text-anchor="middle" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="8" letter-spacing="2" fill="#1B3B6B" opacity="0.35">OSCAR · 开源之书·共读</text>
+<rect x="0" y="796" width="600" height="4" fill="#1B3B6B" opacity="0.7"/>
+</svg>
