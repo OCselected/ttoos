@@ -67,6 +67,16 @@ enableRobotsTXT = true
     [languages.en.params]
       description = "Exploring open source through institutional economics, culture, and governance."
 
+      [languages.en.params.homeInfoParams]
+        Title = "The Way of Open Source"
+        Content = """
+**Dedicated to exploring open source and its related ideas, knowledge, and values.**
+
+A review from DeepSeek's Deep Research:
+
+> The Way of Open Source is the only knowledge base in the Chinese-speaking world that organizes open source knowledge through a systematic academic framework (New Institutional Economics), distinguishing it from fragmented technical blogs or news aggregators. Its greatest strength lies in placing open source under the analytical lens of institutional economics, rather than resorting to technological determinism or moral preaching.
+"""
+
     [languages.en.menus]
       [[languages.en.menus.main]]
         identifier = "china-daily"
