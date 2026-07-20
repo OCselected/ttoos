@@ -1,11 +1,84 @@
 baseURL = "https://www.opensourceway.blog"
 title = "「开源之道」"
 theme = "PaperMod"
-languageCode = "zh-CN"
 hasCJKLanguage = true
 copyright = 'Copyright (c) 2016 - 2026, 「开源之道」·适兕; all rights reserved.'
 defaultContentLanguage = "zh"
 defaultContentLanguageInSubdir = false
+disableLanguages = []
+enableEmoji = true
+enableRobotsTXT = true
+
+[languages]
+  [languages.zh]
+    languageCode = "zh-CN"
+    languageName = "中文"
+    contentDir = "content"
+    weight = 1
+    title = "「开源之道」"
+
+    [languages.zh.params]
+      description = "致力于开源及其相关思想、知识和价值的探究！"
+
+    [languages.zh.menus]
+      [[languages.zh.menus.main]]
+        identifier = "reading"
+        name = "📚 共读"
+        url = "https://osbook.club"
+        weight = 3
+      [[languages.zh.menus.main]]
+        identifier = "works"
+        name = "✍️ 作品"
+        url = "/posts/book-of-open-source/the-fascinating-of-open-source/"
+        weight = 1
+      [[languages.zh.menus.main]]
+        identifier = "sponsor"
+        name = "☕ 赞助"
+        url = "/posts/the_way_of_open_source/kuosi-2022-find-sponsor/"
+        weight = 5
+      [[languages.zh.menus.main]]
+        identifier = "contribute"
+        name = "🤝 投稿"
+        url = "/posts/open-source-way-community-program/call-for-proposals/"
+        weight = 6
+      [[languages.zh.menus.main]]
+        identifier = "archive"
+        name = "📅 归档"
+        url = "/archives/"
+        weight = 7
+      [[languages.zh.menus.main]]
+        identifier = "dialogue"
+        name = "🎙️ 对话"
+        url = "/posts/osw-dialogue/introduce-open-source-way-dialogue/"
+        weight = 9
+      [[languages.zh.menus.main]]
+        identifier = "search"
+        name = "🔍 搜索"
+        url = "/search/"
+        weight = 11
+
+  [languages.en]
+    languageCode = "en"
+    languageName = "English"
+    contentDir = "content/en"
+    weight = 2
+    title = "The Way of Open Source"
+
+    [languages.en.params]
+      description = "Exploring open source through institutional economics, culture, and governance."
+
+    [languages.en.menus]
+      [[languages.en.menus.main]]
+        identifier = "china-daily"
+        name = "🇨🇳 China Daily"
+        url = "/en/posts/china-open-source-daily/"
+        weight = 1
+      [[languages.en.menus.main]]
+        identifier = "archive"
+        name = "📅 Archive"
+        url = "/en/archives/"
+        weight = 7
+
 [pagination]
   pagerSize = 9
 enableEmoji = true
@@ -101,47 +174,3 @@ enableRobotsTXT = true
 [[params.socialIcons]]
   name = "Linkedin"
   url = "https://www.linkedin.com/in/lijiansheng/"
-
-[[menu.main]]
-  identifier = "reading"
-  name = "📚 共读"
-  url = "https://osbook.club"
-  weight = 3
-
-[[menu.main]]
-  identifier = "works"
-  name = "✍️ 作品"
-  url = "/posts/book-of-open-source/the-fascinating-of-open-source/"
-  weight = 1
-
-[[menu.main]]
-  identifier = "sponsor"
-  name = "☕ 赞助"
-  url = "/posts/the_way_of_open_source/kuosi-2022-find-sponsor/"
-  weight = 5
-
-[[menu.main]]
-  identifier = "contribute"
-  name = "🤝 投稿"
-  url = "/posts/open-source-way-community-program/call-for-proposals/"
-  weight = 6
-
-[[menu.main]]
-  identifier = "archive"
-  name = "📅 归档"
-  url = "/archives/"
-  weight = 7
-
-
-[[menu.main]]
-  identifier = "dialogue"
-  name = "🎙️ 对话"
-  url = "/posts/osw-dialogue/introduce-open-source-way-dialogue/"
-  weight = 9
-
-
-[[menu.main]]
-  identifier = "search"
-  name = "🔍 搜索"
-  url = "/search/"
-  weight = 11
