@@ -88,7 +88,7 @@ Acemoglu & Robinson 的一个关键论点是：**繁荣需要政治集权（有�
 ## 关联阅读
 
 - [Governing the Commons]({{< ref "governing-the-commons" >}}) — 从微观制度设计到宏观制度分析，Ostrom 与 Acemoglu 互补
-- [How Not to Network a Nation]({{< ref "how-not-to-network-a-nation-peters" >}}) — 大分流谱系的另一面：苏联互联网的失败告诉我们制度设计的重要性
+- How Not to Network a Nation — 大分流谱系的另一面：苏联互联网的失败告诉我们制度设计的重要性
 - [The Success of Open Source]({{< ref "weber-2004-success-of-open-source" >}}) — 政治学视角看开源的成功，与 Acemoglu 的制度分析形成对话
 - [The Logic of Liberty]({{< ref "logic-of-liberty-polanyi" >}}) — Polanyi 的自发秩序思想，为 Acemoglu 的制度设计提供了哲学基础
 
