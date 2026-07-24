@@ -165,8 +165,8 @@ enableRobotsTXT = true
     keys = ["title", "permalink", "summary", "content"]
 
   [params.editPost]
-    URL = "https://github.com/OCselected/ttoos/tree/master/content"
-    Text = "建议修改"
+    URL = "https://github.com/OCselected/ttoos/tree/papermod-theme/content"
+    Text = "修改源码"
     appendFilePath = true
 
 [[params.socialIcons]]
