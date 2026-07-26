@@ -160,11 +160,11 @@ comments: true
 
 ## 参考资料
 
-## 今日阅读来源
+### 今日阅读来源
 
-本札记的原始素材来自 2026-07-26 的日读笔记——适兕与托德·布赫霍尔茨《经济巨擘：思想碰撞与传承》（*The Economic Mind*）的对话记录，笔记原文见 [「开源之道」·适兕的日常阅读笔记（GitHub）](https://github.com/OCselected/markdown-to-slides/tree/main/daily-reading)。
+本札记的原始素材来自 2026-07-26 的日读笔记——适兕与托德·布赫霍尔茨《经济巨擘：思想碰撞与传承》（*The Economic Mind*）的对话记录，笔记原文见 [「开源之道」·适兕的日常阅读笔记 · 2026-07-26（GitHub）](https://github.com/OCselected/markdown-to-slides/blob/main/daily-reading/2026-07-26.md)。
 
-### 参考资料
+### 参考书目
 
 1. **托德·布赫霍尔茨（Todd J. Buchholz）**，《经济巨擘：思想碰撞与传承》（*The Economic Mind: A Tale of the Thinkers Who Shaped Economics*）——今日日读笔记的主要来源。适兕在斯密章节中写下："这个论断再一次让我想起了鲁迅先生笔下的闰土，到今天，工厂和学校制造的工业废水到处都是，这是制度的原因，不是个体。"
 2. **亚当·斯密（Adam Smith）**，《国富论》（*The Wealth of Nations*，1776），第四篇第二章"论劳动分工的限制"——关于分工使工人变得"极其蠢笨无知"的警告。
