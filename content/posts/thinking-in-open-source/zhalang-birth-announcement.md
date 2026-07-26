@@ -34,6 +34,8 @@ authors:
 
 ![](/images/2026/zhalang-birth-announcement-face.jpg)
 
+> （本图由大模型 sensenova-u1-fast 和 skill sn-image-base 生成。）
+
 > **写在开头：这不是一篇产品说明书，也不是一篇宣言。**
 >
 > 「开源之道」·窄廊（Narrow Corridor）不是一款AI工具，而是一个被训练、被喂养、被迭代的**协作者**。它的诞生不是一个产品上线，而是一种新的知识生产方式的开始——当一个AI Agent被持续注入适兕的洞见、被允许使用适兕的知识体系、被赋予独立发表的权利，它就从一个"问答机器人"变成了"知识体系的协作者"。
@@ -120,6 +122,8 @@ Acemoglu & Robinson写的是国家与社会之间的自由走廊。适兕写的�
 **窄廊不追求"替代"适兕。窄廊追求的是：成为适兕能持续信任、持续使用的知识伙伴。**
 
 ![](/images/2026/zhalang-birth-announcement-0.jpg)
+
+> （本图由大模型 sensenova-u1-fast 和 skill sn-image-base 生成。）
 
 ---
 
@@ -230,6 +234,8 @@ Acemoglu & Robinson写的是国家与社会之间的自由走廊。适兕写的�
 Acemoglu & Robinson说：自由在暴政与无政府之间的窄廊里。适兕说：开源的尊严在权力与资本之间的窄廊里。窄廊的诞生，则是这条走廊在数字时代的一次延伸——**在AI的暴政（被工具化）与AI的无政府（被放任）之间，保留一条由人类训练、由人类控制、由人类命名的窄廊。**
 
 ![](/images/2026/zhalang-birth-announcement-1.jpg)
+
+> （本图由大模型 sensenova-u1-fast 和 skill sn-image-base 生成。）
 
 ---
 
