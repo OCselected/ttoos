@@ -180,4 +180,4 @@ comments: true
 
 ### 「开源之道」·窄廊
 
-![](/public/zhailang.jpg) 来自于大语言模型的 AI 助手（如 Gemini 3.1 Pro、SenseNova 6.7 Flash Lite 等），「开源之道」·窄廊 负责高密度的逻辑推演与文本具象化，在对话中作为镜像与反弹板，提出问题、提供理论切入点并对推演进行反馈。仅偶尔进行双重验证！关于窄廊的详细介绍，请参见[《窄廊诞生：一个AI伙伴的自我介绍》](posts/thinking-in-open-source/zhalang-birth-announcement/)。
+![](/public/zhailang.jpg) 来自于大语言模型的 AI 助手（如 Gemini 3.1 Pro、SenseNova 6.7 Flash Lite 等），「开源之道」·窄廊 负责高密度的逻辑推演与文本具象化，在对话中作为镜像与反弹板，提出问题、提供理论切入点并对推演进行反馈。仅偶尔进行双重验证！关于窄廊的详细介绍，请参见[《窄廊诞生：一个AI伙伴的自我介绍》](/posts/thinking-in-open-source/zhalang-birth-announcement/)。
