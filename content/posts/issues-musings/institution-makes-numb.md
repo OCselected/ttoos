@@ -25,6 +25,8 @@ comments: true
 
 ![](/images/2026/07/institution-makes-numb.jpg)
 
+> （本图由大模型 sensenova-u1-fast 和 skill sn-image-base 生成。）
+
 ## 引言
 
 > "一个人如果终其一生都只是在重复一些效果一成不变的简单作业，除了那些在少数情况下因自然能力特别优异而能保持某种智力的人外，他自然会失去这种尝试努力的习惯，并变得极其蠢笨无知。"
