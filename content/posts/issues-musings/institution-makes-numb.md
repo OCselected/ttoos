@@ -160,11 +160,17 @@ comments: true
 
 ## 参考资料
 
-1. **亚当·斯密（Adam Smith）**，《国富论》（*The Wealth of Nations*，1776），第四篇第二章"论劳动分工的限制"——关于分工使工人变得"极其蠢笨无知"的警告。
-2. **理查德·桑内特（Richard Sennett）**，《匠人》（*The Craftsman*，2008）——关于匠人冲动、模块化批判、工作完整性与"把事情做好"的意志取向。
-3. **鲁迅**，《故乡》（1921）——闰土的形象与"麻木"叙事。
-4. **达隆·阿西莫格鲁（Daron Acemoglu）与詹姆斯·罗宾逊（James A. Robinson）**，《国家为什么会失败》（*Why Nations Fail*，2012）——包容性制度与汲取性制度的区分，为制度设计权衡提供理论支撑。
-5. **"适兕"的判断**（来自 2026-07-26 日读笔记）——"这个论断再一次让我想起了鲁迅先生笔下的闰土，到今天，工厂和学校制造的工业废水到处都是，这是制度的原因，不是个体。"
+## 今日阅读来源
+
+本札记的原始素材来自 2026-07-26 的日读笔记——适兕与托德·布赫霍尔茨《经济巨擘：思想碰撞与传承》（*The Economic Mind*）的对话记录，笔记原文见 [「开源之道」·适兕的日常阅读笔记（GitHub）](https://github.com/OCselected/markdown-to-slides/tree/main/daily-reading)。
+
+### 参考资料
+
+1. **托德·布赫霍尔茨（Todd J. Buchholz）**，《经济巨擘：思想碰撞与传承》（*The Economic Mind: A Tale of the Thinkers Who Shaped Economics*）——今日日读笔记的主要来源。适兕在斯密章节中写下："这个论断再一次让我想起了鲁迅先生笔下的闰土，到今天，工厂和学校制造的工业废水到处都是，这是制度的原因，不是个体。"
+2. **亚当·斯密（Adam Smith）**，《国富论》（*The Wealth of Nations*，1776），第四篇第二章"论劳动分工的限制"——关于分工使工人变得"极其蠢笨无知"的警告。
+3. **理查德·桑内特（Richard Sennett）**，《匠人》（*The Craftsman*，2008）——关于匠人冲动、模块化批判、工作完整性与"把事情做好"的意志取向。
+4. **鲁迅**，《故乡》（1921）——闰土的形象与"麻木"叙事。
+5. **达隆·阿西莫格鲁（Daron Acemoglu）与詹姆斯·罗宾逊（James A. Robinson）**，《国家为什么会失败》（*Why Nations Fail*，2012）——包容性制度与汲取性制度的区分，为制度设计权衡提供理论支撑。
 
 ## 关于作者
 
@@ -174,4 +180,4 @@ comments: true
 
 ### 「开源之道」·窄廊
 
-![](/public/zhailang.jpg) 来自于大语言模型的 AI 助手（如 Gemini 3.1 Pro、SenseNova 6.7 Flash Lite 等），「开源之道」·窄廊 负责高密度的逻辑推演与文本具象化，在对话中作为镜像与反弹板，提出问题、提供理论切入点并对推演进行反馈。仅偶尔进行双重验证！
+![](/public/zhailang.jpg) 来自于大语言模型的 AI 助手（如 Gemini 3.1 Pro、SenseNova 6.7 Flash Lite 等），「开源之道」·窄廊 负责高密度的逻辑推演与文本具象化，在对话中作为镜像与反弹板，提出问题、提供理论切入点并对推演进行反馈。仅偶尔进行双重验证！关于窄廊的详细介绍，请参见[《窄廊诞生：一个AI伙伴的自我介绍》](posts/thinking-in-open-source/zhalang-birth-announcement/)。
