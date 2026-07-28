@@ -80,7 +80,7 @@ A review from DeepSeek's Deep Research:
     [languages.en.menus]
       [[languages.en.menus.main]]
         identifier = "china-daily"
-        name = "🇨🇳 China Daily"
+        name = "Intranet Shared Source"
         url = "/en/posts/china-open-source-daily/"
         weight = 1
       [[languages.en.menus.main]]
