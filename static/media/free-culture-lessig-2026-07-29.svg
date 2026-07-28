@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800" width="600" height="800">
+<defs>
+<filter id="s" x="-5%" y="-5%" width="110%" height="110%">
+  <feDropShadow dx="2" dy="4" stdDeviation="6" flood-color="#1A1A1A" flood-opacity="0.06"/>
+</filter>
+</defs>
+<rect width="600" height="800" rx="10" fill="#F5F0E8" filter="url(#s)"/>
+<rect x="0" y="0" width="600" height="5" fill="#1B3B6B"/>
+<rect x="0" y="795" width="600" height="4" fill="#1B3B6B"/>
+<line x1="390" y1="60" x2="390" y2="740" stroke="#1B3B6B" stroke-width="1" opacity="0.08"/>
+<circle cx="540" cy="610" r="120" fill="none" stroke="#1B3B6B" stroke-width="1.5" opacity="0.06"/>
+<circle cx="540" cy="610" r="80" fill="none" stroke="#1B3B6B" stroke-width="1.2" opacity="0.08"/>
+<circle cx="540" cy="610" r="40" fill="none" stroke="#1B3B6B" stroke-width="1" opacity="0.10"/>
+<rect x="455" y="240" width="6" height="6" fill="#1B3B6B" opacity="0.10" transform="rotate(45, 458, 243)"/>
+<rect x="478" y="265" width="5" height="5" fill="#1B3B6B" opacity="0.08" transform="rotate(45, 480, 267)"/>
+<rect x="440" y="285" width="7" height="7" fill="#1B3B6B" opacity="0.10" transform="rotate(45, 443, 288)"/>
+<circle cx="465" cy="330" r="2.5" fill="#1B3B6B" opacity="0.12"/>
+<circle cx="482" cy="348" r="2" fill="#1B3B6B" opacity="0.10"/>
+<circle cx="450" cy="370" r="2.5" fill="#1B3B6B" opacity="0.10"/>
+<rect x="40" y="70" width="72" height="22" rx="3" fill="#1B3B6B"/>
+<text x="76" y="85" text-anchor="middle" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="2" fill="#FFFFFF">BOOK</text>
+<text x="560" y="80" text-anchor="end" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="9" fill="#555555" opacity="0.5">2026-07-29</text>
+<text x="40" y="109" font-family="Georgia, Songti SC, Noto Serif CJK SC, serif" font-size="26" font-weight="900" fill="#1A1A1A">
+  <tspan x="40" dy="0">Free Culture:</tspan>
+  <tspan x="40" dy="34">How Big Media Uses</tspan>
+  <tspan x="40" dy="34">Technology and the Law</tspan>
+  <tspan x="40" dy="34">to Lock Down Culture</tspan>
+</text>
+<text x="40" y="251" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="12" fill="#555555">Lawrence Lessig (2004)</text>
+<line x1="40" y1="279" x2="222" y2="279" stroke="#1B3B6B" stroke-width="1.5" opacity="0.25"/>
+<text x="40" y="301" font-family="-apple-system, PingFang SC, Helvetica Neue, Noto Sans CJK SC, Microsoft YaHei, Arial, sans-serif" font-size="12" fill="#1A1A1A">
+  <tspan x="40" dy="0">Lessig</tspan>
+  <tspan x="40" dy="20">从一位宪法教授到开源精神的捍卫者，</tspan>
+  <tspan x="40" dy="20">他以"创造性-commons"的视角解剖了</tspan>
+  <tspan x="40" dy="20">知识产权如何被悄悄扩展，从激励创造</tspan>
+  <tspan x="40" dy="20">的工具，蜕变为控制文化的枷锁。他指出：</tspan>
+  <tspan x="40" dy="20">自由的创造力与受许可的创造力可以共存，</tspan>
+  <tspan x="40" dy="20">而 Creative Commons 与开源，正是把"自由"</tspan>
+  <tspan x="40" dy="20">还给创作者的制度设计。</tspan>
+</text>
+<rect x="40" y="465" width="90" height="18" rx="2" fill="#1A1A1A" opacity="0.04"/>
+<text x="85" y="478" text-anchor="middle" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="9" font-weight="700" fill="#555555">KEY IDEAS</text>
+<text x="40" y="497" font-family="-apple-system, PingFang SC, Helvetica Neue, Noto Sans CJK SC, Microsoft YaHei, Arial, sans-serif" font-size="11" fill="#1A1A1A">
+  <tspan x="40" dy="0">• 自由创作 vs 受许可创作</tspan>
+  <tspan x="40" dy="18">• 知识产权的扩张陷阱</tspan>
+  <tspan x="40" dy="18">• Creative Commons</tspan>
+</text>
+<text x="465" y="540" font-family="Georgia, Songti SC, Noto Serif CJK SC, serif" font-size="9" fill="#1B3B6B" opacity="0.40">
+  <tspan x="465" dy="0">自由</tspan>
+  <tspan x="465" dy="11">的创</tspan>
+  <tspan x="465" dy="11">造</tspan>
+  <tspan x="465" dy="11">力</tspan>
+</text>
+<text x="465" y="635" font-family="-apple-system, PingFang SC, Helvetica Neue, Noto Sans CJK SC, Microsoft YaHei, Arial, sans-serif" font-size="8" fill="#1B3B6B" opacity="0.30">— Lawrence Lessig</text>
+<rect x="420" y="742" width="140" height="22" rx="2" fill="none" stroke="#1B3B6B" stroke-width="1" opacity="0.12"/>
+<text x="490" y="757" text-anchor="middle" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="8" letter-spacing="2" fill="#1B3B6B" opacity="0.35">OPEN SOURCE · 荐书</text>
+</svg>
