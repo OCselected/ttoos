@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800" width="600" height="800">
+<defs>
+<filter id="s" x="-5%" y="-5%" width="110%" height="110%">
+  <feDropShadow dx="2" dy="4" stdDeviation="6" flood-color="#1A1A1A" flood-opacity="0.06"/>
+</filter>
+</defs>
+<rect width="600" height="800" rx="10" fill="#F5F0E8" filter="url(#s)"/>
+<rect x="0" y="0" width="600" height="5" fill="#1B3B6B"/>
+<rect x="0" y="795" width="600" height="5" fill="#1B3B6B"/>
+
+<!-- ===== 左侧内容区 (0-390) ===== -->
+<rect x="30" y="65" width="72" height="22" rx="3" fill="#1B3B6B"/>
+<text x="66" y="80" text-anchor="middle" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="2" fill="#FFFFFF">BOOK</text>
+
+<text x="30" y="128" font-family="Songti SC, Noto Serif CJK SC, STSong, serif" font-size="28" font-weight="900" fill="#1A1A1A">
+  <tspan x="30" dy="0">大侦探经济学</tspan>
+</text>
+<text x="30" y="176" font-family="Songti SC, Noto Serif CJK SC, STSong, serif" font-size="18" font-weight="600" fill="#1A1A1A">
+  <tspan x="30" dy="0">现代经济学中的因果推断革命</tspan>
+</text>
+<text x="30" y="220" font-family="Georgia, Songti SC, serif" font-size="15" fill="#555555" font-style="italic">
+  <tspan x="30" dy="0">Detective Economics</tspan>
+</text>
+
+<text x="30" y="258" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="12" fill="#555555">李井奎 · 中信出版社 · 2021</text>
+<line x1="30" y1="280" x2="230" y2="280" stroke="#1B3B6B" stroke-width="1.5" opacity="0.25"/>
+
+<text x="30" y="304" font-family="-apple-system, PingFang SC, Helvetica Neue, Noto Sans CJK SC, Microsoft YaHei, Arial, sans-serif" font-size="11" fill="#1A1A1A">
+  <tspan x="30" dy="0">李井奎把经济学比作侦探小说——</tspan>
+  <tspan x="30" dy="19">20 世纪以来的经济学，本质上是在</tspan>
+  <tspan x="30" dy="19">寻找"因果"这场世纪大案。从回归</tspan>
+  <tspan x="30" dy="19">到工具变量、从断点回归到双重差</tspan>
+  <tspan x="30" dy="19">分，因果推断革命让经济学家成</tspan>
+  <tspan x="30" dy="19">了"识别因果"的侦探，用证据而不</tspan>
+  <tspan x="30" dy="19">是教条来推断世界的运行逻辑。</tspan>
+</text>
+
+<rect x="30" y="463" width="92" height="18" rx="2" fill="#1A1A1A" opacity="0.04"/>
+<text x="76" y="476" text-anchor="middle" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="9" font-weight="700" fill="#555555">KEY IDEAS</text>
+<text x="30" y="504" font-family="-apple-system, PingFang SC, Helvetica Neue, Noto Sans CJK SC, Microsoft YaHei, Arial, sans-serif" font-size="11" fill="#1A1A1A">
+  <tspan x="30" dy="0">• 因果推断革命</tspan>
+  <tspan x="30" dy="18">• 把经济学当侦探学</tspan>
+  <tspan x="30" dy="18">• 证据高于教条</tspan>
+  <tspan x="30" dy="18">• 方法论的叙事入门</tspan>
+</text>
+
+<!-- ===== 右侧装饰区 (390-570) ===== -->
+<line x1="390" y1="60" x2="390" y2="740" stroke="#1B3B6B" stroke-width="0.5" opacity="0.08"/>
+
+<circle cx="485" cy="200" r="65" fill="none" stroke="#1B3B6B" stroke-width="1" opacity="0.08"/>
+<circle cx="485" cy="200" r="45" fill="none" stroke="#1B3B6B" stroke-width="0.5" opacity="0.06"/>
+<circle cx="485" cy="200" r="25" fill="#1B3B6B" opacity="0.04"/>
+
+<rect x="430" y="320" width="8" height="8" fill="#1B3B6B" opacity="0.08" transform="rotate(45, 434, 324)"/>
+<rect x="450" y="340" width="6" height="6" fill="#1B3B6B" opacity="0.06" transform="rotate(45, 453, 343)"/>
+<rect x="470" y="310" width="10" height="10" fill="#1B3B6B" opacity="0.05" transform="rotate(45, 475, 315)"/>
+
+<text x="415" y="428" font-family="Georgia, Songti SC, serif" font-size="10" fill="#1A1A1A" opacity="0.3">
+  <tspan x="415" dy="0">"</tspan>
+</text>
+<text x="415" y="440" font-family="-apple-system, PingFang SC, Helvetica Neue, Noto Sans CJK SC, Microsoft YaHei, Arial, sans-serif" font-size="9" fill="#555555">
+  <tspan x="415" dy="0">经济学不</tspan>
+  <tspan x="415" dy="16">是预言未来</tspan>
+  <tspan x="415" dy="16">它是要用</tspan>
+  <tspan x="415" dy="16">证据推断</tspan>
+  <tspan x="415" dy="16">因果</tspan>
+</text>
+<text x="415" y="520" font-family="Georgia, Songti SC, serif" font-size="10" fill="#1A1A1A" opacity="0.3">
+  <tspan x="415" dy="0">"</tspan>
+</text>
+<text x="415" y="532" font-family="-apple-system, PingFang SC, Helvetica Neue, Noto Sans CJK SC, Microsoft YaHei, Arial, sans-serif" font-size="7" fill="#555555">
+  <tspan x="415" dy="0">— 李井奎 大侦探经济学</tspan>
+</text>
+
+<circle cx="440" cy="650" r="3" fill="#1B3B6B" opacity="0.06"/>
+<circle cx="460" cy="670" r="4" fill="#1B3B6B" opacity="0.05"/>
+<circle cx="480" cy="645" r="2" fill="#1B3B6B" opacity="0.08"/>
+<circle cx="510" cy="660" r="3" fill="#1B3B6B" opacity="0.04"/>
+<circle cx="530" cy="640" r="2" fill="#1B3B6B" opacity="0.06"/>
+
+<rect x="420" y="742" width="140" height="22" rx="2" fill="none" stroke="#1B3B6B" stroke-width="1" opacity="0.12"/>
+<text x="490" y="757" text-anchor="middle" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="8" letter-spacing="2" fill="#1B3B6B" opacity="0.35">「开源之道」·荐书</text>
+<text x="560" y="80" text-anchor="end" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="8" fill="#555555" opacity="0.5">2026.07.30</text>
+</svg>
