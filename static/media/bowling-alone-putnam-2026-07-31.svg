@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800" width="600" height="800">
+<defs>
+<filter id="s" x="-5%" y="-5%" width="110%" height="110%">
+  <feDropShadow dx="2" dy="4" stdDeviation="6" flood-color="#1A1A1A" flood-opacity="0.06"/>
+</filter>
+</defs>
+<rect width="600" height="800" rx="10" fill="#F5F0E8" filter="url(#s)"/>
+<rect x="0" y="0" width="600" height="5" fill="#1B3B6B"/>
+<rect x="0" y="795" width="600" height="4" fill="#1B3B6B"/>
+<line x1="390" y1="60" x2="390" y2="740" stroke="#1B3B6B" stroke-width="1" opacity="0.08"/>
+<circle cx="535" cy="590" r="135" fill="none" stroke="#1B3B6B" stroke-width="1.5" opacity="0.06"/>
+<circle cx="535" cy="590" r="90" fill="none" stroke="#1B3B6B" stroke-width="1.2" opacity="0.08"/>
+<circle cx="535" cy="590" r="46" fill="none" stroke="#1B3B6B" stroke-width="1" opacity="0.10"/>
+<rect x="450" y="230" width="6" height="6" fill="#1B3B6B" opacity="0.10" transform="rotate(45, 453, 233)"/>
+<rect x="473" y="255" width="5" height="5" fill="#1B3B6B" opacity="0.08" transform="rotate(45, 475, 257)"/>
+<rect x="438" y="275" width="7" height="7" fill="#1B3B6B" opacity="0.10" transform="rotate(45, 441, 278)"/>
+<circle cx="460" cy="320" r="2.5" fill="#1B3B6B" opacity="0.12"/>
+<circle cx="480" cy="338" r="2" fill="#1B3B6B" opacity="0.10"/>
+<circle cx="445" cy="360" r="2.5" fill="#1B3B6B" opacity="0.10"/>
+<circle cx="470" cy="395" r="2" fill="#1B3B6B" opacity="0.09"/>
+<rect x="40" y="70" width="72" height="22" rx="3" fill="#1B3B6B"/>
+<text x="76" y="85" text-anchor="middle" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="2" fill="#FFFFFF">BOOK</text>
+<text x="560" y="80" text-anchor="end" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="9" fill="#555555" opacity="0.5">2026-07-31</text>
+<text x="40" y="110" font-family="Georgia, Songti SC, Noto Serif CJK SC, serif" font-size="28" font-weight="900" fill="#1A1A1A">
+  <tspan x="40" dy="0">Bowling</tspan>
+  <tspan x="40" dy="36">Alone</tspan>
+</text>
+<text x="40" y="234" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="12" fill="#555555">Robert D. Putnam (2000)</text>
+<line x1="40" y1="262" x2="222" y2="262" stroke="#1B3B6B" stroke-width="1.5" opacity="0.25"/>
+<text x="40" y="284" font-family="-apple-system, PingFang SC, Helvetica Neue, Noto Sans CJK SC, Microsoft YaHei, Arial, sans-serif" font-size="12" fill="#1A1A1A">
+  <tspan x="40" dy="0">为什么曾经热闹的保龄球联盟逐渐冷清？</tspan>
+  <tspan x="40" dy="20">Putnam 用数十年的数据，揭示了美国社</tspan>
+  <tspan x="40" dy="20">交资本自 1960 年代以来持续流失的图景。</tspan>
+  <tspan x="40" dy="20">他提出"社会资本"——信任、互惠规范与</tspan>
+  <tspan x="40" dy="20">社会网络——并论证其衰减会侵蚀社区活</tspan>
+  <tspan x="40" dy="20">力、民主参与与公共协作的全部根基。</tspan>
+</text>
+<rect x="40" y="432" width="90" height="18" rx="2" fill="#1A1A1A" opacity="0.04"/>
+<text x="85" y="445" text-anchor="middle" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="9" font-weight="700" fill="#555555">KEY IDEAS</text>
+<text x="40" y="471" font-family="-apple-system, PingFang SC, Helvetica Neue, Noto Sans CJK SC, Microsoft YaHei, Arial, sans-serif" font-size="11" fill="#1A1A1A">
+  <tspan x="40" dy="0">• 社会资本：信任与互惠规范</tspan>
+  <tspan x="40" dy="18">• 公民参与的代际断裂</tspan>
+  <tspan x="40" dy="18">• 孤立化与公共协作的危机</tspan>
+</text>
+<text x="465" y="525" font-family="Georgia, Songti SC, Noto Serif CJK SC, serif" font-size="9" fill="#1B3B6B" opacity="0.40">
+  <tspan x="465" dy="0">孤</tspan>
+  <tspan x="465" dy="11">立</tspan>
+  <tspan x="465" dy="11">的</tspan>
+  <tspan x="465" dy="11">人</tspan>
+  <tspan x="465" dy="11">不</tspan>
+  <tspan x="465" dy="11">能</tspan>
+  <tspan x="465" dy="11">协</tspan>
+  <tspan x="465" dy="11">作</tspan>
+</text>
+<text x="465" y="660" font-family="-apple-system, PingFang SC, Helvetica Neue, Noto Sans CJK SC, Microsoft YaHei, Arial, sans-serif" font-size="8" fill="#1B3B6B" opacity="0.30">— Robert D. Putnam</text>
+<rect x="420" y="742" width="140" height="22" rx="2" fill="none" stroke="#1B3B6B" stroke-width="1" opacity="0.12"/>
+<text x="490" y="757" text-anchor="middle" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="8" letter-spacing="2" fill="#1B3B6B" opacity="0.35">OPEN SOURCE · 荐书</text>
+</svg>
