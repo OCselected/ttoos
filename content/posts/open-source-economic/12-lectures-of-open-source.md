@@ -45,7 +45,11 @@ comments: true
 
 #### 提纲
 
-演示文稿在线编辑：[开源与经济学第一讲](https://1drv.ms/p/s!Arg2k_5HJFrbgfs3NUftlK38dzr_kA)
+演示文稿：[第0期·开源与经济学](https://github.com/OCselected/markdown-to-slides/tree/main/open-source-economics-lecture)
+- [economic-of-open-source-lecture-0.md](https://github.com/OCselected/markdown-to-slides/tree/main/open-source-economics-lecture/economic-of-open-source-lecture-0.md)
+- [economic-of-open-source-lecture-0-part-2.md](https://github.com/OCselected/markdown-to-slides/tree/main/open-source-economics-lecture/economic-of-open-source-lecture-0-part-2.md)
+- [economic-of-open-source-lecture-0-part-3.md](https://github.com/OCselected/markdown-to-slides/tree/main/open-source-economics-lecture/economic-of-open-source-lecture-0-part-3.md)
+- [economic-of-open-source-lecture-0-part-4.md](https://github.com/OCselected/markdown-to-slides/tree/main/open-source-economics-lecture/economic-of-open-source-lecture-0-part-4.md)
 
 1. 开源在数字社会中的概况
 2. 开源的历史发展
@@ -72,7 +76,9 @@ comments: true
 
 只有理解了软件的生产过程，以及当中所产生的成本，我们才能将之置入经济的视角去看待。
 
-演示文稿在线编辑：[开源与经济学第二讲](https://1drv.ms/p/s!Arg2k_5HJFrbgfts1YzTth73KhL6Sg)
+演示文稿：[第1期·软件的生产、分销和消费](https://github.com/OCselected/markdown-to-slides/tree/main/open-source-economics-lecture)
+- [economic-of-open-source-lecture-1-software-business.md](https://github.com/OCselected/markdown-to-slides/tree/main/open-source-economics-lecture/economic-of-open-source-lecture-1-software-business.md)
+- [economic-of-open-source-lecture-1-software-business-part-2.md](https://github.com/OCselected/markdown-to-slides/tree/main/open-source-economics-lecture/economic-of-open-source-lecture-1-software-business-part-2.md)
 
 #### 提纲
 
@@ -95,7 +101,9 @@ comments: true
 
 我们聊完开源的生产之后，我们就需要切入开源的另外一个视角：许可，而理解许可则需要从知识财产权讲起，进而阐述数字时代的知识财产权的角力对抗，我们看到严格的限制所形成的软件市场是巨大的，那么开源许可却从另外一个方向占领了世界，成为了我们现代生活中的一部分，本次讲座，我们希望通过开源许可所解决的问题，以及倡导的观念来阐述开源软件市场形成的重要条件：知识财产权仍然在起着重要的作用，而不是人们臆想中的消亡。
 
-演示文稿在线编辑：[开源与经济学第三讲](https://1drv.ms/p/s!Arg2k_5HJFrbgf1HYWuLmCX8hMDvCA)
+演示文稿：[第2期·数字时代的知识财产法演变与开源许可](https://github.com/OCselected/markdown-to-slides/tree/main/open-source-economics-lecture)
+- [economic-of-open-source-lecture-2-IP.md](https://github.com/OCselected/markdown-to-slides/tree/main/open-source-economics-lecture/economic-of-open-source-lecture-2-IP.md)
+- [economic-of-open-source-lecture-2-IP-part-2.md](https://github.com/OCselected/markdown-to-slides/tree/main/open-source-economics-lecture/economic-of-open-source-lecture-2-IP-part-2.md)
 
 #### 提纲
 
@@ -132,7 +140,9 @@ comments: true
 
 本次讲座的原则，尽量是从商业的本质出发，进而推导出现有的模式，而不是相反，幸存者偏差是个极为容易让人走进误区的思维模式。
 
-演示文稿在线编辑：[开源与经济学第四讲](https://1drv.ms/p/s!Arg2k_5HJFrbgf4ZhYQgwpi9lNAsDQ)
+演示文稿：[第3期·商业模式：规则下的具体操作](https://github.com/OCselected/markdown-to-slides/tree/main/open-source-economics-lecture)
+- [economic-of-open-source-lecture-3-business-model.md](https://github.com/OCselected/markdown-to-slides/tree/main/open-source-economics-lecture/economic-of-open-source-lecture-3-business-model.md)
+- [economic-of-open-source-lecture-3-business-model-part-2.md](https://github.com/OCselected/markdown-to-slides/tree/main/open-source-economics-lecture/economic-of-open-source-lecture-3-business-model-part-2.md)
 
 #### 提纲
 
@@ -160,7 +170,9 @@ comments: true
 
 开源的软件开发者的动机，在一部分人眼中，似乎是不追求利益的高尚的利他主义者，当然这是一个严重的错误，和比尔·盖茨的误导也有很大关系。那么我们不妨就过去二十多年的研究成果，以及对比历史上学者们对工作和个人美好生活的描述，花上几个小时进行一番探讨。
 
-演示文稿在线编辑：[开源与经济学第五讲](https://1drv.ms/p/s!Arg2k_5HJFrbgoBSVNL2c09dchSO5g)
+演示文稿：[第4期·软件开发劳动力市场](https://github.com/OCselected/markdown-to-slides/tree/main/open-source-economics-lecture)
+- [economic-of-open-source-lecture-4-hr-market.md](https://github.com/OCselected/markdown-to-slides/tree/main/open-source-economics-lecture/economic-of-open-source-lecture-4-hr-market.md)
+- [economic-of-open-source-lecture-4-hr-market-part-2.md](https://github.com/OCselected/markdown-to-slides/tree/main/open-source-economics-lecture/economic-of-open-source-lecture-4-hr-market-part-2.md)
 
 #### 提纲
 
@@ -191,7 +203,9 @@ comments: true
 本次讲座试图去解释开源之所以能够可持续发展的核心本质之一，极具经济性的特征。
 
 
-演示文稿在线编辑：[开源与经济学第六讲](https://1drv.ms/p/s!Arg2k_5HJFrbgoF42VpKjBRLPe7EzA)
+演示文稿：[第5期·交易成本与路径依赖](https://github.com/OCselected/markdown-to-slides/tree/main/open-source-economics-lecture)
+- [economic-of-open-source-lecture-5-transaction-cost.md](https://github.com/OCselected/markdown-to-slides/tree/main/open-source-economics-lecture/economic-of-open-source-lecture-5-transaction-cost.md)
+- [economic-of-open-source-lecture-5-transaction-cost-part-2.md](https://github.com/OCselected/markdown-to-slides/tree/main/open-source-economics-lecture/economic-of-open-source-lecture-5-transaction-cost-part-2.md)
 
 #### 提纲
 
@@ -221,7 +235,10 @@ comments: true
 
 自发秩序其实有很多前提条件，对理想的认同、勤奋的行动、充满激情、热心协同、冲突解决等等，开源项目共同体最初都不是刻意设计来的，利用看得见的手和资本的力量造就一个出来，他往往走的是另外的看不见的手、社会资本和共同行为准则所塑造。本次讲座，我们看看历史上那些成功的开源项目的组织结构，以及他们是如何运营的。
 
-演示文稿在线编辑：[开源与经济学第七讲](https://1drv.ms/p/s!Arg2k_5HJFrbgoJLLhanoUlyo9620w?e=6Ke7fU)
+演示文稿：[第6期·组织结构与治理](https://github.com/OCselected/markdown-to-slides/tree/main/open-source-economics-lecture)
+- [economic-of-open-source-lecture-6-organization-and-governe.md](https://github.com/OCselected/markdown-to-slides/tree/main/open-source-economics-lecture/economic-of-open-source-lecture-6-organization-and-governe.md)
+- [economic-of-open-source-lecture-6-organization-and-governe-part-2.md](https://github.com/OCselected/markdown-to-slides/tree/main/open-source-economics-lecture/economic-of-open-source-lecture-6-organization-and-governe-part-2.md)
+- [economic-of-open-source-lecture-6-organization-and-governe-part-3.md](https://github.com/OCselected/markdown-to-slides/tree/main/open-source-economics-lecture/economic-of-open-source-lecture-6-organization-and-governe-part-3.md)
 
 #### 提纲
 
@@ -253,7 +270,9 @@ comments: true
 本次讲座则试图找出那些影响开源发展长足进步的文化因素，一一展开，供大家反思。
 
 
-演示文稿在线编辑：[开源与经济学第十二讲](https://1drv.ms/p/s!Arg2k_5HJFrbgoFU7xMG57XBAaHzbA?e=mHmZ3o)
+演示文稿：[第7期·文化的重要作用](https://github.com/OCselected/markdown-to-slides/tree/main/open-source-economics-lecture)
+- [economic-of-open-source-lecture-11-culture-matters.md](https://github.com/OCselected/markdown-to-slides/tree/main/open-source-economics-lecture/economic-of-open-source-lecture-11-culture-matters.md)
+- [economic-of-open-source-lecture-11-culture-matters-part-2.md](https://github.com/OCselected/markdown-to-slides/tree/main/open-source-economics-lecture/economic-of-open-source-lecture-11-culture-matters-part-2.md)
 
 #### 提纲
 
@@ -286,7 +305,9 @@ comments: true
 
 私人商品或服务，有可能解决问题，而不需要政府出面，罗纳德·科斯就以早期英格兰灯塔为例叙述过。适兕的意思是法律往往滞后于技术，在法律介入之前，敏锐的商业是有可能来将开源项目发展起来的。这次我们就来分析一番。
 
-演示文稿在线编辑：[开源与经济学第八讲](https://1drv.ms/p/s!Arg2k_5HJFrbgoRjQkaewcZDlKXANA?e=5k1UJ2)
+演示文稿：[第8期·商业价值与社会价值：开源的政治经济学](https://github.com/OCselected/markdown-to-slides/tree/main/open-source-economics-lecture)
+- [economic-of-open-source-lecture-7-politic-economic.md](https://github.com/OCselected/markdown-to-slides/tree/main/open-source-economics-lecture/economic-of-open-source-lecture-7-politic-economic.md)
+- [economic-of-open-source-lecture-7-politic-economic-part-2.md](https://github.com/OCselected/markdown-to-slides/tree/main/open-source-economics-lecture/economic-of-open-source-lecture-7-politic-economic-part-2.md)
 
 #### 提纲
 
