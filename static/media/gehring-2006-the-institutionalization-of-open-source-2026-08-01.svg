@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800" width="600" height="800">
+<defs>
+<filter id="s" x="-5%" y="-5%" width="110%" height="110%">
+  <feDropShadow dx="2" dy="4" stdDeviation="6" flood-color="#1A1A1A" flood-opacity="0.06"/>
+</filter>
+</defs>
+<rect width="600" height="800" rx="10" fill="#F5F0E8" filter="url(#s)"/>
+<rect x="0" y="0" width="600" height="5" fill="#1B3B6B"/>
+<rect x="0" y="795" width="600" height="5" fill="#1B3B6B"/>
+
+<!-- ===== 左侧内容区 (0-390) ===== -->
+<rect x="30" y="65" width="62" height="22" rx="3" fill="#1B3B6B"/>
+<text x="61" y="80" text-anchor="middle" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="2" fill="#FFFFFF">PAPER</text>
+
+<text x="30" y="130" font-family="Georgia, Songti SC, serif" font-size="26" font-weight="700" fill="#1A1A1A">
+  <tspan x="30" dy="0">The Institutionalization</tspan>
+</text>
+<text x="30" y="162" font-family="Georgia, Songti SC, serif" font-size="26" font-weight="700" fill="#1A1A1A">
+  <tspan x="30" dy="0">of Open Source</tspan>
+</text>
+<text x="30" y="200" font-family="Songti SC, Noto Serif CJK SC, STSong, serif" font-size="16" font-weight="600" fill="#1A1A1A">
+  <tspan x="30" dy="0">开源的制度化的制度框架</tspan>
+</text>
+<text x="30" y="238" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="12" fill="#555555">Robert A. Gehring · Poiesis &amp; Praxis · 2006</text>
+<line x1="30" y1="258" x2="230" y2="258" stroke="#1B3B6B" stroke-width="1.5" opacity="0.25"/>
+
+<text x="30" y="282" font-family="-apple-system, PingFang SC, Helvetica Neue, Noto Sans CJK SC, Microsoft YaHei, Arial, sans-serif" font-size="11" fill="#1A1A1A">
+  <tspan x="30" dy="0">Gehring 是第一个用新制度经济</tspan>
+  <tspan x="30" dy="19">学框架系统分析开源的人。他认为，</tspan>
+  <tspan x="30" dy="19">吸引 IBM 等巨头拥抱开源的，并不</tspan>
+  <tspan x="30" dy="19">是软件免费，而是开源的「制度框</tspan>
+  <tspan x="30" dy="19">架」——许可证、产权、交易成本</tspan>
+  <tspan x="30" dy="19">——提供了比较制度优势。</tspan>
+</text>
+
+<rect x="30" y="455" width="92" height="18" rx="2" fill="#1A1A1A" opacity="0.04"/>
+<text x="76" y="468" text-anchor="middle" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="9" font-weight="700" fill="#555555">KEY IDEAS</text>
+<text x="30" y="500" font-family="-apple-system, PingFang SC, Helvetica Neue, Noto Sans CJK SC, Microsoft YaHei, Arial, sans-serif" font-size="11" fill="#1A1A1A">
+  <tspan x="30" dy="0">• 开源作为制度框架</tspan>
+  <tspan x="30" dy="18">• 比较制度优势</tspan>
+  <tspan x="30" dy="18">• 产权即开源的基石</tspan>
+  <tspan x="30" dy="18">• 交易成本替代层级</tspan>
+</text>
+
+<rect x="30" y="640" width="335" height="60" rx="2" fill="#1B3B6B" opacity="0.05"/>
+<text x="42" y="660" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="8" font-weight="700" fill="#1B3B6B">FROM TUEXIN</text>
+<text x="42" y="682" font-family="-apple-system, PingFang SC, Helvetica Neue, Noto Sans CJK SC, Microsoft YaHei, Arial, sans-serif" font-size="10" fill="#1A1A1A">
+  <tspan x="42" dy="0">适兕 2024-2026 工作：「制度化的开源」中译 +</tspan>
+  <tspan x="42" dy="15">「开源的过度制度化」续作，与 Gehring 跨 20 年呼应。</tspan>
+</text>
+
+<!-- ===== 右侧装饰区 (390-570) ===== -->
+<line x1="390" y1="60" x2="390" y2="740" stroke="#1B3B6B" stroke-width="0.5" opacity="0.08"/>
+
+<circle cx="490" cy="190" r="68" fill="none" stroke="#1B3B6B" stroke-width="1" opacity="0.07"/>
+<circle cx="490" cy="190" r="48" fill="none" stroke="#1B3B6B" stroke-width="0.5" opacity="0.06"/>
+<circle cx="490" cy="190" r="28" fill="#1B3B6B" opacity="0.04"/>
+
+<rect x="438" y="312" width="9" height="9" fill="#1B3B6B" opacity="0.08" transform="rotate(45, 442, 316)"/>
+<rect x="458" y="332" width="6" height="6" fill="#1B3B6B" opacity="0.06" transform="rotate(45, 461, 335)"/>
+<rect x="478" y="302" width="10" height="10" fill="#1B3B6B" opacity="0.05" transform="rotate(45, 483, 307)"/>
+
+<text x="415" y="430" font-family="Georgia, Songti SC, serif" font-size="10" fill="#1A1A1A" opacity="0.3">
+  <tspan x="415" dy="0">"</tspan>
+</text>
+<text x="415" y="442" font-family="-apple-system, PingFang SC, Helvetica Neue, Noto Sans CJK SC, Microsoft YaHei, Arial, sans-serif" font-size="9" fill="#555555">
+  <tspan x="415" dy="0">吸引巨头的</tspan>
+  <tspan x="415" dy="16">不是免费，</tspan>
+  <tspan x="415" dy="16">而是它的</tspan>
+  <tspan x="415" dy="16">制度框架</tspan>
+</text>
+<text x="415" y="524" font-family="Georgia, Songti SC, serif" font-size="10" fill="#1A1A1A" opacity="0.3">
+  <tspan x="415" dy="0">"</tspan>
+</text>
+<text x="415" y="536" font-family="-apple-system, PingFang SC, Helvetica Neue, Noto Sans CJK SC, Microsoft YaHei, Arial, sans-serif" font-size="7" fill="#555555">
+  <tspan x="415" dy="0">— R.A. Gehring 2006</tspan>
+</text>
+
+<circle cx="440" cy="650" r="3" fill="#1B3B6B" opacity="0.06"/>
+<circle cx="460" cy="670" r="4" fill="#1B3B6B" opacity="0.05"/>
+<circle cx="480" cy="645" r="2" fill="#1B3B6B" opacity="0.08"/>
+<circle cx="510" cy="660" r="3" fill="#1B3B6B" opacity="0.04"/>
+<circle cx="530" cy="640" r="2" fill="#1B3B6B" opacity="0.06"/>
+
+<rect x="420" y="742" width="140" height="22" rx="2" fill="none" stroke="#1B3B6B" stroke-width="1" opacity="0.12"/>
+<text x="490" y="757" text-anchor="middle" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="8" letter-spacing="2" fill="#1B3B6B" opacity="0.35">「开源之道」·荐书</text>
+<text x="560" y="80" text-anchor="end" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="8" fill="#555555" opacity="0.5">2026.08.01</text>
+</svg>
