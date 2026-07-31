@@ -2,7 +2,7 @@
 categories:
 - 开源
 - 经济 
-date: 2026-07-13T14:24:39+08:00
+date: 2026-07-31T23:56:00+08:00
 description: "布道这件事，其实有个潜在的表达，这个世界某种程度上需要某些观念和思想，然而已经适应当下世界的人未必能够理解，或者认为是需要某些观念的，换句话说，通常这件事情并不会受到欢迎。张维迎教授在不遗余力推广自己的经济学说，或许没有多少人听得进去，但是解释世界的，大多数时候是自己高兴，如果能有几位有缘人，那真是一件美妙的事。"
 keywords:
 - Open Source
@@ -338,7 +338,9 @@ comments: true
 
 开源在放弃了许可费用之后该如何定价？市场能给出什么样的信号？服务、支持、培训与咨询是如何产生订阅的？
 
-演示文稿在线编辑：[开源与经济学第九讲]()
+演示文稿：[第9期·信息规则与网络经济](https://github.com/OCselected/markdown-to-slides/tree/main/open-source-economics-lecture)
+- [economic-of-open-source-lecture-8-information-economy.md](https://github.com/OCselected/markdown-to-slides/tree/main/open-source-economics-lecture/economic-of-open-source-lecture-8-information-economy.md)
+- [economic-of-open-source-lecture-8-information-economy-part-2.md](https://github.com/OCselected/markdown-to-slides/tree/main/open-source-economics-lecture/economic-of-open-source-lecture-8-information-economy-part-2.md)
 
 #### 提纲
 
@@ -360,7 +362,9 @@ comments: true
 
 任何的贪得无厌，都会引来不公的对抗，开源软件如果被肆意的践踏，那么它就像很多的学术项目一样，被贪婪所吞噬。智慧者总是在寻求某种平衡，于是现代数字财产的比例原则，适度的容他权，以Copyleft为代表的思想，是否可以赢得世界的信任？本期讲座尝试以知识财产法中的比例原则为索引，进而探索合理的平衡的知识财产法。
 
-演示文稿在线编辑：[开源与经济学第十讲]()
+演示文稿：[第10期·排他权与容他权、比例原则与 Copyleft](https://github.com/OCselected/markdown-to-slides/tree/main/open-source-economics-lecture)
+- [economic-of-open-source-lecture-9-proprietary-rights.md](https://github.com/OCselected/markdown-to-slides/tree/main/open-source-economics-lecture/economic-of-open-source-lecture-9-proprietary-rights.md)
+- [economic-of-open-source-lecture-9-proprietary-rights-part-2.md](https://github.com/OCselected/markdown-to-slides/tree/main/open-source-economics-lecture/economic-of-open-source-lecture-9-proprietary-rights-part-2.md)
 
 #### 提纲
 
@@ -391,7 +395,9 @@ comments: true
 
 通过本次讲座，我们开启开源的政治经济学探索之旅，或许还会谈谈社会正义。
 
-演示文稿在线编辑：[开源与经济学第十一讲]()
+演示文稿：[第11期·劳动报酬与财产分配](https://github.com/OCselected/markdown-to-slides/tree/main/open-source-economics-lecture)
+- [economic-of-open-source-lecture-10-labor-compensation.md](https://github.com/OCselected/markdown-to-slides/tree/main/open-source-economics-lecture/economic-of-open-source-lecture-10-labor-compensation.md)
+- [economic-of-open-source-lecture-10-labor-compensation-part-2.md](https://github.com/OCselected/markdown-to-slides/tree/main/open-source-economics-lecture/economic-of-open-source-lecture-10-labor-compensation-part-2.md)
 
 #### 提纲
 
