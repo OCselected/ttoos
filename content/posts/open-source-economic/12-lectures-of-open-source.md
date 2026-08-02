@@ -409,6 +409,26 @@ comments: true
 6. 代码即资本——当开源代码成为数字基础设施，维护者从「劳动者」变为「基础设施管理者」时，财产分配的逻辑需要重新设计。Heartbleed 漏洞揭示的「开源基础设施危机」本质上是制度设计失败：没有为关键基础设施维护者设计可持续的回报机制
 7. 开源的政治经济学展望——从 Commons-based Peer Production（Benkler）到 Platform Cooperativism（Scholz），开源的生产模式能否通向更公平的财产分配制度？还是说，它会像资本主义历史上的每一次技术创新一样，最终被现有制度收编？ 
 
+#### 推荐阅读书籍和材料
+* 《集体行动的逻辑：公共物品与集团理论》，(美)曼瑟尔·奥尔森，格致出版社，2017-8-1
+* 《企业的性质：起源、演变与发展》，[美]奥利弗·E. 威廉姆森 / [美]西德尼·G. 温特，商务印书馆，2010-9
+* 《The Economics of Knowledge》，Dominique Foray，The MIT Press，2006-09（ISBN 9780262562232）—— 知识经济学奠基作。知识资本（Knowledge Capital）的非竞争性、累积性、正外部性，为"为什么开源能存在"给出经济学答案；也是本讲结语「The Economics of X」家族的成员，与 The Economics of Crime、The Economics of AI、The Economics of the Commons 同列
+* 《人月神话》，(美)布鲁克斯(F. P. Brooks) 著，清华大学出版社，2015-4-1
+* 《大繁荣：大众创新如何带来国家繁荣》，(美)埃德蒙·费尔普斯，中信出版社，2018-10
+* 《The New Kingmaker: How Developers Conquered the World》，Stephen O'Grady，O'Reilly Media，2013-1-7
+
+#### 推荐阅读书籍和材料
+
+* Gates, Bill, 1976: An Open Letter to Hobbyists. In: Computer Notes 1(9), 3.
+* 《知识产权正当性解释》，[美]罗伯特·P. 莫杰思，商务印书馆，2023-5
+* 《知识财产法哲学》，[澳]彼得·德霍斯，商务印书馆，2017-3
+* 《The Economics of Knowledge》，Dominique Foray，The MIT Press，2006-09（ISBN 9780262562232）—— 知识经济学奠基作。知识资本（Knowledge Capital）的非竞争性、累积性、正外部性，是开源经济学的认识论前提；Gehring (2006) 引用同一理论谱系
+* 哈耶克，《知识在社会中的运用》，选自《个人主义与经济秩序》（邓正来 编译），复旦大学出版社，2012，第 85–100 页
+* 《The Economics of AI》，Arvind Agrawal / Joshua Gans / Avi Goldfarb，2018
+* 《The Economics of the Commons》，Elinor Ostrom，1990
+* 《Doughnut Economics》，Kate Raworth，2017
+
+
 ## 结语：开源经济学，也是 The Economics of Open Source
 
 当我们回顾这 12 讲的内容——软件生产、知识财产、商业模式、劳动力市场、交易成本、组织治理、文化作用、政治经济学、信息规则、排他与容他、劳动报酬——我们实际上是在回答一个被主流经济学长期忽视的问题：
@@ -436,13 +456,6 @@ comments: true
 > 经济学不是关于钱的，而是关于选择的。开源经济学不是关于代码的，而是关于不靠钱和权也能协作的选择。
 >
 > —— 「开源之道」·适兕
-
-#### 推荐阅读书籍和材料
-
-* Gates, Bill, 1976: An Open Letter to Hobbyists. In: Computer Notes 1(9), 3.
-* 《知识产权正当性解释》， [美]罗伯特·P. 莫杰思，商务印书馆，2023-5
-* 《知识财产法哲学》， [澳] 彼得·德霍斯， 商务印书馆，2017-3
-* 哈耶克，《知识在社会中的运用》，选自《个人主义与经济秩序》（邓正来 编译），复旦大学出版社，2012年，第85-100页。
 
 ### 讲座项目亲力亲为者
 
