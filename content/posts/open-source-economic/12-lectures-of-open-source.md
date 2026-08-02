@@ -2,7 +2,7 @@
 categories:
 - 开源
 - 经济 
-date: 2026-07-31T19:21:02+08:00
+date: 2026-08-02T10:00:00+08:00
 description: "布道这件事，其实有个潜在的表达，这个世界某种程度上需要某些观念和思想，然而已经适应当下世界的人未必能够理解，或者认为是需要某些观念的，换句话说，通常这件事情并不会受到欢迎。张维迎教授在不遗余力推广自己的经济学说，或许没有多少人听得进去，但是解释世界的，大多数时候是自己高兴，如果能有几位有缘人，那真是一件美妙的事。"
 keywords:
 - Open Source
@@ -224,7 +224,7 @@ comments: true
 * 《组织的逻辑》， [美]雷•菲斯曼 [美]蒂姆•沙利文，九州出版社，2023-4
 * Path dependence, its critics and the quest for ‘historical economics’，Paul A. David，January 2000
 * Transaction Cost Economics in the Digital Economy: A Research Agenda，Frank Nagle, Robert Seamans, and Steven Tadelis，Working Paper 21-009
-* 
+* 《The Economics of Knowledge》，Dominique Foray，The MIT Press，2006-09（ISBN 9780262562232）—— 知识经济学奠基作。Gehring (2006) 引用。知识资本（Knowledge Capital）的经济学本质，即开源代码的经济学本质：非竞争性、累积性、正外部性。 
 
 
 ### 第 6 期：组织结构与治理
