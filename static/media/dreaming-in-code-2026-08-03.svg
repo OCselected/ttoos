@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800" width="600" height="800">
+<defs>
+<filter id="s" x="-5%" y="-5%" width="110%" height="110%">
+  <feDropShadow dx="2" dy="4" stdDeviation="6" flood-color="#1A1A1A" flood-opacity="0.06"/>
+</filter>
+</defs>
+<rect width="600" height="800" rx="10" fill="#F5F0E8" filter="url(#s)"/>
+<rect x="0" y="0" width="600" height="5" fill="#1B3B6B"/>
+<rect x="0" y="795" width="600" height="4" fill="#1B3B6B"/>
+
+<!-- ===== 左侧内容区 (0-390) ===== -->
+<rect x="30" y="65" width="62" height="22" rx="3" fill="#1B3B6B"/>
+<text x="61" y="80" text-anchor="middle" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="2" fill="#FFFFFF">BOOK</text>
+<text x="560" y="80" text-anchor="end" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="9" fill="#555555" opacity="0.5">2026-08-03</text>
+
+<text x="30" y="130" font-family="Georgia, Songti SC, serif" font-size="26" font-weight="700" fill="#1A1A1A">
+  <tspan x="30" dy="0">Dreaming</tspan>
+  <tspan x="30" dy="32">in Code</tspan>
+</text>
+<text x="30" y="204" font-family="Songti SC, Noto Serif CJK SC, STSong, serif" font-size="16" font-weight="600" fill="#1A1A1A">
+  <tspan x="30" dy="0">梦断代码</tspan>
+</text>
+<text x="30" y="240" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="12" fill="#555555">Scott Rosenberg · Crown · 2007</text>
+<line x1="30" y1="258" x2="250" y2="258" stroke="#1B3B6B" stroke-width="1.5" opacity="0.25"/>
+
+<text x="30" y="284" font-family="-apple-system, PingFang SC, Helvetica Neue, Noto Sans CJK SC, Microsoft YaHei, Arial, sans-serif" font-size="11" fill="#1A1A1A">
+  <tspan x="30" dy="0">Rosenberg 追踪了开源项目</tspan>
+  <tspan x="30" dy="19">Chandler 三年的开发历程：两</tspan>
+  <tspan x="30" dy="19">打顶尖程序员、三载光阴、四千</tspan>
+  <tspan x="30" dy="19">余个 Bug，最终却以华丽失败告</tspan>
+  <tspan x="30" dy="19">终。这本书不是关于技术如何成</tspan>
+  <tspan x="30" dy="19">功，而是关于开源为何如此之难。</tspan>
+</text>
+
+<rect x="30" y="458" width="90" height="18" rx="2" fill="#1A1A1A" opacity="0.04"/>
+<text x="75" y="471" text-anchor="middle" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="9" font-weight="700" fill="#555555">KEY IDEAS</text>
+<text x="30" y="504" font-family="-apple-system, PingFang SC, Helvetica Neue, Noto Sans CJK SC, Microsoft YaHei, Arial, sans-serif" font-size="11" fill="#1A1A1A">
+  <tspan x="30" dy="0">• 开源的失败，与成功一样值得研究</tspan>
+  <tspan x="30" dy="18">• 强者过多的团队，未必是好事</tspan>
+  <tspan x="30" dy="18">• 愿景、问题与产品的错位</tspan>
+  <tspan x="30" dy="18">• 开源治理：协作 vs. 控制的张力</tspan>
+</text>
+
+<!-- ===== 右侧装饰区 (390-570) ===== -->
+<line x1="390" y1="60" x2="390" y2="740" stroke="#1B3B6B" stroke-width="0.5" opacity="0.08"/>
+
+<circle cx="490" cy="190" r="68" fill="none" stroke="#1B3B6B" stroke-width="1" opacity="0.07"/>
+<circle cx="490" cy="190" r="48" fill="none" stroke="#1B3B6B" stroke-width="0.5" opacity="0.06"/>
+<circle cx="490" cy="190" r="28" fill="#1B3B6B" opacity="0.04"/>
+
+<rect x="440" y="312" width="9" height="9" fill="#1B3B6B" opacity="0.08" transform="rotate(45, 444, 316)"/>
+<rect x="460" y="332" width="6" height="6" fill="#1B3B6B" opacity="0.06" transform="rotate(45, 463, 335)"/>
+<rect x="480" y="302" width="10" height="10" fill="#1B3B6B" opacity="0.05" transform="rotate(45, 485, 307)"/>
+<rect x="450" y="352" width="7" height="7" fill="#1B3B6B" opacity="0.07" transform="rotate(45, 453, 355)"/>
+
+<text x="415" y="430" font-family="Georgia, Songti SC, serif" font-size="10" fill="#1A1A1A" opacity="0.3">
+  <tspan x="415" dy="0">"</tspan>
+</text>
+<text x="415" y="442" font-family="-apple-system, PingFang SC, Helvetica Neue, Noto Sans CJK SC, Microsoft YaHei, Arial, sans-serif" font-size="9" fill="#555555">
+  <tspan x="415" dy="0">成</tspan>
+  <tspan x="415" dy="16">功</tspan>
+  <tspan x="415" dy="16">各</tspan>
+  <tspan x="415" dy="16">有</tspan>
+  <tspan x="415" dy="16">各</tspan>
+  <tspan x="415" dy="16">的</tspan>
+  <tspan x="415" dy="16">成</tspan>
+  <tspan x="415" dy="16">功</tspan>
+  <tspan x="415" dy="16">，</tspan>
+  <tspan x="415" dy="16">失</tspan>
+  <tspan x="415" dy="16">败</tspan>
+  <tspan x="415" dy="16">却</tspan>
+  <tspan x="415" dy="16">都</tspan>
+  <tspan x="415" dy="16">失</tspan>
+  <tspan x="415" dy="16">败</tspan>
+  <tspan x="415" dy="16">在</tspan>
+  <tspan x="415" dy="16">同</tspan>
+  <tspan x="415" dy="16">一</tspan>
+  <tspan x="415" dy="16">处</tspan>
+</text>
+<text x="415" y="690" font-family="Georgia, Songti SC, serif" font-size="10" fill="#1A1A1A" opacity="0.3">
+  <tspan x="415" dy="0">"</tspan>
+</text>
+<text x="415" y="702" font-family="-apple-system, PingFang SC, Helvetica Neue, Noto Sans CJK SC, Microsoft YaHei, Arial, sans-serif" font-size="7" fill="#555555">
+  <tspan x="415" dy="0">— S. Rosenberg 2007</tspan>
+</text>
+
+<circle cx="440" cy="650" r="3" fill="#1B3B6B" opacity="0.06"/>
+<circle cx="462" cy="672" r="4" fill="#1B3B6B" opacity="0.05"/>
+<circle cx="485" cy="648" r="2" fill="#1B3B6B" opacity="0.08"/>
+<circle cx="512" cy="666" r="3" fill="#1B3B6B" opacity="0.04"/>
+<circle cx="532" cy="642" r="2" fill="#1B3B6B" opacity="0.06"/>
+
+<rect x="420" y="742" width="140" height="22" rx="2" fill="none" stroke="#1B3B6B" stroke-width="1" opacity="0.12"/>
+<text x="490" y="757" text-anchor="middle" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="8" letter-spacing="2" fill="#1B3B6B" opacity="0.35">「开源之道」·荐书</text>
+</svg>
