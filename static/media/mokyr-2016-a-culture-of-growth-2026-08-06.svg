@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800" width="600" height="800">
+<defs>
+<filter id="s" x="-5%" y="-5%" width="110%" height="110%">
+  <feDropShadow dx="2" dy="4" stdDeviation="6" flood-color="#1A1A1A" flood-opacity="0.06"/>
+</filter>
+</defs>
+<rect width="600" height="800" rx="10" fill="#F5F0E8" filter="url(#s)"/>
+<rect x="0" y="0" width="600" height="5" fill="#1B3B6B"/>
+<line x1="390" y1="60" x2="390" y2="740" stroke="#1B3B6B" stroke-width="1" opacity="0.08"/>
+<circle cx="535" cy="135" r="160" fill="none" stroke="#1B3B6B" stroke-width="1.5" opacity="0.05"/>
+<circle cx="550" cy="148" r="105" fill="none" stroke="#1B3B6B" stroke-width="1" opacity="0.07"/>
+<circle cx="555" cy="152" r="52" fill="none" stroke="#1B3B6B" stroke-width="1" opacity="0.09"/>
+<rect x="500" y="555" width="20" height="20" fill="none" stroke="#1B3B6B" stroke-width="1.2" opacity="0.12" transform="rotate(45, 510, 565)"/>
+<rect x="538" y="590" width="14" height="14" fill="none" stroke="#1B3B6B" stroke-width="1" opacity="0.14" transform="rotate(45, 545, 597)"/>
+<rect x="470" y="615" width="10" height="10" fill="none" stroke="#1B3B6B" stroke-width="1" opacity="0.16" transform="rotate(45, 475, 620)"/>
+<circle cx="420" cy="215" r="3" fill="#1B3B6B" opacity="0.12"/>
+<circle cx="455" cy="315" r="2.5" fill="#1B3B6B" opacity="0.10"/>
+<circle cx="490" cy="395" r="3.5" fill="#1B3B6B" opacity="0.11"/>
+<circle cx="440" cy="460" r="2.5" fill="#1B3B6B" opacity="0.13"/>
+<circle cx="578" cy="260" r="3" fill="#1B3B6B" opacity="0.10"/>
+<circle cx="415" cy="560" r="2" fill="#1B3B6B" opacity="0.10"/>
+<circle cx="580" cy="500" r="2" fill="#1B3B6B" opacity="0.10"/>
+<rect x="40" y="72" width="130" height="22" rx="3" fill="#1B3B6B"/>
+<text x="105" y="87" text-anchor="middle" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="2" fill="#FFFFFF">BOOK</text>
+<text x="560" y="80" text-anchor="end" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="9" fill="#555555" opacity="0.5">2026-08-06</text>
+<text x="40" y="106" font-family="Georgia, Songti SC, Noto Serif CJK SC, serif" font-size="24" font-weight="900" fill="#1A1A1A">
+  <tspan x="40" dy="0">A Culture of Growth</tspan>
+</text>
+<text x="40" y="148" font-family="Georgia, Songti SC, Noto Serif CJK SC, serif" font-size="18" font-weight="700" fill="#1B3B6B">
+  <tspan x="40" dy="0">The Origins of the Modern</tspan>
+  <tspan x="40" dy="22">Economy</tspan>
+</text>
+<text x="40" y="240" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="12" fill="#555555">Joel Mokyr (2016) · 2025 诺贝尔经济学奖</text>
+<line x1="40" y1="265" x2="290" y2="265" stroke="#1B3B6B" stroke-width="1.5" opacity="0.25"/>
+<text x="40" y="288" font-family="-apple-system, PingFang SC, Helvetica Neue, Noto Sans CJK SC, Microsoft YaHei, Arial, sans-serif" font-size="11" fill="#1A1A1A">
+  <tspan x="40" dy="0">莫基尔以 2025 诺贝尔经济学奖</tspan>
+  <tspan x="40" dy="17">为据，论证增长的根本动力是</tspan>
+  <tspan x="40" dy="17">"观念"与文化——而非仅资本或</tspan>
+  <tspan x="40" dy="17">资源。知识像一架"智识阶梯"，</tspan>
+  <tspan x="40" dy="17">代代累积，复利般放大；</tspan>
+  <tspan x="40" dy="17">开源，正是这种增长文化的数字回响。</tspan>
+</text>
+<rect x="40" y="473" width="95" height="18" rx="2" fill="#1A1A1A" opacity="0.04"/>
+<text x="87" y="486" text-anchor="middle" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="9" font-weight="700" fill="#555555">KEY IDEAS</text>
+<text x="40" y="505" font-family="-apple-system, PingFang SC, Helvetica Neue, Noto Sans CJK SC, Microsoft YaHei, Arial, sans-serif" font-size="11" fill="#1A1A1A">
+  <tspan x="40" dy="0">• 观念驱动经济增长</tspan>
+  <tspan x="40" dy="17">• 知识积累如复利，代代叠加</tspan>
+  <tspan x="40" dy="17">• 文化是创新的深层制度前提</tspan>
+</text>
+<text x="538" y="430" text-anchor="middle" font-family="Georgia, Songti SC, Noto Serif CJK SC, serif" font-size="9" font-style="italic" fill="#1B3B6B" opacity="0.45" letter-spacing="0.5">
+  <tspan x="538" dy="0">真正的增长，</tspan>
+  <tspan x="538" dy="13">来自观念的</tspan>
+  <tspan x="538" dy="13">积累，</tspan>
+  <tspan x="538" dy="13">而非资本的</tspan>
+  <tspan x="538" dy="13">堆砌。</tspan>
+</text>
+<text x="538" y="540" text-anchor="middle" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="7" fill="#1B3B6B" opacity="0.35">— Mokyr, A Culture of Growth</text>
+<rect x="420" y="742" width="140" height="22" rx="2" fill="none" stroke="#1B3B6B" stroke-width="1" opacity="0.12"/>
+<text x="490" y="757" text-anchor="middle" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="8" letter-spacing="2" fill="#1B3B6B" opacity="0.35">OSCAR · 开源之道·荐书</text>
+<rect x="0" y="796" width="600" height="4" fill="#1B3B6B" opacity="0.7"/>
+</svg>
