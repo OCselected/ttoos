@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800" width="600" height="800">
+<defs>
+<filter id="s" x="-5%" y="-5%" width="110%" height="110%">
+  <feDropShadow dx="2" dy="4" stdDeviation="6" flood-color="#1A1A1A" flood-opacity="0.06"/>
+</filter>
+</defs>
+<rect width="600" height="800" rx="10" fill="#F5F0E8" filter="url(#s)"/>
+<rect x="0" y="0" width="600" height="5" fill="#1B3B6B"/>
+<line x1="390" y1="60" x2="390" y2="740" stroke="#1B3B6B" stroke-width="1" opacity="0.08"/>
+<circle cx="535" cy="115" r="165" fill="none" stroke="#1B3B6B" stroke-width="1.5" opacity="0.05"/>
+<circle cx="550" cy="130" r="110" fill="none" stroke="#1B3B6B" stroke-width="1" opacity="0.07"/>
+<circle cx="558" cy="138" r="60" fill="none" stroke="#1B3B6B" stroke-width="1" opacity="0.09"/>
+<circle cx="500" cy="540" r="22" fill="none" stroke="#1B3B6B" stroke-width="1" opacity="0.06"/>
+<circle cx="520" cy="555" r="14" fill="none" stroke="#1B3B6B" stroke-width="1" opacity="0.08"/>
+<rect x="475" y="590" width="20" height="20" fill="none" stroke="#1B3B6B" stroke-width="1.2" opacity="0.12" transform="rotate(45, 485, 600)"/>
+<rect x="540" y="595" width="14" height="14" fill="none" stroke="#1B3B6B" stroke-width="1" opacity="0.14" transform="rotate(45, 547, 602)"/>
+<rect x="445" y="625" width="10" height="10" fill="none" stroke="#1B3B6B" stroke-width="1" opacity="0.16" transform="rotate(45, 450, 630)"/>
+<circle cx="425" cy="230" r="3" fill="#1B3B6B" opacity="0.12"/>
+<circle cx="460" cy="340" r="2.5" fill="#1B3B6B" opacity="0.10"/>
+<circle cx="495" cy="400" r="3.5" fill="#1B3B6B" opacity="0.11"/>
+<circle cx="430" cy="470" r="2.5" fill="#1B3B6B" opacity="0.13"/>
+<circle cx="575" cy="240" r="3" fill="#1B3B6B" opacity="0.10"/>
+<rect x="40" y="72" width="130" height="22" rx="3" fill="#1B3B6B"/>
+<text x="105" y="87" text-anchor="middle" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="2" fill="#FFFFFF">BOOK</text>
+<text x="560" y="80" text-anchor="end" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="9" fill="#555555" opacity="0.5">2026-08-07</text>
+<text x="40" y="107" font-family="Georgia, Songti SC, Noto Serif CJK SC, serif" font-size="24" font-weight="900" fill="#1A1A1A">
+  <tspan x="40" dy="0">The Economics</tspan>
+  <tspan x="40" dy="30">of Knowledge</tspan>
+</text>
+<text x="40" y="205" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="12" fill="#555555">Dominique Foray (2006)</text>
+<line x1="40" y1="230" x2="290" y2="230" stroke="#1B3B6B" stroke-width="1.5" opacity="0.25"/>
+<text x="40" y="252" font-family="-apple-system, PingFang SC, Helvetica Neue, Noto Sans CJK SC, Microsoft YaHei, Arial, sans-serif" font-size="11" fill="#1A1A1A">
+  <tspan x="40" dy="0">知识是一种特殊的资本品——非竞</tspan>
+  <tspan x="40" dy="18">争、正外部、可累积。Foray 为知识</tspan>
+  <tspan x="40" dy="18">建立起系统的经济学分析框架，指出</tspan>
+  <tspan x="40" dy="18">知识的生产与传播需要专门制度，而</tspan>
+  <tspan x="40" dy="18">非传统价格。这正是开源用许可证与</tspan>
+  <tspan x="40" dy="18">共同体而非市场来组织知识的原因。</tspan>
+</text>
+<rect x="40" y="432" width="95" height="18" rx="2" fill="#1A1A1A" opacity="0.04"/>
+<text x="87" y="445" text-anchor="middle" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="9" font-weight="700" fill="#555555">KEY IDEAS</text>
+<text x="40" y="460" font-family="-apple-system, PingFang SC, Helvetica Neue, Noto Sans CJK SC, Microsoft YaHei, Arial, sans-serif" font-size="11" fill="#1A1A1A">
+  <tspan x="40" dy="0">• 知识资本（Knowledge Capital）</tspan>
+  <tspan x="40" dy="17">• 知识的专门制度安排</tspan>
+  <tspan x="40" dy="17">• 知识产业与正外部性</tspan>
+</text>
+<text x="540" y="430" text-anchor="middle" font-family="Georgia, Songti SC, Noto Serif CJK SC, serif" font-size="9" font-style="italic" fill="#1B3B6B" opacity="0.45" letter-spacing="0.5">
+  <tspan x="540" dy="0">知识没有</tspan>
+  <tspan x="540" dy="13">主人，</tspan>
+  <tspan x="540" dy="13">知识有</tspan>
+  <tspan x="540" dy="13">共同体。</tspan>
+</text>
+<text x="540" y="540" text-anchor="middle" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="7" fill="#1B3B6B" opacity="0.35">— Foray · 适兕注</text>
+<rect x="420" y="742" width="140" height="22" rx="2" fill="none" stroke="#1B3B6B" stroke-width="1" opacity="0.12"/>
+<text x="490" y="757" text-anchor="middle" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="8" letter-spacing="2" fill="#1B3B6B" opacity="0.35">OSCAR · 开源之道·荐书</text>
+<rect x="0" y="796" width="600" height="4" fill="#1B3B6B" opacity="0.7"/>
+</svg>
