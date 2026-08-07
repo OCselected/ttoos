@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800" width="600" height="800">
+<defs>
+<filter id="s" x="-5%" y="-5%" width="110%" height="110%">
+  <feDropShadow dx="2" dy="4" stdDeviation="6" flood-color="#1A1A1A" flood-opacity="0.06"/>
+</filter>
+</defs>
+<rect width="600" height="800" rx="10" fill="#F5F0E8" filter="url(#s)"/>
+<rect x="0" y="0" width="600" height="5" fill="#1B3B6B"/>
+<line x1="390" y1="60" x2="390" y2="740" stroke="#1B3B6B" stroke-width="1" opacity="0.08"/>
+<!-- right decorative nested circles (top) -->
+<circle cx="520" cy="110" r="155" fill="none" stroke="#1B3B6B" stroke-width="1.5" opacity="0.05"/>
+<circle cx="530" cy="120" r="105" fill="none" stroke="#1B3B6B" stroke-width="1" opacity="0.07"/>
+<circle cx="538" cy="128" r="55" fill="none" stroke="#1B3B6B" stroke-width="1" opacity="0.09"/>
+<!-- evolutionary spiral hint (bottom right) -->
+<path d="M 480 600 Q 560 600 560 540 Q 560 480 500 480 Q 460 480 460 520 Q 460 555 495 555 Q 515 555 515 535" fill="none" stroke="#1B3B6B" stroke-width="1.2" opacity="0.10"/>
+<path d="M 470 610 Q 570 610 570 530 Q 570 450 490 450 Q 440 450 440 510" fill="none" stroke="#1B3B6B" stroke-width="1" opacity="0.06"/>
+<!-- rotated small squares -->
+<rect x="470" y="700" width="20" height="20" fill="none" stroke="#1B3B6B" stroke-width="1.2" opacity="0.12" transform="rotate(45, 480, 710)"/>
+<rect x="540" y="705" width="14" height="14" fill="none" stroke="#1B3B6B" stroke-width="1" opacity="0.14" transform="rotate(45, 547, 712)"/>
+<rect x="440" y="735" width="10" height="10" fill="none" stroke="#1B3B6B" stroke-width="1" opacity="0.16" transform="rotate(45, 445, 740)"/>
+<!-- scattered dots -->
+<circle cx="430" cy="240" r="3" fill="#1B3B6B" opacity="0.12"/>
+<circle cx="465" cy="330" r="2.5" fill="#1B3B6B" opacity="0.10"/>
+<circle cx="495" cy="400" r="3.5" fill="#1B3B6B" opacity="0.11"/>
+<circle cx="435" cy="470" r="2.5" fill="#1B3B6B" opacity="0.13"/>
+<circle cx="575" cy="240" r="3" fill="#1B3B6B" opacity="0.10"/>
+<circle cx="500" cy="660" r="2.5" fill="#1B3B6B" opacity="0.11"/>
+
+<!-- BOOK tag -->
+<rect x="40" y="72" width="130" height="22" rx="3" fill="#1B3B6B"/>
+<text x="105" y="87" text-anchor="middle" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="2" fill="#FFFFFF">BOOK</text>
+<text x="560" y="80" text-anchor="end" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="9" fill="#555555" opacity="0.5">2026-08-08</text>
+
+<!-- Title -->
+<text x="40" y="128" font-family="Georgia, Songti SC, Noto Serif CJK SC, serif" font-size="22" font-weight="900" fill="#1A1A1A">
+  <tspan x="40" dy="0">General Theory</tspan>
+  <tspan x="40" dy="28">of Economic</tspan>
+  <tspan x="40" dy="28">Evolution</tspan>
+</text>
+<text x="40" y="230" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="12" fill="#555555">Dopfer &amp; Potts (2008)</text>
+
+<line x1="40" y1="255" x2="290" y2="255" stroke="#1B3B6B" stroke-width="1.5" opacity="0.25"/>
+
+<text x="40" y="278" font-family="-apple-system, PingFang SC, Helvetica Neue, Noto Sans CJK SC, Microsoft YaHei, Arial, sans-serif" font-size="11" fill="#1A1A1A">
+  <tspan x="40" dy="0">将演化经济学系统化为通用理论：</tspan>
+  <tspan x="40" dy="18">以规则（rules）为分析基本单位，从微</tspan>
+  <tspan x="40" dy="18">观、中观到宏观三层结构，解释规则的</tspan>
+  <tspan x="40" dy="18">起源、采纳、保留与传播。Potts 亦是</tspan>
+  <tspan x="40" dy="18">"创新公地"理论提出者，与开源制度</tspan>
+  <tspan x="40" dy="18">经济学高度共振。</tspan>
+</text>
+
+<rect x="40" y="470" width="95" height="18" rx="2" fill="#1A1A1A" opacity="0.04"/>
+<text x="87" y="483" text-anchor="middle" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="9" font-weight="700" fill="#555555">KEY IDEAS</text>
+<text x="40" y="502" font-family="-apple-system, PingFang SC, Helvetica Neue, Noto Sans CJK SC, Microsoft YaHei, Arial, sans-serif" font-size="11" fill="#1A1A1A">
+  <tspan x="40" dy="0">• 规则作为分析单位</tspan>
+  <tspan x="40" dy="17">• 微观—中观—宏观三层</tspan>
+  <tspan x="40" dy="17">• 创新公地（Innovation Commons）</tspan>
+</text>
+
+<!-- Right vertical quote -->
+<text x="540" y="450" text-anchor="middle" font-family="Georgia, Songti SC, Noto Serif CJK SC, serif" font-size="9" font-style="italic" fill="#1B3B6B" opacity="0.45" letter-spacing="0.5">
+  <tspan x="540" dy="0">演化不是</tspan>
+  <tspan x="540" dy="13">选择，</tspan>
+  <tspan x="540" dy="13">而是</tspan>
+  <tspan x="540" dy="13">规则的</tspan>
+  <tspan x="540" dy="13">变异与</tspan>
+  <tspan x="540" dy="13">传播。</tspan>
+</text>
+<text x="540" y="565" text-anchor="middle" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="7" fill="#1B3B6B" opacity="0.35">— Dopfer &amp; Potts · 适兕注</text>
+
+<rect x="420" y="760" width="140" height="22" rx="2" fill="none" stroke="#1B3B6B" stroke-width="1" opacity="0.12"/>
+<text x="490" y="775" text-anchor="middle" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="8" letter-spacing="2" fill="#1B3B6B" opacity="0.35">OSCAR · 开源之道·荐书</text>
+<rect x="0" y="796" width="600" height="4" fill="#1B3B6B" opacity="0.7"/>
+</svg>
