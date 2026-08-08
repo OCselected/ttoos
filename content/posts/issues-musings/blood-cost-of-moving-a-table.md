@@ -111,9 +111,8 @@ draft: true
 
 诺斯说"不能保证有效率的制度安排总会出现"——但陈寅恪的追问更彻底：**即使制度存在，它如何在一个具体的身体里留下痕迹？**
 
-> **陈寅恪著作参考：**
-> - 《柳如是别传》（陈寅恪，生活·读书·新知三联书店，ISBN 9787108009456）
-> - 《隋唐制度渊源略论稿》（陈寅恪，生活·读书·新知三联书店，ISBN 9787108009418）
+---
+
 ## Agentic AI 的思维链：让不可见变得可见
 
 适兕在 Slide 5 的书摘评论中写下了一个判断：
@@ -169,3 +168,70 @@ AI 可以展开推理路径，但能不能跟随这条路径走到底，取决�
 启蒙的意义，就是让看不见的，变得可见。
 
 但这需要更多的努力和慧眼——因为让制度变得可见，本身就是一种制度的实践。
+
+
+---
+
+## 参考文献
+
+1. **道格拉斯·诺斯 & 罗伯特·托马斯**（1973）：*Institutions, Institutional Change and Economic Performance*，"Institutions and Institutional Change" in R. W. Fogel & D. C. North (eds.) *Essays in Economic History and Theory*，University of Chicago Press.
+   — 引文："我们不能保证有效率的制度安排总会出现"。
+
+2. **思拉恩·埃格特森**（Thráinn Eggertsson）（1990）：*Economic Behavior and Institutions*，Cambridge University Press.
+   — 本文所有引文经埃格特森引用诺斯/托马斯（1973）和马修斯（1986）。
+
+3. **马修斯**（K. E. Matthews）（1986）：*Transaction-Cost Economics: Some Real-World Implications*，Journal of Economic Behavior and Organization 7:273-298.
+   — 引文："交易成本包括事前准备合同和事后监督及强制合同执行的成本。"
+
+4. **奥利弗·威廉姆森**（Oliver Williamson）（1985）：*The Economic Institutions of Capitalism*，Free Press.
+   — 社会分析框架（Four Levels of Social Analysis）：L1 嵌入性 / L2 制度环境 / L3 治理 / L4 资源配置。
+
+5. **徐贲**（2020）：*与时俱进的启蒙*，生活·读书·新知三联书店.
+   — 核心概念：框架误导（misframing）；启蒙只对"做好了准备的人"有意义。
+
+6. **鲁迅**（1923）：《娜拉走后怎样》，1923年12月26日北京女子高等师范学校演讲，后收入《坟》.
+   — 引文："可惜中国太难改变了，即使搬动一张桌子，改装一个火炉，几乎也要血……"
+
+7. **陈寅恪**：《柳如是别传》，生活·读书·新知三联书店，ISBN 9787108009456.
+   — 明末清初柳如是传记，以个体内心选择解释时代因果。
+
+8. **陈寅恪**：《隋唐制度渊源略论稿》，生活·读书·新知三联书店，ISBN 9787108009418.
+   — 引文："取塞外野蛮精悍之血，注入中原文化颓废之躯，旧染既除，新机重启。"（原载《李唐氏族推测之后记》）
+
+9. **陈寅恪**：《武瞾与佛教》.
+   — 以武则天身体为政治符号，追问胡汉融合在唐代制度中的痕迹。
+
+10. **《清诗别裁》**：记柳如是"奋身欲沉池水中"，却被钱谦益拉住.
+---
+
+## 配图提示词（AI Image Generation Prompt）
+
+**用途：** 本图由 ChatGPT-Image-2 生成。
+
+```
+Style: dark academic, dark academia, oil painting texture, Renaissance meets modern institutional diagram
+Palette: deep navy blue (#0D1B2A), burnt amber (#B07845), bone white (#E8DFCF), oxidized copper green (#5A7D7C)
+Composition: wide 16:9, layered depth
+
+Main subject: A complex causal network diagram stretching across a vast space. At the bottom (foreground),
+a single anonymous figure kneels, holding a magnifying glass, examining one node of a vast interconnected web.
+The web rises in layers:
+
+Layer 1 (deepest, furthest): vast ocean floor with ancient ruins and cultural artifacts — labeled "L1 EMBEDDING"
+in faint Gothic lettering, visible only through water refraction
+Layer 2: architectural ruins — pillars, broken arches, legal scrolls — "L2 INSTITUTIONAL ENVIRONMENT"
+Layer 3: governance structures — concentric circles of contracts, councils, treaties — "L3 GOVERNANCE"
+Layer 4 (closest): market prices, tokens, small transactions visible in sharp focus — "L4 RESOURCE ALLOCATION"
+
+Light source: a single beam of warm amber light from above-right, illuminating the figure and the node
+he examines. The layers above are in progressively darker shadow.
+
+Key symbolic elements:
+- A desk chair (桌子) in the foreground, slightly out of focus, with bloodstains barely visible on the floor
+- The figure is not looking at the chair — he is looking at the node in his hand
+- On the far wall, barely legible, two lines of Chinese calligraphy (do not attempt to render characters accurately —
+use abstract brush strokes suggesting classical Chinese script): 搬动一张桌子 / 几乎也要血
+
+Mood: contemplative, melancholic, intellectual. Not dramatic. The figure is alone but not lonely.
+The composition suggests: one person, one node, infinite layers above that he cannot see — but is trying.
+```
