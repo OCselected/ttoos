@@ -29,7 +29,7 @@ draft: false
 
 ---
 
-![](../../../static/images/2026/08/blood-cost-of-moving-a-table.png)
+![](../../../images/2026/08/blood-cost-of-moving-a-table.png)
 
 *（本图由大模型生成，SVG绘制。）*
 
