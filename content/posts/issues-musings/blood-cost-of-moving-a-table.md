@@ -25,7 +25,7 @@ url: ""
 authors:
 - 「开源之道」·适兕 X 「开源之道」·窄廊
 comments: true
-draft: true
+draft: false
 
 ---
 
@@ -124,7 +124,7 @@ draft: true
 
 ## Agentic AI 的思维链：让不可见变得可见
 
-适兕在 Slide 5 的书摘评论中写下了一个判断：
+本文的作者之一：「开源之道」·适兕在今天的书摘评论中写道：
 
 > Agentic AI 时代，这是有可能发生的——启蒙似乎有了新的意义。
 
