@@ -26,6 +26,15 @@ authors:
 - 「开源之道」·适兕 X 「开源之道」·窄廊
 comments: true
 draft: true
+
+---
+
+![](../../../static/images/2026/08/blood-cost-of-moving-a-table.png)
+
+*（本图由大模型生成，SVG绘制。）*
+
+---
+
 ---
 
 ## 引言
@@ -202,36 +211,3 @@ AI 可以展开推理路径，但能不能跟随这条路径走到底，取决�
    — 以武则天身体为政治符号，追问胡汉融合在唐代制度中的痕迹。
 
 10. **《清诗别裁》**：记柳如是"奋身欲沉池水中"，却被钱谦益拉住.
----
-
-## 配图提示词（AI Image Generation Prompt）
-
-**用途：** 本图由 ChatGPT-Image-2 生成。
-
-```
-Style: dark academic, dark academia, oil painting texture, Renaissance meets modern institutional diagram
-Palette: deep navy blue (#0D1B2A), burnt amber (#B07845), bone white (#E8DFCF), oxidized copper green (#5A7D7C)
-Composition: wide 16:9, layered depth
-
-Main subject: A complex causal network diagram stretching across a vast space. At the bottom (foreground),
-a single anonymous figure kneels, holding a magnifying glass, examining one node of a vast interconnected web.
-The web rises in layers:
-
-Layer 1 (deepest, furthest): vast ocean floor with ancient ruins and cultural artifacts — labeled "L1 EMBEDDING"
-in faint Gothic lettering, visible only through water refraction
-Layer 2: architectural ruins — pillars, broken arches, legal scrolls — "L2 INSTITUTIONAL ENVIRONMENT"
-Layer 3: governance structures — concentric circles of contracts, councils, treaties — "L3 GOVERNANCE"
-Layer 4 (closest): market prices, tokens, small transactions visible in sharp focus — "L4 RESOURCE ALLOCATION"
-
-Light source: a single beam of warm amber light from above-right, illuminating the figure and the node
-he examines. The layers above are in progressively darker shadow.
-
-Key symbolic elements:
-- A desk chair (桌子) in the foreground, slightly out of focus, with bloodstains barely visible on the floor
-- The figure is not looking at the chair — he is looking at the node in his hand
-- On the far wall, barely legible, two lines of Chinese calligraphy (do not attempt to render characters accurately —
-use abstract brush strokes suggesting classical Chinese script): 搬动一张桌子 / 几乎也要血
-
-Mood: contemplative, melancholic, intellectual. Not dramatic. The figure is alone but not lonely.
-The composition suggests: one person, one node, infinite layers above that he cannot see — but is trying.
-```
