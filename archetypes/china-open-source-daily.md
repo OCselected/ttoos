@@ -1,6 +1,6 @@
 ---
 title: "China Open Source Daily — {{ .Date.Format "2006-01-02" }}"
-date: {{ .Date.Format "2006-01-02" }}T07:20:00+08:00
+date: {{ (.Date.Add (time.ParseDuration "-30m")).Format "2006-01-02T15:04:05-07:00" }}
 draft: false
 authors:
 - "The Way of Open Source · Kuo Si"
