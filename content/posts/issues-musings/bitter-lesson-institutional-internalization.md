@@ -20,7 +20,7 @@ tags:
 - 制度经济学
 title: "【思想札记】The Bitter Lesson 与制度的内化：从 Harness 到 Copyleft 的同一机制"
 url: "/posts/issues-musings/bitter-lesson-institutional-internalization/"
-draft: true
+draft: false
 authors:
 - 「开源之道」·适兕 X 「开源之道」·窄廊
 ---
