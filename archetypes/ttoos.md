@@ -2,6 +2,7 @@
 categories:
 - 开源
 - 感悟
+comments: true
 date: {{ .Date }}
 description: ""
 keywords:
