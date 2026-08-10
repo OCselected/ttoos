@@ -4,6 +4,7 @@ categories:
 - 哲学
 - 智识
 - 思考
+comments: true
 date: 2026-08-10T20:25:06+08:00
 description: "【思想札记】The Bitter Lesson 与制度内化的同一机制——从 AI Harness 到 Copyleft 的制度经济学分析"
 keywords:
