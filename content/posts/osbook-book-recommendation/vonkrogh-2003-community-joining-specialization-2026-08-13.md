@@ -20,7 +20,7 @@ categories:
 description: "以 Freenet 项目 18 个月 867 封邮件为标本，首次揭示开源社区的'加入脚本'与自发专业化——开源治理的微观机制被打开。"
 ---
 
-{{< figure src="/media/vonkrogh-2003-community-joining-specialization-2026-08-13.jpg" alt="推荐卡片" width="600" >}}
+{{< figure src="/media/vonkrogh-2003-community-joining-specialization-2026-08-13.png" alt="推荐卡片" width="600" >}}
 
 # 2026-08-13  「开源之道」·荐书：Community, Joining, and Specialization — von Krogh, Spaeth & Lakhani
 
