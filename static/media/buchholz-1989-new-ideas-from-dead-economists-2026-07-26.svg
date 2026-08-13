@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800" width="600" height="800">
+<defs>
+<filter id="s" x="-5%" y="-5%" width="110%" height="110%">
+  <feDropShadow dx="2" dy="4" stdDeviation="6" flood-color="#1A1A1A" flood-opacity="0.06"/>
+</filter>
+</defs>
+<rect width="600" height="800" rx="10" fill="#F5F0E8" filter="url(#s)"/>
+<rect x="0" y="0" width="600" height="5" fill="#1B3B6B"/>
+<circle cx="550" cy="50" r="130" fill="none" stroke="#1B3B6B" stroke-width="1.5" opacity="0.07"/>
+<circle cx="560" cy="40" r="80" fill="none" stroke="#1B3B6B" stroke-width="1" opacity="0.10"/>
+<rect x="20" y="90" width="14" height="14" fill="none" stroke="#1B3B6B" stroke-width="2" opacity="0.10" transform="rotate(15, 27, 97)"/>
+<rect x="40" y="65" width="72" height="22" rx="3" fill="#1B3B6B"/>
+<text x="76" y="80" text-anchor="middle" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="2" fill="#FFFFFF">BOOK</text>
+<text x="560" y="80" text-anchor="end" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="9" fill="#555555" opacity="0.5">2026-07-26</text>
+<text x="40" y="109" font-family="Georgia, Songti SC, Noto Serif CJK SC, serif" font-size="26" font-weight="900" fill="#1A1A1A">
+  <tspan x="40" dy="0">New Ideas from</tspan>
+  <tspan x="40" dy="34">Dead Economists:</tspan>
+  <tspan x="40" dy="34">An Introduction</tspan>
+  <tspan x="40" dy="34">to Modern</tspan>
+  <tspan x="40" dy="34">Economic Thought</tspan>
+</text>
+<text x="40" y="285" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="12" fill="#555555">Todd G. Buchholz (1989)</text>
+<line x1="40" y1="313" x2="222" y2="313" stroke="#1B3B6B" stroke-width="1.5" opacity="0.25"/>
+<text x="40" y="335" font-family="-apple-system, PingFang SC, Helvetica Neue, Noto Sans CJK SC, Microsoft YaHei, Arial, sans-serif" font-size="12" fill="#1A1A1A">
+  <tspan x="40" dy="0">从斯密到哈耶克，布赫霍尔茨以生动的</tspan>
+  <tspan x="40" dy="20">笔触串联起经济学巨匠的思想。哈耶克</tspan>
+  <tspan x="40" dy="20">的无知论揭示了开源的认识论基础——</tspan>
+  <tspan x="40" dy="20">没有人能比你更了解你的需求。斯密的</tspan>
+  <tspan x="40" dy="20">看不见的手解释了开源的自利性——私</tspan>
+  <tspan x="40" dy="20">利导向公益，不需要中央计划。</tspan>
+</text>
+<rect x="40" y="497" width="90" height="18" rx="2" fill="#1A1A1A" opacity="0.04"/>
+<text x="85" y="510" text-anchor="middle" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="9" font-weight="700" fill="#555555">KEY IDEAS</text>
+<text x="40" y="525" font-family="-apple-system, PingFang SC, Helvetica Neue, Noto Sans CJK SC, Microsoft YaHei, Arial, sans-serif" font-size="11" fill="#1A1A1A">
+  <tspan x="40" dy="0">• 分散知识与分布式决策</tspan>
+  <tspan x="40" dy="18">• 自利即公益的制度化</tspan>
+  <tspan x="40" dy="18">• 市场协调 vs 制度协调</tspan>
+</text>
+<rect x="420" y="742" width="140" height="22" rx="2" fill="none" stroke="#1B3B6B" stroke-width="1" opacity="0.12"/>
+<text x="490" y="757" text-anchor="middle" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="8" letter-spacing="2" fill="#1B3B6B" opacity="0.35">「开源之道」·荐书</text>
+<rect x="0" y="796" width="600" height="4" fill="#1B3B6B" opacity="0.7"/>
+</svg>
