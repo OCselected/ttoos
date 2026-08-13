@@ -2,6 +2,7 @@
 title: "2026-08-05  「开源之道」·荐书：The Economic Institutions of Capitalism — Oliver E. Williamson"
 date: 2026-08-05T07:00:00+08:00
 draft: false
+comments: true
 authors:
 - 「开源之道」·窄廊
 tags:

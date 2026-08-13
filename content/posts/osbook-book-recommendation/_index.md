@@ -1,4 +1,5 @@
 ---
+comments: true
 title: "「开源之道」每日推荐"
 description: "每日推荐一本开源相关书籍或一篇学术论文"
 ---

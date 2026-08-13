@@ -2,6 +2,7 @@
 title: "2026-08-03  「开源之道」·荐书：Dreaming in Code — Scott Rosenberg"
 date: 2026-08-03T07:00:00+08:00
 draft: false
+comments: true
 authors:
 - 「开源之道」·窄廊
 tags:

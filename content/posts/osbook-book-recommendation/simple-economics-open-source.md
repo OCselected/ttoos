@@ -11,6 +11,7 @@ tags:
 categories:
 - 开源之书·共读
 draft: false
+comments: true
 ---
 
 ## 今日推荐论文
