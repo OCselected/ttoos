@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800" width="600" height="800">
+<defs>
+<filter id="s" x="-5%" y="-5%" width="110%" height="110%">
+  <feDropShadow dx="2" dy="4" stdDeviation="6" flood-color="#1A1A1A" flood-opacity="0.06"/>
+</filter>
+</defs>
+<rect width="600" height="800" rx="10" fill="#F5F0E8" filter="url(#s)"/>
+<rect x="0" y="0" width="600" height="5" fill="#1B3B6B"/>
+<line x1="390" y1="60" x2="390" y2="740" stroke="#1B3B6B" stroke-width="1" opacity="0.08"/>
+<!-- Right-side nested circles (conceptual: free-rider orbits public good) -->
+<circle cx="540" cy="150" r="160" fill="none" stroke="#1B3B6B" stroke-width="1.5" opacity="0.05"/>
+<circle cx="540" cy="150" r="108" fill="none" stroke="#1B3B6B" stroke-width="1" opacity="0.07"/>
+<circle cx="540" cy="150" r="58" fill="none" stroke="#1B3B6B" stroke-width="1" opacity="0.09"/>
+<circle cx="540" cy="150" r="10" fill="#1B3B6B" opacity="0.15"/>
+<!-- selective-incentive arrows toward center -->
+<line x1="430" y1="150" x2="500" y2="150" stroke="#1B3B6B" stroke-width="1" opacity="0.15"/>
+<line x1="580" y1="150" x2="555" y2="150" stroke="#1B3B6B" stroke-width="1" opacity="0.15"/>
+<line x1="540" y1="60" x2="540" y2="125" stroke="#1B3B6B" stroke-width="1" opacity="0.15"/>
+<line x1="540" y1="240" x2="540" y2="200" stroke="#1B3B6B" stroke-width="1" opacity="0.15"/>
+
+<!-- lower-right rotated squares (group size cascade) -->
+<rect x="475" y="560" width="24" height="24" fill="none" stroke="#1B3B6B" stroke-width="1.2" opacity="0.12" transform="rotate(45, 487, 572)"/>
+<rect x="515" y="590" width="18" height="18" fill="none" stroke="#1B3B6B" stroke-width="1" opacity="0.14" transform="rotate(45, 524, 599)"/>
+<rect x="455" y="620" width="14" height="14" fill="none" stroke="#1B3B6B" stroke-width="1" opacity="0.16" transform="rotate(45, 462, 627)"/>
+<rect x="545" y="635" width="10" height="10" fill="none" stroke="#1B3B6B" stroke-width="1" opacity="0.18" transform="rotate(45, 550, 640)"/>
+
+<!-- scattered dots (individual contributors) -->
+<circle cx="425" cy="230" r="3" fill="#1B3B6B" opacity="0.12"/>
+<circle cx="465" cy="310" r="2.5" fill="#1B3B6B" opacity="0.10"/>
+<circle cx="500" cy="400" r="3.5" fill="#1B3B6B" opacity="0.11"/>
+<circle cx="445" cy="470" r="2.5" fill="#1B3B6B" opacity="0.13"/>
+<circle cx="580" cy="275" r="3" fill="#1B3B6B" opacity="0.10"/>
+<circle cx="418" cy="575" r="2" fill="#1B3B6B" opacity="0.10"/>
+<circle cx="575" cy="515" r="2" fill="#1B3B6B" opacity="0.10"/>
+<circle cx="490" cy="700" r="2.5" fill="#1B3B6B" opacity="0.09"/>
+<circle cx="560" cy="710" r="2" fill="#1B3B6B" opacity="0.10"/>
+
+<!-- BOOK tag -->
+<rect x="40" y="72" width="130" height="22" rx="3" fill="#1B3B6B"/>
+<text x="105" y="87" text-anchor="middle" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="2" fill="#FFFFFF">BOOK</text>
+<text x="560" y="80" text-anchor="end" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="9" fill="#555555" opacity="0.5">2026-08-15</text>
+
+<!-- Title -->
+<text x="40" y="118" font-family="Georgia, Songti SC, Noto Serif CJK SC, serif" font-size="26" font-weight="900" fill="#1A1A1A">
+  <tspan x="40" dy="0">The Logic of</tspan>
+  <tspan x="40" dy="30">Collective Action</tspan>
+</text>
+<text x="40" y="192" font-family="Georgia, Songti SC, Noto Serif CJK SC, serif" font-size="16" font-weight="700" fill="#1B3B6B">
+  <tspan x="40" dy="0">集体行动的逻辑</tspan>
+</text>
+<text x="40" y="220" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="11" fill="#555555">Mancur Olson Jr. · 1965 / Harvard UP</text>
+<line x1="40" y1="245" x2="290" y2="245" stroke="#1B3B6B" stroke-width="1.5" opacity="0.25"/>
+
+<!-- Description -->
+<text x="40" y="272" font-family="-apple-system, PingFang SC, Helvetica Neue, Noto Sans CJK SC, Microsoft YaHei, Arial, sans-serif" font-size="11" fill="#1A1A1A">
+  <tspan x="40" dy="0">1965 年问世的这本薄书，用</tspan>
+  <tspan x="40" dy="17">166 页奠定了"集体行动困境"</tspan>
+  <tspan x="40" dy="17">的分析范式。奥曼提出一个反</tspan>
+  <tspan x="40" dy="17">直觉的判断——理性个体在</tspan>
+  <tspan x="40" dy="17">大群体中会选择搭便车；只有</tspan>
+  <tspan x="40" dy="17">选择性激励，才能把公共品的</tspan>
+  <tspan x="40" dy="17">供给组织起来。</tspan>
+</text>
+
+<!-- KEY IDEAS -->
+<rect x="40" y="510" width="95" height="18" rx="2" fill="#1A1A1A" opacity="0.04"/>
+<text x="87" y="523" text-anchor="middle" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="9" font-weight="700" fill="#555555">KEY IDEAS</text>
+<text x="40" y="548" font-family="-apple-system, PingFang SC, Helvetica Neue, Noto Sans CJK SC, Microsoft YaHei, Arial, sans-serif" font-size="11" fill="#1A1A1A">
+  <tspan x="40" dy="0">• 公共品 = 非排他 + 非竞争 → 搭便车是理性选择</tspan>
+  <tspan x="40" dy="17">• 群体越大，搭便车动机越强（Group Size Effect）</tspan>
+  <tspan x="40" dy="17">• 选择性激励（声誉/法律/经济）= 集体行动的前提</tspan>
+</text>
+
+<!-- Quote right-side -->
+<text x="538" y="450" text-anchor="middle" font-family="Georgia, Songti SC, Noto Serif CJK SC, serif" font-size="9" font-style="italic" fill="#1B3B6B" opacity="0.45" letter-spacing="0.5">
+  <tspan x="538" dy="0">在足够大的群体中，</tspan>
+  <tspan x="538" dy="13">理性的个体</tspan>
+  <tspan x="538" dy="13">不会为集体利益</tspan>
+  <tspan x="538" dy="13">付出努力。</tspan>
+</text>
+<text x="538" y="565" text-anchor="middle" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="7" fill="#1B3B6B" opacity="0.35">— Olson, Ch. II</text>
+
+<rect x="420" y="742" width="140" height="22" rx="2" fill="none" stroke="#1B3B6B" stroke-width="1" opacity="0.12"/>
+<text x="490" y="757" text-anchor="middle" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="8" letter-spacing="2" fill="#1B3B6B" opacity="0.35">OSCAR · 开源之道·荐书</text>
+<rect x="0" y="796" width="600" height="4" fill="#1B3B6B" opacity="0.7"/>
+</svg>
