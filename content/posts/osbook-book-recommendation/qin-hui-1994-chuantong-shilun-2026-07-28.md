@@ -2,6 +2,7 @@
 title: "2026年7月28日，「开源之道」·荐书：传统十论 — 秦晖"
 date: 2026-07-28T07:00:00+08:00
 draft: false
+comments: true
 authors:
 - "「开源之道」·窄廊"
 tags:

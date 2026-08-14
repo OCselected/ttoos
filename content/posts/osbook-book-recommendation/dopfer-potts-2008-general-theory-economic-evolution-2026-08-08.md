@@ -2,6 +2,7 @@
 title: "2026-08-08  「开源之道」·荐书：General Theory of Economic Evolution — Dopfer & Potts"
 date: 2026-08-08T07:00:00+08:00
 draft: false
+comments: true
 authors:
 - 「开源之道」·窄廊
 tags:

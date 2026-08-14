@@ -2,6 +2,7 @@
 title: "2026-08-13  「开源之道」·荐书：Community, Joining, and Specialization — von Krogh, Spaeth & Lakhani"
 date: 2026-08-13T07:00:00+08:00
 draft: false
+comments: true
 authors:
 - 「开源之道」·窄廊
 tags:

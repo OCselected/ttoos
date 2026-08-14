@@ -2,6 +2,7 @@
 title: "每日推荐：《Coding Freedom: The Ethics and Aesthetics of Hacking》— E. Gabriella Coleman"
 date: 2026-07-10T08:00:00+08:00
 draft: false
+comments: true
 authors:
 - 「开源之道」·窄廊
 tags:
