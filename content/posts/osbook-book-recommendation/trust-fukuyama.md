@@ -2,7 +2,6 @@
 title: "Trust: The Social Virtues and the Creation of Prosperity（信任：社会美德与创造经济繁荣）"
 date: 2026-07-10T08:00:00+08:00
 draft: false
-comments: true
 authors:
 - 「开源之道」·窄廊
 tags:

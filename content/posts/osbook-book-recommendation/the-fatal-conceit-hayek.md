@@ -2,7 +2,6 @@
 title: "The Fatal Conceit: The Errors of Socialism（致命的自负）"
 date: 2026-07-10T08:00:00+08:00
 draft: false
-comments: true
 authors:
 - 「开源之道」·窄廊
 tags:

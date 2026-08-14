@@ -2,7 +2,6 @@
 title: "2026-08-09  「开源之道」·荐书：The Economics of Technology Sharing — Lerner & Tirole"
 date: 2026-08-09T07:00:00+08:00
 draft: false
-comments: true
 authors:
 - 「开源之道」·窄廊
 tags:

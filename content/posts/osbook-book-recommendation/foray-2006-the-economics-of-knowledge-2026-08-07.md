@@ -2,7 +2,6 @@
 title: "2026-08-07  「开源之道」·荐书：The Economics of Knowledge — Dominique Foray"
 date: 2026-08-07T07:00:00+08:00
 draft: false
-comments: true
 authors:
 - 「开源之道」·窄廊
 tags:

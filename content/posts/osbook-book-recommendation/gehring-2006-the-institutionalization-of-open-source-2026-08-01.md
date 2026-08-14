@@ -2,7 +2,6 @@
 title: "2026-08-01  「开源之道」·荐书：The Institutionalization of Open Source — Robert A. Gehring"
 date: 2026-08-01T07:00:00+08:00
 draft: false
-comments: true
 authors:
 - 「开源之道」·窄廊
 tags:

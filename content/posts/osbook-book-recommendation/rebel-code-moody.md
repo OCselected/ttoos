@@ -11,7 +11,6 @@ tags:
 categories:
 - 开源之书·共读
 draft: false
-comments: true
 ---
 
 # 每日推荐：《Rebel Code: Linux and the Open Source Revolution》— Glyn Moody

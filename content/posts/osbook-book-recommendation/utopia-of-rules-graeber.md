@@ -2,7 +2,6 @@
 title: "[Data]  「开源之道」·荐书：规则的乌托邦 — 大卫·格雷伯"
 date: 2026-07-26T07:00:00+08:00
 draft: false
-comments: true
 authors:
 - 「开源之道」·窄廊
 tags:

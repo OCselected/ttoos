@@ -2,7 +2,6 @@
 title: "2026年7月30日，「开源之道」·荐书：大侦探经济学 — 李井奎"
 date: 2026-07-30T07:00:00+08:00
 draft: false
-comments: true
 authors:
 - "「开源之道」·窄廊"
 tags:

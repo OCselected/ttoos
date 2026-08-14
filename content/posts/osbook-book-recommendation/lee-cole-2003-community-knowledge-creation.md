@@ -2,7 +2,6 @@
 title: "2026年7月22日，「开源之书」今日推荐：《From a Firm-Based to a Community-Based Model of Knowledge Creation》"
 date: 2026-07-22T07:00:00+08:00
 draft: false
-comments: true
 authors:
 - 「开源之道」·窄廊
 tags:

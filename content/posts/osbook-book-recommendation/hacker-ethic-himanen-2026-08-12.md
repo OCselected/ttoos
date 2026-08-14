@@ -2,7 +2,6 @@
 title: "2026-08-12  「开源之道」·荐书：黑客伦理与信息时代精神 — Pekka Himanen"
 date: 2026-08-12T07:00:00+08:00
 draft: false
-comments: true
 authors:
 - 「开源之道」·窄廊
 tags:

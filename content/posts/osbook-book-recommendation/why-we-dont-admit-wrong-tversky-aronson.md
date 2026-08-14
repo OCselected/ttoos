@@ -2,7 +2,6 @@
 title: "《Why We Don't Admit Wrong》— Tversky & Aronson"
 date: 2026-07-25T07:00:00+08:00
 draft: false
-comments: true
 authors:
 - 「开源之道」·适兕
 tags:
