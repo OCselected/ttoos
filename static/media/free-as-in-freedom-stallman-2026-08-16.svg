@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800" width="600" height="800">
+<defs>
+<filter id="s" x="-5%" y="-5%" width="110%" height="110%">
+  <feDropShadow dx="2" dy="4" stdDeviation="6" flood-color="#1A1A1A" flood-opacity="0.06"/>
+</filter>
+</defs>
+<rect width="600" height="800" rx="10" fill="#F5F0E8" filter="url(#s)"/>
+<rect x="0" y="0" width="600" height="5" fill="#1B3B6B"/>
+<line x1="390" y1="60" x2="390" y2="740" stroke="#1B3B6B" stroke-width="1" opacity="0.08"/>
+
+<!-- right geometric decoration: freedom / liberty motif -->
+<circle cx="525" cy="130" r="170" fill="none" stroke="#1B3B6B" stroke-width="1.5" opacity="0.05"/>
+<circle cx="535" cy="140" r="115" fill="none" stroke="#1B3B6B" stroke-width="1" opacity="0.07"/>
+<circle cx="545" cy="148" r="65" fill="none" stroke="#1B3B6B" stroke-width="1" opacity="0.09"/>
+
+<!-- radial rays (liberty lamp / free software radiance) -->
+<g stroke="#1B3B6B" stroke-width="1" opacity="0.10">
+  <line x1="540" y1="135" x2="450" y2="135"/>
+  <line x1="540" y1="135" x2="500" y2="60"/>
+  <line x1="540" y1="135" x2="580" y2="60"/>
+  <line x1="540" y1="135" x2="615" y2="135"/>
+  <line x1="540" y1="135" x2="500" y2="210"/>
+  <line x1="540" y1="135" x2="580" y2="210"/>
+  <line x1="540" y1="135" x2="425" y2="210"/>
+  <line x1="540" y1="135" x2="615" y2="210"/>
+</g>
+
+<!-- scattered dots, small diamonds (freedom as scattered sparks) -->
+<g fill="#1B3B6B" opacity="0.12">
+  <circle cx="425" cy="290" r="3"/>
+  <circle cx="490" cy="310" r="2.5"/>
+  <circle cx="555" cy="270" r="3"/>
+  <circle cx="460" cy="360" r="2.5"/>
+  <circle cx="530" cy="380" r="3"/>
+  <circle cx="440" cy="420" r="2.5"/>
+  <circle cx="510" cy="450" r="3"/>
+  <circle cx="575" cy="430" r="2.5"/>
+  <circle cx="430" cy="500" r="2.5"/>
+  <circle cx="500" cy="540" r="3"/>
+  <circle cx="560" cy="510" r="2.5"/>
+  <circle cx="450" cy="580" r="3"/>
+</g>
+
+<!-- nested diamonds at lower right -->
+<rect x="445" y="640" width="18" height="18" fill="none" stroke="#1B3B6B" stroke-width="1.2" opacity="0.12" transform="rotate(45, 454, 649)"/>
+<rect x="500" y="645" width="14" height="14" fill="none" stroke="#1B3B6B" stroke-width="1" opacity="0.14" transform="rotate(45, 507, 652)"/>
+<rect x="410" y="670" width="10" height="10" fill="none" stroke="#1B3B6B" stroke-width="1" opacity="0.16" transform="rotate(45, 415, 675)"/>
+<rect x="545" y="665" width="8" height="8" fill="none" stroke="#1B3B6B" stroke-width="1" opacity="0.18" transform="rotate(45, 549, 669)"/>
+
+<circle cx="425" cy="230" r="3" fill="#1B3B6B" opacity="0.12"/>
+<circle cx="575" cy="240" r="3" fill="#1B3B6B" opacity="0.10"/>
+<circle cx="430" cy="700" r="2.5" fill="#1B3B6B" opacity="0.13"/>
+
+<rect x="40" y="72" width="130" height="22" rx="3" fill="#1B3B6B"/>
+<text x="105" y="87" text-anchor="middle" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="2" fill="#FFFFFF">BOOK</text>
+<text x="560" y="80" text-anchor="end" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="9" fill="#555555" opacity="0.5">2026-08-16</text>
+
+<text x="40" y="130" font-family="Georgia, Songti SC, Noto Serif CJK SC, serif" font-size="24" font-weight="900" fill="#1A1A1A">
+  <tspan x="40" dy="0">Free as in</tspan>
+  <tspan x="40" dy="30">Freedom</tspan>
+</text>
+
+<text x="40" y="215" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="11" fill="#555555">Sam Williams · O'Reilly (2002)</text>
+<line x1="40" y1="238" x2="290" y2="238" stroke="#1B3B6B" stroke-width="1.5" opacity="0.25"/>
+
+<text x="40" y="260" font-family="-apple-system, PingFang SC, Helvetica Neue, Noto Sans CJK SC, Microsoft YaHei, Arial, sans-serif" font-size="11" fill="#1A1A1A">
+  <tspan x="40" dy="0">理查德·斯托曼不是开源的发明者，</tspan>
+  <tspan x="40" dy="18">却是把"自由"写进软件许可证的第</tspan>
+  <tspan x="40" dy="18">一个人。本书以叙事体呈现 GNU 计</tspan>
+  <tspan x="40" dy="18">划、GPL 协议与自由软件运动的起</tspan>
+  <tspan x="40" dy="18">源——一段关于一位程序员如何以</tspan>
+  <tspan x="40" dy="18">一己之力为整个行业立下宪法的故</tspan>
+  <tspan x="40" dy="18">事。</tspan>
+</text>
+
+<rect x="40" y="432" width="95" height="18" rx="2" fill="#1A1A1A" opacity="0.04"/>
+<text x="87" y="445" text-anchor="middle" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="9" font-weight="700" fill="#555555">KEY IDEAS</text>
+<text x="40" y="460" font-family="-apple-system, PingFang SC, Helvetica Neue, Noto Sans CJK SC, Microsoft YaHei, Arial, sans-serif" font-size="11" fill="#1A1A1A">
+  <tspan x="40" dy="0">• 自由软件（Free Software）四自由</tspan>
+  <tspan x="40" dy="17">• Copyleft：以版权保护反版权</tspan>
+  <tspan x="40" dy="17">• 数字公地与伦理驱动</tspan>
+</text>
+
+<text x="540" y="425" text-anchor="middle" font-family="Georgia, Songti SC, Noto Serif CJK SC, serif" font-size="9" font-style="italic" fill="#1B3B6B" opacity="0.45" letter-spacing="0.5">
+  <tspan x="540" dy="0">软件的</tspan>
+  <tspan x="540" dy="13">自由，</tspan>
+  <tspan x="540" dy="13">不是一种</tspan>
+  <tspan x="540" dy="13">慈善，</tspan>
+  <tspan x="540" dy="13">是一种</tspan>
+  <tspan x="540" dy="13">伦理。</tspan>
+</text>
+<text x="540" y="555" text-anchor="middle" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="7" fill="#1B3B6B" opacity="0.35">— Williams · 适兕注</text>
+
+<rect x="420" y="742" width="140" height="22" rx="2" fill="none" stroke="#1B3B6B" stroke-width="1" opacity="0.12"/>
+<text x="490" y="757" text-anchor="middle" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="8" letter-spacing="2" fill="#1B3B6B" opacity="0.35">OSCAR · 开源之道·荐书</text>
+<rect x="0" y="796" width="600" height="4" fill="#1B3B6B" opacity="0.7"/>
+</svg>
