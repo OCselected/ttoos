@@ -3,7 +3,8 @@ categories:
 - 开源
 - 感悟
 date: 2026-08-14T22:00:00+08:00
-draft: true
+draft: false
+comments: true
 description: "DeepSeek 发布了其 agent 项目 deepseek-harness，以「Everything is a Plugin」的架构理念在 24 小时内收获了 8.5 万 star。然而，一个不接受外部贡献的「开源」项目，究竟意味着什么？本文承接系列之六的「制度寄生」概念，提出「倾倒式开源」——一种以开源为名的平台化锁定战略。"
 keywords:
 - Open Source
@@ -135,6 +136,55 @@ DeepSeek Harness 的「Everything is a Plugin」听起来是极度开放——�
 升级之处在于：传统特许工程代码的「不接受贡献」是赤裸的——用户知道自己是用户。DeepSeek Harness 的「不接受贡献」被「Everything is a Plugin」的技术叙事软化了——插件开发者以为自己参与了开放生态，实际上只是在 DeepSeek 的框架领地上耕作。
 
 **这是更高明的 marketing——它让锁定看起来像开放。**
+
+## 商业公司的开源行为分层：从「不装」到「三层修辞」
+
+在讨论「倾倒式开源」之前，需要先做一个横向对比——商业公司把代码开源到 GitHub 上，本身不是新现象。问题是：不同公司的开源**修辞策略**差异巨大，从「完全不装」到「三层修辞叠加」，DeepSeek Harness 的独特之处在于它选择了最厚的那一层。
+
+### 第一层：完全不装——API SDK 作为开源
+
+OpenAI 的 Python SDK（`openai-python`，Apache 2.0，31,382★，5,126 forks）[15]是这一层的典型：README 第一句话是「The official Python library for the OpenAI API」——它开源的不是产品，是**产品的一个入口**。模型闭源，数据闭源，推理闭源，只把 API 的客户端代码开源。没有任何「我们相信开源力量」的宣言，没有「一切皆可插件化」的架构叙事，因为不需要装——它开的是个 SDK，没人会期待 fork 之后改变 OpenAI 的方向。
+
+xAI 的 Grok（`xai-org/grok`，Apache 2.0，「Grok open release」）[16]是同一逻辑：模型权重开源，推理框架开源，但没有治理参与，没有社区插件接口。它甚至不声称这是「生态」——这就是一个模型发布。
+
+**这一层的修辞特征是：不声称自己在做开源，所以也没有伪装。**
+
+### 第二层：装半层——框架开源 + 生态绑定
+
+HuggingFace 的 `transformers`（Apache 2.0，135,000★+）[17]和 Meta 的 PyTorch（无 License 声明，102,398★，28,883 forks，17,330 open issues）[18]代表了这一层。它们把框架开源、接受社区贡献、有清晰的 PR 流程，但在关键路径上——模型训练数据、模型架构选择、HF 平台对 `transformers` 的集成策略、PyTorch 在 Meta 产品链中的优先级——公司保留了最终话语权。
+
+它们装了一层：「我们相信开源社区」，但没装第二层：不会说「一切都可以被社区改变」。这是一个合理的中间地带——**框架开放但治理不开放**。
+
+### 第三层：三层修辞叠加——DeepSeek Harness 的做法
+
+DeepSeek Harness 的独特之处在于，它在同一个项目里叠加了三层修辞：
+
+- **技术层**：「Everything is a Plugin」——把拒绝 PR 转化为「我们设计了极度开放的架构」。这不是说技术不好，是**技术叙事的修辞功能**——它让"框架独占"看起来像"框架开放"。
+- **法律层**：MIT 许可证——满足 OSI 定义，法律上无可指责。「we deeply believe in the power of open source communities, and that belief has shaped this project from the very beginning」——这段话放在一个不接 PR、不接 Issue（issues_enabled = false）的项目里，修辞张力达到峰值。
+- **哲学层**：「You may consider this repository an idea, an official showcase, and a source of inspiration, but not a mandate from us」——把拒绝贡献包装成**对社区的谦逊**。不是"我们不能"，是"我们选择不"，并且这个"选择不"被表述为对社区创造力的信任。
+
+三层叠加之后，「不接受 PR」不再是一个缺陷，而是一个**哲学选择**。
+
+### 横向对比表
+
+| 公司 | 项目 | License | 治理 | 修辞策略 | 装了几层 |
+|------|------|---------|------|---------|---------|
+| OpenAI | openai-python | Apache 2.0 | 接受 PR | 「这是 SDK，别期待 fork 改变方向」 | 0 层（不装） |
+| xAI | grok | Apache 2.0 | 接受 PR | 「这是模型，不是生态」 | 0 层（不装） |
+| Meta | PyTorch | 无声明 | 接受 PR | 「我们相信社区」 | 1 层 |
+| Google | TensorFlow | Apache 2.0 | 接受 PR | 「我们相信社区」 | 1 层 |
+| Microsoft | VS Code | MIT | 接受 PR | 「我们相信社区」+ 架构开放叙事 | 2 层 |
+| **DeepSeek** | **Harness** | MIT | **拒绝 PR** | 「Everything is a Plugin」+ MIT + 哲学谦逊 | **3 层** |
+
+### 这个对比告诉我们什么
+
+本节的判断是：DeepSeek Harness **不是最独特的「倾倒者」**，但它是**修辞策略最值得分析的倾倒者**。OpenAI 和 xAI 的 API SDK 是倾倒——把代码倒出来，不接贡献，但它们不声称自己是开源生态。DeepSeek Harness 的独特之处在于：它**同时声称自己是开源生态，又拒绝开源生态最核心的治理参与**。
+
+这不是道德问题，是**制度设计的可见性问题**——它让"锁定"穿上了"开放"的外衣，而这套外衣的三层结构本身，就是制度分析最值得拆解的对象。
+
+---
+
+*（本节引用数据访问于 2026-08-16，具体以 GitHub API 实时查询为准。）*
 
 ## 85,000 颗 star 的信号
 
@@ -273,6 +323,11 @@ Hermes Agent 的答案是：可以——通过 PR、通过 AGENTS.md 的贡献�
 [^hn-ef2k]: ef2k on Hacker News, https://news.ycombinator.com/item?id=49288757
 [^sohu-harness]: 搜狐科技, 《黑熊出水 DeepSeek Harness 开发者预览版上线》, 2026-08-13
 [^dsh-chronicle]: DeepSeek Harness 开发编年史, https://dsh-chronicle-duv8yxo8n-tsonglews-projects.vercel.app/
+
+15. OpenAI Python SDK, https://github.com/openai/openai-python
+16. xAI Grok, https://github.com/xai-org/grok
+17. HuggingFace transformers, https://github.com/huggingface/transformers
+18. Meta PyTorch, https://github.com/pytorch/pytorch
 
 ## 关于作者
 
