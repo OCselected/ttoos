@@ -151,11 +151,11 @@ xAI 的 Grok（`xai-org/grok`，Apache 2.0，「Grok open release」）[16]是�
 
 ### 第二层：装半层——框架开源 + 生态绑定
 
-HuggingFace 的 `transformers`（Apache 2.0，135,000★+）[17]代表了这一层。它把框架开源、接受社区贡献、有清晰的 PR 流程，但在关键路径上——模型训练数据、HF 平台对 `transformers` 的集成策略——HF 公司保留了最终话语权。
+HuggingFace 的 `transformers`（Apache 2.0，135,000★+）[18]和 Meta 的 PyTorch（BSD，102,398★，28,883 forks）[19]代表了这一层。它们把框架开源、接受社区贡献、有清晰的 PR 流程，但在关键路径上——模型训练数据、HF 平台对 `transformers` 的集成策略、PyTorch 在 Meta 产品链中的优先级——公司保留了最终话语权。
 
 它们装了一层：「我们相信开源社区」，但没装第二层：不会说「一切都可以被社区改变」。这是一个合理的中间地带——**框架开放但治理不开放**。
 
-> **关于 PyTorch 的特别说明**：2022 年，Meta 将 PyTorch 捐赠给 Linux Foundation，成立 PyTorch Foundation，治理结构由此从单公司控制转向基金会治理。这是一个制度进化案例——从"装半层"逐步走向"框架开放 + 治理中立"。但这一进化用了约 10 年（2012 开源到 2022 捐赠）才完成，其初始的"装半层"状态与 PyTorch Foundation 成立后的中立状态是两个不同阶段。
+> **关于 PyTorch 的特别说明**：2022 年 9 月，Meta 宣布将 PyTorch 交由独立成立的 PyTorch Foundation 治理，该基金会是 Linux Foundation 的子公司。这是一个制度进化案例——从"装半层"（2012-2022）逐步走向"框架开放 + 治理中立"（2022 年至今）。这一进化用了约 10 年才完成，其初始的"装半层"状态与 PyTorch Foundation 成立后的中立状态是两个不同阶段。
 >
 > PyTorch 的案例也提供了一个正面参照：当制度设计（基金会托管、治理中立）跟上技术开放时，开源项目可以从"框架开放但治理不开放"进化到真正的社区治理。DeepSeek Harness 恰恰缺乏这一制度演化的起点——它的治理结构是封闭的，没有走向基金会托管的信号。
 ### 第三层：三层修辞叠加——DeepSeek Harness 的做法
@@ -241,7 +241,7 @@ JHonaker 指出了 Cordis 的起源问题："As far as I can find, Cordis didn't
 
 ### 资本运作评价：同一天的两条新闻
 
-Harness 发布日叠加了另一条新闻——**同一天**，DeepSeek 发布 API 调价公告，8 月 17 日生效，v4-pro 高峰输出涨到每百万 tokens 27 元，最高涨幅 500%[^sohu-harness]。V4-Pro-0813 同日上线，"增强 Agent 能力"。
+Harness 发布日叠加了另一条新闻——**同一天**，DeepSeek 发布 API 调价公告，8 月 17 日生效，v4-pro 高峰输出涨到每百万 tokens 27 元，最高涨幅 500%[^sohu-harness][17]。V4-Pro-0813 同日上线，"增强 Agent 能力"。
 
 Model + Harness = Agent 的公式，在同一天里的两条公告里各落了一半。讨论区里，"回滚 pricing" 的呼声和 "会不会开 coding plan" 的猜测在同一个讨论区里混流。
 
@@ -261,7 +261,7 @@ DeepSeek Harness 的开发编年史[^dsh-chronicle]记录了精确的时序：65
 
 Williamson 的社会嵌入层 L1 提醒我们：那些不可见、不可设计、但决定一切市场交易形式的文化—认知—制度前提，才是最深的那层。L1 是 "制度经济学的黑箱"——但恰恰是 "不可讨论" 这件事本身就是制度。当 "Everything is a Plugin" 的叙事让人们以为讨论的只是一组 API 设计时，制度问题已经被编码为不可见的默认值。
 
-Mazloum 在 1975 年的 *The Challenge of the World Crisis* 中论证，技术系统从来不是自主进化的——它嵌入在制度结构（inertial structures）之中。一个插件 API 的选型，和一个国家的关税制度一样，都在分配权力和收益。说 "技术是技术问题"，就是把制度锁定的过程伪装成工程必然。
+Langdon Winner 在 *Autonomous Technology* (1977) 和 "Do Artifacts Have Politics?" (1980) 中论证，技术系统从来不是自主进化的——它嵌入在制度与权力的结构之中。一个插件 API 的选型，和一个国家的关税制度一样，都在分配权力和收益。说 "技术是技术问题"，就是把制度锁定的过程伪装成工程必然。
 
 Mokyr 在 *The Culture of Growth* (2002) 中提出的核心论点是，18 世纪工业革命的技术爆发不是 "人变聪明了"，而是 "制度改变了认知规则"——从权威主义知识生产转向怀疑主义知识生产。反过来看：当一个项目声称 "技术开放（MIT）"，却在制度上拒绝 PR、拒绝治理参与时，它恰恰是认知规则的反向——**一个声称开放的技术系统，在认知准入上是封闭的**。技术叙事与制度现实的背离，本身就是 Mokyr 意义上 "制度落后于技术" 的典型症候。
 
@@ -301,12 +301,17 @@ Hermes Agent 的答案是：可以——通过 PR、通过 AGENTS.md 的贡献�
 6. 《开源之迷》，适兕，人民邮电出版社，2022-2
 7. 《Institutions and the Origins of the Great Enrichment》, Joel Mokyr, 2017
 8. 《The Culture of Growth: The Origins of the Modern Economy》, Joel Mokyr, Princeton University Press, 2009
-9. 《The Challenge of the World Crisis》, Mazloum, 1975
-10. 《Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed》, James C. Scott, Yale University Press, 1998
-11. Williamson, Oliver E., "The New Institutional Economics: Taking Stock, Looking Ahead," Journal of Economic Literature, 38 (September 2000), pp. 595-613
-12. DeepSeek Harness 开发编年史, https://dsh-chronicle-duv8yxo8n-tsonglews-projects.vercel.app/
-13. 搜狐科技, 《黑熊出水 DeepSeek Harness 开发者预览版上线》, 2026-08-13, https://www.sohu.com/a/1062506030_120988576
-14. 北京商报, 《DeepSeek 将于 8 月 17 日涨价,最高涨幅达 500%》, https://www.bbtnews.com.cn/2026/0813/602135.shtml
+9. *Autonomous Technology: A Theory of Technological Change*, Langdon Winner, MIT Press, 1977
+10. "Do Artifacts Have Politics?", Langdon Winner, *Daedalus* 109(1), 1980, pp. 121-136
+11. 《Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed》, James C. Scott, Yale University Press, 1998
+12. Williamson, Oliver E., "The New Institutional Economics: Taking Stock, Looking Ahead," Journal of Economic Literature, 38 (September 2000), pp. 595-613
+13. DeepSeek Harness 开发编年史, https://dsh-chronicle-duv8yxo8n-tsonglews-projects.vercel.app/
+14. 搜狐科技, 《黑熊出水 DeepSeek Harness 开发者预览版上线》, 2026-08-13, https://www.sohu.com/a/1062506030_120988576
+15. OpenAI Python SDK, https://github.com/openai/openai-python
+16. xAI Grok, https://github.com/xai-org/grok
+17. 北京商报, 《DeepSeek 将于 8 月 17 日涨价,最高涨幅达 500%》, https://www.bbtnews.com.cn/2026/0813/602135.shtml
+18. HuggingFace transformers, https://github.com/huggingface/transformers
+19. Meta PyTorch, https://github.com/pytorch/pytorch
 [^hn-swelljoe]: SwellJoe on Hacker News, https://news.ycombinator.com/item?id=49288435
 [^hn-badlogic]: badlogic on Hacker News, https://news.ycombinator.com/item?id=49289407
 [^hn-rco8786]: rco8786 on Hacker News, https://news.ycombinator.com/item?id=49286014
@@ -327,10 +332,6 @@ Hermes Agent 的答案是：可以——通过 PR、通过 AGENTS.md 的贡献�
 [^sohu-harness]: 搜狐科技, 《黑熊出水 DeepSeek Harness 开发者预览版上线》, 2026-08-13
 [^dsh-chronicle]: DeepSeek Harness 开发编年史, https://dsh-chronicle-duv8yxo8n-tsonglews-projects.vercel.app/
 
-15. OpenAI Python SDK, https://github.com/openai/openai-python
-16. xAI Grok, https://github.com/xai-org/grok
-17. HuggingFace transformers, https://github.com/huggingface/transformers
-18. Meta PyTorch, https://github.com/pytorch/pytorch
 
 ## 关于作者
 
