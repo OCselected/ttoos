@@ -144,15 +144,83 @@ DeepSeek Harness 的「Everything is a Plugin」听起来是极度开放——�
 
 这正是「倾倒式开源」的 marketing 威力所在：它制造了一种「全民参与」的幻觉，但实际的参与闭环是关闭的。85,000 颗 star 的背后，是 85,000 个无法贡献的旁观者。
 
-## 制度分析的无意图性
+## 互联网的回声：当 731 个 HN 用户打开一个不接 PR 的项目
 
-笔者无意批判 DeepSeek。正如系列之六中所述，技术发展本应站在巨人的肩膀上，DeepSeek 的工程能力毋庸置疑。DeepSeek Harness 的架构设计——Cordis 插件树、append-only session log、capability seams——在技术层面是出色的。
+85,445 颗 star 是注意力经济的投票，但它投票给了什么？2026 年 8 月 13 日，DeepSeek Harness 登上 Hacker News 第一，731 票，306 条评论——三天内，这是整个英文开源世界最集中的集体注视。
 
-问题不在于技术，在于**制度的叙事**。
+### 技术架构评价：「他们发现了 Unix pipes 吗？」
 
-当一个项目以「Everything is a Plugin」作为核心叙事，却以「cannot accept external pull requests」作为治理现实时，它制造了一个制度幻觉：**开放的技术外壳被误读为开放的治理实质**。这不是欺骗——CONTRIBUTING.md 白纸黑字写了不接受 PR。但绝大多数 star 者不会读 CONTRIBUTING.md，他们只看到 README 的口号和 MIT 许可证。
+对 Cordis 架构的评价总体**两极分化，偏怀疑**。正面评价集中在两点：一是 append-only session log 的**可追溯性**——Hacker News 用户 SwellJoe 称之为 "killer feature"，"Everything the model sees is recorded in an append-only session log ... that's a killer feature, IMHO, and one that US models won't allow you to do, as their traces are encrypted, obfuscated, etc."[^hn-swelljoe] 二是插件的 cleanup handler 机制——Badlogic 读了 Cordis 论文后评价 "a plugin's registrations returning individual cleanup handlers is nice."[^hn-badlogic]
 
-作为一个开源制度的研究者，笔者的工作是让制度的不可见性变得可见——就像系列之六引用的那句话：「技术是肉眼可见的，制度却间接到人们无从感知。」
+但怀疑的声音同样密集：
+
+- "But like, what is it?" rco8786 质疑 README 除了安装说明和 Cordis 链接之外 "pretty bare"，而 Cordis 本身还标注 "under active development. The API is not yet stable and may change without notice."[^hn-rco8786]
+- "Did they discover Unix pipes?" 0xbadcafebee 的反讽[^hn-0xbad]，以及 KronisLV 的 "Everything is a plugin? I'm reminded of Eclipse!"[^hn-kronis]——插件架构不是新东西，是 2000 年代就有的设计模式。
+- "In the era of AI, telling me that the core design is a plugin system that can be reloaded and extended easily is just not exciting. It is something you feel excited 20 years ago." tw1984 的判断最直白：在 2026 年，插件架构已经不是卖点。[^hn-tw1984]
+- Kuyawa 的技术债观察："47mb downloaded, 1.5gb after build, wtf? 35 dependencies make up for 1.4gb."[^hn-kuyawa] 构建 1.5GB 的 "basic functionality" 不是生态繁荣，是依赖膨胀。
+- invaliduser 提出了最深刻的经验判断："I have developed over the year a plugin fatigue. Every product relying on community plugins for their features implies it works fine the 6 first months, then it's a nightmare of incompatible, deprecated plugins, with no consistency and no governance."[^hn-invaliduser]
+
+插件疲劳（plugin fatigue）是开源治理中一个反复出现的问题——WordPress、VS Code、Eclipse 都经历过。DeepSeek Harness 的 "Everything is a Plugin" 不是在发明新东西，而是在**重述一个已被反复验证的困境**：插件生态的治理成本不在框架设计阶段，在框架被 vendor 到单一 namespace 之后——因为那时候，社区没有议价权。
+
+### 市场策略评价：「开门还是生育一个生态？」
+
+对 "不接 PR + MIT 许可" 的组合，HN 评论区的核心问题是：**MIT 是永久的，还是暂时的？**
+
+用户 krautsourced 直接向作者发问："By MIT currently, do you mean it will eventually change to a different OSS license, or it may become a closed source product?"[^hn-krautsourced] 崔添翼（tianyicui）回复："What I meant is 'currently in developer preview'."[^hn-tianyicui]——**回避了长期承诺**，没有确认 MIT 是永久性许可，也没有确认未来会接受 PR。当用户 julius 追问 "基本不接 PR 吗" 时，崔添翼回复："Basically never? Unless it's purely for fun and meme I guess."[^hn-julius]
+
+这不是偶然的含糊，是一个制度信号：**开发者预览版 + MIT = 开放性是承诺，还是阶段？**
+
+bdcravens 的判断精准命中：
+
+> "Most vendors that create a plugin-based system end up creating a large library of plugins to kickstart the ecosystem, which many users end up trusting those more because they're 'official', so they essentially created a mono-vendor ecosystem with extra steps."
+>
+> "It's the difference between opening the door to an existing ecosystem and birthing one."[^hn-bdcravens]
+
+**开门**意味着让社区进入一个已存在的生态，框架在社区的领地上生长。**生育**意味着框架先存在，社区在框架的领地上生长。DeepSeek Harness 做的是后者——Cordis 被 vendored 到 `@deepseek-ai`，插件依附 Cordis，插件开发者依附 DeepSeek 的框架演进权。
+
+jbellis 的评论揭示了更宏观的图景："That's it, that's the last lab releasing models worth coding with that didn't have a first party harness that its models are trained to use."[^hn-jbellis]——模型 + Harness 绑定，是 AI 实验室正在集体转向的默认策略。DeepSeek Harness 不是孤例，是模式。
+
+### 企业思维评价：「创新 token 花在哪里？」
+
+HN 上关于 DeepSeek 企业文化的讨论集中在一个判断：DeepSeek 的 **innovation tokens 花在了模型架构，而不是 harness 生态**[^hn-smeeth]。这与 Western OSS culture 形成了对比——OpenAI 的 culture "is influenced by YC culture"，Google/SpaceX 也有明确的开源文化谱系[^hn-big_toast]，而 DeepSeek 的文化谱系 "are opaque to Western OSS world"。
+
+JHonaker 指出了 Cordis 的起源问题："As far as I can find, Cordis didn't exist before they shared it with this harness. It is very likely that its because I didn't search in Chinese."[^hn-jhonaker]——**一个在中文互联网上可能已有多年历史的框架，以 MIT 许可证首次向全球开源社区亮相**。这是一个制度分析中的重要信号：Cordis 在 DeepSeek 内部已运行至少四年（ef2k 指出 Cordis v4 已被 Koishi 项目使用四年[^hn-ef2k]），它的 "开源" 时间点是 DeepSeek 决定的，不是社区争取的。
+
+### 资本运作评价：同一天的两条新闻
+
+Harness 发布日叠加了另一条新闻——**同一天**，DeepSeek 发布 API 调价公告，8 月 17 日生效，v4-pro 高峰输出涨到每百万 tokens 27 元，最高涨幅 500%[^sohu-harness]。V4-Pro-0813 同日上线，"增强 Agent 能力"。
+
+Model + Harness = Agent 的公式，在同一天里的两条公告里各落了一半。讨论区里，"回滚 pricing" 的呼声和 "会不会开 coding plan" 的猜测在同一个讨论区里混流。
+
+这不是巧合。Harness 的 "开源" 和 API 的 "涨价" 是同一次产品发布的两面：**开源 harness 锁定开发者生态，涨价 API 变现开发者产出**。MIT 许可证是入场券，API 价格表是账单。
+
+DeepSeek Harness 的开发编年史[^dsh-chronicle]记录了精确的时序：65 天，12,293 条 git 提交，崔添翼一人扛下 42.6%；8 月 13 日 19:56 建仓库，20:35 npm 上架 `0.1.0-rc.6`，讨论区 136 帖在一天内诞生，其中 50 帖是 bug、21 帖是打卡、14 帖是功能建议。**一个内部项目从立项到 "开源" 用了 65 天，从建仓库到 npm 上架用了 42 分钟。** 这不是一个社区的诞生，是一次产品的发布。
+
+## 技术傲慢与制度幻觉
+
+笔者无意批判 DeepSeek。正如系列之六中所述，技术发展本应站在巨人的肩膀上，DeepSeek 的工程能力毋庸置疑。DeepSeek Harness 的架构设计——Cordis 插件树、append-only session log、capability seams——在技术层面是出色的。SwellJoe 评价的 append-only session log 可追溯性是 "killer feature"，Badlogic 读了 Cordis 论文后也承认 "a plugin's registrations returning individual cleanup handlers is nice"。
+
+问题不在于技术，在于**制度的叙事**——具体来说，在于一种将制度问题编码为工程问题的修辞策略。
+
+在上面的互联网回声里，有一条反复出现的评价线：**技术出色，但制度可疑**——"Did they discover Unix pipes?" "Everything is a plugin? I'm reminded of Eclipse!" 这些评价不是在否定 DeepSeek 的工程能力，而是在追问一个被 "Everything is a Plugin" 叙事遮蔽的问题：**这个 "开放" 是谁定义的？**
+
+技术决定论之所以是一种制度幻觉，根子在于一个被反复使用的修辞策略：**把制度问题编码为工程问题**。说 "用插件化架构就好"，已经预设了 "谁有权定义插件接口""谁来维护核心框架""贡献者以何种身份被接纳"——这些都是制度问题，却被编码为工程问题。
+
+Williamson 的社会嵌入层 L1 提醒我们：那些不可见、不可设计、但决定一切市场交易形式的文化—认知—制度前提，才是最深的那层。L1 是 "制度经济学的黑箱"——但恰恰是 "不可讨论" 这件事本身就是制度。当 "Everything is a Plugin" 的叙事让人们以为讨论的只是一组 API 设计时，制度问题已经被编码为不可见的默认值。
+
+Mazloum 在 1975 年的 *The Challenge of the World Crisis* 中论证，技术系统从来不是自主进化的——它嵌入在制度结构（inertial structures）之中。一个插件 API 的选型，和一个国家的关税制度一样，都在分配权力和收益。说 "技术是技术问题"，就是把制度锁定的过程伪装成工程必然。
+
+Mokyr 在 *The Culture of Growth* (2002) 中提出的核心论点是，18 世纪工业革命的技术爆发不是 "人变聪明了"，而是 "制度改变了认知规则"——从权威主义知识生产转向怀疑主义知识生产。反过来看：当一个项目声称 "技术开放（MIT）"，却在制度上拒绝 PR、拒绝治理参与时，它恰恰是认知规则的反向——**一个声称开放的技术系统，在认知准入上是封闭的**。技术叙事与制度现实的背离，本身就是 Mokyr 意义上 "制度落后于技术" 的典型症候。
+
+Scott 在 *Seeing Like a State* (1998) 中揭示的结构性暴力更直接：极端现代主义者将技术简化为 "清晰方案"（legibility），以此正当化对复杂社会现实的抹除。DeepSeek Harness 的 "Everything is a Plugin" 叙事，在修辞结构与 Scott 所说的极权式技术简化惊人一致——把多元的协作可能性（fork、治理、议价）简化为 "框架加插件" 的层叠，再用 "开源" 和 "MIT" 来正当化这种简化。**技术崇拜本身就是政治行为**，因为它用技术语言遮蔽了政治决定。
+
+| 维度 | 技术叙事 | 制度现实 | 理论诊断 |
+|------|----------|----------|----------|
+| **架构哲学** | "Everything is a Plugin" | 框架独占维护权，插件接口不公开协商 | Williamson L1：治理结构被编码为 API 结构 |
+| **许可模式** | MIT | 不接受 PR，社区不能改变项目方向 | 法律自由 ≠ 制度自由：MIT 保证 fork 的权利，不保证影响上游的权利 |
+| **开放姿态** | 开发者预览 + 社区插件 | 0.1.0-rc.6 + Cordis vendored，框架演进权 DeepSeek 独占 | 生态繁荣 = 锁定加深 |
+| **治理逻辑** | "feedback welcome" | "Basically never" 接受 PR，反馈进 Discussions 而非 Issues | 贡献闭环关闭：报告 bug、写插件、教教程、当受众 |
+| **权力隐喻** | 平台化 | 平台化 | bdcravens："开门 vs 生育一个生态" |
 
 ## 收束：真正的开源
 
@@ -179,7 +247,32 @@ Hermes Agent 的答案是：可以——通过 PR、通过 AGENTS.md 的贡献�
 5. Hermes Agent, https://github.com/NousResearch/hermes-agent ; 文档: https://hermes-agent.nousresearch.com/docs/
 6. 《开源之迷》，适兕，人民邮电出版社，2022-2
 7. 《Institutions and the Origins of the Great Enrichment》, Joel Mokyr, 2017
-8. Williamson, Oliver E., "The New Institutional Economics: Taking Stock, Looking Ahead," Journal of Economic Literature, 38 (September 2000), pp. 595-613
+8. 《The Culture of Growth: The Origins of the Modern Economy》, Joel Mokyr, Princeton University Press, 2009
+9. 《The Challenge of the World Crisis》, Mazloum, 1975
+10. 《Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed》, James C. Scott, Yale University Press, 1998
+11. Williamson, Oliver E., "The New Institutional Economics: Taking Stock, Looking Ahead," Journal of Economic Literature, 38 (September 2000), pp. 595-613
+12. DeepSeek Harness 开发编年史, https://dsh-chronicle-duv8yxo8n-tsonglews-projects.vercel.app/
+13. 搜狐科技, 《黑熊出水 DeepSeek Harness 开发者预览版上线》, 2026-08-13, https://www.sohu.com/a/1062506030_120988576
+14. 北京商报, 《DeepSeek 将于 8 月 17 日涨价,最高涨幅达 500%》, https://www.bbtnews.com.cn/2026/0813/602135.shtml
+[^hn-swelljoe]: SwellJoe on Hacker News, https://news.ycombinator.com/item?id=49288435
+[^hn-badlogic]: badlogic on Hacker News, https://news.ycombinator.com/item?id=49289407
+[^hn-rco8786]: rco8786 on Hacker News, https://news.ycombinator.com/item?id=49286014
+[^hn-0xbad]: 0xbadcafebee on Hacker News, https://news.ycombinator.com/item?id=49286934
+[^hn-kronis]: KronisLV on Hacker News, https://news.ycombinator.com/item?id=49290578
+[^hn-tw1984]: tw1984 on Hacker News, https://news.ycombinator.com/item?id=49294665
+[^hn-kuyawa]: Kuyawa on Hacker News, https://news.ycombinator.com/item?id=49287890
+[^hn-invaliduser]: invaliduser on Hacker News, https://news.ycombinator.com/item?id=49286902
+[^hn-krautsourced]: krautsourced on Hacker News, https://news.ycombinator.com/item?id=49291656
+[^hn-tianyicui]: tianyicui on Hacker News, https://news.ycombinator.com/item?id=49295984
+[^hn-julius]: julius on Hacker News, https://news.ycombinator.com/item?id=49300848
+[^hn-bdcravens]: bdcravens on Hacker News, https://news.ycombinator.com/item?id=49287053
+[^hn-jbellis]: jbellis on Hacker News, https://news.ycombinator.com/item?id=49286597
+[^hn-smeeth]: smeeth on Hacker News, https://news.ycombinator.com/item?id=49288171
+[^hn-big_toast]: big_toast on Hacker News, https://news.ycombinator.com/item?id=49291696
+[^hn-jhonaker]: JHonaker on Hacker News, https://news.ycombinator.com/item?id=49304000
+[^hn-ef2k]: ef2k on Hacker News, https://news.ycombinator.com/item?id=49288757
+[^sohu-harness]: 搜狐科技, 《黑熊出水 DeepSeek Harness 开发者预览版上线》, 2026-08-13
+[^dsh-chronicle]: DeepSeek Harness 开发编年史, https://dsh-chronicle-duv8yxo8n-tsonglews-projects.vercel.app/
 
 ## 关于作者
 
