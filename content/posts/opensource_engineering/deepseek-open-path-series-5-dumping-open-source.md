@@ -151,10 +151,13 @@ xAI 的 Grok（`xai-org/grok`，Apache 2.0，「Grok open release」）[16]是�
 
 ### 第二层：装半层——框架开源 + 生态绑定
 
-HuggingFace 的 `transformers`（Apache 2.0，135,000★+）[17]和 Meta 的 PyTorch（无 License 声明，102,398★，28,883 forks，17,330 open issues）[18]代表了这一层。它们把框架开源、接受社区贡献、有清晰的 PR 流程，但在关键路径上——模型训练数据、模型架构选择、HF 平台对 `transformers` 的集成策略、PyTorch 在 Meta 产品链中的优先级——公司保留了最终话语权。
+HuggingFace 的 `transformers`（Apache 2.0，135,000★+）[17]代表了这一层。它把框架开源、接受社区贡献、有清晰的 PR 流程，但在关键路径上——模型训练数据、HF 平台对 `transformers` 的集成策略——HF 公司保留了最终话语权。
 
 它们装了一层：「我们相信开源社区」，但没装第二层：不会说「一切都可以被社区改变」。这是一个合理的中间地带——**框架开放但治理不开放**。
 
+> **关于 PyTorch 的特别说明**：2022 年，Meta 将 PyTorch 捐赠给 Linux Foundation，成立 PyTorch Foundation，治理结构由此从单公司控制转向基金会治理。这是一个制度进化案例——从"装半层"逐步走向"框架开放 + 治理中立"。但这一进化用了约 10 年（2012 开源到 2022 捐赠）才完成，其初始的"装半层"状态与 PyTorch Foundation 成立后的中立状态是两个不同阶段。
+>
+> PyTorch 的案例也提供了一个正面参照：当制度设计（基金会托管、治理中立）跟上技术开放时，开源项目可以从"框架开放但治理不开放"进化到真正的社区治理。DeepSeek Harness 恰恰缺乏这一制度演化的起点——它的治理结构是封闭的，没有走向基金会托管的信号。
 ### 第三层：三层修辞叠加——DeepSeek Harness 的做法
 
 DeepSeek Harness 的独特之处在于，它在同一个项目里叠加了三层修辞：
@@ -171,7 +174,7 @@ DeepSeek Harness 的独特之处在于，它在同一个项目里叠加了三层
 |------|------|---------|------|---------|---------|
 | OpenAI | openai-python | Apache 2.0 | 接受 PR | 「这是 SDK，别期待 fork 改变方向」 | 0 层（不装） |
 | xAI | grok | Apache 2.0 | 接受 PR | 「这是模型，不是生态」 | 0 层（不装） |
-| Meta | PyTorch | 无声明 | 接受 PR | 「我们相信社区」 | 1 层 |
+| Meta → LF | PyTorch | BSD → Linux Foundation | 接受 PR | 2022 前「装半层」→ 基金会治理中立 | 1 层 → 中立 |
 | Google | TensorFlow | Apache 2.0 | 接受 PR | 「我们相信社区」 | 1 层 |
 | Microsoft | VS Code | MIT | 接受 PR | 「我们相信社区」+ 架构开放叙事 | 2 层 |
 | **DeepSeek** | **Harness** | MIT | **拒绝 PR** | 「Everything is a Plugin」+ MIT + 哲学谦逊 | **3 层** |
