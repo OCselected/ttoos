@@ -114,6 +114,8 @@ Levin 自己后来在 General Catalyst 的 Medium 回顾中说了原话：
 
 Levin 创建的 Black Duck 不是"发现商机"的励志故事，而是**产权结构 + 信息不对称 + 交易成本**三个制度条件同时满足后的必然产物。
 
+![制度必然性三合一](/images/history-of-open-source/fig-institutional-necessity.png "产权认知缺口 + 信息不对称 + 跨部门治理需求 → Black Duck")
+
 ### 一、信息揭示机制（Akerlof 柠檬市场）
 
 Levin 在 2008 年 1 月的博客中说了一个关键事实：
@@ -161,6 +163,8 @@ Ohloh 是 2006 年由 Jason Allen 和 Scott Collison（前微软产品经理）�
 法律市场的形成，除了已经确立的产权主张，还需要形成行业共识。GPL 有 Copyleft 哲学主张，但哲学主张不会自动转化为企业法务的合规流程——这个转化需要**制度翻译**。
 
 ### Karen Copenhaver：不是"开源律师"，是制度翻译者
+
+![Karen Copenhaver：制度翻译者](/images/history-of-open-source/fig-copenhaver-translator.png "传统开源律师 vs Karen Copenhaver：制度翻译者")
 
 Doug Levin 找到 Karen Copenhaver [14]——一位 1979 年起在 IBM 工作的律师，经历过 IBM 混乱的操作系统开发和市场。十几年后 Black Duck 功成，Levin 对她的评价是：
 
@@ -258,6 +262,8 @@ SCA 工具的崛起、SBOM 的标准化、合规工作的职业化，本质上�
 用一句话概括前面的分析：**开源合规市场的形成，是产权可执行性 + 信息不对称 + 跨部门治理需求三个制度条件同时满足后的必然产物。** 那么，当这三个条件在同一个制度环境中以不同形态存在时，市场的形态也会不同。
 
 中国就是这样一个对照样本——不是"市场缺失"，而是**另一种制度均衡**。
+
+![大分流 2.0：两种制度均衡](/images/history-of-open-source/fig-great-divergence-2.png "包容性产权制度路径 vs 特许工程路径")
 
 ### 一、制度环境的三层错位
 

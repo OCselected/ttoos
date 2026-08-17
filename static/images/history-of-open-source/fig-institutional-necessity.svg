@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+
+<style>
+
+text { font-family: "Noto Sans CJK SC", "Noto Sans SC", sans-serif; }
+.title { font-size: 28px; font-weight: 700; fill: #E8DCC8; letter-spacing: 0.5px; }
+.subtitle { font-size: 15px; fill: #A89070; font-style: italic; }
+.label { font-size: 16px; fill: #E8DCC8; }
+.small { font-size: 13px; fill: #A89070; }
+.mono { font-family: "Noto Sans CJK SC", "DejaVu Sans Mono", monospace; font-size: 12px; fill: #B8B0A0; }
+.dark-bg { fill: #1A1612; }
+.panel { fill: #221D17; stroke: #3A3228; stroke-width: 1.2; }
+.panel-accent { fill: #2A2218; stroke: #B4A078; stroke-width: 1.5; }
+.gold-line { stroke: #B4A078; stroke-width: 1.5; fill: none; }
+.dim-line { stroke: #5A4E3E; stroke-width: 1; fill: none; }
+.gold-fill { fill: #B4A078; }
+.dim-fill { fill: #3A3228; }
+.accent-fill { fill: #C9A050; }
+.divider { stroke: #3A3228; stroke-width: 1; fill: none; }
+.connector { stroke: #B4A078; stroke-width: 2; fill: none; marker-end: url(#arrow); }
+.connector-dim { stroke: #5A4E3E; stroke-width: 1.5; fill: none; stroke-dasharray: 5,3; }
+</style>
+<defs>
+<marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+<polygon points="0,0 10,5 0,10" fill="#B4A078"/>
+</marker>
+<marker id="arrow-dim" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+<polygon points="0,0 10,5 0,10" fill="#5A4E3E"/>
+</marker>
+</defs>
+
+<rect class="dark-bg" width="1200" height="700"/>
+
+<!-- 顶部装饰线 -->
+<line class="gold-line" x1="60" y1="30" x2="1140" y2="30"/>
+<text class="title" x="60" y="70">制度必然性：三个条件同时满足</text>
+<text class="subtitle" x="60" y="96">Doug Levin 在墨西哥海滩识别的不是商机，是一个制度缺口</text>
+
+<!-- 三个条件面板 -->
+<g>
+  <rect class="panel" x="60" y="130" width="340" height="180" rx="6"/>
+  <text class="label" x="80" y="160" font-weight="700">① 产权认知缺口</text>
+  <text class="mono" x="80" y="180">North (1990)</text>
+  <line class="dim-line" x1="80" y1="190" x2="380" y2="190"/>
+  <text class="small" x="80" y="215">GPL 互惠义务是非标准产权</text>
+  <text class="small" x="80" y="235">企业对自身代码库中的</text>
+  <text class="small" x="80" y="255">GPL 成分一无所知</text>
+  <text class="small" x="80" y="280" fill="#C9A050">→ 产权界定存在 ≠ 被认知</text>
+</g>
+
+<g>
+  <rect class="panel" x="430" y="130" width="340" height="180" rx="6"/>
+  <text class="label" x="450" y="160" font-weight="700">② 信息不对称</text>
+  <text class="mono" x="450" y="180">Akerlof (1970)</text>
+  <line class="dim-line" x1="450" y1="190" x2="750" y2="190"/>
+  <text class="small" x="450" y="215">买方不知代码库是否含 GPL</text>
+  <text class="small" x="450" y="235">卖方无法自证清白</text>
+  <text class="small" x="450" y="255">→ 柠檬市场：高质量交易被逐出</text>
+  <text class="small" x="450" y="280" fill="#C9A050">→ 并购尽调 = 制度成本</text>
+</g>
+
+<g>
+  <rect class="panel" x="800" y="130" width="340" height="180" rx="6"/>
+  <text class="label" x="820" y="160" font-weight="700">③ 跨部门治理需求</text>
+  <text class="mono" x="820" y="180">Williamson (1985)</text>
+  <line class="dim-line" x1="820" y1="190" x2="1120" y2="190"/>
+  <text class="small" x="820" y="215">法务 / 工程 / 合规三方协调</text>
+  <text class="small" x="820" y="235">信息传递本身有成本</text>
+  <text class="small" x="820" y="255">→ 协调成本高于工具成本</text>
+  <text class="small" x="820" y="280" fill="#C9A050">→ 工具 = 治理协议</text>
+</g>
+
+<!-- 汇聚箭头 -->
+<path class="connector" d="M 230 310 L 230 360 L 500 360 L 500 400"/>
+<path class="connector" d="M 600 310 L 600 400"/>
+<path class="connector" d="M 970 310 L 970 360 L 700 360 L 700 400"/>
+
+<!-- 结论面板 -->
+<g>
+  <rect class="panel-accent" x="200" y="400" width="800" height="200" rx="6"/>
+  <text class="label" x="230" y="435" font-weight="700" font-size="20">Black Duck = 信息揭示机制</text>
+  <line class="gold-line" x1="230" y1="448" x2="970" y2="448"/>
+  <text class="small" x="230" y="475">把非标准产权安排的法律事实</text>
+  <text class="small" x="230" y="495">转化为可审计的商业事实</text>
+  <text class="small" x="230" y="520" fill="#C9A050">Protex：后端核查（代码指纹匹配）</text>
+  <text class="small" x="230" y="540" fill="#C9A050">Code Center：前端协调（跨部门审批流程）</text>
+  <text class="small" x="230" y="565">KnowledgeBase：沉没资产 + 路径依赖 = 竞争壁垒</text>
+  <text class="mono" x="230" y="588">"rare for a code base not to contain something unexpected" — Doug Levin, 2008</text>
+</g>
+
+<text class="mono" x="1140" y="680" text-anchor="end" fill="#6A5E4E">02-12 · NIE framework</text>
+</svg>
