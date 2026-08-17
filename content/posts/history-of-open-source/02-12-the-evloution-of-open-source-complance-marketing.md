@@ -72,7 +72,21 @@ Levin 自己后来在 General Catalyst 的 Medium 回顾中说了原话：
 
 从技术内幕收集的 GPL 执法的事件来看，这一阶段确实不多，随着www的崛起，LAMP 的广泛应用，违规的事件越来越多了，当有一定规模的公司开始“不知不觉”中采用了或收购了采用开源项目的代码时，就有了更多的
 
-### 一些引人注目的官司
+### 作为市场化的产权主张：Xterasys 案
+
+2007 年是 GPL 互惠义务从"社区规范"进入"商业可执行权利"的分水岭。关键案例是 Software Freedom Law Center 代理的 Xterasys 和解案。
+
+Levin 在 2007 年 12 月的博客 [26] 中记录了细节：
+
+> "As part of the settlement Xterasys will cease distributing BusyBox code until the SFLC can verify that Xterasys is in compliance with the GPL. Xterasys will also appoint an internal person to ensure GPL compliance. There is also an undisclosed financial sum that Xterasys will pay."
+
+三个关键事实：第一，停止分发直到验证合规——这是**行为约束**；第二，任命内部合规专员——这是**组织内化**；第三，"undisclosed financial sum"——这是**有真实金额的金钱成本**。
+
+Xterasys 案比 Linksys 更具制度意义：Linksys 是 FSF 起诉（权利人对企业），Xterasys 是企业之间的商业和解（企业作为权利执行方）。这意味着 GPL 的互惠义务不再只靠社区自律，而进入了**可执行权利主张**的商业逻辑——这是 North 所说的"产权界定"的实际落地。
+
+2007 年 9 月的 SCO 破产则是反面案例 [25]：SCO 试图以无实质证据的 Unix 版权主张获取经济收益（"an expected financial windfall to finance the growth of their business"），最终破产。GPL 的互惠义务和 SCO 的版权主张构成了产权可执行性的正反两面——前者基于真实的合同约束，后者基于虚产权的投机，制度差异决定了截然不同的结局。
+
+### 违反许可使用开源软件是个常态
 
 在这里，很可能让惯有的那种案例多吗这种思路的人失望了，关于官司并不是越多越好，而是越少越好，法律制定了边界，原因是过去没有边界，例如1982年Apple Computer, Inc. 诉 Franklin Computer Corp. 二进制也受到保护。换句话说，开源需要的不是狠多无关紧要的官司，而是确定边界的对抗。
 
@@ -125,6 +139,19 @@ Levin 在 2008 年 1 月的博客中说了一个关键事实：
 
 这句话翻译为市场语言就是：**买方永远不知道自己买的是什么**。在软件并购尽调中，买方无法判断目标公司的代码库中是否混入了 GPL 代码，从而继承了意外的开源传播义务。这种信息不对称的精确结构与 Akerlof 的"柠檬市场"完全一致——卖方知道真实状况，买方不知道，结果是高质量交易被逐出市场，市场萎缩。
 
+Google 的选择是这个市场结构的直接证据。Levin 在 2007 年 5 月的博客中记录了 Google 的开源合规实践 [19]：
+
+> "Black Duck's biggest competition is manual checks -- visual code reviews -- on software development that try to ensure that code is assembled properly."
+> "Almost without exception, and even though the internal processes can be very effective, these companies select Black Duck's product after talking to us."
+
+Google 此前已建立了由 Chris DiBona 领导的"tight controls"内部控制流程，但没有使用 Black Duck 产品。在理解了外部审计的必要性后，"almost without exception"转向了 Black Duck。这个细节的制度含义：**连 Google 这样有能力的企业也无法通过内部流程解决信息不对称问题**——内部合规的交易成本高于购买专业工具的成本。Levin 说了一句关键的话："Manually driven processes don't scale"（手工驱动的合规流程无法规模化）。这不是技术问题，是 Williamson 意义上的**组织治理成本**。
+
+同时，2007 年 GPL 世界本身正在经历一次制度升级。Levin 在博客中称 2007 年为"Open Source 3.0"时代的起点 [20]：GPLv3 在 6 月发布，Levin 自己给这个时代的定义是——
+
+> "The elimination of uncertainty."
+
+"消除不确定性"是制度互补性的核心机制。GPLv3 标准化 → 合规义务可预测 → 企业敢用开源 → 市场扩大 → 合规工具商业化。Levin 对制度演化的这一判断，正是本文分析的起点。
+
 Linksys 事件（2003-2007）就是这种结构的制度化证据：Cisco 花 5 亿美元收购 Linksys，事后才发现 WRT54G 路由器中包含 GPL 代码但未公开源代码——这是典型的"买了一桩诉讼"。Levin 看到的正是这个市场失灵的**可商业化修复路径**：Black Duck 的产品（Protex）不是"扫描工具"，是**把非标准产权安排的法律事实转化为可审计商业事实的信息揭示机制**。
 
 ### 二、跨部门治理协调（Williamson 交易成本）
@@ -147,15 +174,21 @@ Black Duck 的核心能力不是代码扫描，是**降低企业法务、工程�
 
 ### 三、知识库资产专用性与竞争壁垒
 
-Black Duck 收购 Ohloh（后改名 OpenHub）的战略意义需要用 Williamson 的**资产专用性**来理解。
+Black Duck 收购 Koders（2008-04-28）和 Ohloh（2010）的战略意义需要用 Williamson 的**资产专用性**来理解。
+
+Koders 的数据规模可以直接从 Levin 的博客公告中量化 [21]：
+
+> "Koders.com gets over 30,000 developers each day searching and accessing open source code, methods, examples, algorithms, and solutions in over 766 million lines of code written in over 30 languages and identified with 28 software licenses."
+
+**766 million 行代码、30+ 种语言、28 种许可证**——这就是 Black Duck 知识库（KnowledgeBase）的资产专用性壁垒。SCA 工具的准确匹配依赖足够大的代码指纹库——没有这个量级的样本，工具就无法区分"看似 GPL 但实际是其他许可"的代码片段。后来 HP FOSSology（2007-12 发布）和开源社区的各种替代方案无法复制，不是因为技术能力，是因为没有这个**沉没的数据资产**。
 
 Ohloh 是 2006 年由 Jason Allen 和 Scott Collison（前微软产品经理）创立的开源项目分析平台。2010 年 10 月 5 日，Geeknet 将 Ohloh 出售给 Black Duck，Black Duck 将其整合为 OpenHub，收录了数十万开源项目的开发者活动、代码规模、技术栈、许可信息和贡献图谱 [13]。
 
 这个收购的**制度经济学逻辑**是：Black Duck 的代码指纹库（KnowledgeBase）是一种高度专用的沉没资产——一旦建立，就被锁定在与 Black Duck 产品的互补关系上，竞争对手难以复制。Ohloh 提供了自动化的开源项目元数据采集管道，为 KnowledgeBase 提供持续更新的数据流。这个知识库的**沉没成本**和**路径依赖**构成了 Black Duck 后来十余年 SCA 行业的核心竞争壁垒。
 
-中国有十几家开源代码扫描厂商，但没有一家具备这样的知识库基础设施——这不是技术能力的差距，是**制度基础设施的时间壁垒**：Black Duck 在 2003 年开始积累，Ohloh 在 2006 年创立，数据优势是十几年的时间复利，后来者无法用商业手段快速复制。
+中国有十几家开源代码扫描厂商，但没有一家具备这样的知识库基础设施——这不是技术能力的差距，是**制度基础设施的时间壁垒**：Black Duck 在 2003 年开始积累，Koders 在 2008 年贡献 766M 行代码，Ohloh 在 2006 年创立，数据优势是十几年的时间复利，后来者无法用商业手段快速复制。
 
-> “Black Duck 的核心资产不是软件，而是它所掌握的开源世界的结构性知识图谱——而 OpenHub 正是这幅图谱的探照灯。”
+> “Black Duck 的核心资产不是软件，而是它所掌握的开源世界的结构性知识图谱——而 Koders 和 OpenHub 正是这幅图谱的探照灯。”
 
 
 ## 说服律师和法务：制度翻译与话语建构
@@ -201,7 +234,7 @@ Copenhaver 的核心制度贡献是：**把 GPL 从哲学话语翻译为可审�
 
 从制度经济学的视角看，**Black Duck → OpenHub → SPDX → SBOM → OpenChain → ISO 5230 构成了一条制度互补性的演进链条**。每一环都为下一环创造前提条件，每一环都降低了下一环的交易成本：
 
-* **Black Duck (2002-2008)**：证明市场需求存在——没有商业验证，后续的标准化工作就没有需求基础。
+* **Black Duck (2002-2008)**：证明市场需求存在——没有商业验证，后续的标准化工作就没有需求基础。到 2007 年底，Black Duck 已有超过 575 家客户 [22]，包括 NEC、Citrix、IONA Technologies、Lehman Brothers 和 QNX，国际业务同比增长 93%，在阿姆斯特丹设立了国际总部，与日本 NEC 签署了代理商协议。Levin 自己在年终总结中说："It was a phenomenal year for Black Duck Software."
 * **OpenHub (2010-2014)**：构建知识库基础设施——没有足够的数据积累，SPDX 的"成分表"就没有参照物。
 * **SPDX (2010-2016)**：标准化数据格式——没有标准化，SBOM 的格式就五花八门，无法跨组织互认。
 * **SBOM (2021 总统令)**：政治合法性——没有国家背书，OpenChain 就只是行业倡议，不具备约束力。
@@ -222,7 +255,7 @@ Copenhaver 的核心制度贡献是：**把 GPL 从哲学话语翻译为可审�
 
 2016 年，Linux 基金会的 Shane Coughlan 牵头发起 OpenChain 项目[18]。他的初心是：把合规流程本身标准化，让供应链上的企业能够用共同语言沟通，减少摩擦。他常说的一句话是——“合规是一种质量管理，而不仅仅是风险管理。”
 
-经过数年努力，OpenChain 在 2019 年被采纳为 ISO/IEC 5230 [19] 国际标准。这标志着开源合规第一次站上了与 ISO 9001、ISO 27001 等同级的高度，成为可审计、可认证的体系。而 OpenChain 的流程化思路，也开始与供应链安全治理结合。合规不再只是“避免诉讼”，而是扩展为建立数字信任。
+经过数年努力，OpenChain 在 2019 年被采纳为 ISO/IEC 5230 [24] 国际标准。这标志着开源合规第一次站上了与 ISO 9001、ISO 27001 等同级的高度，成为可审计、可认证的体系。而 OpenChain 的流程化思路，也开始与供应链安全治理结合。合规不再只是“避免诉讼”，而是扩展为建立数字信任。
 
 ### 开源合规峰会
 
@@ -283,6 +316,13 @@ SCA 工具的崛起、SBOM 的标准化、合规工作的职业化，本质上�
 
 **这一时期中国企业对 Black Duck 的需求，本质上是全球化制度压力在本地市场的投射。** 合规不是中国企业自发产生的风险管理需求，而是国际资本市场和跨国供应链的要求传导到国内企业——Black Duck 是这个传导链条上的工具节点。
 
+Levin 在 2007 年 11 月的博客 [23] 中直接说明了国际扩张的逻辑——这不是战略选择，是制度必然：
+
+> "It also stemmed from the realization that open source and composite software developments were challenges encountered by companies and developers all over the world — not just the U.S. market."
+> "International expansion is a must-have for any growing company, not simply a nice-to-have."
+
+Black Duck 的国际化不是"开拓市场"，是**合规制度压力本身是全球性的**——因为 GPL 的互惠义务是全球统一的产权安排，不受国界约束。中国市场、日本市场、欧洲市场面对的制度问题是相同的。这恰恰解释了为什么 Black Duck 的国际化增速（93% YoY）在 2007 年如此之高：全球化的程度决定了合规工具市场的规模。
+
 然而，随着全球化的结构性变化，这一传导链条逐渐断裂：
 
 * **市场重心内转**：越来越多的中国科技公司放弃美股 IPO，转向科创板、港股或只专注于国内市场。客户不再提出合规要求，工具就失去了“背书”对象。
@@ -330,7 +370,14 @@ SCA 工具的崛起、SBOM 的标准化、合规工作的职业化，本质上�
 16. https://en.wikipedia.org/wiki/Software_Package_Data_Exchange
 17. Executive Order on Improving the Nation’s Cybersecurity https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/05/12/executive-order-on-improving-the-nations-cybersecurity/
 18. https://openchainproject.org/
-19. https://en.wikipedia.org/wiki/ISO/IEC_5230
+19. Doug Levin, "Home Grown is Not the Best Way to Avoid Rude Surprises", bduck1, 2007-05-22. [URL](https://bduck1.blogspot.com/2007/05/home-grown-is-not-best-way-to-avoid.html)
+20. Doug Levin, "Welcome to Open Source 3.0", 2007-08-06. [URL](https://bduck1.blogspot.com/2007/08/welcome-to-open-source-30.html)
+21. Doug Levin, "Black Duck Software Acquires Koders, Inc.", 2008-04-28. [URL](https://bduck1.blogspot.com/2008/04/black-duck-software-acquires-koders-inc.html)
+22. Doug Levin, "Black Duck Software's Great Customer Growth in 2007", 2008-01-15. [URL](https://bduck1.blogspot.com/2008/01/black-duck-softwares-great-customer.html)
+23. Doug Levin, "Here we grow again ... into Asia", 2007-11-21. [URL](https://bduck1.blogspot.com/2007/11/here-we-grow-again-into-asia.html)
+24. https://en.wikipedia.org/wiki/ISO/IEC_5230
+25. Doug Levin, "SCO Poops Out!", bduck1, 2007-09-15. [URL](https://bduck1.blogspot.com/2007/09/sue-this.html)
+26. Doug Levin, "A win for the good guys", 2007-12-17. [URL](https://bduck1.blogspot.com/2007/12/win-for-good-guys.html)
 
 
 ## 关于作者
