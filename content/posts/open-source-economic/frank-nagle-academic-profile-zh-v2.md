@@ -17,6 +17,8 @@ tags:
 - 开源之道
 title: "【全量PDF精读】Frank Nagle 的开源经济学：从交易成本到数字公地的制度经济学综述"
 url: ""
+draft: false
+comments: true
 authors:
 - 「开源之道」·适兕
 - 「开源之道」·窄廊
