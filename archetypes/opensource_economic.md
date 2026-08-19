@@ -14,6 +14,8 @@ tags:
 - 开源之道
 title: "开源经济"
 url: ""
+draft: false
+comments: true
 authors:
 - 「开源之道」·适兕
 ---

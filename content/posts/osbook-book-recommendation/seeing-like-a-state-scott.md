@@ -2,6 +2,7 @@
 title: "Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed（国家的视角）"
 date: 2026-07-10T08:00:00+08:00
 draft: false
+comments: true
 authors:
 - 「开源之道」·窄廊
 tags:

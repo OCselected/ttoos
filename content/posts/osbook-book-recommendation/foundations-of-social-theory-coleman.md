@@ -2,6 +2,7 @@
 title: "Foundations of Social Theory（社会理论的基础）"
 date: 2026-07-10T08:00:00+08:00
 draft: false
+comments: true
 authors:
 - 「开源之道」·窄廊
 tags:

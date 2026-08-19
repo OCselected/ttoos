@@ -2,6 +2,7 @@
 title: "2026-08-10  「开源之道」·荐书：OSS商业应用教科书「守り」と「攻め」— 中村雄一 等"
 date: 2026-08-10T07:00:00+08:00
 draft: false
+comments: true
 authors:
 - 「开源之道」·窄廊
 tags:

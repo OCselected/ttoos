@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+
+<style>
+
+text { font-family: "Noto Sans CJK SC", "Noto Sans SC", sans-serif; }
+.title { font-size: 28px; font-weight: 700; fill: #E8DCC8; letter-spacing: 0.5px; }
+.subtitle { font-size: 15px; fill: #A89070; font-style: italic; }
+.label { font-size: 16px; fill: #E8DCC8; }
+.small { font-size: 13px; fill: #A89070; }
+.mono { font-family: "Noto Sans CJK SC", "DejaVu Sans Mono", monospace; font-size: 12px; fill: #B8B0A0; }
+.dark-bg { fill: #1A1612; }
+.panel { fill: #221D17; stroke: #3A3228; stroke-width: 1.2; }
+.panel-accent { fill: #2A2218; stroke: #B4A078; stroke-width: 1.5; }
+.gold-line { stroke: #B4A078; stroke-width: 1.5; fill: none; }
+.dim-line { stroke: #5A4E3E; stroke-width: 1; fill: none; }
+.gold-fill { fill: #B4A078; }
+.dim-fill { fill: #3A3228; }
+.accent-fill { fill: #C9A050; }
+.divider { stroke: #3A3228; stroke-width: 1; fill: none; }
+.connector { stroke: #B4A078; stroke-width: 2; fill: none; marker-end: url(#arrow); }
+.connector-dim { stroke: #5A4E3E; stroke-width: 1.5; fill: none; stroke-dasharray: 5,3; }
+</style>
+<defs>
+<marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+<polygon points="0,0 10,5 0,10" fill="#B4A078"/>
+</marker>
+<marker id="arrow-dim" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+<polygon points="0,0 10,5 0,10" fill="#5A4E3E"/>
+</marker>
+</defs>
+
+<rect class="dark-bg" width="1200" height="700"/>
+
+<line class="gold-line" x1="60" y1="30" x2="1140" y2="30"/>
+<text class="title" x="60" y="70">大分流 2.0：两种制度均衡</text>
+<text class="subtitle" x="60" y="96">同一个技术，不同制度环境，不同市场形态</text>
+
+<!-- 左路径：美国 -->
+<g>
+  <rect class="panel" x="60" y="130" width="480" height="460" rx="6"/>
+  <text class="label" x="80" y="165" font-weight="700" font-size="18">包容性产权制度路径</text>
+  <text class="mono" x="80" y="185" style="font-family: Noto Sans CJK SC">美国 / 欧洲 · 市场化合规</text>
+  <line class="dim-line" x1="80" y1="198" x2="520" y2="198"/>
+
+  <text class="small" x="80" y="230" fill="#A89070">制度起点</text>
+  <text class="label" x="80" y="252">产权可执行（Linksys 诉讼）</text>
+
+  <path class="connector-dim" d="M 100 270 L 100 290"/>
+  <text class="small" x="80" y="310" fill="#A89070">信息不对称</text>
+  <text class="label" x="80" y="332">→ SCA 工具商业化（Black Duck）</text>
+
+  <path class="connector-dim" d="M 100 350 L 100 370"/>
+  <text class="small" x="80" y="390" fill="#A89070">标准化</text>
+  <text class="label" x="80" y="412">→ SPDX / SBOM 格式统一</text>
+
+  <path class="connector-dim" d="M 100 430 L 100 450"/>
+  <text class="small" x="80" y="470" fill="#A89070">制度化</text>
+  <text class="label" x="80" y="492">→ ISO 5230（OpenChain）</text>
+
+  <line class="dim-line" x1="80" y1="520" x2="520" y2="520"/>
+  <text class="small" x="80" y="545" fill="#C9A050">驱动逻辑</text>
+  <text class="label" x="80" y="565">包容性产权 → 自发演化</text>
+  <text class="small" x="80" y="585" fill="#A89070">企业向社区和权利人负责</text>
+</g>
+
+<!-- 右路径：中国 -->
+<g>
+  <rect class="panel" x="660" y="130" width="480" height="460" rx="6"/>
+  <text class="label" x="680" y="165" font-weight="700" font-size="18">特许工程路径</text>
+  <text class="mono" x="680" y="185" style="font-family: Noto Sans CJK SC">中国 · 国家主导</text>
+  <line class="dim-line" x1="680" y1="198" x2="1120" y2="198"/>
+
+  <text class="small" x="680" y="230" fill="#A89070">制度起点</text>
+  <text class="label" x="680" y="252">产权不可执行（无先例）</text>
+
+  <path class="connector-dim" d="M 700 270 L 700 290"/>
+  <text class="small" x="680" y="310" fill="#A89070">合规需求</text>
+  <text class="label" x="680" y="332">→ 外部制度压力投射（IPO、供应链）</text>
+
+  <path class="connector-dim" d="M 700 350 L 700 370"/>
+  <text class="small" x="680" y="390" fill="#A89070">工具角色</text>
+  <text class="label" x="680" y="412">→ Black Duck = 国际通行证（非商业工具）</text>
+
+  <path class="connector-dim" d="M 700 430 L 700 450"/>
+  <text class="small" x="680" y="470" fill="#A89070">替代路径</text>
+  <text class="label" x="680" y="492">→ 特许工程（OpenEuler / OpenHarmony）</text>
+
+  <line class="dim-line" x1="680" y1="520" x2="1120" y2="520"/>
+  <text class="small" x="680" y="545" fill="#C9A050">驱动逻辑</text>
+  <text class="label" x="680" y="565">技术主权 → 国家主导</text>
+  <text class="small" x="680" y="585" fill="#A89070">企业向国家和供应链负责</text>
+</g>
+
+<!-- 中央：不可通约 -->
+<g>
+  <line class="gold-line" x1="560" y1="180" x2="600" y2="180" stroke-dasharray="8,4"/>
+  <line class="gold-line" x1="600" y1="180" x2="600" y2="450" stroke-dasharray="8,4"/>
+  <line class="gold-line" x1="600" y1="450" x2="560" y2="450" stroke-dasharray="8,4"/>
+  <text class="label" x="585" y="310" font-size="14" fill="#B4A078" font-weight="700">不</text>
+  <text class="label" x="585" y="330" font-size="14" fill="#B4A078" font-weight="700">可</text>
+  <text class="label" x="585" y="350" font-size="14" fill="#B4A078" font-weight="700">通</text>
+  <text class="label" x="585" y="370" font-size="14" fill="#B4A078" font-weight="700">约</text>
+  <text class="mono" x="585" y="390" fill="#6A5E4E">non-</text>
+  <text class="mono" x="585" y="403" fill="#6A5E4E">commensurable</text>
+</g>
+
+<text class="mono" x="60" y="640" style="font-family: Noto Sans CJK SC">"不是落后与先进的区别，是制度结构的分岔"</text>
+<text class="mono" x="1140" y="680" text-anchor="end" fill="#6A5E4E" style="font-family: Noto Sans CJK SC">大分流 2.0</text>
+</svg>

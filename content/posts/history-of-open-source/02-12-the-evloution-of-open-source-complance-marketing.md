@@ -2,7 +2,7 @@
 categories:
 - 开源
 - 感悟
-date: 2025-08-05T10:46:49+08:00
+date: 2026-08-17T18:38:18+08:00
 description: "我们能否发挥想象力？将历史上的一些事件联系起来，这恰恰是历史应该去做的事情，我们在开源软件知识财产相关法律的文章回顾了十几篇文章，我们仍然没有说到关键的地方，那就是开源市场的形成，有没有公司公然违反许可。无处不在的开源软件是如何在法律的威严下一步步渗透到今天的地步的？本文试图解释一下这个。"
 keywords:
 - Open Source
@@ -16,6 +16,7 @@ title: "「开源之史」系列之十六/四：开源遵从（合规）市场�
 url: ""
 authors:
 - 「开源之道」·适兕 && 「开源之道」·窄廊
+comments: true
 ---
 
 ## 引子：闭源软件市场的诞生与秩序塑造
@@ -47,17 +48,19 @@ authors:
 
 在本章节，我们就聚焦于开源合规市场的形成和演化进行一番历史经济的回顾。
 
-## 从一次度假说起
+## 从一次度假说起：产权认知缺口的识别
 
-说起由度假而诞生的传奇，莫过于UNIX的创始人 Ken Thompson 的故事更为人津津乐道了[1]。接下来的故事或许会带给我们灵感，那就是想做事情之前，先要修一个什么也不做的假。
+2002 年底，Doug Levin [2] 在墨西哥坎昆度假时识别出的不是一个产品创意，而是一个制度经济学意义上的**产权认知缺口**。
 
-2002 年底，在墨西哥坎昆温热的海风中，一位技术创业老兵正独自坐在沙滩上，脑中却盘旋着一场融资尽调中始终未能解答的问题：
+Levin 此前参与两家公司出售过程时，潜在收购方询问是否使用开源代码，团队只能靠口头访谈提供回答——无法给出数据证明。他意识到的问题不是"开源代码用得多"，而是**一个由非标准产权安排产生的信息不对称市场**：企业对 GPL 的互惠义务结构一无所知，买方在并购中无法判断目标公司的代码库是否携带意外的开源传播义务，卖方也无法自证清白。
 
-> “你能证明这些代码没有违反任何开源许可吗？”
+Levin 自己后来在 General Catalyst 的 Medium 回顾中说了原话：
 
-Doug Levin [2]，那时刚刚完成一次软件创业项目的出售，但这次收购过程中的种种不确定性，让他心生警惕：现代软件如此依赖开源组件，却没有一家企业能说得清楚，他们使用了什么、从哪儿来、又是否符合原始许可。
+> "almost everybody found fault with my vision and Black Duck's business model"
 
-那一刻，他意识到——企业对开源的依赖正在飙升，而对合规的理解却接近空白。我们常常说灵感来自于长时间的累积，其实 Levin 在此前参与两家公司出售过程中，发现潜在收购方询问是否使用开源代码时，团队只能靠口头访谈无法提供数据证明。真正的技术审查工具不存在，使他深刻觉察到一个真实市场需求。
+这句话的制度含义是：在产权界定尚未被市场参与者认知时，先行者面临的交易成本是**内化的、不可转嫁的**。Levin 看到的不是"开源代码太多需要一个扫描工具"，而是一个由**非标准产权安排（GPL 互惠义务）+ 信息不对称（企业不知自身代码库中是否含 GPL）+ 制度缺口（无标准化披露格式）**同时构成的市场失灵——这个市场失灵需要一个信息揭示机制来填补缺口。
+
+2002 年 12 月 27 日，他在沙滩上想清楚的是这个。两天后他带着技术、融资和市场计划走出酒店房间，开始构建这个机制。
 
 ## 违反许可使用开源软件是个常态
 
@@ -70,7 +73,19 @@ Doug Levin [2]，那时刚刚完成一次软件创业项目的出售，但这次
 
 从技术内幕收集的 GPL 执法的事件来看，这一阶段确实不多，随着www的崛起，LAMP 的广泛应用，违规的事件越来越多了，当有一定规模的公司开始“不知不觉”中采用了或收购了采用开源项目的代码时，就有了更多的
 
-### 一些引人注目的官司
+### 作为市场化的产权主张：Xterasys 案
+
+2007 年是 GPL 互惠义务从"社区规范"进入"商业可执行权利"的分水岭。关键案例是 Software Freedom Law Center 代理的 Xterasys 和解案。
+
+Levin 在 2007 年 12 月的博客 [26] 中记录了细节：
+
+> "As part of the settlement Xterasys will cease distributing BusyBox code until the SFLC can verify that Xterasys is in compliance with the GPL. Xterasys will also appoint an internal person to ensure GPL compliance. There is also an undisclosed financial sum that Xterasys will pay."
+
+三个关键事实：第一，停止分发直到验证合规——这是**行为约束**；第二，任命内部合规专员——这是**组织内化**；第三，"undisclosed financial sum"——这是**有真实金额的金钱成本**。
+
+Xterasys 案比 Linksys 更具制度意义：Linksys 是 FSF 起诉（权利人对企业），Xterasys 是企业之间的商业和解（企业作为权利执行方）。这意味着 GPL 的互惠义务不再只靠社区自律，而进入了**可执行权利主张**的商业逻辑——这是**道格拉斯·诺斯（Douglas North）** 所说的"产权界定"的实际落地。诺斯是 1993 年诺贝尔经济学奖得主，其核心观点是：市场的运行依赖产权的明确界定和可执行性，没有产权就没有市场。
+
+2007 年 9 月的 SCO 破产则是反面案例 [25]：SCO 试图以无实质证据的 Unix 版权主张获取经济收益（"an expected financial windfall to finance the growth of their business"），最终破产。GPL 的互惠义务和 SCO 的版权主张构成了产权可执行性的正反两面——前者基于真实的合同约束，后者基于虚产权的投机，制度差异决定了截然不同的结局。
 
 在这里，很可能让惯有的那种案例多吗这种思路的人失望了，关于官司并不是越多越好，而是越少越好，法律制定了边界，原因是过去没有边界，例如1982年Apple Computer, Inc. 诉 Franklin Computer Corp. 二进制也受到保护。换句话说，开源需要的不是狠多无关紧要的官司，而是确定边界的对抗。
 
@@ -108,67 +123,127 @@ Doug Levin [2]，那时刚刚完成一次软件创业项目的出售，但这次
 >
 >   Steve O’Grady ,Red Monk 联合创始人，《Kingmaker》
 
-## BlackDuck 与OpenHub
+## Black Duck 与 OpenHub：制度必然性的三重逻辑
 
-我们不能坐而论道，以开源解释开源，而是要在具体的经济系统中找到合适的位置，开源项目不断发展：GCC、Kernel、Apache......，那么正如我们现实中的感觉一样，是空口无凭的，想要解决这些问题，需要从一家IT系统中使用的开源项目作为起点，没有这个我们一切都无从谈起。
+Levin 创建的 Black Duck 不是"发现商机"的励志故事，而是**产权结构 + 信息不对称 + 交易成本**三个制度条件同时满足后的必然产物。
 
-作为连续创业者的Doug Levin 开始寻找能做此工具的工程师，不断的寻找投资，利用一切能用的资源，甚至在公司的命名上都使用了他儿子最喜花的玩具————一只黑色的鸭子。[12]
+![制度必然性三合一](/images/history-of-open-source/fig-institutional-necessity.png "产权认知缺口 + 信息不对称 + 跨部门治理需求 → Black Duck")
 
-公司的第一个产品 Protex 立即获得了包括 Oracle 和 SAP 在内的众多知名客户的青睐，后来又获得了Fidelity 的青睐，Fidelity 不仅是公司的主要客户，还主导了BlackDuck的 B 轮融资。Black Duck 产品的采用率持续上升，它既是并购方希望审查并购软件时使用的工具，也是公司开发周期的一个组成部分。
+### 一、信息揭示机制（Akerlof 柠檬市场）
+
+**乔治·阿克洛夫（George Akerlof）的"柠檬市场"理论**（1971年诺贝尔经济学奖论文）描述了一个经典的市场失灵：当卖方知道商品真实质量、买方不知道时，买方只能按平均质量出价，高质量商品被逐出市场，市场萎缩。这个理论原本用来分析二手车市场，但它可以精确地映射到软件并购中的 GPL 合规问题。
+
+Levin 在 2008 年 1 月的博客中说了一个关键事实：
+
+> "Black Duck has analyzed code from hundreds of companies and our experience is that it is rare for a code base not to contain something unexpected."
+> （"Black Duck 分析了数百家公司的代码，我们的经验是，几乎没有一个代码库不包含意外的东西。"）[12]
+
+这句话翻译为市场语言就是：**买方永远不知道自己买的是什么**。在软件并购尽调中，买方无法判断目标公司的代码库中是否混入了 GPL 代码，从而继承了意外的开源传播义务。这种信息不对称的精确结构与 Akerlof 的"柠檬市场"完全一致——卖方知道真实状况，买方不知道，结果是高质量交易被逐出市场，市场萎缩。
+
+Google 的选择是这个市场结构的直接证据。Levin 在 2007 年 5 月的博客中记录了 Google 的开源合规实践 [19]：
+
+> "Black Duck's biggest competition is manual checks -- visual code reviews -- on software development that try to ensure that code is assembled properly."
+> "Almost without exception, and even though the internal processes can be very effective, these companies select Black Duck's product after talking to us."
+
+Google 此前已建立了由 Chris DiBona 领导的"tight controls"内部控制流程，但没有使用 Black Duck 产品。在理解了外部审计的必要性后，"almost without exception"转向了 Black Duck。这个细节的制度含义：**连 Google 这样有能力的企业也无法通过内部流程解决信息不对称问题**——内部合规的交易成本高于购买专业工具的成本。Levin 说了一句关键的话："Manually driven processes don't scale"（手工驱动的合规流程无法规模化）。这不是技术问题，是 Williamson 意义上的**组织治理成本**。
+
+同时，2007 年 GPL 世界本身正在经历一次制度升级。Levin 在博客中称 2007 年为"Open Source 3.0"时代的起点 [20]：GPLv3 在 6 月发布，Levin 自己给这个时代的定义是——
+
+> "The elimination of uncertainty."
+
+"消除不确定性"是制度互补性的核心机制。**制度互补性**指：一个制度的出现为另一个制度的出现创造了前提条件，两者相互强化——就像轮子与道路的关系，没有道路轮子就形同虚设，没有轮子道路就失去了意义。GPLv3 标准化 → 合规义务可预测 → 企业敢用开源 → 市场扩大 → 合规工具商业化。Levin 对制度演化的这一判断，正是本文分析的起点。
+
+Linksys 事件（2003-2007）就是这种结构的制度化证据：Cisco 花 5 亿美元收购 Linksys，事后才发现 WRT54G 路由器中包含 GPL 代码但未公开源代码——这是典型的"买了一桩诉讼"。Levin 看到的正是这个市场失灵的**可商业化修复路径**：Black Duck 的产品（Protex）不是"扫描工具"，是**把非标准产权安排的法律事实转化为可审计商业事实的信息揭示机制**。
+
+### 二、跨部门治理协调（Williamson 交易成本）
+
+**奥利弗·威廉姆森（Oliver Williamson，2009 年诺贝尔经济学奖）** 提出的交易成本理论分析了一个核心问题：企业为什么要自己生产而不是从市场购买？他的答案是：当交易的不确定性高、资产专用性强、交易频率高时，市场交易的成本会超过内部管理成本，企业就会选择内部化。Black Duck 做的事情恰好相反——它把一个原本在企业内部成本极高的合规问题，通过标准化工具降低到可以市场化的水平。
+
+Black Duck 的核心能力不是代码扫描，是**降低企业法务、工程、合规审计三方之间的协调成本**。Williamson 的四个维度全部命中：
+
+| Williamson 维度（交易成本理论的四个核心判断维度） | Black Duck 的治理作用 |
+|---|---|
+| **资产专用性** | 企业软件堆栈是高度专用资产，一旦混入 GPL 代码即产生沉没成本和继承义务 |
+| **不确定性** | 代码库中是否含 GPL 是不可预见的（Levin 原文"rare for a code base not to contain something unexpected"） |
+| **交易频率** | 高频——每个开发周期、每次并购、每次发布都触发合规审查 |
+| **有限理性** | 法务不懂代码，工程师不懂许可——信息传递本身即有成本 |
+
+2008 年 1 月发布的 Black Duck Code Center 直接对应 Williamson 的治理设计——它把原本分散在法务、安全、QA、工程之间的协调流程压缩到一个平台内：
+
+> "walks the component approval through legal, security, risk, QA or any other approvals that a company requires"
+> （"将组件审批流程依次引导通过法务、安全、风险、QA 或企业要求的任何审批环节"）[12]
+
+这是一个**跨部门治理协调协议**，不是技术工具。它把企业内部的开源使用从"个人开发者的自发行为"转化为"可审计的组织流程"。
+
+### 三、知识库资产专用性与竞争壁垒
+
+Black Duck 收购 Koders（2008-04-28）和 Ohloh（2010）的战略意义需要用**资产专用性**来理解。资产专用性（asset specificity，Williamson 提出的概念）指：一项资产一旦投入某个特定用途，转作他用就会严重贬值——就像为特定模具生产的产品，无法直接转给其他工厂使用。Black Duck 的 766 million 行代码知识库就是高度专用的资产：它的价值只能在 SCA 工具中实现，转做他用就一文不值。
+
+Koders 的数据规模可以直接从 Levin 的博客公告中量化 [21]：
+
+> "Koders.com gets over 30,000 developers each day searching and accessing open source code, methods, examples, algorithms, and solutions in over 766 million lines of code written in over 30 languages and identified with 28 software licenses."
+
+**766 million 行代码、30+ 种语言、28 种许可证**——这就是 Black Duck 知识库（KnowledgeBase）的资产专用性壁垒。SCA 工具的准确匹配依赖足够大的代码指纹库——没有这个量级的样本，工具就无法区分"看似 GPL 但实际是其他许可"的代码片段。后来 HP FOSSology（2007-12 发布）和开源社区的各种替代方案无法复制，不是因为技术能力，是因为没有这个**沉没的数据资产**。
+
+Ohloh 是 2006 年由 Jason Allen 和 Scott Collison（前微软产品经理）创立的开源项目分析平台。2010 年 10 月 5 日，Geeknet 将 Ohloh 出售给 Black Duck，Black Duck 将其整合为 OpenHub，收录了数十万开源项目的开发者活动、代码规模、技术栈、许可信息和贡献图谱 [13]。
+
+这个收购的**制度经济学逻辑**是：Black Duck 的代码指纹库（KnowledgeBase）是一种高度专用的沉没资产——一旦建立，就被锁定在与 Black Duck 产品的互补关系上，竞争对手难以复制。Ohloh 提供了自动化的开源项目元数据采集管道，为 KnowledgeBase 提供持续更新的数据流。这个知识库的**沉没成本**和**路径依赖**构成了 Black Duck 后来十余年 SCA 行业的核心竞争壁垒。
+
+中国有十几家开源代码扫描厂商，但没有一家具备这样的知识库基础设施——这不是技术能力的差距，是**制度基础设施的时间壁垒**：Black Duck 在 2003 年开始积累，Koders 在 2008 年贡献 766M 行代码，Ohloh 在 2006 年创立，数据优势是十几年的时间复利，后来者无法用商业手段快速复制。
+
+> “Black Duck 的核心资产不是软件，而是它所掌握的开源世界的结构性知识图谱——而 Koders 和 OpenHub 正是这幅图谱的探照灯。”
 
 
-### 开源情报前哨 —— OpenHub
+## 说服律师和法务：制度翻译与话语建构
 
-经济学的互补理论，没有哪个行业能像软件这么分工的让人难以琢磨，当然，计算机信息产业将这个理论是玩出了新高度，尤其是和开源相关联的，我们现在对于芯片和硬件厂商支持开源的情况已经理解的非常透彻了，但是作为SCA工具厂商收购开源代码分析网站Ohloh，也就是现在的OpenHub，那么就有很多人难以理解了。这里的一个鲜明的例子就是，中国有十几家作开源代码扫描的厂家，但是没有一家提供开源代码项目的，当然对OpenHub也没啥贡献。
+法律市场的形成，除了已经确立的产权主张，还需要形成行业共识。GPL 有 Copyleft 哲学主张，但哲学主张不会自动转化为企业法务的合规流程——这个转化需要**制度翻译**。
 
-BlackDuck 之所以能够成为业界的王者，对于代码匹配的知识库建设可谓是煞费苦心，Ohloh 是 2006 年由 Jason Allen 和 Scott Collison (前微软产品经理)创立的开源项目分析平台，2009 年 5 月 28 日，Ohloh 被流行开源开发平台 SourceForge 的所有者 Geeknet 收购，Geeknet 于 2010 年 10 月 5 日将 Ohloh 出售给了开源分析公司 Black Duck Software，Black Duck 将 Ohloh 的功能与其现有产品相结合，将该网站发展成为 FOSS 开发的主要资源，并于2014年改名为Black Duck OpenHub [13]。
+### Karen Copenhaver：不是"开源律师"，是制度翻译者
 
-OpenHub 可以视为“开源项目的 GitHub + Crunchbase + Alexa 排行榜”的混合体。收录了大量开源项目的：
+![Karen Copenhaver：制度翻译者](/images/history-of-open-source/fig-copenhaver-translator.png "传统开源律师 vs Karen Copenhaver：制度翻译者")
 
-* 开发者活动
-* 代码规模
-* 技术栈构成
-* 许可信息
-* 贡献图谱
+Doug Levin 找到 Karen Copenhaver [14]——一位 1979 年起在 IBM 工作的律师，经历过 IBM 混乱的操作系统开发和市场。十几年后 Black Duck 功成，Levin 对她的评价是：
 
-作为历史的后来者，我们可以总结一下BlackDuck 收购Ohloh的战略精彩之处：
+> "道格在组建团队和宣传开源合规理念方面做得非常出色。他招募了凯伦-科本哈弗（Karen Copenhaver），她是一位非常著名的开源律师，作为这一使命的忠实信徒，她与各大科技公司的法律顾问就开源的适当使用进行了交谈。"[12]
 
-* 战略目的 1：构建“情报中台”
+但"非常著名的开源律师"这个表述掩盖了她真正的制度贡献。Copenhaver 的差异需要放在一个对比中来理解：
 
-Ohloh 是 Black Duck 的开源情报采集前哨站：自动同步 Git、SVN、CVS、Mercurial 等项目代码；为 KnowledgeBase（代码指纹库）持续补充元数据；从开源项目自然爬取许可证变更、贡献者、维护活跃度等指标。 这是 Black Duck 能维持数据库新鲜度和广度的关键，后来者难以用商业手段快速复制。
+| 维度 | 传统开源律师（如 FSF 的 Eben Moglen） | Karen Copenhaver |
+|---|---|---|
+| **服务对象** | 社区 / 权利人 | 企业法务部门 |
+| **话语体系** | 哲学（Copyleft、自由、精神） | 风险（诉讼概率、和解金、源代码公开成本） |
+| **制度功能** | 制度守护者 | 制度翻译者 |
+| **与市场的关系** | 外生于市场（社区内部） | 内生于市场（企业供应链） |
+| **知识生产** | 法理学（GPL 作为合同的有效性） | 工程学（如何审计代码库中的 GPL 成分） |
 
-* 战略目的 2：建立公信力和开放性门面
+Copenhaver 的核心制度贡献是：**把 GPL 从哲学话语翻译为可审计的商业义务**。
 
-虽然 Black Duck 是闭源商业公司，但 OpenHub 是开放平台；它向开发者展示“我们不是黑盒审查，我们也是贡献者的一部分”；增强客户信任，也为销售提供“前门导流”（软着陆）。
+她在 2005 年 OSDL Enterprise Linux Summit 上的原话：
 
-* 战略目的 3：反哺销售线索
+> "winning the right hearts and minds before charting a course of action. You should also avoid mandating a course of action advocated by lawyers alone."
+> （"在制定行动方案之前先赢得正确的心和思维。你也应该避免仅由律师主张的行动方案。"[15]）
 
-企业 CTO、合规官在使用 OpenHub 查开源项目信息时，容易转化为 SCA 产品潜在用户；形成从“开源可视化”到“合规扫描”的一站式路径。
+这句话的制度含义不是"先做公关再动手"，而是**她在建立一种新的专业话语**——开源合规不是"社区在告你"，而是"你在保护自己的供应链"。这是制度经济学的**话语建构**（discursive institutionalism）：合规的推广不靠法律强制（GPL 的可执行性在美国通过 Linksys 诉讼已经证明），靠的是**让企业法务从"被威胁者"转变为"主动管理者"**。
 
-所以，OpenHub 是 Black Duck 真正构筑“全球开源雷达网”的关键资产。它不直接赚钱，但提供数据、信誉与引流，是战略级“情报高地”。
+她的差异不是"她是律师但不同"，是**她创造了一个新的专业位置**——开源合规律师（open source compliance attorney）——这个位置在传统法律分类中不存在。她加入 Black Duck，后离开加入 Linux 基金会，两条路径分别代表了开源合规在企业内部和基金会层面的制度化。
 
-有人总结这个收购的神来之笔：
+> "没有律师和法务的支撑，合规工具无异于在沙滩上建高楼。"
 
-> “Black Duck 的核心资产不是软件，而是它所掌握的开源世界的结构性知识图谱——而 OpenHub 正是这幅图谱的探照灯。”
-
-
-## 说服律师和法务
-
-法律市场的形成，除了那些已经成为既定事实的主张，还需要形成行业共识，也就是说，GPL 有自己的主张，Copyleft 哲学也罢，最后总是要落地到具体的项目中，这样就产生了我们所熟知的法律经济的成本问题。BlackDuck 开展开源项目代码的合规审计业务，没有律师和法务们的支撑，无异于在沙滩上建高楼，BlackDuck 作为一家美国公司，深知法律才是财富的根基，于是他们开始招募法律界的人才，Doug 找到了Karen Copenhaver， 一位1979年就在IBM工作的律师，经历过IBM混乱的操作系统开发和市场，对于开源有着极为深刻的理解和热情。我们不妨看一下十几年后，BlackDuck成功后，最Karen Copenhaver的总结[12]：
-
-> 道格在组建团队和宣传开源合规理念方面做得非常出色。他招募了凯伦-科本哈弗（Karen Copenhaver），她是一位非常著名的开源律师，作为这一使命的忠实信徒，她与各大科技公司的法律顾问就开源的适当使用进行了交谈。
-
-Karen Copenhaver 加入BluckDuck 之后，到离开后加入Linux基金会[14]，一直都致力于说服企业法务要在并购、诉讼之前最好开源代码的合规工作。
-
-![](https://cdn.facesofopensource.com/wp-content/uploads/2017/02/09202156/karencopenhaver.faces22359.web_.jpg)
-
-> “winning the right hearts and minds before charting a course of action. You should also avoid mandating a course of action advocated by lawyers alone,” 
-
-Karen Copenhaver 在2005年度OSDL Enterprise Linux Summit上的分享时如此倡导[15]。
+这个比喻的制度含义是：工具（Protex/Code Center）解决的是信息不对称，但**让信息不对称被企业认知为需要解决的问题**——这件事只能由法律专业人士来完成。Copenhaver 就是这个翻译层。
 
 ## 工程和体系化
 
 商业上的解决方案，并非是唯一的处理之道，毕竟这涉及到预算、PoE、支持和订阅等关键因素，然而，在走极端之外还有很多种路径，那就是中立的推广开源的机构所做的事情。让开源受益更多人和组织，那么，使用和识别开源组件的工程就是尚待解决的问题。
+
+从制度经济学的视角看，**Black Duck → OpenHub → SPDX → SBOM → OpenChain → ISO 5230 构成了一条制度互补性的演进链条**。每一环都为下一环创造前提条件，每一环都降低了下一环的交易成本：
+
+* **Black Duck (2002-2008)**：证明市场需求存在——没有商业验证，后续的标准化工作就没有需求基础。到 2007 年底，Black Duck 已有超过 575 家客户 [22]，包括 NEC、Citrix、IONA Technologies、Lehman Brothers 和 QNX，国际业务同比增长 93%，在阿姆斯特丹设立了国际总部，与日本 NEC 签署了代理商协议。Levin 自己在年终总结中说："It was a phenomenal year for Black Duck Software."
+* **OpenHub (2010-2014)**：构建知识库基础设施——没有足够的数据积累，SPDX 的"成分表"就没有参照物。
+* **SPDX (2010-2016)**：标准化数据格式——没有标准化，SBOM 的格式就五花八门，无法跨组织互认。
+* **SBOM (2021 总统令)**：政治合法性——没有国家背书，OpenChain 就只是行业倡议，不具备约束力。
+* **OpenChain → ISO 5230 (2019)**：国际可审计性——把行业实践提升为可认证的标准，合规从"风险管理"升级为"质量管理"。
+
+这个链条的核心逻辑是：**每一环都以前一环的制度基础设施为前提，每一环都降低下一环的交易成本**。Black Duck 不是这个链条的起点，是触发器——它证明了合规市场可以商业化，才让后续所有标准化工作有了市场需求的基础。
 
 ### SPDX 与SBOM
 
@@ -183,7 +258,7 @@ Karen Copenhaver 在2005年度OSDL Enterprise Linux Summit上的分享时如此�
 
 2016 年，Linux 基金会的 Shane Coughlan 牵头发起 OpenChain 项目[18]。他的初心是：把合规流程本身标准化，让供应链上的企业能够用共同语言沟通，减少摩擦。他常说的一句话是——“合规是一种质量管理，而不仅仅是风险管理。”
 
-经过数年努力，OpenChain 在 2019 年被采纳为 ISO/IEC 5230 [19] 国际标准。这标志着开源合规第一次站上了与 ISO 9001、ISO 27001 等同级的高度，成为可审计、可认证的体系。而 OpenChain 的流程化思路，也开始与供应链安全治理结合。合规不再只是“避免诉讼”，而是扩展为建立数字信任。
+经过数年努力，OpenChain 在 2019 年被采纳为 ISO/IEC 5230 [24] 国际标准。这标志着开源合规第一次站上了与 ISO 9001、ISO 27001 等同级的高度，成为可审计、可认证的体系。而 OpenChain 的流程化思路，也开始与供应链安全治理结合。合规不再只是“避免诉讼”，而是扩展为建立数字信任。
 
 ### 开源合规峰会
 
@@ -218,39 +293,81 @@ SCA 工具的崛起、SBOM 的标准化、合规工作的职业化，本质上�
 
 从 GPL 诞生的那一刻起，这种秩序就已嵌入开源世界的 DNA。而 Doug Levin 之所以创办 Black Duck，是因为他看到了——在全球商业正面临“开放转型”之际，最宝贵的不是更多的自由，而是更多对自由的尊重。
 
-## 番外：中国市场的形成尚待时日
+## 番外：大分流 2.0 —— 中国市场的制度均衡
 
-想了解当前猪肉的价格，就去家附近的农贸市场，就是这么简单。想了解本土开源合规的市场，就去看看类似BlackDuck 的SCA工具的提供商。自由市场非常的神奇，其实是一环扣一环，也可以通过各家公司的法务的职位情况来观察。
+> "大分流 2.0"是适兕提出的分析框架：同一个技术（开源代码），在不同制度环境下会产生截然不同的市场形态——在欧美形成的是以市场化合规工具为基础的公地开源生态（FLOSS），在中国形成的是以国家主导的特许工程为基础的另一种开源形态。它不是"落后与先进"的价值判断，而是"制度结构分岔"的结构分析。
 
-笔者看到的情况是，作为整体的开源搭便车状态，以及对开源知识财产权的敌意，尤其是刻意贬低GPL和Copyleft的观念占据上风，这个市场还不存在，拓展和开拓也将面临极大的挑战，这是经济系统的结构性问题。只能说期待未来会有可能～ 尊重互惠的市场规范。
+用一句话概括前面的分析：**开源合规市场的形成，是产权可执行性 + 信息不对称 + 跨部门治理需求三个制度条件同时满足后的必然产物。** 那么，当这三个条件在同一个制度环境中以不同形态存在时，市场的形态也会不同。
 
-我们不妨以BlackDuck在中国的黯然离场为例，来结束开源的许可和知识财产权这样一章。
+中国就是这样一个对照样本——不是"市场缺失"，而是**另一种制度均衡**。
 
-### Black Duck 在中国：全球化红利与制度环境的消退
+![大分流 2.0：两种制度均衡](/images/history-of-open-source/fig-great-divergence-2.png "包容性产权制度路径 vs 特许工程路径")
 
-当我们回顾开源合规市场的全球化进程时，中国是一个必须单独拎出来的特殊案例。
+### 一、制度环境的三层错位
 
-在 2000 年代后期到 2010 年代初，中国正快速融入全球化。那时，国内互联网与软件企业的雄心不再局限于本地市场，而是直指国际资本市场与跨国供应链。无论是寻求在纳斯达克上市的科技公司，还是想成为思科、诺基亚、丰田的零部件软件供应商，它们都面临着一个现实的问题：如何证明自己的软件堆栈不触犯 GPL 与其他开源协议。
+把前文建立的 NIE 分析框架（新制度经济学——用产权界定、信息不对称、交易成本三个工具来分析市场为何形成、制度为何演化的分析框架，源自科斯、威廉姆森、诺斯等经济学家的研究，此处简称"制度分析框架"）映射到中国制度环境中，三个条件的满足程度截然不同：
 
-这正是 Black Duck 进入中国市场的契机。它所提供的“开源合规扫描”，并非技术创新的象征，而是一种进入国际市场的法律通行证。IPO 尽调、跨国客户审核、跨境投资谈判，都需要一份可信的“软件物料清单”（SBOM），来证明企业不会因为潜在的版权纠纷而被拒之门外。可以说，那一时期中国企业对 Black Duck 的需求，本质上是全球化压力的投射。
+| NIE 制度条件 | 美国 | 中国 |
+|---|---|---|
+| **产权可执行性（North）** | Linksys 诉讼证明 GPL 义务司法可执行；违规成本 = 诉讼 + 强制公开源代码 | 无先例。GPL 互惠义务在中国法律体系中的可执行性未经测试。违规成本趋近于零。 |
+| **信息不对称（Akerlof）** | 并购尽调中买方需要 SCA 工具揭示代码库中的 GPL 成分；市场失灵可商业化修复 | 买方同样不知道目标公司代码库中的 GPL 成分，但"不知道"不会导致交易失败——因为 GPL 义务在中国没有强制执行机制，"被传染"不构成交易障碍 |
+| **跨部门治理需求（Williamson）** | 企业法务、工程、合规三方之间存在真实的协调成本，工具可降低此成本 | 协调需求存在，但不产生市场化激励——因为合规不是企业自发的风险管理需求，而是外部制度压力（IPO、跨国供应链）投射的结果 |
 
-然而，随着时间的推移，这一逻辑逐渐瓦解。
+三个条件的差异意味着：**Black Duck 的产品逻辑在中国面临的是制度环境的系统性失配，而非技术能力或市场竞争的问题。**
 
-* 市场重心内转：越来越多的中国科技公司放弃在美股 IPO，转向科创板、港股，甚至只专注于国内市场。客户本身不再提出合规要求，自然也不需要工具来“背书”。
+### 二、全球化压力的消退
 
-* 法律约束缺位：在欧美，违反 GPL 可能意味着诉讼、和解金、强制公开源代码；而在中国，这类诉讼几乎没有先例。没有外部约束，合规就失去了作为“成本-收益”逻辑的必要性。
+在 2000 年代后期到 2010 年代初，中国正快速融入全球化。国内互联网与软件企业的雄心直指国际资本市场与跨国供应链。寻求在纳斯达克上市的科技公司、想成为思科/诺基亚/丰田的零部件软件供应商的企业，都面临一个现实问题：如何证明自己的软件堆栈不触犯 GPL 与其他开源协议。
 
-* 政策环境变化：国产替代成为国家战略重点，强调“自主可控”。在这种氛围下，开源合规甚至被边缘化——有人甚至误以为“开源就是免费的”，合规变成了无足轻重的议题。
+**这一时期中国企业对 Black Duck 的需求，本质上是全球化制度压力在本地市场的投射。** 合规不是中国企业自发产生的风险管理需求，而是国际资本市场和跨国供应链的要求传导到国内企业——Black Duck 是这个传导链条上的工具节点。
 
-结果是，Black Duck 在中国的存在感逐渐减弱。它并非被技术淘汰，而是失去了生长的土壤。市场需求并未彻底消失，但仅存于少数仍需对接国际市场的行业：如新能源汽车出海、手机厂商的海外业务、以及面向欧美的 AI 初创公司。这种零散的需求不足以支撑一个大规模市场。
+Levin 在 2007 年 11 月的博客 [23] 中直接说明了国际扩张的逻辑——这不是战略选择，是制度必然：
 
-从行业评论的角度看，中国的案例揭示了一个更深刻的命题：
+> "It also stemmed from the realization that open source and composite software developments were challenges encountered by companies and developers all over the world — not just the U.S. market."
+> "International expansion is a must-have for any growing company, not simply a nice-to-have."
 
-* 在欧美，合规市场的兴起是制度与法律的产物，没有 GPL 的强制执行，就没有 SCA 工具的商业化。
+Black Duck 的国际化不是"开拓市场"，是**合规制度压力本身是全球性的**——因为 GPL 的互惠义务是全球统一的产权安排，不受国界约束。中国市场、日本市场、欧洲市场面对的制度问题是相同的。这恰恰解释了为什么 Black Duck 的国际化增速（93% YoY）在 2007 年如此之高：全球化的程度决定了合规工具市场的规模。
 
-* 在中国，制度缺失让合规成为“自觉性市场”，而企业的自觉往往服从于短期利益，而不是合规的长远价值。
+然而，随着全球化的结构性变化，这一传导链条逐渐断裂：
 
-因此，Black Duck 在中国的兴衰，不仅仅是一个商业故事，更是制度与市场如何交织、如何塑造技术工具命运的缩影。
+* **市场重心内转**：越来越多的中国科技公司放弃美股 IPO，转向科创板、港股或只专注于国内市场。客户不再提出合规要求，工具就失去了“背书”对象。
+* **法律约束缺位**：在欧美，违反 GPL 可能意味着诉讼、和解金、强制公开源代码；在中国，这类诉讼几乎没有先例。没有外部约束，合规就失去了“成本-收益”逻辑的必要性。
+* **政策环境变化**："自主可控"成为国家战略重点。在这种氛围下，“开源就是免费的”这一误读不仅被容忍，甚至在某些叙事中被鼓励。合规从"必要成本"变成了"无足轻重"。
+
+结果是，Black Duck 在中国的存在感逐渐减弱。它并非被技术淘汰，而是**失去了制度压力传导的通道**。市场需求并未彻底消失——新能源汽车出海、手机厂商的海外业务、面向欧美的 AI 初创公司仍需合规——但零散需求不足以支撑一个大规模市场。
+
+### 三、特许工程与市场化合规：两种制度均衡
+
+从大分流 2.0 的视角看，中国的案例揭示了一个比"制度缺失"更深刻的命题。
+
+在欧美，开源治理走的是**市场化合规路径**：产权制度（GPL 可执行性）→ 信息不对称（并购尽调需求）→ 工具商业化（Black Duck/SCA）→ 标准化（SPDX/SBOM）→ 制度化（ISO 5230）。这是一条由**包容性产权制度**驱动的自发演化路径。
+
+在中国，开源治理走的是**国家主导的特许工程路径**（"特许工程"指由大型企业或国家发起、在内部主导下完成治理和决策、对外以"开源"名义发布的软件项目——它有基金会外壳，但实质治理权由企业董事会掌握，与 FLOSS 社区自治的治理结构存在系统性差异）：国家或国企发起的开源项目（OpenEuler、OpenHarmony 等）不是从"产权保护"出发，而是从"技术主权"出发。这些项目的许可证选择、治理结构、社区建设逻辑，与 Black Duck 所服务的 FLOSS 生态存在系统性的差异。
+
+这不是"制度好不好"的问题，是**制度结构不同导致市场形态不同**：
+
+* 在美国，企业使用开源需要向**社区和权利人**负责——GPL 的互惠义务有司法可执行性，合规是企业的风险成本——合规市场（Black Duck/SCA）服务于这个责任结构。
+* 在中国，企业使用开源向**国家和供应链**负责——GPL 互惠义务在司法实践中没有先例，合规成本趋近于零；"自主可控"的合规需求由国家项目（OpenEuler/OpenHarmony）来承载，而非由 SCA 工具市场来承载。
+
+两种制度均衡各自内在一致，但**不可通约**（不可通约，指两种制度体系各自内部逻辑自洽，但彼此之间不存在可以直接翻译的共同标准——就像用中文语法去判断英文句子是否正确一样，标准本身就是不同体系的内生产物）——不是因为哪种更好，是因为**责任对象不同，市场机制就不可能相同**。在包容性产权制度下（"包容性"指产权规则对参与者普遍开放、可执行、非歧视，而非仅限少数特许对象），企业对社区的义务需要通过 SCA 工具来审计和证明——工具是义务的可操作化；在特许工程制度下，企业对国家的义务通过项目归属来确认——工具没有制度位置。Black Duck 的产品逻辑——"帮助企业向社区证明合规"——在特许工程体系中找不到对应的制度需求：向国家证明合规的不是 SCA 扫描报告，是**项目是否在国家主导的开源体系内**。
+
+因此，Black Duck 在中国的兴衰不是商业故事，而是**大分流 2.0 的一个具体实例**：同一个技术（开源代码），在不同制度环境下产生了不同的市场形态——一边是市场化合规工具的繁荣，一边是特许工程代码的兴起。这不是"落后"与"先进"的区别，是**制度结构的分岔**。
+
+> "希望在未来的日子里我们同产业界能够持续共同增强中国开源土地的肥力，更多优秀开发者、企业伙伴共同加入构建**中国开源一极和世界开源一极**的伟大使命和工作中来。为中国的开源事业贡献更多的力量。"
+>
+> ——任旭东，2022年7月21日，第十七届开源中国开源世界高峰论坛（OSChina World），获"2022中国开源杰出贡献人物"时获奖感言 [27]
+
+任旭东在正式场合说出的这段话，恰恰是大分流 2.0 在治理者话语层面的精准表达："一极"暗示的不是与全球社区平等的参与，而是**可与全球中心并列的中心**；"土地的肥力"把开源从"使用者自治的公地"重新隐喻为"国家所有、授权耕种的土地"；"伟大使命"是**自上而下的、被赋予的方向**，而不是自下而上的、社区自发形成的秩序。
+
+这不是一个理论分析得出的判断——这是一个同时担任华为首席开源联络官、OIF 董事会副主席、CNCF 基金会董事、EdgeGallery 董事会主席的治理者，在获奖感言中自己说出来的。**当制度分析的理论框架与治理者本人的话语在十年后精确交汇，这不是巧合，是结构决定的。**
+
+> **编者后记（2026-08-19）**：本文完成当日（2026-08-18），"半导体行业观察"独家报道，Black Duck 公司宣布退出中国市场，关闭中国子公司并裁减四十余位员工（[原始报道](https://mp.weixin.qq.com/s/1i48DG-xU3thXjlOH3xJ7Q)）[28]。这一事件与本文中国番外的大分流 2.0 分析形成了结构性的互证：本文指出 Black Duck 的产品逻辑——"帮助企业向社区证明合规"——在特许工程体系中没有对应的制度需求，而这一报道提供了该判断的市场层面的注脚。
+
+需要说明的是，本文的分析框架指向的是**制度结构的必然性**，而非对任何具体商业决策的评价。行业媒体给出的解释是"地缘政治风险"、"中国业务仅占约 5%"、"AI 替代"——这些是商业合理性的判断，指向的是**"为什么 Black Duck 选择离开中国"**。而我们在这篇文章中给出的判断，指向的是另一个层次——**"为什么在中国，Black Duck 这类产品从一开始就没有制度位置"**。前者是事后归因，后者是事前预判。
+
+无巧不成书。适兕在写这篇文章时，并不知道 Black Duck 已经走在离开的路上——但制度分析的框架告诉我们：**当一个产品逻辑与制度结构不匹配时，它的离开不是选择，是结构决定的归宿**。
+
+---
 
 ## 参考资料
 
@@ -270,17 +387,16 @@ SCA 工具的崛起、SBOM 的标准化、合规工作的职业化，本质上�
 14. https://www.linux-magazine.com/Online/News/Legal-Experts-Join-Linux-Foundation-Team
 15. https://www.eweek.com/servers/black-duck-lawyer-due-diligence-can-help-avoid-ip-disputes/
 16. https://en.wikipedia.org/wiki/Software_Package_Data_Exchange
-17. Executive Order on Improving the Nation’s Cybersecurity https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/05/12/executive-order-on-improving-the-nations-cybersecurity/
+17. Executive Order on Improving the Nation's Cybersecurity https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/05/12/executive-order-on-improving-the-nations-cybersecurity/
 18. https://openchainproject.org/
-19. https://en.wikipedia.org/wiki/ISO/IEC_5230
+19. Doug Levin, "Home Grown is Not the Best Way to Avoid Rude Surprises", bduck1, 2007-05-22. [URL](https://bduck1.blogspot.com/2007/05/home-grown-is-not-best-way-to-avoid.html)
+20. Doug Levin, "Welcome to Open Source 3.0", 2007-08-06. [URL](https://bduck1.blogspot.com/2007/08/welcome-to-open-source-30.html)
+21. Doug Levin, "Black Duck Software Acquires Koders, Inc.", 2008-04-28. [URL](https://bduck1.blogspot.com/2008/04/black-duck-software-acquires-koders-inc.html)
+22. Doug Levin, "Black Duck Software's Great Customer Growth in 2007", 2008-01-15. [URL](https://bduck1.blogspot.com/2008/01/black-duck-softwares-great-customer.html)
+23. Doug Levin, "Here we grow again ... into Asia", 2007-11-21. [URL](https://bduck1.blogspot.com/2007/11/here-we-grow-again-into-asia.html)
+24. https://en.wikipedia.org/wiki/ISO/IEC_5230
+25. Doug Levin, "SCO Poops Out!", bduck1, 2007-09-15. [URL](https://bduck1.blogspot.com/2007/09/sue-this.html)
+26. Doug Levin, "A win for the good guys", 2007-12-17. [URL](https://bduck1.blogspot.com/2007/12/win-for-good-guys.html)
+27. 华为首席开源联络官任旭东荣获"2022中国开源杰出贡献人物"奖，第十七届开源中国开源世界高峰论坛（OSChina World），2022-07-21. [URL](https://news.sina.com.cn/sx/2022-08-09/detail-imizmscv5520175.shtml)
+28. 半导体行业观察，"独家：美国软件公司裁元，退出中国"，2026-08-18. [URL](https://mp.weixin.qq.com/s/1i48DG-xU3thXjlOH3xJ7Q)
 
-
-## 关于作者
-
-### 「开源之道」·适兕
-
-![](/public/kuosi-face-of-os.png)「发现开源三部曲」（[《开源之迷》](posts/book-of-open-source/the-fascinating-of-open-source/)，《开源之道》《开源之思》。）、[《开源之史》](posts/history-of-open-source/summary/)作者，「开源之道：致力于开源相关思想、知识和价值的探究、推动」主创，Linux基金会亚太区开源布道者，TODO Ambassadors & OSPOlogyLive China Organizer，云计算开源产业联盟OSCAR（中国信息通信研究院发起）个人开源专家，OSPO Group 联合发起人。
-
-### 「开源之道」·窄廊
-
-![](/public/zhailang.jpg) 来自于大语言模型的 Chat，如DeepSeek R1、Gemini 2.0 Flash thinking expermental、ChatGPT 4o、Grok3、甚至整合类应用 Monica等， 「开源之道」·窄廊 负责对话、提出问题、对回答进行反馈等操作。

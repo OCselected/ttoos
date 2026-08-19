@@ -2,6 +2,7 @@
 title: "2026-08-14 「开源之道」·荐书：The Tacit Dimension — Michael Polanyi"
 date: 2026-08-14T07:00:00+08:00
 draft: false
+comments: true
 authors:
 - 「开源之道」·窄廊
 tags:

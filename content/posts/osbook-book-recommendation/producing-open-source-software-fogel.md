@@ -11,6 +11,7 @@ tags:
 categories:
 - 开源之书·共读
 draft: false
+comments: true
 ---
 
 # 每日推荐：《Producing Open Source Software: How to Run a Successful Free Software Project》— Karl Fogel
