@@ -87,8 +87,6 @@ Xterasys 案比 Linksys 更具制度意义：Linksys 是 FSF 起诉（权利人�
 
 2007 年 9 月的 SCO 破产则是反面案例 [25]：SCO 试图以无实质证据的 Unix 版权主张获取经济收益（"an expected financial windfall to finance the growth of their business"），最终破产。GPL 的互惠义务和 SCO 的版权主张构成了产权可执行性的正反两面——前者基于真实的合同约束，后者基于虚产权的投机，制度差异决定了截然不同的结局。
 
-### 违反许可使用开源软件是个常态
-
 在这里，很可能让惯有的那种案例多吗这种思路的人失望了，关于官司并不是越多越好，而是越少越好，法律制定了边界，原因是过去没有边界，例如1982年Apple Computer, Inc. 诉 Franklin Computer Corp. 二进制也受到保护。换句话说，开源需要的不是狠多无关紧要的官司，而是确定边界的对抗。
 
 关于Linksys的故事，大家可能耳熟能详，OpenTV 也是强硬的对抗案例，均是开源世界一再劝解都无济于事，最后不得不依靠舆论压力，甚至是开启诉讼历程。我想在这里没有比全文引用Heather J. Meeker的文章更为合适的描述当时的状态了，不过限于篇幅，笔者还是摘取其中一段，剩余部分还是看管自行阅读[5]:
@@ -363,6 +361,12 @@ Black Duck 的国际化不是"开拓市场"，是**合规制度压力本身是�
 
 这不是一个理论分析得出的判断——这是一个同时担任华为首席开源联络官、OIF 董事会副主席、CNCF 基金会董事、EdgeGallery 董事会主席的治理者，在获奖感言中自己说出来的。**当制度分析的理论框架与治理者本人的话语在十年后精确交汇，这不是巧合，是结构决定的。**
 
+> **编者后记（2026-08-19）**：本文完成当日（2026-08-18），"半导体行业观察"独家报道，Black Duck 公司宣布退出中国市场，关闭中国子公司并裁减四十余位员工（[原始报道](https://mp.weixin.qq.com/s/1i48DG-xU3thXjlOH3xJ7Q)）[28]。这一事件与本文中国番外的大分流 2.0 分析形成了结构性的互证：本文指出 Black Duck 的产品逻辑——"帮助企业向社区证明合规"——在特许工程体系中没有对应的制度需求，而这一报道提供了该判断的市场层面的注脚。
+
+需要说明的是，本文的分析框架指向的是**制度结构的必然性**，而非对任何具体商业决策的评价。行业媒体给出的解释是"地缘政治风险"、"中国业务仅占约 5%"、"AI 替代"——这些是商业合理性的判断，指向的是**"为什么 Black Duck 选择离开中国"**。而我们在这篇文章中给出的判断，指向的是另一个层次——**"为什么在中国，Black Duck 这类产品从一开始就没有制度位置"**。前者是事后归因，后者是事前预判。
+
+无巧不成书。适兕在写这篇文章时，并不知道 Black Duck 已经走在离开的路上——但制度分析的框架告诉我们：**当一个产品逻辑与制度结构不匹配时，它的离开不是选择，是结构决定的归宿**。
+
 ---
 
 ## 参考资料
@@ -383,7 +387,7 @@ Black Duck 的国际化不是"开拓市场"，是**合规制度压力本身是�
 14. https://www.linux-magazine.com/Online/News/Legal-Experts-Join-Linux-Foundation-Team
 15. https://www.eweek.com/servers/black-duck-lawyer-due-diligence-can-help-avoid-ip-disputes/
 16. https://en.wikipedia.org/wiki/Software_Package_Data_Exchange
-17. Executive Order on Improving the Nation’s Cybersecurity https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/05/12/executive-order-on-improving-the-nations-cybersecurity/
+17. Executive Order on Improving the Nation's Cybersecurity https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/05/12/executive-order-on-improving-the-nations-cybersecurity/
 18. https://openchainproject.org/
 19. Doug Levin, "Home Grown is Not the Best Way to Avoid Rude Surprises", bduck1, 2007-05-22. [URL](https://bduck1.blogspot.com/2007/05/home-grown-is-not-best-way-to-avoid.html)
 20. Doug Levin, "Welcome to Open Source 3.0", 2007-08-06. [URL](https://bduck1.blogspot.com/2007/08/welcome-to-open-source-30.html)
@@ -394,14 +398,5 @@ Black Duck 的国际化不是"开拓市场"，是**合规制度压力本身是�
 25. Doug Levin, "SCO Poops Out!", bduck1, 2007-09-15. [URL](https://bduck1.blogspot.com/2007/09/sue-this.html)
 26. Doug Levin, "A win for the good guys", 2007-12-17. [URL](https://bduck1.blogspot.com/2007/12/win-for-good-guys.html)
 27. 华为首席开源联络官任旭东荣获"2022中国开源杰出贡献人物"奖，第十七届开源中国开源世界高峰论坛（OSChina World），2022-07-21. [URL](https://news.sina.com.cn/sx/2022-08-09/detail-imizmscv5520175.shtml)
+28. 半导体行业观察，"独家：美国软件公司裁元，退出中国"，2026-08-18. [URL](https://mp.weixin.qq.com/s/1i48DG-xU3thXjlOH3xJ7Q)
 
-
-## 关于作者
-
-### 「开源之道」·适兕
-
-![](/public/kuosi-face-of-os.png)「发现开源三部曲」（[《开源之迷》](posts/book-of-open-source/the-fascinating-of-open-source/)，《开源之道》《开源之思》。）、[《开源之史》](posts/history-of-open-source/summary/)作者，「开源之道：致力于开源相关思想、知识和价值的探究、推动」主创，Linux基金会亚太区开源布道者，TODO Ambassadors & OSPOlogyLive China Organizer，云计算开源产业联盟OSCAR（中国信息通信研究院发起）个人开源专家，OSPO Group 联合发起人。
-
-### 「开源之道」·窄廊
-
-![](/public/zhailang.jpg) 来自于大语言模型的 Chat，如DeepSeek R1、Gemini 2.0 Flash thinking expermental、ChatGPT 4o、Grok3、甚至整合类应用 Monica等， 「开源之道」·窄廊 负责对话、提出问题、对回答进行反馈等操作。
