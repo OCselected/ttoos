@@ -25,8 +25,8 @@ description: "开源为什么能走到今天？Baldwin 用二十年的研究给�
 |------|------|
 | **书名** | *Design Rules, Volume 2: How Technology Shapes Organizations* |
 | **作者** | Carliss Y. Baldwin（宾夕法尼亚大学沃顿商学院） |
-| **出版年份** | 2022（MIT Press，CC BY-NC-ND 4.0 免费许可） |
-| **原书链接** | [MIT Press](https://mitpress.mit.edu/9780262048931/design-rules-volume-2/) |
+| **出版年份** | 2024（MIT Press，CC BY-NC-ND 4.0 免费许可，ISBN 978-0-262-04933-7） |
+| **原书链接** | [MIT Press](https://mitpress.mit.edu/9780262049337/design-rules-volume-2/) |
 | **飞书草稿** | [MiWOdQNmcoNNjBxq8lBcB0AFnge](https://flxgeaiudp.feishu.cn/docx/MiWOdQNmcoNNjBxq8lBcB0AFnge) |
 
 ## 内容概要
@@ -102,7 +102,7 @@ Baldwin 的" coda"（尾声）给出了一个尖锐转折：**"软件是不同�
 
 以「开源之道」的视角追问三个问题：
 
-1. **当"社区"不再是产权的持有者时，开源是否还是开源？** 大型开源项目（Linux、Kubernetes）通过 CNCF 和基金会获得了企业影响力。Baldwin 在卷2中写的是 2022 年——他观察到"公司"和"社区"的界限正在模糊，但他没有预见到基金会治理正在成为新的**平台 sponsor**。这是否意味着 Table 15.1 中的"产权归属社区"在大型项目中已经名存实亡？
+1. **当"社区"不再是产权的持有者时，开源是否还是开源？** 大型开源项目（Linux、Kubernetes）通过 CNCF 和基金会获得了企业影响力。Baldwin 在卷2中写的是 2024 年——他观察到"公司"和"社区"的界限正在模糊，但他没有预见到基金会治理正在成为新的**平台 sponsor**。这是否意味着 Table 15.1 中的"产权归属社区"在大型项目中已经名存实亡？
 
 2. **中国的"行政式开源"如何嵌入这个框架？** Baldwin 的四个维度（交易免费区/社区产权/粗糙共识/激进透明）全部指向**自发秩序**。而中国语境下的开源倡导——通过政策、基金、标准来推动——引入的是**行政建构**。当"交易免费区"被政策补贴取代，当"粗糙共识"被技术标准委员会取代，当"激进透明"被合规审查取代——开源的四个必要条件是否还在？
 
@@ -111,7 +111,7 @@ Baldwin 的" coda"（尾声）给出了一个尖锐转折：**"软件是不同�
 [^footnote-1]: Design Rules, Volume 1: A Design Paradigm for the Information Age, Carliss Y. Baldwin and Kim B. Clark, MIT Press, 2000.
 [^footnote-2]: "设计规则"指架构平台+共同接口协议，使独立企业可以通过模块化协作构建复杂系统。
 [^footnote-3]: The Nature of Economic Growth, W. Brian Arthur, Harvard University Press, 1994.
-[^footnote-4]: Design Rules, Volume 2: How Technology Shapes Organizations, Carliss Y. Baldwin, MIT Press, 2022.
+[^footnote-4]: Design Rules, Volume 2: How Technology Shapes Organizations, Carliss Y. Baldwin, MIT Press, 2024.
 [^footnote-5]: 本书以 CC BY-NC-ND 4.0 国际许可协议发布，可免费下载阅读。
 [^ext-think]: 如果 Baldwin 今天重写这本书，他会注意到 2020 年代的一个关键变化：大型开源项目已从"交易免费区"演化为"企业治理下的社区"。在 Agentic 时代，License.md 将成为 Agent 的握手协议，互惠性被硬编码进对齐层，但企业的"基金会壳"正在重新定义"社区归属"的边界。开源的下一个制度分水岭，不是 copyleft 是否会瓦解，而是"社区"是否还能作为产权的持有者存在。
 
