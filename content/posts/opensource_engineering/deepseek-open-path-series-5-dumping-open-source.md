@@ -346,7 +346,7 @@ Hermes Agent 的答案是：可以——通过 PR、通过 AGENTS.md 的贡献�
 >
 > 制度结构下的事件，果然会出现。这本来就是研究者的立场。
 >
-> 详见 [系列之八草稿：rc.8 收编社区插件的制度分析](https://github.com/lijiangsheng1/open-source-way-wiki/blob/main/raw/articles/harness-rc8-institutional-analysis.md)。
+> 详见原微信公众号文章：[MJ的AI生活，"我给 DeepSeek Harness 写插件，官方更新rc.8顺手把我撞了"](https://mp.weixin.qq.com/s/mdXrkTfamyPbTqp3gRE9kg)（2026-08-20）。两个开源插件的 GitHub 仓库：[dsh-media-skills](https://github.com/MJorgin/dsh-media-skills)（智谱 GLM-4V-Flash / 阿里 Qwen3-VL / Gemini 三引擎视觉容错 + Kolors 生图）、[dsh-agent-conductor](https://github.com/MJorgin/dsh-agent-conductor)（11 种外部 agent CLI 的零安装注册）。
 
 ## 关于作者
 
