@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800" width="600" height="800">
+<defs>
+<filter id="s" x="-5%" y="-5%" width="110%" height="110%">
+  <feDropShadow dx="2" dy="4" stdDeviation="6" flood-color="#1A1A1A" flood-opacity="0.06"/>
+</filter>
+</defs>
+<rect width="600" height="800" rx="10" fill="#F5F0E8" filter="url(#s)"/>
+<rect x="0" y="0" width="600" height="5" fill="#1B3B6B"/>
+<rect x="0" y="795" width="600" height="4" fill="#1B3B6B"/>
+
+<!-- ===== 左侧内容区 (0-390) ===== -->
+<rect x="30" y="65" width="62" height="22" rx="3" fill="#1B3B6B"/>
+<text x="61" y="80" text-anchor="middle" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="2" fill="#FFFFFF">BOOK</text>
+<text x="560" y="80" text-anchor="end" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="9" fill="#555555" opacity="0.5">2026-08-23</text>
+
+<text x="30" y="130" font-family="Georgia, Songti SC, serif" font-size="24" font-weight="700" fill="#1A1A1A">
+  <tspan x="30" dy="0">The Wisdom</tspan>
+  <tspan x="30" dy="30">of Crowds</tspan>
+</text>
+<text x="30" y="204" font-family="Songti SC, Noto Serif CJK SC, STSong, serif" font-size="16" font-weight="600" fill="#1A1A1A">
+  <tspan x="30" dy="0">群体的智慧</tspan>
+</text>
+<text x="30" y="238" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="12" fill="#555555">James Surowiecki · Doubleday · 2004</text>
+<line x1="30" y1="256" x2="250" y2="256" stroke="#1B3B6B" stroke-width="1.5" opacity="0.25"/>
+
+<text x="30" y="282" font-family="-apple-system, PingFang SC, Helvetica Neue, Noto Sans CJK SC, Microsoft YaHei, Arial, sans-serif" font-size="11" fill="#1A1A1A">
+  <tspan x="30" dy="0">Surowiecki 用一船鲸鱼、一场选</tspan>
+  <tspan x="30" dy="19">举、一桌综艺竞猜，论证了一个</tspan>
+  <tspan x="30" dy="19">反直觉的命题：分散的、独立的</tspan>
+  <tspan x="30" dy="19">、多样化的群体，其集体判断可</tspan>
+  <tspan x="30" dy="19">以胜过单一专家。但前提并非"多</tspan>
+  <tspan x="30" dy="19">数即真理"——群体只在四项条件</tspan>
+  <tspan x="30" dy="19">同时满足时才变得聪明。</tspan>
+</text>
+
+<rect x="30" y="490" width="90" height="18" rx="2" fill="#1A1A1A" opacity="0.04"/>
+<text x="75" y="503" text-anchor="middle" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="9" font-weight="700" fill="#555555">KEY IDEAS</text>
+<text x="30" y="536" font-family="-apple-system, PingFang SC, Helvetica Neue, Noto Sans CJK SC, Microsoft YaHei, Arial, sans-serif" font-size="11" fill="#1A1A1A">
+  <tspan x="30" dy="0">• 信息多样性（Information Diversity）</tspan>
+  <tspan x="30" dy="18">• 个体独立判断，不互相污染</tspan>
+  <tspan x="30" dy="18">• 去中心化：本地知识优于专家垄断</tspan>
+  <tspan x="30" dy="18">• 聚合机制：从分散判断到集体答案</tspan>
+</text>
+
+<!-- ===== 右侧装饰区 (390-570) ===== -->
+<line x1="390" y1="60" x2="390" y2="740" stroke="#1B3B6B" stroke-width="0.5" opacity="0.08"/>
+
+<circle cx="490" cy="190" r="70" fill="none" stroke="#1B3B6B" stroke-width="1" opacity="0.07"/>
+<circle cx="490" cy="190" r="50" fill="none" stroke="#1B3B6B" stroke-width="0.5" opacity="0.06"/>
+<circle cx="490" cy="190" r="28" fill="#1B3B6B" opacity="0.04"/>
+<circle cx="490" cy="190" r="6" fill="#1B3B6B" opacity="0.15"/>
+
+<rect x="440" y="320" width="9" height="9" fill="#1B3B6B" opacity="0.08" transform="rotate(45, 444, 324)"/>
+<rect x="462" y="342" width="6" height="6" fill="#1B3B6B" opacity="0.06" transform="rotate(45, 465, 345)"/>
+<rect x="482" y="310" width="10" height="10" fill="#1B3B6B" opacity="0.05" transform="rotate(45, 487, 315)"/>
+<rect x="450" y="362" width="7" height="7" fill="#1B3B6B" opacity="0.07" transform="rotate(45, 453, 365)"/>
+<rect x="495" y="348" width="5" height="5" fill="#1B3B6B" opacity="0.06" transform="rotate(45, 497, 350)"/>
+
+<text x="415" y="440" font-family="Georgia, Songti SC, serif" font-size="10" fill="#1A1A1A" opacity="0.3">
+  <tspan x="415" dy="0">"</tspan>
+</text>
+<text x="415" y="452" font-family="-apple-system, PingFang SC, Helvetica Neue, Noto Sans CJK SC, Microsoft YaHei, Arial, sans-serif" font-size="9" fill="#555555">
+  <tspan x="415" dy="0">独</tspan>
+  <tspan x="415" dy="16">立</tspan>
+  <tspan x="415" dy="16">性</tspan>
+  <tspan x="415" dy="16">、</tspan>
+  <tspan x="415" dy="16">多</tspan>
+  <tspan x="415" dy="16">样</tspan>
+  <tspan x="415" dy="16">性</tspan>
+  <tspan x="415" dy="16">、</tspan>
+  <tspan x="415" dy="16">去</tspan>
+  <tspan x="415" dy="16">中</tspan>
+  <tspan x="415" dy="16">心</tspan>
+  <tspan x="415" dy="16">化</tspan>
+  <tspan x="415" dy="16">、</tspan>
+  <tspan x="415" dy="16">聚</tspan>
+  <tspan x="415" dy="16">合</tspan>
+  <tspan x="415" dy="16">—</tspan>
+  <tspan x="415" dy="16">—</tspan>
+  <tspan x="415" dy="16">群</tspan>
+  <tspan x="415" dy="16">体</tspan>
+  <tspan x="415" dy="16">智</tspan>
+  <tspan x="415" dy="16">慧</tspan>
+  <tspan x="415" dy="16">的</tspan>
+  <tspan x="415" dy="16">四</tspan>
+  <tspan x="415" dy="16">项</tspan>
+  <tspan x="415" dy="16">前</tspan>
+  <tspan x="415" dy="16">提</tspan>
+</text>
+
+<text x="415" y="690" font-family="Georgia, Songti SC, serif" font-size="10" fill="#1A1A1A" opacity="0.3">
+  <tspan x="415" dy="0">"</tspan>
+</text>
+
+<rect x="415" y="700" width="150" height="28" rx="2" fill="none" stroke="#1B3B6B" stroke-width="0.5" opacity="0.4"/>
+<text x="490" y="718" text-anchor="middle" font-family="Songti SC, Noto Serif CJK SC, STSong, serif" font-size="10" fill="#1B3B6B" opacity="0.7">「开源之道」·荐书</text>
+
+</svg>

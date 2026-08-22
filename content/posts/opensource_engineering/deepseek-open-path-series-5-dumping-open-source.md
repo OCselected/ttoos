@@ -332,6 +332,21 @@ Hermes Agent 的答案是：可以——通过 PR、通过 AGENTS.md 的贡献�
 [^sohu-harness]: 搜狐科技, 《黑熊出水 DeepSeek Harness 开发者预览版上线》, 2026-08-13
 [^dsh-chronicle]: DeepSeek Harness 开发编年史, https://dsh-chronicle-duv8yxo8n-tsonglews-projects.vercel.app/
 
+---
+
+> **跟踪与验证（2026-08-20 更新）**
+>
+> 本文发表于 2026-08-13，指出 DeepSeek Harness 的核心结构判断是："衡量开源的不是许可证/star/插件接口，而是外部贡献者能否改变项目方向"。
+>
+> 2026-08-20，DSH 发布 v0.1.0-rc.8，社区开发者 MJ 的两个独立插件——dsh-media-skills（图片读取）和 dsh-agent-conductor（外部 agent 派活）——恰好被官方在主版本中做了相同的实现，官方收编了 Claude Code 和 Codex 两个最主流的代理。
+>
+> 这个事件与本文的预判形成了结构性的互证：社区贡献者证明了需求是真的，官方不需要"合并"或"改变方向"，只需要把已验证的需求做进主版本。社区插件贡献者因此失去了议价权——他们的角色从"改变项目方向的人"降为"免费的市场验证者"。
+>
+> MJ 自己的反思是产品化的："跑得比官方快半拍，或者钻到官方顾不着的地方。"——这恰恰印证了本文的判断：当项目不接受外部 PR 时，"跑得比官方快"这个要求本身就是制度不对等的证明。
+>
+> 制度结构下的事件，果然会出现。这本来就是研究者的立场。
+>
+> 详见原微信公众号文章：[MJ的AI生活，"我给 DeepSeek Harness 写插件，官方更新rc.8顺手把我撞了"](https://mp.weixin.qq.com/s/mdXrkTfamyPbTqp3gRE9kg)（2026-08-20）。两个开源插件的 GitHub 仓库：[dsh-media-skills](https://github.com/MJorgin/dsh-media-skills)（智谱 GLM-4V-Flash / 阿里 Qwen3-VL / Gemini 三引擎视觉容错 + Kolors 生图）、[dsh-agent-conductor](https://github.com/MJorgin/dsh-agent-conductor)（11 种外部 agent CLI 的零安装注册）。
 
 ## 关于作者
 
