@@ -1,71 +1,8 @@
-<!-- Newsletter subscription form -->
-<form
-  action="https://buttondown.email/api/emails/embed-subscribe/jiansheng"
-  method="post"
-  target="popupwindow"
-  onsubmit="window.open('https://buttondown.email/jiansheng', 'popupwindow')"
-  class="embeddable-buttondown-form newsletter-form"
->
-  <label for="bd-email"><strong>📬 订阅「开源之道」周报</strong></label>
-  <p class="newsletter-desc">每周精选本周论文速递、深度分析和生态动态，直投邮箱。</p>
-  <div class="newsletter-input-row">
-    <input type="email" name="email" id="bd-email" placeholder="you@example.com" required class="newsletter-input"/>
-    <input type="submit" value="订阅" class="newsletter-btn"/>
-  </div>
-</form>
-
-<style>
-.newsletter-form {
-  margin: 2em 0 1em;
-  padding: 1.5em;
-  border: 1px solid var(--border);
-  border-radius: 6px;
-  background: var(--entry);
-}
-.newsletter-form label {
-  display: block;
-  font-size: 1.1em;
-  margin-bottom: 0.4em;
-}
-.newsletter-desc {
-  font-size: 0.9em;
-  color: var(--secondary);
-  margin: 0 0 1em 0;
-  line-height: 1.5;
-}
-.newsletter-input-row {
-  display: flex;
-  gap: 0.5em;
-  flex-wrap: wrap;
-}
-.newsletter-input {
-  flex: 1;
-  min-width: 200px;
-  padding: 0.6em 1em;
-  border: 1px solid var(--border);
-  border-radius: 4px;
-  font-size: 0.95em;
-  background: var(--theme);
-  color: var(--primary);
-}
-.newsletter-btn {
-  padding: 0.6em 1.5em;
-  border: none;
-  border-radius: 4px;
-  background: var(--primary);
-  color: var(--theme);
-  font-size: 0.95em;
-  cursor: pointer;
-  transition: opacity 0.2s;
-}
-.newsletter-btn:hover {
-  opacity: 0.85;
-}
-</style>
-
-<!-- Feed icon -->
-<div class="feed-links" style="margin-top: 1.5em; font-size: 0.9em;">
-  <span style="color: var(--secondary);">📡 也可通过 </span>
-  <a href="{{ "index.xml" | absURL }}" target="_blank">RSS 订阅</a>
-  <span style="color: var(--secondary);"> 获取更新</span>
+<!-- Footer: RSS feed link -->
+<div class="feed-links" style="margin-top: 1em; font-size: 0.9em; text-align: center;">
+  <span style="color: var(--secondary);">
+    <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle;" aria-label="RSS"><path d="M4 11a9 9 0 0 1 9-9"/><path d="M4 4a16 16 0 0 1 16 16"/><circle cx="4" cy="20" r="1"/></svg>
+    &nbsp; 更新订阅：
+  </span>
+  <a href="{{ "index.xml" | absURL }}" target="_blank">RSS Feed</a>
 </div>

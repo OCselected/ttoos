@@ -24,7 +24,7 @@ enableRobotsTXT = true
       [[languages.zh.menus.main]]
         identifier = "reading"
         name = "📚 共读"
-        url = "https://osbook.club"
+        url = "https://osbook.opensourceway.blog/"
         weight = 3
       [[languages.zh.menus.main]]
         identifier = "works"
@@ -51,6 +51,12 @@ enableRobotsTXT = true
         name = "🎙️ 对话"
         url = "/posts/osw-dialogue/introduce-open-source-way-dialogue/"
         weight = 9
+      [[languages.zh.menus.main]]
+        identifier = "rss"
+        name = ""
+        pre = '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-label="RSS"><path d="M4 11a9 9 0 0 1 9-9"/><path d="M4 4a16 16 0 0 1 16 16"/><circle cx="4" cy="20" r="1"/></svg>'
+        url = "/index.xml"
+        weight = 12
       [[languages.zh.menus.main]]
         identifier = "search"
         name = "🔍 搜索"
