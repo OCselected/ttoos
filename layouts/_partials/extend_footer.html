@@ -1,7 +1,12 @@
 <!-- Footer: RSS feed link -->
 <div class="feed-links" style="margin-top: 1em; font-size: 0.9em; text-align: center;">
   <span style="color: var(--secondary);">
-    <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle;" aria-label="RSS"><path d="M4 11a9 9 0 0 1 9-9"/><path d="M4 4a16 16 0 0 1 16 16"/><circle cx="4" cy="20" r="1"/></svg>
+    <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" aria-label="RSS" style="vertical-align: middle;">
+      <rect x="0.5" y="0.5" width="23" height="23" rx="2" fill="#FF6600"/>
+      <circle cx="8" cy="16" r="1.5" fill="#FFFFFF"/>
+      <path d="M12 16a5 5 0 0 0-5-5" stroke="#FFFFFF" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+      <path d="M16 16a9 9 0 0 0-9-9" stroke="#FFFFFF" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+    </svg>
     &nbsp; 更新订阅：
   </span>
   <a href="{{ "index.xml" | absURL }}" target="_blank">RSS Feed</a>
