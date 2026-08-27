@@ -1,6 +1,6 @@
 ---
 title: "2026-08-28  「开源之道」·荐书：Organizations — Scott & Davis"
-date: 2026-08-28T07:30:00+08:00
+date: 2026-08-28T05:20:27+08:00
 draft: false
 comments: true
 authors:
