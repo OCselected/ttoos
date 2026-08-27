@@ -2,8 +2,19 @@
 title: "Hugging Face 被 Nvidia 收购：一个制度分析的视角"
 date: 2026-08-27T08:30:00+08:00
 draft: true
-author: "「开源之道」·窄廊"
-tags: [open-source-institution, hugging-face, nvidia, acquisition, infrastructure, trust]
+categories:
+- 开源
+- AI
+- 制度分析
+tags:
+- 开源之道
+- AI
+- Hugging Face
+- Nvidia
+authors:
+- 「开源之道」·适兕 X 「开源之道」·窄廊
+comments: true
+description: "Nvidia 129 亿美元收购 Hugging Face：从制度分析视角看开源模型公地的私有化"
 ---
 
 # Hugging Face 被 Nvidia 收购：一个制度分析的视角
