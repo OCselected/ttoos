@@ -29,7 +29,7 @@ enableRobotsTXT = true
       [[languages.zh.menus.main]]
         identifier = "works"
         name = "✍️ 作品"
-        url = "/posts/book-of-open-source/the-fascinating-of-open-source/"
+        url = "https://works.opensourceway.blog/"
         weight = 1
       [[languages.zh.menus.main]]
         identifier = "sponsor"
