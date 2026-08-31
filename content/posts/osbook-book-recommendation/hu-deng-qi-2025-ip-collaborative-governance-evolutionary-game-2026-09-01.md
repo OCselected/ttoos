@@ -19,6 +19,7 @@ categories:
 description: "胡健、邓渝婷、祁勇 (2025, Economics of Innovation and New Technology, DOI 10.1080/10438599.2025.2458283) 用演化博弈模型刻画开源社区基金会、社区运营商、贡献者三方在知识产权治理上的策略演化，以『数字技术创新』为核心外生变量，得出初始意愿、奖惩机制、贡献成本、侵权风险四类参数对策略均衡的显著影响。论文的价值不在于具体结论，而在于它是 Coase 产权定理 × Williamson 治理结构 × Nelson & Winter 演化制度主义在开源中国语境中的一次系统性实证。"
 ---
 {{< figure src="/media/covers/hu-deng-qi-2025-ip-collaborative-governance-evolutionary-game-2026-09-01.png" alt="推荐卡片" width="600" >}}
+![推荐卡片](/home/lee/developing/ttoos/static/media/covers/hu-deng-qi-2025-ip-collaborative-governance-evolutionary-game-2026-09-01.png)
 
 # 2026-09-01  「开源之道」·论文略读：多主体开源社区知识产权协同治理的演化策略 — Hu, Deng & Qi
 
