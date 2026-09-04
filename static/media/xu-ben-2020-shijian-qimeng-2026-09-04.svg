@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2000" height="1200" viewBox="0 0 2000 1200" font-family="Georgia, 'Noto Serif SC', 'Songti SC', serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0f1218"/>
+      <stop offset="55%" stop-color="#1a2130"/>
+      <stop offset="100%" stop-color="#0a0d14"/>
+    </linearGradient>
+    <linearGradient id="bronze" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7a6542"/>
+      <stop offset="50%" stop-color="#B4A078"/>
+      <stop offset="100%" stop-color="#7a6542"/>
+    </linearGradient>
+    <linearGradient id="frame-gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#4a3d22" stop-opacity="0.3"/>
+      <stop offset="50%" stop-color="#d9b26b"/>
+      <stop offset="100%" stop-color="#4a3d22" stop-opacity="0.3"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#d9b26b" stop-opacity="0.20"/>
+      <stop offset="100%" stop-color="#d9b26b" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="2000" height="1200" fill="url(#bg)"/>
+
+  <!-- Decorative border -->
+  <rect x="60" y="60" width="1880" height="1080" fill="none" stroke="#3a3020" stroke-width="2"/>
+  <rect x="80" y="80" width="1840" height="1040" fill="none" stroke="#4a3d22" stroke-width="1" stroke-dasharray="4 6"/>
+
+  <!-- Right side: four "frames" — same world, different lenses -->
+  <g transform="translate(1420, 130)">
+    <!-- Frame 1: China's technical lens -->
+    <g transform="translate(0, 0)">
+      <rect x="0" y="0" width="360" height="200" fill="none" stroke="url(#frame-gold)" stroke-width="2"/>
+      <text x="20" y="42" font-size="22" fill="#7a6542" letter-spacing="2">FRAME 01</text>
+      <text x="20" y="88" font-size="34" fill="#D9C4A0" letter-spacing="6">技 术 框</text>
+      <text x="20" y="130" font-size="18" fill="#8a7a5a" font-style="italic" letter-spacing="1">Code · Repo · Stars · KPI</text>
+      <text x="20" y="170" font-size="16" fill="#5a4d32" letter-spacing="1">看见的是免费的代码</text>
+      <!-- small code glyphs inside frame -->
+      <text x="290" y="88" font-size="24" fill="#3a3020" font-family="monospace">}</text>
+      <text x="310" y="130" font-size="24" fill="#3a3020" font-family="monospace">{</text>
+      <text x="285" y="170" font-size="20" fill="#3a3020" font-family="monospace">&lt;/&gt;</text>
+    </g>
+
+    <!-- Frame 2: China's institutional lens (missing) -->
+    <g transform="translate(0, 240)">
+      <rect x="0" y="0" width="360" height="200" fill="none" stroke="#4a3d22" stroke-width="2" stroke-dasharray="8 6"/>
+      <text x="20" y="42" font-size="22" fill="#4a3d22" letter-spacing="2">FRAME 02</text>
+      <text x="20" y="88" font-size="34" fill="#5a4d32" letter-spacing="6">制 度 框</text>
+      <text x="20" y="130" font-size="18" fill="#4a3d22" font-style="italic" letter-spacing="1">Institutions · Property · Governance</text>
+      <text x="20" y="170" font-size="16" fill="#3a3020" letter-spacing="1">被漏掉的那一层</text>
+      <!-- red slash crossing through -->
+      <line x1="30" y1="190" x2="330" y2="10" stroke="#8b2e2e" stroke-width="1.5" opacity="0.55"/>
+    </g>
+
+    <!-- Frame 3: Liang Qichao's lens -->
+    <g transform="translate(0, 480)">
+      <rect x="0" y="0" width="360" height="200" fill="none" stroke="#4a3d22" stroke-width="1.5"/>
+      <text x="20" y="42" font-size="22" fill="#7a6542" letter-spacing="2">FRAME 03</text>
+      <text x="20" y="88" font-size="26" fill="#a89678" letter-spacing="4">国家富强 · 梁启超</text>
+      <text x="20" y="128" font-size="18" fill="#8a7a5a" font-style="italic" letter-spacing="1">"American Strength"</text>
+      <text x="20" y="170" font-size="16" fill="#5a4d32" letter-spacing="1">看的是美国的强大</text>
+    </g>
+
+    <!-- Frame 4: Tocqueville's lens -->
+    <g transform="translate(0, 720)">
+      <rect x="0" y="0" width="360" height="200" fill="none" stroke="#4a3d22" stroke-width="1.5"/>
+      <text x="20" y="42" font-size="22" fill="#7a6542" letter-spacing="2">FRAME 04</text>
+      <text x="20" y="88" font-size="26" fill="#a89678" letter-spacing="4">民主 · 托克维尔</text>
+      <text x="20" y="128" font-size="18" fill="#8a7a5a" font-style="italic" letter-spacing="1">"American Democracy"</text>
+      <text x="20" y="170" font-size="16" fill="#5a4d32" letter-spacing="1">看的是美国的民主</text>
+    </g>
+  </g>
+
+  <!-- Glow behind title -->
+  <ellipse cx="700" cy="480" rx="700" ry="280" fill="url(#glow)"/>
+
+  <!-- Category label -->
+  <g transform="translate(140, 170)">
+    <rect x="0" y="0" width="180" height="42" fill="none" stroke="url(#bronze)" stroke-width="1.5"/>
+    <text x="90" y="28" font-size="22" fill="url(#bronze)" text-anchor="middle" letter-spacing="6">荐书</text>
+  </g>
+
+  <!-- Main title -->
+  <text x="140" y="290" font-size="62" fill="#E8DCC8" letter-spacing="4" font-weight="normal">与时俱进的</text>
+  <text x="140" y="370" font-size="62" fill="#E8DCC8" letter-spacing="4" font-weight="normal">启 蒙</text>
+
+  <!-- English subtitle -->
+  <text x="140" y="440" font-size="28" fill="#a89678" font-style="italic" letter-spacing="2">Enlightenment &amp; the Frame</text>
+
+  <!-- Decorative divider -->
+  <line x1="140" y1="490" x2="1220" y2="490" stroke="#4a3d22" stroke-width="1"/>
+  <circle cx="140" cy="490" r="4" fill="#B4A078"/>
+  <circle cx="1220" cy="490" r="4" fill="#B4A078"/>
+
+  <!-- Author -->
+  <text x="140" y="555" font-size="34" fill="#D9C4A0" letter-spacing="3">徐 贲  ·  Xu Ben</text>
+  <text x="140" y="600" font-size="22" fill="#7a6542" letter-spacing="2">北京三联书店 · 2020</text>
+
+  <!-- Core concept: 框架误导 -->
+  <g transform="translate(140, 660)">
+    <text x="0" y="0" font-size="22" fill="#7a6542" letter-spacing="4">核心概念 · CORE CONCEPT</text>
+    <text x="0" y="55" font-size="44" fill="#E8DCC8" letter-spacing="8">框 架 误 导</text>
+    <text x="0" y="95" font-size="24" fill="#a89678" font-style="italic" letter-spacing="2">misframing — the wrong frame distorts the world</text>
+  </g>
+
+  <!-- Tagline -->
+  <g transform="translate(140, 830)">
+    <text x="0" y="0" font-size="24" fill="#8a7a5a" letter-spacing="2">"同一个 GitHub，有人看到的是免费代码，</text>
+    <text x="0" y="34" font-size="24" fill="#8a7a5a" letter-spacing="2">有人看到的是全球协作的治理实验。"</text>
+    <text x="0" y="72" font-size="18" fill="#5a4d32" letter-spacing="1">— 适兕，2026-07-26 日读桥接</text>
+  </g>
+
+  <!-- Bottom section -->
+  <line x1="140" y1="960" x2="1220" y2="960" stroke="#3a3020" stroke-width="1"/>
+
+  <text x="140" y="1010" font-size="20" fill="#7a6542" letter-spacing="3">开源之书 · 每日荐书</text>
+  <text x="140" y="1045" font-size="20" fill="#5a4d32" letter-spacing="1">2026-09-04 · 「开源之道」·窄廊</text>
+
+  <!-- Right side meta -->
+  <text x="1420" y="1050" font-size="18" fill="#4a3d22" letter-spacing="2">SAME WORLD · DIFFERENT FRAMES</text>
+  <text x="1420" y="1080" font-size="14" fill="#3a3020" letter-spacing="2">— the frame decides what you can see —</text>
+
+  <!-- Bottom right meta -->
+  <text x="1820" y="1080" font-size="14" fill="#3a3020" text-anchor="end" letter-spacing="2">NIE · FRAME-BIAS · 大分流2.0</text>
+</svg>
