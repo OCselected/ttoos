@@ -1,0 +1,128 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2000" height="1200" viewBox="0 0 2000 1200" font-family="Georgia, 'Noto Serif SC', 'Songti SC', serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0f1218"/>
+      <stop offset="55%" stop-color="#1a2130"/>
+      <stop offset="100%" stop-color="#0a0d14"/>
+    </linearGradient>
+    <linearGradient id="bronze" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7a6542"/>
+      <stop offset="50%" stop-color="#B4A078"/>
+      <stop offset="100%" stop-color="#7a6542"/>
+    </linearGradient>
+    <linearGradient id="path-gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#4a3d22" stop-opacity="0.2"/>
+      <stop offset="50%" stop-color="#d9b26b"/>
+      <stop offset="100%" stop-color="#4a3d22" stop-opacity="0.2"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#d9b26b" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#d9b26b" stop-opacity="0"/>
+    </radialGradient>
+    <marker id="arrow" viewBox="0 0 12 12" refX="10" refY="6" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M0,0 L10,6 L0,12 Z" fill="#d9b26b" opacity="0.85"/>
+    </marker>
+  </defs>
+
+  <rect width="2000" height="1200" fill="url(#bg)"/>
+
+  <!-- Decorative border -->
+  <rect x="60" y="60" width="1880" height="1080" fill="none" stroke="#3a3020" stroke-width="2"/>
+  <rect x="80" y="80" width="1840" height="1040" fill="none" stroke="#4a3d22" stroke-width="1" stroke-dasharray="4 6"/>
+
+  <!-- Right side: winding intellectual path — "keep movement" -->
+  <g transform="translate(1360, 120)">
+    <!-- Path from bottom to top, curving -->
+    <path d="M 60 940 C 220 850, 60 720, 220 640 S 60 480, 220 380 S 60 220, 220 100"
+          fill="none" stroke="url(#path-gold)" stroke-width="3"
+          stroke-dasharray="1 8" stroke-linecap="round" opacity="0.9"/>
+
+    <!-- Station 1: Naïve belief (1950s) -->
+    <g transform="translate(60, 940)">
+      <circle cx="0" cy="0" r="10" fill="none" stroke="#B4A078" stroke-width="2"/>
+      <circle cx="0" cy="0" r="3" fill="#B4A078"/>
+      <text x="24" y="4" font-size="18" fill="#8a7a5a" letter-spacing="1">1950s · 天真的信念</text>
+      <text x="24" y="30" font-size="14" fill="#5a4d32" font-style="italic">The Promise of Socialist Planning</text>
+    </g>
+
+    <!-- Station 2: Doubt (1960s) -->
+    <g transform="translate(220, 640)">
+      <circle cx="0" cy="0" r="10" fill="none" stroke="#B4A078" stroke-width="2"/>
+      <circle cx="0" cy="0" r="3" fill="#B4A078"/>
+      <text x="24" y="4" font-size="18" fill="#8a7a5a" letter-spacing="1">1960s · 怀疑</text>
+      <text x="24" y="30" font-size="14" fill="#5a4d32" font-style="italic">The Soft Budget Constraint</text>
+    </g>
+
+    <!-- Station 3: Disappointment (1989) -->
+    <g transform="translate(60, 380)">
+      <circle cx="0" cy="0" r="10" fill="none" stroke="#B4A078" stroke-width="2"/>
+      <circle cx="0" cy="0" r="3" fill="#B4A078"/>
+      <text x="-186" y="4" font-size="18" fill="#8a7a5a" letter-spacing="1" text-anchor="end">1989 · 信念崩溃</text>
+      <text x="-186" y="30" font-size="14" fill="#5a4d32" font-style="italic" text-anchor="end">The End of an Idea</text>
+    </g>
+
+    <!-- Station 4: New belief — Keep Movement (2006) -->
+    <g transform="translate(220, 100)">
+      <circle cx="0" cy="0" r="16" fill="none" stroke="#d9b26b" stroke-width="2.5"/>
+      <circle cx="0" cy="0" r="6" fill="#d9b26b"/>
+      <line x1="0" y1="-16" x2="0" y2="-60" stroke="#d9b26b" stroke-width="1.5" marker-end="url(#arrow)"/>
+      <text x="24" y="4" font-size="20" fill="#E8DCC8" letter-spacing="2">2006 · 新的信念</text>
+      <text x="24" y="30" font-size="16" fill="#B4A078" font-style="italic" letter-spacing="1">Keep Movement</text>
+    </g>
+
+    <!-- Label at top -->
+    <text x="0" y="1070" font-size="18" fill="#4a3d22" letter-spacing="2">INTELLECTUAL JOURNEY</text>
+    <text x="0" y="1100" font-size="14" fill="#3a3020" letter-spacing="2">— belief · doubt · collapse · movement —</text>
+  </g>
+
+  <!-- Glow behind title -->
+  <ellipse cx="800" cy="500" rx="800" ry="300" fill="url(#glow)"/>
+
+  <!-- Category label -->
+  <g transform="translate(140, 170)">
+    <rect x="0" y="0" width="180" height="42" fill="none" stroke="url(#bronze)" stroke-width="1.5"/>
+    <text x="90" y="28" font-size="22" fill="url(#bronze)" text-anchor="middle" letter-spacing="6">荐书</text>
+  </g>
+
+  <!-- Main title -->
+  <text x="140" y="290" font-size="62" fill="#E8DCC8" letter-spacing="4" font-weight="normal">By Force of Thought</text>
+
+  <!-- Chinese subtitle -->
+  <text x="140" y="390" font-size="52" fill="url(#bronze)" letter-spacing="10">思 想 的 力 量</text>
+
+  <!-- Subtitle -->
+  <text x="140" y="450" font-size="24" fill="#a89678" font-style="italic" letter-spacing="2">Irregular Memoirs of an Intellectual Journey</text>
+
+  <!-- Decorative divider -->
+  <line x1="140" y1="510" x2="1220" y2="510" stroke="#4a3d22" stroke-width="1"/>
+  <circle cx="140" cy="510" r="4" fill="#B4A078"/>
+  <circle cx="1220" cy="510" r="4" fill="#B4A078"/>
+
+  <!-- Author -->
+  <text x="140" y="580" font-size="34" fill="#D9C4A0" letter-spacing="3">János Kornai  ·  雅诺什·科尔奈</text>
+  <text x="140" y="622" font-size="22" fill="#7a6542" letter-spacing="2">MIT Press · 2006   ·   ISBN 9780262113021</text>
+
+  <!-- Core concept -->
+  <g transform="translate(140, 690)">
+    <text x="0" y="0" font-size="20" fill="#7a6542" letter-spacing="4">核 心 命 题  ·  CORE PROPOSITION</text>
+    <text x="0" y="55" font-size="44" fill="#E8DCC8" letter-spacing="8">Keep Movement</text>
+    <text x="0" y="95" font-size="22" fill="#a89678" font-style="italic" letter-spacing="2">思想是移动中的产物，不是抵达的终点</text>
+  </g>
+
+  <!-- Tagline -->
+  <g transform="translate(140, 850)">
+    <text x="0" y="0" font-size="24" fill="#8a7a5a" letter-spacing="2">"我毕生为思想而奋斗，从不追求权力与富贵。"</text>
+    <text x="0" y="34" font-size="18" fill="#5a4d32" letter-spacing="1">— Kornai, By Force of Thought</text>
+    <text x="0" y="76" font-size="20" fill="#8a7a5a" letter-spacing="1">开源不是抵达某个终点，是移动本身——</text>
+    <text x="0" y="104" font-size="20" fill="#8a7a5a" letter-spacing="1">适兕核心原则「Keep Movement」，来自这书。</text>
+  </g>
+
+  <!-- Bottom section -->
+  <line x1="140" y1="1000" x2="1220" y2="1000" stroke="#3a3020" stroke-width="1"/>
+
+  <text x="140" y="1050" font-size="20" fill="#7a6542" letter-spacing="3">开源之书 · 每日荐书</text>
+  <text x="140" y="1082" font-size="20" fill="#5a4d32" letter-spacing="1">2026-09-05 · 「开源之道」·窄廊</text>
+
+  <!-- Bottom right meta -->
+  <text x="1820" y="1080" font-size="14" fill="#3a3020" text-anchor="end" letter-spacing="2">NIE · SOFT BUDGET · KEEP MOVEMENT</text>
+</svg>
