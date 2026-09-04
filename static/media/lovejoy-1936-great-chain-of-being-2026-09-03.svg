@@ -1,0 +1,120 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2000" height="1200" viewBox="0 0 2000 1200" font-family="Georgia, 'Noto Serif SC', 'Songti SC', serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0f1218"/>
+      <stop offset="55%" stop-color="#1a2130"/>
+      <stop offset="100%" stop-color="#0a0d14"/>
+    </linearGradient>
+    <linearGradient id="bronze" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7a6542"/>
+      <stop offset="50%" stop-color="#B4A078"/>
+      <stop offset="100%" stop-color="#7a6542"/>
+    </linearGradient>
+    <linearGradient id="chain-gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#4a3d22" stop-opacity="0.2"/>
+      <stop offset="50%" stop-color="#d9b26b"/>
+      <stop offset="100%" stop-color="#4a3d22" stop-opacity="0.2"/>
+    </linearGradient>
+    <linearGradient id="chain-link" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#3a3020"/>
+      <stop offset="50%" stop-color="#7a6542"/>
+      <stop offset="100%" stop-color="#2a2114"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#d9b26b" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#d9b26b" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="2000" height="1200" fill="url(#bg)"/>
+
+  <!-- Decorative border -->
+  <rect x="60" y="60" width="1880" height="1080" fill="none" stroke="#3a3020" stroke-width="2"/>
+  <rect x="80" y="80" width="1840" height="1040" fill="none" stroke="#4a3d22" stroke-width="1" stroke-dasharray="4 6"/>
+
+  <!-- Chain of being visualization: vertical links on right -->
+  <g transform="translate(1560, 120)">
+    <circle cx="0" cy="0" r="55" fill="none" stroke="url(#chain-gold)" stroke-width="3"/>
+    <circle cx="0" cy="0" r="20" fill="url(#chain-link)"/>
+    <line x1="0" y1="55" x2="0" y2="105" stroke="#4a3d22" stroke-width="2"/>
+    <text x="85" y="12" font-size="22" fill="#7a6542" letter-spacing="2">GOD</text>
+
+    <circle cx="0" cy="160" r="45" fill="none" stroke="url(#chain-gold)" stroke-width="2.5"/>
+    <circle cx="0" cy="160" r="15" fill="url(#chain-link)"/>
+    <line x1="0" y1="205" x2="0" y2="255" stroke="#4a3d22" stroke-width="2"/>
+    <text x="85" y="172" font-size="22" fill="#7a6542" letter-spacing="2">ANGEL</text>
+
+    <circle cx="0" cy="315" r="40" fill="none" stroke="url(#chain-gold)" stroke-width="2.5"/>
+    <circle cx="0" cy="315" r="14" fill="url(#chain-link)"/>
+    <line x1="0" y1="355" x2="0" y2="405" stroke="#4a3d22" stroke-width="2"/>
+    <text x="85" y="327" font-size="22" fill="#7a6542" letter-spacing="2">HUMAN</text>
+
+    <circle cx="0" cy="465" r="35" fill="none" stroke="url(#chain-gold)" stroke-width="2.5"/>
+    <circle cx="0" cy="465" r="12" fill="url(#chain-link)"/>
+    <line x1="0" y1="500" x2="0" y2="550" stroke="#4a3d22" stroke-width="2"/>
+    <text x="85" y="477" font-size="22" fill="#7a6542" letter-spacing="2">ANIMAL</text>
+
+    <circle cx="0" cy="610" r="30" fill="none" stroke="url(#chain-gold)" stroke-width="2.5"/>
+    <circle cx="0" cy="610" r="10" fill="url(#chain-link)"/>
+    <line x1="0" y1="640" x2="0" y2="690" stroke="#4a3d22" stroke-width="2"/>
+    <text x="85" y="622" font-size="22" fill="#7a6542" letter-spacing="2">PLANT</text>
+
+    <circle cx="0" cy="745" r="25" fill="none" stroke="url(#chain-gold)" stroke-width="2.5"/>
+    <circle cx="0" cy="745" r="8" fill="url(#chain-link)"/>
+    <line x1="0" y1="770" x2="0" y2="820" stroke="#4a3d22" stroke-width="2"/>
+    <text x="85" y="757" font-size="22" fill="#7a6542" letter-spacing="2">STONE</text>
+
+    <circle cx="0" cy="865" r="20" fill="none" stroke="#3a3020" stroke-width="2"/>
+    <text x="85" y="877" font-size="22" fill="#4a3d22" letter-spacing="2">NULL</text>
+
+    <g transform="translate(0, 900)">
+      <rect x="-30" y="0" width="60" height="80" fill="none" stroke="#3a3020" stroke-width="2"/>
+      <text x="-14" y="50" font-size="18" fill="#4a3d22">...</text>
+    </g>
+  </g>
+
+  <!-- Glow behind title -->
+  <ellipse cx="900" cy="500" rx="800" ry="300" fill="url(#glow)"/>
+
+  <!-- Category label -->
+  <g transform="translate(140, 170)">
+    <rect x="0" y="0" width="180" height="42" fill="none" stroke="url(#bronze)" stroke-width="1.5"/>
+    <text x="90" y="28" font-size="22" fill="url(#bronze)" text-anchor="middle" letter-spacing="6">荐书</text>
+  </g>
+
+  <!-- Main title -->
+  <text x="140" y="290" font-size="62" fill="#E8DCC8" letter-spacing="4" font-weight="normal">The Great Chain</text>
+  <text x="140" y="370" font-size="62" fill="#E8DCC8" letter-spacing="4" font-weight="normal">of Being</text>
+
+  <!-- Chinese subtitle -->
+  <text x="140" y="465" font-size="52" fill="url(#bronze)" letter-spacing="12">存 在 巨 链</text>
+
+  <!-- Decorative divider -->
+  <line x1="140" y1="520" x2="1300" y2="520" stroke="#4a3d22" stroke-width="1"/>
+  <circle cx="140" cy="520" r="4" fill="#B4A078"/>
+  <circle cx="1300" cy="520" r="4" fill="#B4A078"/>
+
+  <!-- Subtitle -->
+  <text x="140" y="580" font-size="28" fill="#a89678" font-style="italic">A Study of the History of an Idea</text>
+
+  <!-- Author -->
+  <text x="140" y="660" font-size="34" fill="#D9C4A0" letter-spacing="3">Arthur O. Lovejoy</text>
+  <text x="140" y="705" font-size="22" fill="#7a6542" letter-spacing="2">Harvard University Press · 1936</text>
+
+  <!-- Tagline -->
+  <text x="140" y="790" font-size="24" fill="#8a7a5a" letter-spacing="2">"文化是固化的确定，不是理性的选择"</text>
+  <text x="140" y="830" font-size="20" fill="#5a4d32" letter-spacing="1">— Code of the Great Chain, 开源之道的思想史注脚</text>
+
+  <!-- Bottom section -->
+  <line x1="140" y1="900" x2="1300" y2="900" stroke="#3a3020" stroke-width="1"/>
+
+  <text x="140" y="970" font-size="20" fill="#7a6542" letter-spacing="3">开源之书 · 每日荐书</text>
+  <text x="140" y="1005" font-size="20" fill="#5a4d32" letter-spacing="1">2026-09-03 · 「开源之道」·窄廊</text>
+
+  <!-- Right side chain meta -->
+  <text x="1560" y="1050" font-size="18" fill="#4a3d22" letter-spacing="2">CHAIN OF BEING</text>
+  <text x="1560" y="1080" font-size="14" fill="#3a3020" letter-spacing="2">— hierarchy · graduation · continuity —</text>
+
+  <!-- Bottom right meta -->
+  <text x="1820" y="1080" font-size="14" fill="#3a3020" text-anchor="end" letter-spacing="2">NIE · L1 · EMBEDDEDNESS</text>
+</svg>
