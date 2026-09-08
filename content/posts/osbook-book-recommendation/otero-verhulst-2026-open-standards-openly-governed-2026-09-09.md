@@ -75,7 +75,7 @@ description: "Otero & Verhulst (2026, arXiv 2609.01773) 提出 4Ps 框架，把�
 
 ## 关联阅读
 
-- [KOPAs-Bench：Multi-Step Tool-Calling over Korean Open Public APIs（2026-09-08）](https://www.opensourceway.blog/posts/osbook-book-recommendation/kim-2026-kopa-bench-korean-open-public-apis-2026-09-08/) — 「法规式开源」vs「行政式开源」两条路径对照，与本论文的「开放标准 vs 开放治理」同构
+- [KOPA-Bench：Multi-Step Tool-Calling over Korean Open Public APIs（2026-09-08）](https://www.opensourceway.blog/posts/osbook-book-recommendation/kim-2026-kopa-bench-korean-open-public-apis-2026-09-08/) — 「法规式开源」vs「行政式开源」两条路径对照，与本论文的「开放标准 vs 开放治理」同构
 - [SBOM 传播模型（2026-09-08）](https://www.opensourceway.blog/posts/osbook-book-recommendation/grgic-2026-sbom-propagation-model-2026-09-08/) — 开源合规审计「制度供给 < 制度需求」的技术实证，与本论文的「弱治理推向实现层」互为镜像
 - [Constitutional Coverage Trilemma（2026-09-07）](https://www.opensourceway.blog/posts/osbook-book-recommendation/mitic-2026-constitutional-coverage-trilemma-ai-governance-2026-09-07/) — 前沿 LLM 作为「宪法性制度」首次实证，与本论文的「开放标准 ≠ 开放治理」在 AI 治理层交叉
 - [Kornai《By Force of Thought》（2026-09-05）](https://www.opensourceway.blog/posts/osbook-book-recommendation/kornai-2006-by-force-of-thought-2026-09-05/) — 信念制度论第一手经验样本，为本论文的「制度决定论反驳治理决定论」提供个人层面的微观证据
