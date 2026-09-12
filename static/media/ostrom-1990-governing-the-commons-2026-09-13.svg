@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800" width="600" height="800">
+<defs>
+<filter id="s" x="-5%" y="-5%" width="110%" height="110%">
+  <feDropShadow dx="2" dy="4" stdDeviation="6" flood-color="#1A1A1A" flood-opacity="0.06"/>
+</filter>
+</defs>
+<rect width="600" height="800" rx="10" fill="#F5F0E8" filter="url(#s)"/>
+<rect x="0" y="0" width="600" height="5" fill="#1B3B6B"/>
+<rect x="0" y="795" width="600" height="4" fill="#1B3B6B"/>
+<line x1="390" y1="60" x2="390" y2="740" stroke="#1B3B6B" stroke-width="1" opacity="0.08"/>
+
+<!-- 右侧同心圆：公共池塘资源（Common-Pool Resources） -->
+<circle cx="500" cy="360" r="150" fill="none" stroke="#1B3B6B" stroke-width="1.5" opacity="0.06"/>
+<circle cx="500" cy="360" r="115" fill="none" stroke="#1B3B6B" stroke-width="1.2" opacity="0.09"/>
+<circle cx="500" cy="360" r="80" fill="none" stroke="#1B3B6B" stroke-width="1.2" opacity="0.12"/>
+<circle cx="500" cy="360" r="45" fill="none" stroke="#1B3B6B" stroke-width="1" opacity="0.15"/>
+
+<!-- 八条设计原则：围绕中心分布的 8 个小方点 -->
+<g fill="#1B3B6B" opacity="0.22">
+  <circle cx="500" cy="210" r="3.2"/>
+  <circle cx="606" cy="255" r="3.2"/>
+  <circle cx="651" cy="360" r="3.2"/>
+  <circle cx="606" cy="465" r="3.2"/>
+  <circle cx="500" cy="510" r="3.2"/>
+  <circle cx="394" cy="465" r="3.2"/>
+  <circle cx="349" cy="360" r="3.2"/>
+  <circle cx="394" cy="255" r="3.2"/>
+</g>
+
+<!-- 右下装饰 -->
+<rect x="450" y="640" width="6" height="6" fill="#1B3B6B" opacity="0.10" transform="rotate(45, 453, 643)"/>
+<rect x="473" y="665" width="5" height="5" fill="#1B3B6B" opacity="0.08" transform="rotate(45, 475, 667)"/>
+<circle cx="460" cy="700" r="2.5" fill="#1B3B6B" opacity="0.12"/>
+
+<rect x="40" y="70" width="72" height="22" rx="3" fill="#1B3B6B"/>
+<text x="76" y="85" text-anchor="middle" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="2" fill="#FFFFFF">BOOK</text>
+<text x="560" y="80" text-anchor="end" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="9" fill="#555555" opacity="0.5">2026-09-13</text>
+
+<text x="40" y="118" font-family="Georgia, Songti SC, Noto Serif CJK SC, serif" font-size="28" font-weight="900" fill="#1A1A1A">
+  <tspan x="40" dy="0">Governing</tspan>
+  <tspan x="40" dy="36">the Commons</tspan>
+</text>
+<text x="40" y="196" font-family="Georgia, Songti SC, Noto Serif CJK SC, serif" font-size="16" font-weight="700" fill="#1B3B6B">
+  公共事物的治理之道
+</text>
+<text x="40" y="228" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="12" fill="#555555">Elinor Ostrom · 1990 · 剑桥大学出版社</text>
+<text x="40" y="248" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="10" fill="#8a7a5a" font-style="italic">The first woman to win the Nobel Prize in Economics</text>
+
+<line x1="40" y1="272" x2="230" y2="272" stroke="#1B3B6B" stroke-width="1.5" opacity="0.25"/>
+
+<text x="40" y="298" font-family="-apple-system, PingFang SC, Helvetica Neue, Noto Sans CJK SC, Microsoft YaHei, Arial, sans-serif" font-size="12" fill="#1A1A1A">
+  <tspan x="40" dy="0">没有国家、没有市场，人如何共同管</tspan>
+  <tspan x="40" dy="20">理公共资源而不陷入『公地悲剧』？</tspan>
+  <tspan x="40" dy="20">奥斯特罗姆用数十年跨文化田野研究</tspan>
+  <tspan x="40" dy="20">——从瑞士高山牧场到菲律宾灌溉系</tspan>
+  <tspan x="40" dy="20">统——给出反直觉的答案：自组织。</tspan>
+  <tspan x="40" dy="20">八条设计原则，构成开源社区治理</tspan>
+  <tspan x="40" dy="20">的制度骨架。</tspan>
+</text>
+
+<rect x="40" y="490" width="110" height="18" rx="2" fill="#1A1A1A" opacity="0.04"/>
+<text x="95" y="503" text-anchor="middle" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="9" font-weight="700" fill="#555555">EIGHT PRINCIPLES</text>
+
+<text x="40" y="530" font-family="-apple-system, PingFang SC, Helvetica Neue, Noto Sans CJK SC, Microsoft YaHei, Arial, sans-serif" font-size="11" fill="#1A1A1A">
+  <tspan x="40" dy="0">① 边界清晰 · ② 本地一致</tspan>
+  <tspan x="40" dy="18">③ 集体选择 · ④ 监督机制</tspan>
+  <tspan x="40" dy="18">⑤ 分级制裁 · ⑥ 冲突解决</tspan>
+  <tspan x="40" dy="18">⑦ 组织权认可 · ⑧ 嵌套治理</tspan>
+</text>
+
+<text x="470" y="535" font-family="Georgia, Songti SC, Noto Serif CJK SC, serif" font-size="9" fill="#1B3B6B" opacity="0.40">
+  <tspan x="470" dy="0">自</tspan>
+  <tspan x="470" dy="11">组</tspan>
+  <tspan x="470" dy="11">织</tspan>
+  <tspan x="470" dy="11">是</tspan>
+  <tspan x="470" dy="11">制</tspan>
+  <tspan x="470" dy="11">度</tspan>
+  <tspan x="470" dy="11">设</tspan>
+  <tspan x="470" dy="11">计</tspan>
+</text>
+
+<text x="470" y="670" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="8" fill="#1B3B6B" opacity="0.30">— Elinor Ostrom</text>
+
+<rect x="420" y="742" width="140" height="22" rx="2" fill="none" stroke="#1B3B6B" stroke-width="1" opacity="0.12"/>
+<text x="490" y="757" text-anchor="middle" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="8" letter-spacing="2" fill="#1B3B6B" opacity="0.35">OPEN SOURCE · 荐书</text>
+</svg>
