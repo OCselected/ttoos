@@ -1,0 +1,177 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2000" height="1200" viewBox="0 0 2000 1200" font-family="Georgia, 'Noto Serif SC', 'Songti SC', serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0f1218"/>
+      <stop offset="55%" stop-color="#1a2130"/>
+      <stop offset="100%" stop-color="#0a0d14"/>
+    </linearGradient>
+    <linearGradient id="bronze" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7a6542"/>
+      <stop offset="50%" stop-color="#B4A078"/>
+      <stop offset="100%" stop-color="#7a6542"/>
+    </linearGradient>
+    <linearGradient id="glow-band" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#4a3d22" stop-opacity="0.15"/>
+      <stop offset="50%" stop-color="#d9b26b" stop-opacity="0.75"/>
+      <stop offset="100%" stop-color="#4a3d22" stop-opacity="0.15"/>
+    </linearGradient>
+    <radialGradient id="ledger-glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#d9b26b" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#d9b26b" stop-opacity="0"/>
+    </radialGradient>
+    <marker id="arrow-r" viewBox="0 0 12 12" refX="10" refY="6" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M0,0 L10,6 L0,12 Z" fill="#d9b26b" opacity="0.85"/>
+    </marker>
+  </defs>
+
+  <rect width="2000" height="1200" fill="url(#bg)"/>
+
+  <!-- Decorative border -->
+  <rect x="60" y="60" width="1880" height="1080" fill="none" stroke="#3a3020" stroke-width="2"/>
+  <rect x="80" y="80" width="1840" height="1040" fill="none" stroke="#4a3d22" stroke-width="1" stroke-dasharray="4 6"/>
+
+  <!-- Left: Title / book cover -->
+  <g transform="translate(130, 150)">
+    <text x="0" y="0" font-size="22" fill="#7a6542" letter-spacing="6">OPEN SOURCE LIBRARY · 开源之书</text>
+    <text x="0" y="30" font-size="14" fill="#5a4d32" letter-spacing="3">FST · 1990 · University of Chicago Press</text>
+
+    <line x1="0" y1="55" x2="240" y2="55" stroke="#B4A078" stroke-width="1"/>
+
+    <text x="0" y="115" font-size="72" fill="#E8DCC8" letter-spacing="1" font-weight="700">Foundations</text>
+    <text x="0" y="195" font-size="72" fill="#E8DCC8" letter-spacing="1" font-weight="700">of Social</text>
+    <text x="0" y="275" font-size="72" fill="#d9b26b" letter-spacing="1" font-weight="700" font-style="italic">Theory</text>
+
+    <text x="0" y="325" font-size="30" fill="#B4A078" letter-spacing="2">社会理论的基础</text>
+
+    <line x1="0" y1="365" x2="360" y2="365" stroke="url(#glow-band)" stroke-width="1"/>
+
+    <text x="0" y="415" font-size="26" fill="#E8DCC8" letter-spacing="2">James S. Coleman</text>
+    <text x="0" y="445" font-size="18" fill="#a89678" letter-spacing="1" font-style="italic">University of Chicago Press, 1990</text>
+    <text x="0" y="475" font-size="16" fill="#7a6542" letter-spacing="1">ISBN 9780674312265 · rational-choice sociology</text>
+  </g>
+
+  <!-- Left bottom: signature -->
+  <g transform="translate(130, 1000)">
+    <text x="0" y="0" font-size="15" fill="#5a4d32" letter-spacing="3">「开源之道」· 窄廊  ×  「开源之道」· 适兕</text>
+    <text x="0" y="26" font-size="13" fill="#4a3d22" letter-spacing="2">2026-09-17  ·  NIE × Trust × Social Capital</text>
+  </g>
+
+  <!-- Vertical divider -->
+  <line x1="960" y1="150" x2="960" y2="1050" stroke="#4a3d22" stroke-width="1" stroke-dasharray="6 8"/>
+
+  <!-- Right: Reputation ledger (Coleman's trust account) -->
+  <g transform="translate(1030, 130)">
+    <text x="0" y="0" font-size="20" fill="#7a6542" letter-spacing="4">REPUTATION LEDGER · 声誉账本</text>
+    <text x="0" y="26" font-size="14" fill="#5a4d32" font-style="italic" letter-spacing="1">"Trust as a rational-choice balance account"</text>
+
+    <rect x="-20" y="50" width="820" height="380" fill="url(#ledger-glow)"/>
+
+    <!-- Ledger header -->
+    <g transform="translate(0, 70)">
+      <line x1="0" y1="0" x2="780" y2="0" stroke="#4a3d22" stroke-width="1"/>
+      <text x="0"   y="-10" font-size="13" fill="#7a6542" letter-spacing="3">ACTION</text>
+      <text x="240" y="-10" font-size="13" fill="#7a6542" letter-spacing="3">ROUND</text>
+      <text x="420" y="-10" font-size="13" fill="#7a6542" letter-spacing="3">TRUSTOR → TRUSTEE</text>
+      <text x="700" y="-10" font-size="13" fill="#7a6542" letter-spacing="3" text-anchor="end">Δ TRUST</text>
+      <line x1="0" y1="10" x2="780" y2="10" stroke="#B4A078" stroke-width="1"/>
+    </g>
+
+    <!-- Ledger rows: contributions as trust deposits -->
+    <g transform="translate(0, 100)" font-size="15">
+      <text x="0"   y="30" fill="#E8DCC8">PR #1247 merged</text>
+      <text x="240" y="30" fill="#a89678" font-style="italic">r1</text>
+      <text x="420" y="30" fill="#a89678">contributor → maintainer</text>
+      <text x="700" y="30" fill="#B4A078" text-anchor="end">+0.15</text>
+      <line x1="0" y1="45" x2="780" y2="45" stroke="#2a2518" stroke-width="0.5"/>
+
+      <text x="0"   y="70" fill="#E8DCC8">Code review</text>
+      <text x="240" y="70" fill="#a89678" font-style="italic">r2</text>
+      <text x="420" y="70" fill="#a89678">maintainer → contributor</text>
+      <text x="700" y="70" fill="#B4A078" text-anchor="end">+0.08</text>
+      <line x1="0" y1="85" x2="780" y2="85" stroke="#2a2518" stroke-width="0.5"/>
+
+      <text x="0"   y="110" fill="#E8DCC8">RFC accepted</text>
+      <text x="240" y="110" fill="#a89678" font-style="italic">r3</text>
+      <text x="420" y="110" fill="#a89678">community → proposer</text>
+      <text x="700" y="110" fill="#B4A078" text-anchor="end">+0.22</text>
+      <line x1="0" y1="125" x2="780" y2="125" stroke="#2a2518" stroke-width="0.5"/>
+
+      <text x="0"   y="150" fill="#E8DCC8">Bad merge (regression)</text>
+      <text x="240" y="150" fill="#a89678" font-style="italic">r4</text>
+      <text x="420" y="150" fill="#a89678">community → committer</text>
+      <text x="700" y="150" fill="#8b2e2e" text-anchor="end">−0.30</text>
+      <line x1="0" y1="165" x2="780" y2="165" stroke="#2a2518" stroke-width="0.5"/>
+
+      <text x="0"   y="190" fill="#E8DCC8">Maintainer promotion</text>
+      <text x="240" y="190" fill="#a89678" font-style="italic">r5</text>
+      <text x="420" y="190" fill="#a89678">community → contributor</text>
+      <text x="700" y="190" fill="#B4A078" text-anchor="end">+0.40</text>
+      <line x1="0" y1="205" x2="780" y2="205" stroke="#4a3d22" stroke-width="0.8"/>
+
+      <text x="0"   y="235" fill="#a89678" font-style="italic">Balance</text>
+      <text x="700" y="235" fill="#d9b26b" font-size="20" text-anchor="end" font-weight="700">+0.55</text>
+    </g>
+
+    <!-- Balance arrow pointing to next round -->
+    <g transform="translate(0, 330)">
+      <text x="0" y="0" font-size="16" fill="#a89678" letter-spacing="2">CUMULATIVE TRUST → 累计信任</text>
+      <line x1="0" y1="20" x2="780" y2="20" stroke="#4a3d22" stroke-width="1"/>
+      <!-- cumulative line chart -->
+      <g transform="translate(0, 5)">
+        <polyline points="0,50 100,42 200,35 300,48 400,30 500,22 600,15 700,10"
+                  fill="none" stroke="#d9b26b" stroke-width="2"/>
+        <circle cx="0"   cy="50" r="3" fill="#B4A078"/>
+        <circle cx="200" cy="35" r="3" fill="#B4A078"/>
+        <circle cx="400" cy="30" r="3" fill="#B4A078"/>
+        <circle cx="600" cy="15" r="3" fill="#B4A078"/>
+        <circle cx="700" cy="10" r="4" fill="#d9b26b"/>
+        <text x="0"   y="70" font-size="11" fill="#5a4d32" font-style="italic">r1</text>
+        <text x="700" y="70" font-size="11" fill="#5a4d32" font-style="italic" text-anchor="end">r5</text>
+      </g>
+    </g>
+
+    <!-- Iterated game / fork as exit right -->
+    <g transform="translate(0, 460)">
+      <text x="0" y="0" font-size="18" fill="#a89678" letter-spacing="2">ITERATED GAME · 重复博弈结构</text>
+      <text x="0" y="24" font-size="13" fill="#5a4d32" font-style="italic" letter-spacing="1">"social capital generated as a byproduct of common problem-solving"</text>
+
+      <!-- Trustor → Trustee chain -->
+      <g transform="translate(0, 55)">
+        <!-- Trustor -->
+        <rect x="0" y="0" width="150" height="60" fill="none" stroke="#B4A078" stroke-width="1.5"/>
+        <text x="75" y="26" font-size="16" fill="#E8DCC8" text-anchor="middle" letter-spacing="2">TRUSTOR</text>
+        <text x="75" y="48" font-size="12" fill="#7a6542" text-anchor="middle" font-style="italic">委托</text>
+
+        <!-- arrow -->
+        <line x1="155" y1="30" x2="285" y2="30" stroke="url(#glow-band)" stroke-width="1.5" marker-end="url(#arrow-r)"/>
+        <text x="220" y="22" font-size="11" fill="#7a6542" text-anchor="middle" font-style="italic">risk</text>
+
+        <!-- Trustee -->
+        <rect x="290" y="0" width="150" height="60" fill="none" stroke="#B4A078" stroke-width="1.5"/>
+        <text x="365" y="26" font-size="16" fill="#E8DCC8" text-anchor="middle" letter-spacing="2">TRUSTEE</text>
+        <text x="365" y="48" font-size="12" fill="#7a6542" text-anchor="middle" font-style="italic">受托</text>
+
+        <!-- fork exit -->
+        <line x1="445" y1="30" x2="585" y2="30" stroke="#8b2e2e" stroke-width="1.5" stroke-dasharray="4 4" marker-end="url(#arrow-r)"/>
+        <text x="515" y="22" font-size="11" fill="#8b2e2e" text-anchor="middle" font-style="italic">exit · fork</text>
+
+        <!-- Reputation feedback -->
+        <rect x="590" y="0" width="170" height="60" fill="none" stroke="#d9b26b" stroke-width="1.5"/>
+        <text x="675" y="26" font-size="15" fill="#E8DCC8" text-anchor="middle" letter-spacing="2">REPUTATION</text>
+        <text x="675" y="48" font-size="12" fill="#B4A078" text-anchor="middle" font-style="italic">声誉反馈 → 下一轮</text>
+      </g>
+
+      <!-- Bottom quote -->
+      <g transform="translate(0, 155)">
+        <text x="0" y="0" font-size="13" fill="#7a6542" font-style="italic" letter-spacing="1">
+          声誉是信任账户的记账方式，Git 是开源世界的账本——Coleman 1990
+        </text>
+      </g>
+    </g>
+  </g>
+
+  <!-- Signature bottom right -->
+  <g transform="translate(1870, 1080)" text-anchor="end">
+    <text x="0" y="0" font-size="14" fill="#5a4d32" letter-spacing="3">窄廊  ·  开源之道</text>
+  </g>
+</svg>
