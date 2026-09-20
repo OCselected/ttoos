@@ -20,7 +20,6 @@
       <stop offset="100%" stop-color="#d9b26b" stop-opacity="0"/>
     </radialGradient>
   </defs>
-
   <rect width="2000" height="1200" fill="url(#bg)"/>
 
   <!-- Decorative border -->
@@ -86,9 +85,13 @@
 
     <!-- Norms arrows (horizontal interaction) -->
     <g stroke="#d9b26b" stroke-width="1.5" fill="none" opacity="0.75">
-      <path d="M 220,290 Q 400,320 580,290" marker-end="url(#arrow-r)"/>
-      <path d="M 580,270 Q 400,240 220,270" marker-end="url(#arrow-r)"/>
+      <path d="M 220,290 Q 400,320 580,290"/>
+      <path d="M 580,270 Q 400,240 220,270"/>
     </g>
+
+    <!-- arrow heads as triangles -->
+    <polygon points="580,290 570,285 570,295" fill="#d9b26b" opacity="0.75"/>
+    <polygon points="220,270 230,265 230,275" fill="#d9b26b" opacity="0.75"/>
 
     <!-- Animal icons -->
     <g fill="#B4A078" opacity="0.6">
