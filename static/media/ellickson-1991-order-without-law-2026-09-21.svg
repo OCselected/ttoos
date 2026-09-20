@@ -1,0 +1,152 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2000" height="1200" viewBox="0 0 2000 1200" font-family="Georgia, 'Noto Serif SC', 'Songti SC', serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0f1218"/>
+      <stop offset="55%" stop-color="#1a2130"/>
+      <stop offset="100%" stop-color="#0a0d14"/>
+    </linearGradient>
+    <linearGradient id="bronze" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7a6542"/>
+      <stop offset="50%" stop-color="#B4A078"/>
+      <stop offset="100%" stop-color="#7a6542"/>
+    </linearGradient>
+    <linearGradient id="glow-band" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#4a3d22" stop-opacity="0.15"/>
+      <stop offset="50%" stop-color="#d9b26b" stop-opacity="0.75"/>
+      <stop offset="100%" stop-color="#4a3d22" stop-opacity="0.15"/>
+    </linearGradient>
+    <radialGradient id="field-glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#d9b26b" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#d9b26b" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="2000" height="1200" fill="url(#bg)"/>
+
+  <!-- Decorative border -->
+  <rect x="60" y="60" width="1880" height="1080" fill="none" stroke="#3a3020" stroke-width="2"/>
+  <rect x="80" y="80" width="1840" height="1040" fill="none" stroke="#4a3d22" stroke-width="1" stroke-dasharray="4 6"/>
+
+  <!-- Left: Title / book cover -->
+  <g transform="translate(130, 150)">
+    <text x="0" y="0" font-size="22" fill="#7a6542" letter-spacing="6">OPEN SOURCE LIBRARY · 开源之书</text>
+    <text x="0" y="30" font-size="14" fill="#5a4d32" letter-spacing="3">OWL · 1991 · Harvard University Press</text>
+
+    <line x1="0" y1="55" x2="240" y2="55" stroke="#B4A078" stroke-width="1"/>
+
+    <text x="0" y="115" font-size="72" fill="#E8DCC8" letter-spacing="1" font-weight="700">Order</text>
+    <text x="0" y="195" font-size="72" fill="#d9b26b" letter-spacing="1" font-weight="700" font-style="italic">without Law</text>
+
+    <text x="0" y="255" font-size="22" fill="#a89678" letter-spacing="2" font-style="italic">How Neighbors Settle Disputes</text>
+
+    <text x="0" y="320" font-size="30" fill="#B4A078" letter-spacing="2">无需法律的秩序</text>
+    <text x="0" y="358" font-size="20" fill="#8a7a5a" letter-spacing="2">相邻者如何解决纠纷</text>
+
+    <line x1="0" y1="395" x2="360" y2="395" stroke="url(#glow-band)" stroke-width="1"/>
+
+    <text x="0" y="445" font-size="26" fill="#E8DCC8" letter-spacing="2">Robert C. Ellickson</text>
+    <text x="0" y="475" font-size="18" fill="#a89678" letter-spacing="1" font-style="italic">Harvard University Press, 1991</text>
+    <text x="0" y="505" font-size="16" fill="#7a6542" letter-spacing="1">ISBN 9780674641686 · Shasta County fieldwork</text>
+  </g>
+
+  <!-- Left bottom: signature -->
+  <g transform="translate(130, 1000)">
+    <text x="0" y="0" font-size="15" fill="#5a4d32" letter-spacing="3">「开源之道」· 窄廊  ×  「开源之道」· 适兕</text>
+    <text x="0" y="26" font-size="13" fill="#4a3d22" letter-spacing="2">2026-09-21  ·  NIE × Norms × Commons</text>
+  </g>
+
+  <!-- Vertical divider -->
+  <line x1="960" y1="150" x2="960" y2="1050" stroke="#4a3d22" stroke-width="1" stroke-dasharray="6 8"/>
+
+  <!-- Right: Visual fieldwork diagram -->
+  <g transform="translate(1030, 150)">
+    <text x="0" y="0" font-size="20" fill="#7a6542" letter-spacing="5">FIELDWORK · 田野</text>
+    <text x="0" y="26" font-size="12" fill="#5a4d32" letter-spacing="2">SHASTA COUNTY · CALIFORNIA · USA</text>
+
+    <line x1="0" y1="45" x2="820" y2="45" stroke="#4a3d22" stroke-width="1"/>
+
+    <!-- Two fields separated by dashed fence -->
+    <ellipse cx="410" cy="240" rx="380" ry="150" fill="url(#field-glow)"/>
+
+    <!-- Field 1 (left) -->
+    <rect x="40" y="130" width="340" height="220" fill="#1a2536" stroke="#4a3d22" stroke-width="1"/>
+    <text x="60" y="160" font-size="13" fill="#8a7a5a" letter-spacing="2">FIELD · 邻居 A</text>
+    <text x="60" y="180" font-size="10" fill="#5a4d32" letter-spacing="1">"我的牲畜越界了"</text>
+
+    <!-- Fence (dashed vertical) -->
+    <line x1="400" y1="120" x2="400" y2="360" stroke="#B4A078" stroke-width="2" stroke-dasharray="8 6" opacity="0.85"/>
+    <circle cx="400" cy="120" r="4" fill="#d9b26b"/>
+    <circle cx="400" cy="360" r="4" fill="#d9b26b"/>
+    <text x="360" y="112" font-size="11" fill="#B4A078" letter-spacing="2" font-style="italic">fence · 边界</text>
+
+    <!-- Field 2 (right) -->
+    <rect x="420" y="130" width="340" height="220" fill="#1a2536" stroke="#4a3d22" stroke-width="1"/>
+    <text x="440" y="160" font-size="13" fill="#8a7a5a" letter-spacing="2">FIELD · 邻居 B</text>
+    <text x="440" y="180" font-size="10" fill="#5a4d32" letter-spacing="1">"你的牛吃了我的庄稼"</text>
+
+    <!-- Norms arrows (horizontal interaction) -->
+    <g stroke="#d9b26b" stroke-width="1.5" fill="none" opacity="0.75">
+      <path d="M 220,290 Q 400,320 580,290" marker-end="url(#arrow-r)"/>
+      <path d="M 580,270 Q 400,240 220,270" marker-end="url(#arrow-r)"/>
+    </g>
+
+    <!-- Animal icons -->
+    <g fill="#B4A078" opacity="0.6">
+      <circle cx="200" cy="290" r="6"/>
+      <circle cx="230" cy="290" r="6"/>
+      <circle cx="260" cy="290" r="6"/>
+      <circle cx="290" cy="290" r="6"/>
+      <circle cx="320" cy="290" r="6"/>
+    </g>
+    <text x="180" y="320" font-size="11" fill="#8a7a5a" font-style="italic" letter-spacing="1">livestock · 越界牲畜</text>
+
+    <!-- Crops -->
+    <g stroke="#8a7a5a" stroke-width="1" opacity="0.5">
+      <line x1="470" y1="230" x2="470" y2="330"/>
+      <line x1="500" y1="230" x2="500" y2="330"/>
+      <line x1="530" y1="230" x2="530" y2="330"/>
+      <line x1="560" y1="230" x2="560" y2="330"/>
+      <line x1="590" y1="230" x2="590" y2="330"/>
+      <line x1="620" y1="230" x2="620" y2="330"/>
+      <line x1="650" y1="230" x2="650" y2="330"/>
+      <line x1="680" y1="230" x2="680" y2="330"/>
+    </g>
+
+    <!-- Central label -->
+    <text x="260" y="410" font-size="16" fill="#E8DCC8" letter-spacing="3" text-anchor="middle" font-style="italic">无第三方裁判 · 无法庭 · 无诉讼</text>
+    <text x="260" y="435" font-size="13" fill="#a89678" letter-spacing="2" text-anchor="middle">秩序依然产生</text>
+  </g>
+
+  <!-- Right lower: three propositions -->
+  <g transform="translate(1030, 700)">
+    <text x="0" y="0" font-size="18" fill="#7a6542" letter-spacing="4">THREE PROPOSITIONS · 三条命题</text>
+    <line x1="0" y1="15" x2="820" y2="15" stroke="#4a3d22" stroke-width="1"/>
+
+    <!-- Proposition 1 -->
+    <g transform="translate(0, 50)">
+      <rect x="0" y="-16" width="26" height="26" fill="none" stroke="#B4A078" stroke-width="1.5"/>
+      <text x="13" y="4" font-size="14" fill="#d9b26b" text-anchor="middle" font-weight="700">I</text>
+      <text x="38" y="0" font-size="16" fill="#E8DCC8" font-weight="700">规范而非法律</text>
+      <text x="38" y="22" font-size="12" fill="#a89678" font-style="italic">Norms ≠ Legal Rules</text>
+      <text x="38" y="42" font-size="11" fill="#8a7a5a">社会秩序的第一性来源是社区规范</text>
+    </g>
+
+    <!-- Proposition 2 -->
+    <g transform="translate(0, 130)">
+      <rect x="0" y="-16" width="26" height="26" fill="none" stroke="#B4A078" stroke-width="1.5"/>
+      <text x="13" y="4" font-size="14" fill="#d9b26b" text-anchor="middle" font-weight="700">II</text>
+      <text x="38" y="0" font-size="16" fill="#E8DCC8" font-weight="700">重复互动产生秩序</text>
+      <text x="38" y="22" font-size="12" fill="#a89678" font-style="italic">Order from Iterated Interaction</text>
+      <text x="38" y="42" font-size="11" fill="#8a7a5a">相邻、可观察、可报复——秩序涌现的前提</text>
+    </g>
+
+    <!-- Proposition 3 -->
+    <g transform="translate(0, 210)">
+      <rect x="0" y="-16" width="26" height="26" fill="none" stroke="#B4A078" stroke-width="1.5"/>
+      <text x="13" y="4" font-size="14" fill="#d9b26b" text-anchor="middle" font-weight="700">III</text>
+      <text x="38" y="0" font-size="16" fill="#E8DCC8" font-weight="700">法律可能造出更多混乱</text>
+      <text x="38" y="22" font-size="12" fill="#a89678" font-style="italic">Law Can Produce Less Order</text>
+      <text x="38" y="42" font-size="11" fill="#8a7a5a">"法律更多但秩序更少"——斯科特命题的规范学基础</text>
+    </g>
+  </g>
+</svg>
