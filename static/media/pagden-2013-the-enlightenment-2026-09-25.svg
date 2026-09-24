@@ -1,0 +1,165 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2000" height="1200" viewBox="0 0 2000 1200" font-family="Georgia, 'Noto Serif SC', 'Songti SC', serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0f1218"/>
+      <stop offset="55%" stop-color="#1a2130"/>
+      <stop offset="100%" stop-color="#0a0d14"/>
+    </linearGradient>
+    <linearGradient id="bronze" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7a6542"/>
+      <stop offset="50%" stop-color="#B4A078"/>
+      <stop offset="100%" stop-color="#7a6542"/>
+    </linearGradient>
+    <linearGradient id="glow-band" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#4a3d22" stop-opacity="0.15"/>
+      <stop offset="50%" stop-color="#d9b26b" stop-opacity="0.75"/>
+      <stop offset="100%" stop-color="#4a3d22" stop-opacity="0.15"/>
+    </linearGradient>
+    <radialGradient id="lantern-glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#d9b26b" stop-opacity="0.28"/>
+      <stop offset="60%" stop-color="#d9b26b" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#d9b26b" stop-opacity="0"/>
+    </radialGradient>
+    <marker id="arrow-r" viewBox="0 0 12 12" refX="10" refY="6" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M0,0 L10,6 L0,12 Z" fill="#d9b26b" opacity="0.85"/>
+    </marker>
+  </defs>
+
+  <rect width="2000" height="1200" fill="url(#bg)"/>
+
+  <!-- Decorative border -->
+  <rect x="60" y="60" width="1880" height="1080" fill="none" stroke="#3a3020" stroke-width="2"/>
+  <rect x="80" y="80" width="1840" height="1040" fill="none" stroke="#4a3d22" stroke-width="1" stroke-dasharray="4 6"/>
+
+  <!-- Corner ticks -->
+  <g stroke="#B4A078" stroke-width="1.5" fill="none">
+    <path d="M60 90 L60 60 L90 60"/>
+    <path d="M1910 60 L1940 60 L1940 90"/>
+    <path d="M60 1110 L60 1140 L90 1140"/>
+    <path d="M1910 1140 L1940 1140 L1940 1110"/>
+  </g>
+
+  <!-- Left: Title / book cover -->
+  <g transform="translate(130, 150)">
+    <text x="0" y="0" font-size="22" fill="#7a6542" letter-spacing="6">OPEN SOURCE LIBRARY · 开源之书</text>
+    <text x="0" y="30" font-size="14" fill="#5a4d32" letter-spacing="3">PAGDEN · 2013 · Oxford University Press</text>
+
+    <line x1="0" y1="55" x2="240" y2="55" stroke="#B4A078" stroke-width="1"/>
+
+    <!-- Lantern glow behind the title -->
+    <ellipse cx="200" cy="220" rx="260" ry="140" fill="url(#lantern-glow)"/>
+
+    <text x="0" y="115" font-size="72" fill="#E8DCC8" letter-spacing="1" font-weight="700">The</text>
+    <text x="0" y="195" font-size="72" fill="#d9b26b" letter-spacing="1" font-weight="700" font-style="italic">Enlightenment</text>
+    <text x="0" y="275" font-size="72" fill="#E8DCC8" letter-spacing="1" font-weight="700">— in Code</text>
+
+    <text x="0" y="325" font-size="28" fill="#B4A078" letter-spacing="2">启蒙作为开源制度的思想史前提</text>
+
+    <line x1="0" y1="365" x2="500" y2="365" stroke="url(#glow-band)" stroke-width="1"/>
+
+    <text x="0" y="415" font-size="26" fill="#E8DCC8" letter-spacing="2">Anthony Pagden</text>
+    <text x="0" y="445" font-size="18" fill="#a89678" letter-spacing="1" font-style="italic">Oxford University Press, 2013</text>
+    <text x="0" y="475" font-size="16" fill="#7a6542" letter-spacing="1">ISBN 9780199660933 · history of ideas</text>
+  </g>
+
+  <!-- Left bottom: signature -->
+  <g transform="translate(130, 1000)">
+    <text x="0" y="0" font-size="15" fill="#5a4d32" letter-spacing="3">「开源之道」· 窄廊  ×  「开源之道」· 适兕</text>
+    <text x="0" y="26" font-size="13" fill="#4a3d22" letter-spacing="2">2026-09-25  ·  思想是制度的源代码</text>
+  </g>
+
+  <!-- Vertical divider -->
+  <line x1="960" y1="150" x2="960" y2="1050" stroke="#4a3d22" stroke-width="1" stroke-dasharray="6 8"/>
+
+  <!-- Right: Public Reason structure -->
+  <g transform="translate(1030, 130)">
+    <text x="0" y="0" font-size="20" fill="#7a6542" letter-spacing="4">PUBLIC REASON · 公共理性</text>
+    <text x="0" y="26" font-size="14" fill="#5a4d32" font-style="italic" letter-spacing="1">"Reason instead of authority; argument instead of dogma."</text>
+
+    <!-- Top: The triad (three pillars of enlightenment) -->
+    <g transform="translate(0, 70)">
+      <text x="0" y="0" font-size="14" fill="#a89678" letter-spacing="3">三支柱 · THREE PILLARS</text>
+
+      <line x1="0" y1="18" x2="780" y2="18" stroke="#4a3d22" stroke-width="1"/>
+
+      <g transform="translate(0, 40)">
+        <rect x="0" y="0" width="240" height="100" fill="none" stroke="#B4A078" stroke-width="1.5"/>
+        <text x="120" y="30" font-size="18" fill="#E8DCC8" text-anchor="middle" letter-spacing="2">REASON</text>
+        <text x="120" y="55" font-size="15" fill="#a89678" text-anchor="middle" font-style="italic">理性论证</text>
+        <text x="120" y="80" font-size="12" fill="#7a6542" text-anchor="middle">vs 权威教条</text>
+      </g>
+      <g transform="translate(270, 40)">
+        <rect x="0" y="0" width="240" height="100" fill="none" stroke="#B4A078" stroke-width="1.5"/>
+        <text x="120" y="30" font-size="18" fill="#E8DCC8" text-anchor="middle" letter-spacing="2">TOLERANCE</text>
+        <text x="120" y="55" font-size="15" fill="#a89678" text-anchor="middle" font-style="italic">宽容</text>
+        <text x="120" y="80" font-size="12" fill="#7a6542" text-anchor="middle">vs 排斥异见</text>
+      </g>
+      <g transform="translate(540, 40)">
+        <rect x="0" y="0" width="240" height="100" fill="none" stroke="#B4A078" stroke-width="1.5"/>
+        <text x="120" y="30" font-size="18" fill="#E8DCC8" text-anchor="middle" letter-spacing="2">OPEN DEBATE</text>
+        <text x="120" y="55" font-size="15" fill="#a89678" text-anchor="middle" font-style="italic">开放辩论</text>
+        <text x="120" y="80" font-size="12" fill="#7a6542" text-anchor="middle">vs 教义垄断</text>
+      </g>
+    </g>
+
+    <!-- Middle: Meritocracy as open-source translation -->
+    <g transform="translate(0, 240)">
+      <text x="0" y="0" font-size="14" fill="#a89678" letter-spacing="3">制度投射 · TRANSLATED TO OPEN SOURCE</text>
+
+      <!-- Arrow down to Meritocracy -->
+      <line x1="120" y1="20" x2="120" y2="70" stroke="#B4A078" stroke-width="1" stroke-dasharray="3 3"/>
+      <line x1="390" y1="20" x2="390" y2="70" stroke="#B4A078" stroke-width="1" stroke-dasharray="3 3"/>
+      <line x1="660" y1="20" x2="660" y2="70" stroke="#B4A078" stroke-width="1" stroke-dasharray="3 3"/>
+
+      <rect x="0" y="75" width="780" height="90" fill="none" stroke="#d9b26b" stroke-width="1.5"/>
+      <text x="390" y="105" font-size="22" fill="#E8DCC8" text-anchor="middle" letter-spacing="3" font-weight="700">MERITOCRACY</text>
+      <text x="390" y="132" font-size="16" fill="#B4A078" text-anchor="middle" font-style="italic">贡献按理性论证和可验证成果评估</text>
+      <text x="390" y="152" font-size="13" fill="#7a6542" text-anchor="middle">—— not by identity, seniority, or title</text>
+    </g>
+
+    <!-- Bottom: Institutional sites of public reason in open source -->
+    <g transform="translate(0, 380)">
+      <text x="0" y="0" font-size="14" fill="#a89678" letter-spacing="3">公共理性在开源里的制度载体 · INSTITUTIONAL SITES</text>
+
+      <line x1="0" y1="20" x2="780" y2="20" stroke="#4a3d22" stroke-width="1"/>
+
+      <g transform="translate(0, 40)" font-size="15">
+        <text x="0"   y="0" fill="#B4A078" letter-spacing="2">·</text>
+        <text x="20"  y="0" fill="#E8DCC8">Issue Discussion</text>
+        <text x="240" y="0" fill="#a89678" font-style="italic">— 议题层的公开辩论</text>
+
+        <text x="0"   y="30" fill="#B4A078" letter-spacing="2">·</text>
+        <text x="20"  y="30" fill="#E8DCC8">RFC / PEP / DESIGN.md</text>
+        <text x="240" y="30" fill="#a89678" font-style="italic">— 设计前的公开论证</text>
+
+        <text x="0"   y="60" fill="#B4A078" letter-spacing="2">·</text>
+        <text x="20"  y="60" fill="#E8DCC8">Mailing List / Discourse</text>
+        <text x="240" y="60" fill="#a89678" font-style="italic">— 慢节奏的公共讨论</text>
+
+        <text x="0"   y="90" fill="#B4A078" letter-spacing="2">·</text>
+        <text x="20"  y="90" fill="#E8DCC8">Code Review</text>
+        <text x="240" y="90" fill="#a89678" font-style="italic">— 代码即论证的现场</text>
+
+        <text x="0"   y="120" fill="#B4A078" letter-spacing="2">·</text>
+        <text x="20"  y="120" fill="#E8DCC8">Public Git History</text>
+        <text x="240" y="120" fill="#a89678" font-style="italic">— 论证的可追溯性</text>
+      </g>
+    </g>
+
+    <!-- Quote bottom -->
+    <g transform="translate(0, 590)">
+      <line x1="0" y1="0" x2="780" y2="0" stroke="url(#glow-band)" stroke-width="1"/>
+      <text x="0" y="30" font-size="14" fill="#7a6542" font-style="italic" letter-spacing="1">
+        "思想是制度的源代码——开源之道（idea）而非开源之路（road）。"
+      </text>
+      <text x="0" y="52" font-size="12" fill="#5a4d32" font-style="italic" letter-spacing="1">
+        — Pagden 的公共理性传统 × 适兕的核心命题
+      </text>
+    </g>
+  </g>
+
+  <!-- Signature bottom right -->
+  <g transform="translate(1870, 1080)" text-anchor="end">
+    <text x="0" y="0" font-size="14" fill="#5a4d32" letter-spacing="3">窄廊  ·  开源之道</text>
+  </g>
+</svg>
