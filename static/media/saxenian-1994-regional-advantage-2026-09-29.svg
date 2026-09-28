@@ -1,0 +1,215 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2000" height="1200" viewBox="0 0 2000 1200" font-family="Georgia, 'Noto Serif SC', 'Songti SC', serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0f1218"/>
+      <stop offset="55%" stop-color="#1a2130"/>
+      <stop offset="100%" stop-color="#0a0d14"/>
+    </linearGradient>
+    <linearGradient id="bronze" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7a6542"/>
+      <stop offset="50%" stop-color="#B4A078"/>
+      <stop offset="100%" stop-color="#7a6542"/>
+    </linearGradient>
+    <linearGradient id="glow-band" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#4a3d22" stop-opacity="0.15"/>
+      <stop offset="50%" stop-color="#d9b26b" stop-opacity="0.75"/>
+      <stop offset="100%" stop-color="#4a3d22" stop-opacity="0.15"/>
+    </linearGradient>
+    <radialGradient id="glow-sv" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#d9b26b" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#d9b26b" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow-128" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#4a3d22" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#4a3d22" stop-opacity="0"/>
+    </radialGradient>
+    <marker id="arrow-bronze" viewBox="0 0 12 12" refX="10" refY="6" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M0,0 L10,6 L0,12 Z" fill="#d9b26b" opacity="0.9"/>
+    </marker>
+    <marker id="arrow-dim" viewBox="0 0 12 12" refX="10" refY="6" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M0,0 L10,6 L0,12 Z" fill="#5a4d32" opacity="0.9"/>
+    </marker>
+  </defs>
+
+  <rect width="2000" height="1200" fill="url(#bg)"/>
+
+  <!-- Border -->
+  <rect x="60" y="60" width="1880" height="1080" fill="none" stroke="#3a3020" stroke-width="2"/>
+  <rect x="80" y="80" width="1840" height="1040" fill="none" stroke="#4a3d22" stroke-width="1" stroke-dasharray="4 6"/>
+
+  <!-- Left: Title / book cover -->
+  <g transform="translate(130, 150)">
+    <text x="0" y="0" font-size="22" fill="#7a6542" letter-spacing="6">OPEN SOURCE LIBRARY · 开源之书</text>
+    <text x="0" y="30" font-size="14" fill="#5a4d32" letter-spacing="3">STANFORD · 1994 · MIT Press · 硅谷 vs. 128 号公路</text>
+
+    <line x1="0" y1="55" x2="280" y2="55" stroke="#B4A078" stroke-width="1"/>
+
+    <text x="0" y="115" font-size="72" fill="#E8DCC8" letter-spacing="1" font-weight="700">Regional</text>
+    <text x="0" y="195" font-size="72" fill="#E8DCC8" letter-spacing="1" font-weight="700">Advantage</text>
+
+    <text x="0" y="255" font-size="34" fill="#d9b26b" letter-spacing="1" font-style="italic">Culture &amp; Competition in</text>
+    <text x="0" y="295" font-size="34" fill="#d9b26b" letter-spacing="1" font-style="italic">Silicon Valley &amp; Route 128</text>
+
+    <text x="0" y="345" font-size="30" fill="#B4A078" letter-spacing="2">区域优势：硅谷与128号公路的文化和竞争</text>
+
+    <line x1="0" y1="375" x2="440" y2="375" stroke="url(#glow-band)" stroke-width="1"/>
+
+    <text x="0" y="425" font-size="26" fill="#E8DCC8" letter-spacing="2">AnnaLee Saxenian</text>
+    <text x="0" y="455" font-size="18" fill="#a89678" letter-spacing="1" font-style="italic">MIT Press, 1994 · 260 pp.</text>
+    <text x="0" y="485" font-size="16" fill="#7a6542" letter-spacing="1">ISBN 9780262193226 · 制度地理学 × 组织社会学</text>
+
+    <line x1="0" y1="520" x2="440" y2="520" stroke="#4a3d22" stroke-width="1"/>
+
+    <text x="0" y="555" font-size="14" fill="#a89678" font-style="italic" letter-spacing="1">"硅谷的精神被放大为开源文化"</text>
+    <text x="0" y="580" font-size="12" fill="#7a6542" letter-spacing="1">— 适兕 2022-09 短评</text>
+  </g>
+
+  <!-- Left bottom: signature -->
+  <g transform="translate(130, 1000)">
+    <text x="0" y="0" font-size="15" fill="#5a4d32" letter-spacing="3">「开源之道」· 窄廊  ×  「开源之道」· 适兕</text>
+    <text x="0" y="26" font-size="13" fill="#4a3d22" letter-spacing="2">2026-09-29  ·  制度地理学 × 大分流 2.0</text>
+  </g>
+
+  <!-- Vertical divider -->
+  <line x1="970" y1="150" x2="970" y2="1050" stroke="#4a3d22" stroke-width="1" stroke-dasharray="6 8"/>
+
+  <!-- Right side: TWO regions comparison -->
+  <g transform="translate(1040, 130)">
+    <!-- Header -->
+    <text x="0" y="0" font-size="20" fill="#7a6542" letter-spacing="4">TWO AMERICAS · 两种区域制度</text>
+    <text x="0" y="26" font-size="14" fill="#5a4d32" font-style="italic" letter-spacing="1">"Culture, competition, and the shape of industry networks"</text>
+
+    <line x1="0" y1="45" x2="820" y2="45" stroke="#4a3d22" stroke-width="1"/>
+
+    <!-- ====== LEFT COLUMN: Silicon Valley (network) ====== -->
+    <g transform="translate(0, 75)">
+      <text x="10" y="0" font-size="26" fill="#d9b26b" letter-spacing="2" font-weight="700">Silicon Valley</text>
+      <text x="10" y="26" font-size="13" fill="#a89678" letter-spacing="1">松散网络 · 小企业 · 流动人才 · 失败即学习</text>
+
+      <!-- Glowing network area -->
+      <ellipse cx="200" cy="180" rx="230" ry="130" fill="url(#glow-sv)"/>
+
+      <!-- Network of nodes with curved connections (Silicon Valley) -->
+      <g stroke="#d9b26b" stroke-width="1.4" fill="none" opacity="0.85">
+        <path d="M 60,110 Q 130,150 200,120"/>
+        <path d="M 60,110 Q 120,200 180,220"/>
+        <path d="M 200,120 Q 280,90 340,140"/>
+        <path d="M 200,120 Q 220,180 220,240"/>
+        <path d="M 200,120 Q 270,140 340,140"/>
+        <path d="M 180,220 Q 240,220 300,230"/>
+        <path d="M 220,240 Q 280,250 340,140"/>
+        <path d="M 340,140 Q 340,200 300,230"/>
+        <path d="M 60,110 Q 100,60 200,120"/>
+      </g>
+      <g fill="#d9b26b">
+        <circle cx="60" cy="110" r="7"/>
+        <circle cx="200" cy="120" r="9"/>
+        <circle cx="340" cy="140" r="8"/>
+        <circle cx="180" cy="220" r="7"/>
+        <circle cx="220" cy="240" r="7"/>
+        <circle cx="300" cy="230" r="7"/>
+        <circle cx="270" cy="90" r="5"/>
+        <circle cx="120" cy="60" r="5"/>
+      </g>
+
+      <!-- Talent mobility arrow (curved cycle) -->
+      <path d="M 340,140 Q 400,180 300,230" stroke="#d9b26b" stroke-width="1" fill="none" stroke-dasharray="3 3" opacity="0.6" marker-end="url(#arrow-bronze)"/>
+      <text x="365" y="195" font-size="11" fill="#a89678" font-style="italic">人才流动</text>
+
+      <text x="180" y="290" font-size="12" fill="#B4A078" letter-spacing="1" text-anchor="middle">→ 开源文化</text>
+    </g>
+
+    <!-- Divider between two regions -->
+    <line x1="410" y1="90" x2="410" y2="330" stroke="#4a3d22" stroke-width="1" stroke-dasharray="4 5"/>
+
+    <!-- ====== RIGHT COLUMN: Route 128 (hierarchy) ====== -->
+    <g transform="translate(430, 75)">
+      <text x="10" y="0" font-size="26" fill="#a89678" letter-spacing="2" font-weight="700">Route 128</text>
+      <text x="10" y="26" font-size="13" fill="#7a6542" letter-spacing="1">垂直整合 · 层级网络 · 忠诚雇员 · 失败即责任</text>
+
+      <!-- Dimmed network area -->
+      <ellipse cx="200" cy="180" rx="230" ry="130" fill="url(#glow-128)"/>
+
+      <!-- Hierarchy diagram (Route 128) -->
+      <g stroke="#5a4d32" stroke-width="1.4" fill="none" opacity="0.85">
+        <!-- Apex -->
+        <rect x="180" y="60" width="80" height="30" stroke="#a89678" stroke-width="1.4" fill="none"/>
+        <text x="220" y="82" font-size="13" fill="#a89678" text-anchor="middle" font-family="Georgia, serif">DRC</text>
+
+        <line x1="220" y1="90" x2="120" y2="150"/>
+        <line x1="220" y1="90" x2="220" y2="150"/>
+        <line x1="220" y1="90" x2="320" y2="150"/>
+
+        <!-- Second layer -->
+        <rect x="90" y="150" width="60" height="26" stroke="#5a4d32" fill="none"/>
+        <rect x="190" y="150" width="60" height="26" stroke="#5a4d32" fill="none"/>
+        <rect x="290" y="150" width="60" height="26" stroke="#5a4d32" fill="none"/>
+        <text x="120" y="168" font-size="10" fill="#7a6542" text-anchor="middle">DEC</text>
+        <text x="220" y="168" font-size="10" fill="#7a6542" text-anchor="middle">GEC</text>
+        <text x="320" y="168" font-size="10" fill="#7a6542" text-anchor="middle">IBM</text>
+
+        <line x1="120" y1="176" x2="120" y2="220"/>
+        <line x1="220" y1="176" x2="220" y2="220"/>
+        <line x1="320" y1="176" x2="320" y2="220"/>
+
+        <!-- Third layer: workers -->
+        <rect x="100" y="220" width="40" height="20" stroke="#5a4d32" fill="none"/>
+        <rect x="200" y="220" width="40" height="20" stroke="#5a4d32" fill="none"/>
+        <rect x="300" y="220" width="40" height="20" stroke="#5a4d32" fill="none"/>
+      </g>
+
+      <!-- Locked arrow (talent stays) -->
+      <line x1="10" y1="180" x2="60" y2="180" stroke="#5a4d32" stroke-width="1" stroke-dasharray="2 2" marker-end="url(#arrow-dim)"/>
+      <text x="10" y="205" font-size="11" fill="#7a6542" font-style="italic">↔ 忠诚雇员</text>
+
+      <text x="200" y="290" font-size="12" fill="#7a6542" letter-spacing="1" text-anchor="middle">→ 封闭秩序</text>
+    </g>
+
+    <!-- ====== Bottom: 3-Dimension Table ====== -->
+    <g transform="translate(0, 400)">
+      <text x="0" y="0" font-size="16" fill="#7a6542" letter-spacing="3">THREE DIMENSIONS · 三个对照维度</text>
+      <line x1="0" y1="12" x2="820" y2="12" stroke="#4a3d22" stroke-width="1"/>
+
+      <!-- Table header -->
+      <g transform="translate(0, 30)" font-size="12" fill="#5a4d32" letter-spacing="2">
+        <text x="0"   y="0">DIMENSION</text>
+        <text x="280" y="0" fill="#d9b26b">SILICON VALLEY</text>
+        <text x="600" y="0" fill="#a89678">ROUTE 128</text>
+      </g>
+
+      <!-- Row 1: Regional Culture -->
+      <g transform="translate(0, 70)">
+        <text x="0" y="0" font-size="15" fill="#E8DCC8" font-weight="600">① 区域文化</text>
+        <text x="0" y="20" font-size="11" fill="#7a6542" letter-spacing="1">Regional Culture</text>
+        <text x="280" y="0" font-size="14" fill="#d9b26b">松散网络 · 松散协作</text>
+        <text x="600" y="0" font-size="14" fill="#a89678">层级网络 · 垂直忠诚</text>
+      </g>
+      <line x1="0" y1="88" x2="820" y2="88" stroke="#4a3d22" stroke-width="0.5"/>
+
+      <!-- Row 2: Industrial Structure -->
+      <g transform="translate(0, 110)">
+        <text x="0" y="0" font-size="15" fill="#E8DCC8" font-weight="600">② 产业结构</text>
+        <text x="0" y="20" font-size="11" fill="#7a6542" letter-spacing="1">Industrial Structure</text>
+        <text x="280" y="0" font-size="14" fill="#d9b26b">小企业 · 专业化分工</text>
+        <text x="600" y="0" font-size="14" fill="#a89678">大企业 · 垂直整合</text>
+      </g>
+      <line x1="0" y1="128" x2="820" y2="128" stroke="#4a3d22" stroke-width="0.5"/>
+
+      <!-- Row 3: Firm Organization -->
+      <g transform="translate(0, 150)">
+        <text x="0" y="0" font-size="15" fill="#E8DCC8" font-weight="600">③ 企业组织</text>
+        <text x="0" y="20" font-size="11" fill="#7a6542" letter-spacing="1">Firm Organization</text>
+        <text x="280" y="0" font-size="14" fill="#d9b26b">流动的团队 · 拥抱失败</text>
+        <text x="600" y="0" font-size="14" fill="#a89678">封建的忠诚 · 失败追责</text>
+      </g>
+    </g>
+
+    <!-- Bottom tagline -->
+    <g transform="translate(0, 635)">
+      <line x1="0" y1="0" x2="820" y2="0" stroke="url(#glow-band)" stroke-width="1"/>
+      <text x="0" y="30" font-size="14" fill="#a89678" font-style="italic" letter-spacing="1">"硅谷的松散网络、专业化分工、开放标准、失败容忍——正是开源文化的组织原型。"</text>
+      <text x="0" y="52" font-size="14" fill="#a89678" font-style="italic" letter-spacing="1">"反向来看，本土某些厂商正在复制 128 号公路带的层级制、封闭组织和中央规划。"</text>
+      <text x="0" y="78" font-size="12" fill="#5a4d32" letter-spacing="1">— 适兕，2022-09 短评  ·  2026-08-08 Eggertsson 日读延伸</text>
+    </g>
+  </g>
+</svg>
