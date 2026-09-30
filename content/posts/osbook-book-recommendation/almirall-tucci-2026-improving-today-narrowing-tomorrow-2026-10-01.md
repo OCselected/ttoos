@@ -30,7 +30,7 @@ description: "Almirall & Tucci (2026, arXiv 2609.28681, econ.GN) 首次以可形
 | 字段 | 内容 |
 |------|------|
 | **标题** | Improving Today, Narrowing Tomorrow: Collective Learning, Diversity, and Generativity |
-| **作者** | Esteve Almirall（Esade Business School）, Chris Tucci（Imperial College London） |
+| **作者** | Esteve Almirall（Esade Business School, Barcelona）, Chris Tucci（Imperial College London） |
 | **年份** | 2026-09-23（arXiv 2609.28681v1） |
 | **平台** | arXiv preprint（econ.GN, General Economics） |
 | **链接** | [arXiv:2609.28681](https://arxiv.org/abs/2609.28681) |
