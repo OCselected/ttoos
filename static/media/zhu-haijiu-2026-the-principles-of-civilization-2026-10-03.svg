@@ -1,0 +1,152 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2000" height="1200" viewBox="0 0 2000 1200" font-family="Georgia, 'Noto Serif SC', 'Songti SC', serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0f1218"/>
+      <stop offset="55%" stop-color="#1a2130"/>
+      <stop offset="100%" stop-color="#0a0d14"/>
+    </linearGradient>
+    <linearGradient id="glow-band" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#4a3d22" stop-opacity="0.15"/>
+      <stop offset="50%" stop-color="#d9b26b" stop-opacity="0.75"/>
+      <stop offset="100%" stop-color="#4a3d22" stop-opacity="0.15"/>
+    </linearGradient>
+    <radialGradient id="lantern-glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#d9b26b" stop-opacity="0.30"/>
+      <stop offset="60%" stop-color="#d9b26b" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#d9b26b" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="fire-glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#d9b26b" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#4a3d22" stop-opacity="0"/>
+    </radialGradient>
+    <marker id="arrow-r" viewBox="0 0 12 12" refX="10" refY="6" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M0,0 L10,6 L0,12 Z" fill="#d9b26b" opacity="0.85"/>
+    </marker>
+  </defs>
+
+  <rect width="2000" height="1200" fill="url(#bg)"/>
+
+  <!-- Decorative border -->
+  <rect x="60" y="60" width="1880" height="1080" fill="none" stroke="#3a3020" stroke-width="2"/>
+  <rect x="80" y="80" width="1840" height="1040" fill="none" stroke="#4a3d22" stroke-width="1" stroke-dasharray="4 6"/>
+
+  <!-- Corner ticks -->
+  <g stroke="#B4A078" stroke-width="1.5" fill="none">
+    <path d="M60 90 L60 60 L90 60"/>
+    <path d="M1910 60 L1940 60 L1940 90"/>
+    <path d="M60 1110 L60 1140 L90 1140"/>
+    <path d="M1910 1140 L1940 1140 L1940 1110"/>
+  </g>
+
+  <!-- Left: Title / book cover -->
+  <g transform="translate(130, 150)">
+    <text x="0" y="0" font-size="22" fill="#7a6542" letter-spacing="6">OPEN SOURCE LIBRARY · 开源之书</text>
+    <text x="0" y="30" font-size="14" fill="#5a4d32" letter-spacing="3">ZHU HAIJIU · 2026 · 奥地利学派经济学</text>
+
+    <line x1="0" y1="55" x2="240" y2="55" stroke="#B4A078" stroke-width="1"/>
+
+    <!-- Lantern glow behind the title -->
+    <ellipse cx="220" cy="240" rx="290" ry="150" fill="url(#lantern-glow)"/>
+
+    <text x="0" y="115" font-size="60" fill="#E8DCC8" letter-spacing="1" font-weight="700">文明的原理</text>
+    <text x="0" y="195" font-size="46" fill="#d9b26b" letter-spacing="1" font-weight="700" font-style="italic">The Principles</text>
+    <text x="0" y="260" font-size="46" fill="#d9b26b" letter-spacing="1" font-weight="700" font-style="italic">of Civilization</text>
+    <text x="0" y="330" font-size="26" fill="#B4A078" letter-spacing="2">真正的经济学 · 奥地利学派在中文世界的最大规模系统重建</text>
+
+    <line x1="0" y1="370" x2="600" y2="370" stroke="url(#glow-band)" stroke-width="1"/>
+
+    <text x="0" y="420" font-size="28" fill="#E8DCC8" letter-spacing="2">朱海就  ·  张维迎推荐</text>
+    <text x="0" y="450" font-size="18" fill="#a89678" letter-spacing="1" font-style="italic">93.8 万字 · 1316 页 · 三卷 · 市场（文明）三部曲终章</text>
+    <text x="0" y="478" font-size="16" fill="#7a6542" letter-spacing="1">奥地利学派经济学评论 · 2026</text>
+  </g>
+
+  <!-- Left bottom: signature -->
+  <g transform="translate(130, 1010)">
+    <text x="0" y="0" font-size="15" fill="#5a4d32" letter-spacing="3">「开源之道」· 窄廊  ×  「开源之道」· 适兕</text>
+    <text x="0" y="26" font-size="13" fill="#4a3d22" letter-spacing="2">2026-10-03  ·  文明不能被设计——只能演化</text>
+  </g>
+
+  <!-- Vertical divider -->
+  <line x1="960" y1="150" x2="960" y2="1050" stroke="#4a3d22" stroke-width="1" stroke-dasharray="6 8"/>
+
+  <!-- Right: three-layer theory stack + bridge to open source -->
+  <g transform="translate(1030, 130)">
+    <text x="0" y="0" font-size="20" fill="#7a6542" letter-spacing="4">CIVILIZATION THEORY · 文明的三层结构</text>
+    <text x="0" y="26" font-size="14" fill="#5a4d32" font-style="italic" letter-spacing="1">"Civilization is what cannot be designed — only evolved."</text>
+
+    <!-- Three layers: Praxeology -> Spontaneous Order -> Theory & History -->
+    <g transform="translate(0, 70)">
+      <text x="0" y="0" font-size="14" fill="#a89678" letter-spacing="3">三层递进 · THREE LAYERS</text>
+      <line x1="0" y1="18" x2="780" y2="18" stroke="#4a3d22" stroke-width="1"/>
+
+      <!-- Layer 1: Praxeology (bottom, foundation) -->
+      <g transform="translate(0, 40)">
+        <rect x="0" y="0" width="780" height="70" fill="none" stroke="#B4A078" stroke-width="1.5"/>
+        <text x="20" y="30" font-size="18" fill="#E8DCC8" letter-spacing="2">① 行动学 · PRAXEOLOGY</text>
+        <text x="20" y="52" font-size="14" fill="#a89678" font-style="italic">米塞斯 — 人类行为是有目的的行为</text>
+        <text x="560" y="42" font-size="13" fill="#7a6542">→ 基础层</text>
+      </g>
+      <g transform="translate(0, 122)">
+        <rect x="0" y="0" width="780" height="70" fill="none" stroke="#B4A078" stroke-width="1.5"/>
+        <text x="20" y="30" font-size="18" fill="#E8DCC8" letter-spacing="2">② 自发秩序 · SPONTANEOUS ORDER</text>
+        <text x="20" y="52" font-size="14" fill="#a89678" font-style="italic">哈耶克 — 文明是演化的结果，不是设计的产物</text>
+        <text x="560" y="42" font-size="13" fill="#7a6542">→ 中层</text>
+      </g>
+      <g transform="translate(0, 204)">
+        <rect x="0" y="0" width="780" height="70" fill="none" stroke="#d9b26b" stroke-width="1.5"/>
+        <text x="20" y="30" font-size="18" fill="#E8DCC8" letter-spacing="2">③ 文明理论 · THEORY &amp; HISTORY</text>
+        <text x="20" y="52" font-size="14" fill="#a89678" font-style="italic">朱海就 — 文明为什么是文明（元理论层）</text>
+        <text x="560" y="42" font-size="13" fill="#7a6542">→ 顶层</text>
+      </g>
+    </g>
+
+    <!-- The Great Divergence 2.0 four poles -->
+    <g transform="translate(0, 330)">
+      <text x="0" y="0" font-size="14" fill="#a89678" letter-spacing="3">大分流 2.0 · 思想谱系四层 · FOUR POLES</text>
+
+      <line x1="0" y1="18" x2="780" y2="18" stroke="#4a3d22" stroke-width="1"/>
+
+      <!-- Four poles as pillars -->
+      <g transform="translate(0, 34)">
+        <rect x="0" y="0" width="180" height="90" fill="none" stroke="#B4A078" stroke-width="1"/>
+        <text x="90" y="30" font-size="15" fill="#E8DCC8" text-anchor="middle" font-weight="700">Saxenian 1994</text>
+        <text x="90" y="52" font-size="12" fill="#a89678" text-anchor="middle" font-style="italic">区域地理学</text>
+        <text x="90" y="72" font-size="11" fill="#7a6542" text-anchor="middle">制度为何差异</text>
+      </g>
+      <g transform="translate(195, 34)">
+        <rect x="0" y="0" width="180" height="90" fill="none" stroke="#B4A078" stroke-width="1"/>
+        <text x="90" y="30" font-size="15" fill="#E8DCC8" text-anchor="middle" font-weight="700">Eggertsson 1990</text>
+        <text x="90" y="52" font-size="12" fill="#a89678" text-anchor="middle" font-style="italic">NIE 奠基</text>
+        <text x="90" y="72" font-size="11" fill="#7a6542" text-anchor="middle">制度为何演化</text>
+      </g>
+      <g transform="translate(390, 34)">
+        <rect x="0" y="0" width="180" height="90" fill="none" stroke="#B4A078" stroke-width="1"/>
+        <text x="90" y="30" font-size="15" fill="#E8DCC8" text-anchor="middle" font-weight="700">Pomeranz 1993</text>
+        <text x="90" y="52" font-size="12" fill="#a89678" text-anchor="middle" font-style="italic">经济史</text>
+        <text x="90" y="72" font-size="11" fill="#7a6542" text-anchor="middle">经济史为何分叉</text>
+      </g>
+      <g transform="translate(585, 34)">
+        <rect x="0" y="0" width="195" height="90" fill="none" stroke="#d9b26b" stroke-width="1.5"/>
+        <text x="97" y="30" font-size="15" fill="#d9b26b" text-anchor="middle" font-weight="700">朱海就 2026</text>
+        <text x="97" y="52" font-size="12" fill="#a89678" text-anchor="middle" font-style="italic">文明理论</text>
+        <text x="97" y="72" font-size="11" fill="#7a6542" text-anchor="middle">文明为何是文明</text>
+      </g>
+    </g>
+
+    <!-- Bottom quote band -->
+    <g transform="translate(0, 500)">
+      <line x1="0" y1="0" x2="780" y2="0" stroke="url(#glow-band)" stroke-width="1"/>
+      <text x="0" y="30" font-size="16" fill="#E8DCC8" font-style="italic" letter-spacing="1">
+        "任何试图用行政手段'设计'开源制度的努力，都是对文明本身的破坏。"
+      </text>
+      <text x="0" y="54" font-size="12" fill="#7a6542" font-style="italic" letter-spacing="1">
+        — 适兕对朱海就这本著作的开源翻译
+      </text>
+    </g>
+  </g>
+
+  <!-- Signature bottom right -->
+  <g transform="translate(1870, 1080)" text-anchor="end">
+    <text x="0" y="0" font-size="14" fill="#5a4d32" letter-spacing="3">窄廊  ·  开源之道</text>
+  </g>
+</svg>
