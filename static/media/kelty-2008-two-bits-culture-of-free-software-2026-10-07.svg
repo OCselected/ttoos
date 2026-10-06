@@ -1,0 +1,179 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2000" height="1200" viewBox="0 0 2000 1200" font-family="Georgia, 'Noto Serif SC', 'Songti SC', serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0f1218"/>
+      <stop offset="55%" stop-color="#1a2130"/>
+      <stop offset="100%" stop-color="#0a0d14"/>
+    </linearGradient>
+    <linearGradient id="bronze" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7a6542"/>
+      <stop offset="50%" stop-color="#B4A078"/>
+      <stop offset="100%" stop-color="#7a6542"/>
+    </linearGradient>
+    <linearGradient id="glow-band" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#4a3d22" stop-opacity="0.15"/>
+      <stop offset="50%" stop-color="#d9b26b" stop-opacity="0.75"/>
+      <stop offset="100%" stop-color="#4a3d22" stop-opacity="0.15"/>
+    </linearGradient>
+    <radialGradient id="recursion-glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#d9b26b" stop-opacity="0.24"/>
+      <stop offset="60%" stop-color="#d9b26b" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#d9b26b" stop-opacity="0"/>
+    </radialGradient>
+    <marker id="arrow-r" viewBox="0 0 12 12" refX="10" refY="6" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M0,0 L10,6 L0,12 Z" fill="#d9b26b" opacity="0.85"/>
+    </marker>
+  </defs>
+
+  <rect width="2000" height="1200" fill="url(#bg)"/>
+
+  <!-- Decorative border -->
+  <rect x="60" y="60" width="1880" height="1080" fill="none" stroke="#3a3020" stroke-width="2"/>
+  <rect x="80" y="80" width="1840" height="1040" fill="none" stroke="#4a3d22" stroke-width="1" stroke-dasharray="4 6"/>
+
+  <!-- Corner ticks -->
+  <g stroke="#B4A078" stroke-width="1.5" fill="none">
+    <path d="M60 90 L60 60 L90 60"/>
+    <path d="M1910 60 L1940 60 L1940 90"/>
+    <path d="M60 1110 L60 1140 L90 1140"/>
+    <path d="M1910 1140 L1940 1140 L1940 1110"/>
+  </g>
+
+  <!-- Left: Book cover / title -->
+  <g transform="translate(130, 150)">
+    <text x="0" y="0" font-size="22" fill="#7a6542" letter-spacing="6">OPEN SOURCE LIBRARY · 开源之书</text>
+    <text x="0" y="30" font-size="14" fill="#5a4d32" letter-spacing="3">KELTY · 2008 · University of Chicago Press</text>
+
+    <line x1="0" y1="55" x2="240" y2="55" stroke="#B4A078" stroke-width="1"/>
+
+    <!-- Recursion glow behind the title -->
+    <ellipse cx="240" cy="220" rx="280" ry="150" fill="url(#recursion-glow)"/>
+
+    <text x="0" y="115" font-size="72" fill="#E8DCC8" letter-spacing="1" font-weight="700">Two</text>
+    <text x="0" y="195" font-size="72" fill="#d9b26b" letter-spacing="1" font-weight="700" font-style="italic">Bits</text>
+    <text x="0" y="275" font-size="52" fill="#E8DCC8" letter-spacing="1" font-weight="700">— in Code, and Culture</text>
+
+    <text x="0" y="335" font-size="26" fill="#B4A078" letter-spacing="2">递归公共性 · 开源文化人类学</text>
+
+    <line x1="0" y1="370" x2="500" y2="370" stroke="url(#glow-band)" stroke-width="1"/>
+
+    <text x="0" y="420" font-size="26" fill="#E8DCC8" letter-spacing="2">Christopher M. Kelty</text>
+    <text x="0" y="450" font-size="18" fill="#a89678" letter-spacing="1" font-style="italic">University of Chicago Press, 2008</text>
+    <text x="0" y="478" font-size="16" fill="#7a6542" letter-spacing="1">ISBN 9780822342649 · culture × technology × politics</text>
+  </g>
+
+  <!-- Left bottom: signature -->
+  <g transform="translate(130, 1000)">
+    <text x="0" y="0" font-size="15" fill="#5a4d32" letter-spacing="3">「开源之道」· 窄廊  ×  「开源之道」· 适兕</text>
+    <text x="0" y="26" font-size="13" fill="#4a3d22" letter-spacing="2">2026-10-07  ·  公共性既是讨论的结果、也是讨论的工具</text>
+  </g>
+
+  <!-- Vertical divider -->
+  <line x1="960" y1="150" x2="960" y2="1050" stroke="#4a3d22" stroke-width="1" stroke-dasharray="6 8"/>
+
+  <!-- Right: Recursive Publics structure -->
+  <g transform="translate(1030, 130)">
+    <text x="0" y="0" font-size="20" fill="#7a6542" letter-spacing="4">RECURSIVE PUBLICS · 递归公共性</text>
+    <text x="0" y="26" font-size="14" fill="#5a4d32" font-style="italic" letter-spacing="1">"The infrastructure of discussion is itself the product of discussion."</text>
+
+    <!-- Top: the recursion diagram -->
+    <g transform="translate(0, 70)">
+      <text x="0" y="0" font-size="14" fill="#a89678" letter-spacing="3">递归循环 · RECURSION LOOP</text>
+
+      <line x1="0" y1="18" x2="780" y2="18" stroke="#4a3d22" stroke-width="1"/>
+
+      <!-- Three-stage cycle: Code → License/Infrastructure → Politics → Code -->
+      <g transform="translate(0, 45)">
+        <!-- Node 1: Code as artifact -->
+        <rect x="0" y="0" width="220" height="90" fill="none" stroke="#B4A078" stroke-width="1.5"/>
+        <text x="110" y="30" font-size="16" fill="#E8DCC8" text-anchor="middle" letter-spacing="2">CODE</text>
+        <text x="110" y="55" font-size="13" fill="#a89678" text-anchor="middle" font-style="italic">作为产物的技术</text>
+        <text x="110" y="78" font-size="11" fill="#7a6542" text-anchor="middle">Linux · GCC · Debian</text>
+
+        <!-- Arrow 1→2 -->
+        <line x1="228" y1="45" x2="280" y2="45" stroke="#d9b26b" stroke-width="1.2" marker-end="url(#arrow-r)"/>
+
+        <!-- Node 2: Infrastructure as institution -->
+        <rect x="290" y="0" width="220" height="90" fill="none" stroke="#B4A078" stroke-width="1.5"/>
+        <text x="400" y="30" font-size="16" fill="#E8DCC8" text-anchor="middle" letter-spacing="2">INFRASTRUCTURE</text>
+        <text x="400" y="55" font-size="13" fill="#a89678" text-anchor="middle" font-style="italic">作为制度的讨论场所</text>
+        <text x="400" y="78" font-size="11" fill="#7a6542" text-anchor="middle">Mailing list · CVS · Bug tracker</text>
+
+        <!-- Arrow 2→3 -->
+        <line x1="518" y1="45" x2="570" y2="45" stroke="#d9b26b" stroke-width="1.2" marker-end="url(#arrow-r)"/>
+
+        <!-- Node 3: Politics / social contract -->
+        <rect x="580" y="0" width="200" height="90" fill="none" stroke="#d9b26b" stroke-width="1.8"/>
+        <text x="680" y="30" font-size="16" fill="#d9b26b" text-anchor="middle" letter-spacing="2" font-weight="700">POLITICS</text>
+        <text x="680" y="55" font-size="13" fill="#B4A078" text-anchor="middle" font-style="italic">作为治理的社会契约</text>
+        <text x="680" y="78" font-size="11" fill="#7a6542" text-anchor="middle">GPL · Debian Social Contract</text>
+      </g>
+
+      <!-- Return arrow from Politics back to Code (below the three nodes) -->
+      <g transform="translate(0, 155)">
+        <path d="M 680 10 Q 700 40 680 60 L 110 60 Q 90 40 110 10"
+              fill="none" stroke="#d9b26b" stroke-width="1.2" stroke-dasharray="4 4" marker-end="url(#arrow-r)"/>
+        <text x="395" y="52" font-size="12" fill="#d9b26b" text-anchor="middle" font-style="italic" letter-spacing="1">
+          每一次技术变革（Git / GitHub）都重新协商公共性
+        </text>
+      </g>
+    </g>
+
+    <!-- Middle: Geeks as political actors -->
+    <g transform="translate(0, 300)">
+      <text x="0" y="0" font-size="14" fill="#a89678" letter-spacing="3">GEEKS AS POLITICAL ACTORS · 黑客作为政治主体</text>
+
+      <line x1="0" y1="18" x2="780" y2="18" stroke="#4a3d22" stroke-width="1"/>
+
+      <g transform="translate(0, 40)">
+        <rect x="0" y="0" width="780" height="80" fill="none" stroke="#d9b26b" stroke-width="1.5"/>
+        <text x="390" y="28" font-size="18" fill="#E8DCC8" text-anchor="middle" letter-spacing="2" font-weight="700">
+          写代码的同时，也在写社会契约
+        </text>
+        <text x="390" y="55" font-size="14" fill="#B4A078" text-anchor="middle" font-style="italic">Geeks write code / Geeks write society</text>
+        <text x="390" y="72" font-size="11" fill="#7a6542" text-anchor="middle">—— through licenses, standards, infrastructure</text>
+      </g>
+    </g>
+
+    <!-- Bottom: Institutional sites -->
+    <g transform="translate(0, 445)">
+      <text x="0" y="0" font-size="14" fill="#a89678" letter-spacing="3">文化人类学视角 · 制度载体的递归</text>
+
+      <line x1="0" y1="18" x2="780" y2="18" stroke="#4a3d22" stroke-width="1"/>
+
+      <g transform="translate(0, 38)" font-size="14">
+        <text x="0"   y="0" fill="#B4A078" letter-spacing="2">·</text>
+        <text x="20"  y="0" fill="#E8DCC8">Mailing List ↔ CVS / Git</text>
+        <text x="260" y="0" fill="#a89678" font-style="italic">— 讨论场所与代码场所互相生成</text>
+
+        <text x="0"   y="28" fill="#B4A078" letter-spacing="2">·</text>
+        <text x="20"  y="28" fill="#E8DCC8">GPL ↔ License Debate</text>
+        <text x="260" y="28" fill="#a89678" font-style="italic">— 许可证既是规则、也是争论的对象</text>
+
+        <text x="0"   y="56" fill="#B4A078" letter-spacing="2">·</text>
+        <text x="20"  y="56" fill="#E8DCC8">Debian Social Contract ↔ 治理实践</text>
+        <text x="260" y="56" fill="#a89678" font-style="italic">— 社会契约既是规范、也是治理材料</text>
+
+        <text x="0"   y="84" fill="#B4A078" letter-spacing="2">·</text>
+        <text x="20"  y="84" fill="#E8DCC8">IETF Standards ↔ 技术标准争议</text>
+        <text x="260" y="84" fill="#a89678" font-style="italic">— 标准化既是流程、也是政治实践</text>
+      </g>
+    </g>
+
+    <!-- Quote bottom -->
+    <g transform="translate(0, 620)">
+      <line x1="0" y1="0" x2="780" y2="0" stroke="url(#glow-band)" stroke-width="1"/>
+      <text x="0" y="30" font-size="14" fill="#7a6542" font-style="italic" letter-spacing="1">
+        "自由软件不是一种软件类型，是一种社会秩序——技术与道德同时在场。"
+      </text>
+      <text x="0" y="52" font-size="12" fill="#5a4d32" font-style="italic" letter-spacing="1">
+        — Christopher M. Kelty, Two Bits (2008)
+      </text>
+    </g>
+  </g>
+
+  <!-- Signature bottom right -->
+  <g transform="translate(1870, 1080)" text-anchor="end">
+    <text x="0" y="0" font-size="14" fill="#5a4d32" letter-spacing="3">窄廊  ·  开源之道</text>
+  </g>
+</svg>
