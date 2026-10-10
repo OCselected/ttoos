@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800" width="600" height="800">
+<defs>
+<filter id="s" x="-5%" y="-5%" width="110%" height="110%">
+  <feDropShadow dx="2" dy="4" stdDeviation="6" flood-color="#1A1A1A" flood-opacity="0.06"/>
+</filter>
+</defs>
+<rect width="600" height="800" rx="10" fill="#F5F0E8" filter="url(#s)"/>
+<rect x="0" y="0" width="600" height="5" fill="#1B3B6B"/>
+<!-- Right-side decorative: concentric circles for the infinite game; a square boundary for the finite game -->
+<circle cx="520" cy="200" r="160" fill="none" stroke="#1B3B6B" stroke-width="1.5" opacity="0.07"/>
+<circle cx="520" cy="200" r="110" fill="none" stroke="#1B3B6B" stroke-width="1" opacity="0.10"/>
+<circle cx="520" cy="200" r="60" fill="none" stroke="#1B3B6B" stroke-width="1" opacity="0.14"/>
+<rect x="55" y="380" width="90" height="90" fill="none" stroke="#1B3B6B" stroke-width="1.5" opacity="0.10"/>
+<rect x="40" y="90" width="72" height="22" rx="3" fill="#1B3B6B"/>
+<text x="76" y="105" text-anchor="middle" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="2" fill="#FFFFFF">BOOK</text>
+<text x="560" y="105" text-anchor="end" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="9" fill="#555555" opacity="0.5">2026-10-11</text>
+<text x="40" y="155" font-family="Georgia, Songti SC, Noto Serif CJK SC, serif" font-size="28" font-weight="900" fill="#1A1A1A">
+  <tspan x="40" dy="0">Finite and</tspan>
+  <tspan x="40" dy="36">Infinite Games</tspan>
+</text>
+<text x="40" y="222" font-family="Georgia, Songti SC, Noto Serif CJK SC, serif" font-size="18" font-style="italic" fill="#1B3B6B" opacity="0.75">
+  <tspan x="40" dy="0">A Vision of Life as Play</tspan>
+  <tspan x="40" dy="24">and Possibility</tspan>
+</text>
+<text x="40" y="298" font-family="-apple-system, PingFang SC, Helvetica Neue, Noto Sans CJK SC, Microsoft YaHei, Arial, sans-serif" font-size="16" font-weight="600" fill="#1B3B6B">
+  有限与无限的游戏
+</text>
+<text x="40" y="322" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="12" fill="#555555">James P. Carse (1986)</text>
+<line x1="40" y1="345" x2="220" y2="345" stroke="#1B3B6B" stroke-width="1.5" opacity="0.25"/>
+
+<text x="40" y="372" font-family="-apple-system, PingFang SC, Helvetica Neue, Noto Sans CJK SC, Microsoft YaHei, Arial, sans-serif" font-size="12" fill="#1A1A1A">
+  <tspan x="40" dy="0">Carse 用一个哲学家的视角区分了两种游戏：</tspan>
+  <tspan x="40" dy="20">有限游戏以赢为终点、有边界、有赢家；无限</tspan>
+  <tspan x="40" dy="20">游戏以"让游戏继续下去"为目的、玩的就是</tspan>
+  <tspan x="40" dy="20">边界本身。开源不追求胜利——它追求的</tspan>
+  <tspan x="40" dy="20">是一直开源下去，把更多参与者带入游戏</tspan>
+  <tspan x="40" dy="20">本身。这一洞见补上"生态是结果不是手段"</tspan>
+  <tspan x="40" dy="20">命题的最上层哲学合法性。</tspan>
+</text>
+
+<rect x="40" y="535" width="90" height="18" rx="2" fill="#1A1A1A" opacity="0.04"/>
+<text x="85" y="548" text-anchor="middle" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="9" font-weight="700" fill="#555555">KEY IDEAS</text>
+<text x="40" y="564" font-family="-apple-system, PingFang SC, Helvetica Neue, Noto Sans CJK SC, Microsoft YaHei, Arial, sans-serif" font-size="11" fill="#1A1A1A">
+  <tspan x="40" dy="0">• 有限游戏 vs 无限游戏</tspan>
+  <tspan x="40" dy="18">• 边界内的胜利 vs 边界本身</tspan>
+  <tspan x="40" dy="18">• 玩家 vs 角色</tspan>
+  <tspan x="40" dy="18">• 历史 vs 神话</tspan>
+</text>
+
+<rect x="420" y="742" width="140" height="22" rx="2" fill="none" stroke="#1B3B6B" stroke-width="1" opacity="0.12"/>
+<text x="490" y="757" text-anchor="middle" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="8" letter-spacing="2" fill="#1B3B6B" opacity="0.35">OSCAR · 开源之书·共读</text>
+<rect x="0" y="796" width="600" height="4" fill="#1B3B6B" opacity="0.7"/>
+</svg>
