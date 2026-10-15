@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800" width="600" height="800">
+<defs>
+<filter id="s" x="-5%" y="-5%" width="110%" height="110%">
+  <feDropShadow dx="2" dy="4" stdDeviation="6" flood-color="#1A1A1A" flood-opacity="0.06"/>
+</filter>
+</defs>
+<rect width="600" height="800" rx="10" fill="#F5F0E8" filter="url(#s)"/>
+<rect x="0" y="0" width="600" height="5" fill="#1B3B6B"/>
+<!-- Right-side decorative: concentric circles representing Luhmann's system reduction of complexity -->
+<circle cx="510" cy="230" r="170" fill="none" stroke="#1B3B6B" stroke-width="1.5" opacity="0.06"/>
+<circle cx="510" cy="230" r="120" fill="none" stroke="#1B3B6B" stroke-width="1" opacity="0.10"/>
+<circle cx="510" cy="230" r="70" fill="none" stroke="#1B3B6B" stroke-width="1" opacity="0.14"/>
+<!-- Bottom left: an "arrow of command" being blocked by the trust boundary -->
+<line x1="45" y1="500" x2="150" y2="500" stroke="#1B3B6B" stroke-width="1.5" opacity="0.35"/>
+<polygon points="150,494 165,500 150,506" fill="#1B3B6B" opacity="0.35"/>
+<line x1="175" y1="480" x2="200" y2="520" stroke="#1A1A1A" stroke-width="2.5" opacity="0.7"/>
+<line x1="175" y1="520" x2="200" y2="480" stroke="#1A1A1A" stroke-width="2.5" opacity="0.7"/>
+<rect x="40" y="90" width="72" height="22" rx="3" fill="#1B3B6B"/>
+<text x="76" y="105" text-anchor="middle" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="2" fill="#FFFFFF">BOOK</text>
+<text x="560" y="105" text-anchor="end" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="9" fill="#555555" opacity="0.5">2026-10-16</text>
+<text x="40" y="155" font-family="Georgia, Songti SC, Noto Serif CJK SC, serif" font-size="30" font-weight="900" fill="#1A1A1A">
+  <tspan x="40" dy="0">Trust and Power</tspan>
+</text>
+<text x="40" y="195" font-family="Georgia, Songti SC, Noto Serif CJK SC, serif" font-size="18" font-style="italic" fill="#1B3B6B" opacity="0.75">
+  <tspan x="40" dy="0">Vermögen und Macht</tspan>
+</text>
+<text x="40" y="248" font-family="-apple-system, PingFang SC, Helvetica Neue, Noto Sans CJK SC, Microsoft YaHei, Arial, sans-serif" font-size="16" font-weight="600" fill="#1B3B6B">
+  信任与权力
+</text>
+<text x="40" y="272" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="12" fill="#555555">Niklas Luhmann (1979)</text>
+<line x1="40" y1="295" x2="220" y2="295" stroke="#1B3B6B" stroke-width="1.5" opacity="0.25"/>
+
+<text x="40" y="322" font-family="-apple-system, PingFang SC, Helvetica Neue, Noto Sans CJK SC, Microsoft YaHei, Arial, sans-serif" font-size="12" fill="#1A1A1A">
+  <tspan x="40" dy="0">Luhmann 把信任定义为一个系统论机制——</tspan>
+  <tspan x="40" dy="20">它不是心理状态、不是道德美德，而是</tspan>
+  <tspan x="40" dy="20">"简化社会复杂性的制度安排"。他的一句</tspan>
+  <tspan x="40" dy="20">话直接击中开源治理的核心："被命令去</tspan>
+  <tspan x="40" dy="20">信任的信任，已经不再是信任。" 信任</tspan>
+  <tspan x="40" dy="20">与服从在系统论运作逻辑上根本不兼容。</tspan>
+</text>
+
+<rect x="40" y="535" width="90" height="18" rx="2" fill="#1A1A1A" opacity="0.04"/>
+<text x="85" y="548" text-anchor="middle" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="9" font-weight="700" fill="#555555">KEY IDEAS</text>
+<text x="40" y="564" font-family="-apple-system, PingFang SC, Helvetica Neue, Noto Sans CJK SC, Microsoft YaHei, Arial, sans-serif" font-size="11" fill="#1A1A1A">
+  <tspan x="40" dy="0">• 信任 = 复杂性的简化机制</tspan>
+  <tspan x="40" dy="18">• 信任 ≠ 服从</tspan>
+  <tspan x="40" dy="18">• 系统论原点的信任理论</tspan>
+  <tspan x="40" dy="18">• 行政命令与信任系统不兼容</tspan>
+</text>
+
+<rect x="420" y="742" width="140" height="22" rx="2" fill="none" stroke="#1B3B6B" stroke-width="1" opacity="0.12"/>
+<text x="490" y="757" text-anchor="middle" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="8" letter-spacing="2" fill="#1B3B6B" opacity="0.35">OSCAR · 开源之书·共读</text>
+<rect x="0" y="796" width="600" height="4" fill="#1B3B6B" opacity="0.7"/>
+</svg>
