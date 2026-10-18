@@ -22,7 +22,7 @@ categories:
 description: "Afroz 等（arXiv 2607.04003）以 294 个仓库、122 万 PR、35.7 万贡献者做贝叶斯结构时间序列估计：AI 冲击下 PR 量涨 6.8%，但一次性贡献者合并率下降 18.18%，非一次性仅降 3.45%——5.3 倍差。Yang/He/Zhou（ASE 2026）的 67 案例复制包显示 80.6% 的项目为 AI 单独立了制度，但治理压在文本层（问责 68.7%、披露 56.7%），容量层近乎空白（1.5%）。叠加 Linux 内核弃用 Assisted-by、PostgreSQL 19 撤回 8–10 个特性，指向同一个命题：生产便宜之后，开源公地稀缺的不是代码，是验证。"
 ---
 
-{{< figure src="/media/covers/verification-scarcity-ai-contributions-2026-10-19.svg" alt="验证成本作为开源公地的稀缺资源：生产几乎免费，验证仍然昂贵" width="600" >}}
+{{< figure src="/media/covers/verification-scarcity-ai-contributions-2026-10-19.png" alt="验证成本作为开源公地的稀缺资源：生产几乎免费，验证仍然昂贵" width="800" >}}
 
 # 2026-10-19  「开源之道」·论文略读：验证成本——AI 时代开源公地真正稀缺的东西
 
