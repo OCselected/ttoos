@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="800" viewBox="0 0 600 800">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0B1F33"/>
+      <stop offset="100%" stop-color="#123049"/>
+    </linearGradient>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F5EFE2"/>
+      <stop offset="100%" stop-color="#E8DFCB"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="600" height="800" fill="url(#bg)"/>
+
+  <!-- 印刷网格底纹 -->
+  <g stroke="#1D4568" stroke-width="0.6" opacity="0.55">
+    <line x1="0" y1="120" x2="600" y2="120"/>
+    <line x1="0" y1="680" x2="600" y2="680"/>
+    <line x1="60" y1="0" x2="60" y2="800"/>
+    <line x1="540" y1="0" x2="540" y2="800"/>
+  </g>
+
+  <!-- 顶部标签 -->
+  <text x="60" y="86" font-family="Georgia, 'Songti SC', serif" font-size="15" fill="#B4A078" letter-spacing="4">OPEN SOURCE WAY · PAPER READING</text>
+  <text x="60" y="108" font-family="Georgia, serif" font-size="13" fill="#8FA9BF" letter-spacing="2">2026 · 每日开源推荐 · 第 206 号</text>
+  <line x1="60" y1="120" x2="540" y2="120" stroke="#B4A078" stroke-width="1"/>
+
+  <!-- 主视觉：漏斗 / 验证闸门 —— 大量灰纸片流入，只有少量通过窄门 -->
+  <g transform="translate(0,150)">
+    <!-- 进料 -->
+    <g fill="#3E6B8E" opacity="0.9">
+      <rect x="70" y="60" width="26" height="34" rx="2"/>
+      <rect x="104" y="40" width="26" height="34" rx="2"/>
+      <rect x="138" y="70" width="26" height="34" rx="2"/>
+      <rect x="172" y="45" width="26" height="34" rx="2"/>
+      <rect x="206" y="75" width="26" height="34" rx="2"/>
+      <rect x="240" y="50" width="26" height="34" rx="2"/>
+      <rect x="274" y="30" width="26" height="34" rx="2"/>
+      <rect x="308" y="65" width="26" height="34" rx="2"/>
+      <rect x="342" y="42" width="26" height="34" rx="2"/>
+      <rect x="376" y="72" width="26" height="34" rx="2"/>
+      <rect x="410" y="48" width="26" height="34" rx="2"/>
+      <rect x="444" y="68" width="26" height="34" rx="2"/>
+      <rect x="478" y="40" width="26" height="34" rx="2"/>
+      <rect x="120" y="112" width="26" height="34" rx="2"/>
+      <rect x="188" y="118" width="26" height="34" rx="2"/>
+      <rect x="256" y="108" width="26" height="34" rx="2"/>
+      <rect x="324" y="116" width="26" height="34" rx="2"/>
+      <rect x="392" y="110" width="26" height="34" rx="2"/>
+      <rect x="460" y="120" width="26" height="34" rx="2"/>
+    </g>
+
+    <!-- 漏斗侧壁 -->
+    <path d="M60 170 L262 300 L262 330 L60 200 Z" fill="none" stroke="#8FA9BF" stroke-width="1.4" opacity="0.8"/>
+    <path d="M540 170 L338 300 L338 330 L540 200 Z" fill="none" stroke="#8FA9BF" stroke-width="1.4" opacity="0.8"/>
+
+    <!-- 闸门（窄缝） -->
+    <rect x="262" y="296" width="76" height="10" fill="#B4A078"/>
+    <rect x="262" y="306" width="76" height="4" fill="#8A7A55"/>
+
+    <!-- 通过窄门的少量纸片 -->
+    <g fill="url(#paper)">
+      <rect x="284" y="330" width="24" height="32" rx="2"/>
+      <rect x="292" y="372" width="24" height="32" rx="2"/>
+      <rect x="286" y="414" width="24" height="32" rx="2"/>
+      <rect x="294" y="456" width="24" height="32" rx="2"/>
+    </g>
+
+    <!-- 被挡在闸门上的纸片堆（阴影） -->
+    <g fill="#2A5273" opacity="0.75">
+      <rect x="196" y="252" width="22" height="28" rx="2"/>
+      <rect x="222" y="264" width="22" height="28" rx="2"/>
+      <rect x="356" y="258" width="22" height="28" rx="2"/>
+      <rect x="382" y="270" width="22" height="28" rx="2"/>
+      <rect x="248" y="276" width="22" height="22" rx="2"/>
+      <rect x="330" y="278" width="22" height="22" rx="2"/>
+    </g>
+
+    <!-- 细线标注 -->
+    <line x1="100" y1="250" x2="196" y2="250" stroke="#5A7C97" stroke-width="0.8" stroke-dasharray="3 4"/>
+    <text x="100" y="242" font-family="Georgia, serif" font-size="12" fill="#7E97AC">生产几乎免费</text>
+    <line x1="404" y1="500" x2="500" y2="500" stroke="#B4A078" stroke-width="0.8" stroke-dasharray="3 4"/>
+    <text x="410" y="522" font-family="Georgia, serif" font-size="12" fill="#B4A078">验证仍然昂贵</text>
+  </g>
+
+  <!-- 主标题 -->
+  <text x="300" y="612" text-anchor="middle" font-family="'Songti SC', 'Noto Serif CJK SC', Georgia, serif" font-size="42" fill="#F5EFE2" letter-spacing="2">验证成本</text>
+  <text x="300" y="666" text-anchor="middle" font-family="'Songti SC', 'Noto Serif CJK SC', Georgia, serif" font-size="30" fill="#E8DFCB" letter-spacing="1">作为开源公地的稀缺资源</text>
+  <line x1="220" y1="692" x2="380" y2="692" stroke="#B4A078" stroke-width="1.2"/>
+  <text x="300" y="720" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#8FA9BF" letter-spacing="2">Afroz et al. 2026 · Yang / He / Zhou ASE 2026</text>
+
+  <!-- 署名与出处 -->
+  <text x="60" y="762" font-family="Georgia, 'Songti SC', serif" font-size="13" fill="#B4A078">开源之道 · 适兕 × 窄廊</text>
+  <text x="540" y="762" text-anchor="end" font-family="Georgia, serif" font-size="12" fill="#6E8AA0">arXiv 2607.04003</text>
+</svg>
