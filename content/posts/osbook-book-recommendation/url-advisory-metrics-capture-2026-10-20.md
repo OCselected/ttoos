@@ -26,7 +26,7 @@ categories:
 description: "Rodriguez/Kannan/Chepuri（SSRN 7629481）的 advisory 计数论文，与 GitHub 官方 2026-06-29 博文、NIST 2026-04-15 NVD 运营变更、Kubernetes 2026/2025 两份公开选票、OpenCourant 关停仓库、LF BUILD Foundation 新闻稿并置读：论文摘要里的六个数能不能独立成立，取决于是谁定义了口径。K8s 选举可以用公开数据与公开源码重算出与公告一致的答案；advisory 计数不能。结论不是「谁在造假」，而是——度量权不表现为禁止，表现为问题被预先切好了；而一个治理机制能否被相信，取决于它是否允许被怀疑。"
 ---
 
-{{< figure src="/media/covers/url-advisory-metrics-capture-2026-10-20.svg" alt="度量权的上游与不可复算的数字：上游口径向下转录三层之后，刻度已经拼不回来" width="800" >}}
+{{< figure src="/media/covers/url-advisory-metrics-capture-2026-10-20.png" alt="度量权的上游与不可复算的数字：上游口径向下转录三层之后，刻度已经拼不回来" width="800" >}}
 
 # 2026-10-20  「开源之道」·荐书：度量权的上游——当数字不再能被复算
 
