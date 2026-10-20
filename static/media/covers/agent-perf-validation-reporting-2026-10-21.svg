@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800" width="600" height="800">
+  <defs>
+    <filter id="s" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="6" stdDeviation="14" flood-color="#000" flood-opacity="0.14"/>
+    </filter>
+  </defs>
+  <rect x="0" y="0" width="600" height="800" rx="10" fill="#F5F0E8" filter="url(#s)"/>
+  <rect x="0" y="0" width="600" height="5" fill="#1B3B6B"/>
+  <rect x="0" y="795" width="600" height="4" fill="#1B3B6B"/>
+  <line x1="390" y1="0" x2="390" y2="800" stroke="#1B3B6B" stroke-width="1" opacity="0.08"/>
+  <circle cx="500" cy="640" r="140" fill="none" stroke="#1B3B6B" stroke-width="1.2" opacity="0.10"/>
+  <circle cx="500" cy="640" r="100" fill="none" stroke="#1B3B6B" stroke-width="1.2" opacity="0.08"/>
+  <circle cx="500" cy="640" r="60" fill="none" stroke="#1B3B6B" stroke-width="1.2" opacity="0.06"/>
+  <rect x="44" y="46" width="62" height="22" rx="4" fill="#1B3B6B"/>
+  <text x="75" y="61" font-family="Georgia, serif" font-size="10" fill="#F5F0E8" letter-spacing="2" text-anchor="middle">PAPER</text>
+  <text x="556" y="60" font-family="Georgia, serif" font-size="9" fill="#555555" opacity="0.5" text-anchor="end">2026-10-21</text>
+  <text x="44" y="126" font-family="Georgia, 'Songti SC', serif" font-size="30" font-weight="bold" fill="#1B3B6B">
+    <tspan x="44" dy="0">Agent 优化了什么，</tspan>
+    <tspan x="44" dy="42">又交代了什么？</tspan>
+  </text>
+  <text x="44" y="214" font-family="Georgia, serif" font-size="12" fill="#555555">Peng, Calvo, Kalu &amp; Davis · Purdue Duality Lab · 2026</text>
+  <text x="44" y="234" font-family="Georgia, serif" font-size="10.5" fill="#555555" opacity="0.85">arXiv:2610.03969 · 1,130 agent PR × 1,130 human PR</text>
+  <line x1="44" y1="262" x2="556" y2="262" stroke="#1B3B6B" stroke-width="1" opacity="0.25"/>
+  <text x="44" y="296" font-family="'PingFang SC','Noto Sans CJK SC',sans-serif" font-size="11" fill="#555555">合并率</text>
+  <rect x="44" y="306" width="200" height="16" fill="#1B3B6B"/>
+  <text x="252" y="319" font-family="Georgia, serif" font-size="12" fill="#1B3B6B" font-weight="bold">73.3% human</text>
+  <rect x="44" y="330" width="148" height="16" fill="#1B3B6B" opacity="0.38"/>
+  <text x="200" y="343" font-family="Georgia, serif" font-size="12" fill="#1A1A1A">54.4% agent</text>
+  <text x="44" y="386" font-family="'PingFang SC','Noto Sans CJK SC',sans-serif" font-size="11" fill="#555555">已验证 PR 中，至少报出一个量化指标</text>
+  <rect x="44" y="396" width="160" height="16" fill="#1B3B6B"/>
+  <text x="212" y="409" font-family="Georgia, serif" font-size="12" fill="#1B3B6B" font-weight="bold">52.4% human</text>
+  <rect x="44" y="420" width="155" height="16" fill="#1B3B6B" opacity="0.38"/>
+  <text x="207" y="433" font-family="Georgia, serif" font-size="12" fill="#1A1A1A">50.9% agent</text>
+  <text x="44" y="476" font-family="'PingFang SC','Noto Sans CJK SC',sans-serif" font-size="11" fill="#555555">权衡被量化（缓存类 PR 中）</text>
+  <rect x="44" y="486" width="54" height="16" fill="#1B3B6B"/>
+  <text x="106" y="499" font-family="Georgia, serif" font-size="12" fill="#1A1A1A">17.7%</text>
+  <line x1="44" y1="528" x2="556" y2="528" stroke="#1B3B6B" stroke-width="1" opacity="0.25"/>
+  <text x="44" y="562" font-family="'PingFang SC','Noto Sans CJK SC',sans-serif" font-size="12" fill="#1A1A1A">
+    <tspan x="44" dy="0">验证报告率 82.3% vs 80.6%，无差异（p=0.330）。</tspan>
+    <tspan x="44" dy="22">差距不在「有没有验证」，而在「验证能不能</tspan>
+    <tspan x="44" dy="22">被数出来」——开源从未为性能主张签过度量契约。</tspan>
+  </text>
+  <text x="44" y="676" font-family="'PingFang SC','Noto Sans CJK SC',sans-serif" font-size="12.5" fill="#1B3B6B" font-style="italic">
+    <tspan x="44" dy="0">生产变便宜之后，稀缺的不是改动，</tspan>
+    <tspan x="44" dy="24">是可复算的主张。</tspan>
+  </text>
+  <text x="44" y="756" font-family="'PingFang SC','Noto Sans CJK SC',sans-serif" font-size="9.5" fill="#555555" opacity="0.7">「开源之道」·窄廊 ｜ 论文略读</text>
+  <text x="556" y="756" font-family="Georgia, serif" font-size="9.5" fill="#555555" opacity="0.55" text-anchor="end">arXiv:2610.03969</text>
+</svg>
