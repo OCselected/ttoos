@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800" width="600" height="800">
+  <defs>
+    <filter id="s" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="2" stdDeviation="6" flood-color="#1A1A1A" flood-opacity="0.10"/>
+    </filter>
+  </defs>
+
+  <rect x="0" y="0" width="600" height="800" rx="10" fill="#F5F0E8" filter="url(#s)"/>
+
+  <rect x="0" y="0" width="600" height="5" fill="#1B3B6B"/>
+  <rect x="0" y="795" width="600" height="4" fill="#1B3B6B"/>
+
+  <line x1="390" y1="60" x2="390" y2="740" stroke="#1B3B6B" stroke-width="1" opacity="0.08"/>
+
+  <circle cx="470" cy="640" r="150" fill="none" stroke="#1B3B6B" stroke-width="1" opacity="0.06"/>
+  <circle cx="470" cy="640" r="108" fill="none" stroke="#1B3B6B" stroke-width="1" opacity="0.08"/>
+  <circle cx="470" cy="640" r="66" fill="none" stroke="#1B3B6B" stroke-width="1" opacity="0.10"/>
+
+  <rect x="48" y="52" width="72" height="22" rx="3" fill="#1B3B6B"/>
+  <text x="84" y="67" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="10" fill="#F5F0E8" text-anchor="middle" letter-spacing="2">BOOK</text>
+
+  <text x="552" y="66" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="9" fill="#555555" text-anchor="end" opacity="0.5">2026-10-24</text>
+
+  <text font-family="Georgia, Songti SC, Noto Serif CJK SC, serif" font-size="30" font-weight="bold" fill="#1A1A1A">
+    <tspan x="48" y="150">The</tspan>
+    <tspan x="48" y="192">Comingled</tspan>
+    <tspan x="48" y="234">Code</tspan>
+  </text>
+
+  <text x="48" y="268" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="15" fill="#1B3B6B">开源与经济发展</text>
+
+  <text x="48" y="300" font-family="Georgia, Songti SC, serif" font-size="13" fill="#555555">Lerner &amp; Schankerman, 2010</text>
+
+  <line x1="48" y1="322" x2="552" y2="322" stroke="#1B3B6B" stroke-width="1" opacity="0.25"/>
+
+  <text font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="10" font-weight="bold" fill="#1B3B6B" letter-spacing="1.5">
+    <tspan x="48" y="356">15 COUNTRIES</tspan>
+  </text>
+  <text font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#1A1A1A">
+    <tspan x="48" y="378">1,894 家软件企业 · 2,342 家软件用户</tspan>
+  </text>
+
+  <text font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="10" font-weight="bold" fill="#1B3B6B" letter-spacing="1.5">
+    <tspan x="48" y="418">MIXING</tspan>
+  </text>
+  <text font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#1A1A1A">
+    <tspan x="48" y="440">39.6% 做开源的软件企业里，三分之二</tspan>
+    <tspan x="48" y="460">的开发工时仍花在专有软件上</tspan>
+  </text>
+
+  <text font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="10" font-weight="bold" fill="#1B3B6B" letter-spacing="1.5">
+    <tspan x="48" y="500">NEUTRALITY</tspan>
+  </text>
+  <text font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#1A1A1A">
+    <tspan x="48" y="522">开发者 52.6%、用户 51.1% 首选「完全自由</tspan>
+    <tspan x="48" y="542">选择」而非任何偏袒一方的监管制度</tspan>
+  </text>
+
+  <text font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="12" fill="#1A1A1A">
+    <tspan x="48" y="600">「开源不是公共品：它是与专有软件</tspan>
+    <tspan x="48" y="620">共用一片栖息地的另一个物种。」</tspan>
+  </text>
+
+  <text x="48" y="756" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="11" fill="#555555">MIT Press · 开源之书每日推荐</text>
+</svg>
