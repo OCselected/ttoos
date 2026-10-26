@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800" width="600" height="800">
+<defs>
+<filter id="s" x="-5%" y="-5%" width="110%" height="110%">
+  <feDropShadow dx="2" dy="4" stdDeviation="6" flood-color="#1A1A1A" flood-opacity="0.06"/>
+</filter>
+</defs>
+<rect width="600" height="800" rx="10" fill="#F5F0E8" filter="url(#s)"/>
+<rect x="0" y="0" width="600" height="5" fill="#1B3B6B"/>
+<rect x="0" y="795" width="600" height="4" fill="#1B3B6B"/>
+<line x1="390" y1="60" x2="390" y2="740" stroke="#1B3B6B" stroke-width="1" opacity="0.08"/>
+<circle cx="532" cy="588" r="135" fill="none" stroke="#1B3B6B" stroke-width="1.5" opacity="0.06"/>
+<circle cx="532" cy="588" r="90" fill="none" stroke="#1B3B6B" stroke-width="1.2" opacity="0.08"/>
+<circle cx="532" cy="588" r="46" fill="none" stroke="#1B3B6B" stroke-width="1" opacity="0.10"/>
+<rect x="449" y="228" width="6" height="6" fill="#1B3B6B" opacity="0.10" transform="rotate(45, 452, 231)"/>
+<rect x="472" y="254" width="5" height="5" fill="#1B3B6B" opacity="0.08" transform="rotate(45, 474, 256)"/>
+<rect x="437" y="274" width="7" height="7" fill="#1B3B6B" opacity="0.10" transform="rotate(45, 440, 277)"/>
+<circle cx="459" cy="318" r="2.5" fill="#1B3B6B" opacity="0.12"/>
+<circle cx="479" cy="336" r="2" fill="#1B3B6B" opacity="0.10"/>
+<circle cx="444" cy="358" r="2.5" fill="#1B3B6B" opacity="0.10"/>
+<circle cx="469" cy="393" r="2" fill="#1B3B6B" opacity="0.09"/>
+<rect x="40" y="70" width="72" height="22" rx="3" fill="#1B3B6B"/>
+<text x="76" y="85" text-anchor="middle" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="2" fill="#FFFFFF">BOOK</text>
+<text x="560" y="80" text-anchor="end" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="9" fill="#555555" opacity="0.5">2026-10-27</text>
+<text x="40" y="110" font-family="Georgia, Songti SC, Noto Serif CJK SC, serif" font-size="28" font-weight="900" fill="#1A1A1A">
+  <tspan x="40" dy="0">The</tspan>
+  <tspan x="40" dy="36">Craftsman</tspan>
+</text>
+<text x="40" y="234" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="12" fill="#555555">Richard Sennett (2008, Yale UP)</text>
+<line x1="40" y1="262" x2="222" y2="262" stroke="#1B3B6B" stroke-width="1.5" opacity="0.25"/>
+<text x="40" y="284" font-family="-apple-system, PingFang SC, Helvetica Neue, Noto Sans CJK SC, Microsoft YaHei, Arial, sans-serif" font-size="12" fill="#1A1A1A">
+  <tspan x="40" dy="0">「为了把事情做好而把事情做好的愿望」——</tspan>
+  <tspan x="40" dy="20">Sennett 把手艺追到它被拆散的源头：中世纪</tspan>
+  <tspan x="40" dy="20">工坊里，技能靠身体相传、靠社群维持、靠</tspan>
+  <tspan x="40" dy="20">被留白的模糊性延续。手工变成艺术，工坊</tspan>
+  <tspan x="40" dy="20">沦为低等空间，质量的权威随之失去落脚的</tspan>
+  <tspan x="40" dy="20">地方——这才是手艺真正的失落。</tspan>
+</text>
+<rect x="40" y="432" width="90" height="18" rx="2" fill="#1A1A1A" opacity="0.04"/>
+<text x="85" y="445" text-anchor="middle" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="9" font-weight="700" fill="#555555">KEY IDEAS</text>
+<text x="40" y="471" font-family="-apple-system, PingFang SC, Helvetica Neue, Noto Sans CJK SC, Microsoft YaHei, Arial, sans-serif" font-size="11" fill="#1A1A1A">
+  <tspan x="40" dy="0">• 技能从身体开始（making is thinking）</tspan>
+  <tspan x="40" dy="18">• 工坊 = 技能的社群制度</tspan>
+  <tspan x="40" dy="18">• 抗拒与模糊不被清除，是进步的轨道</tspan>
+  <tspan x="40" dy="18">• 三种能力：定位、提问、打开</tspan>
+</text>
+<text x="465" y="512" font-family="Georgia, Songti SC, Noto Serif CJK SC, serif" font-size="9" fill="#1B3B6B" opacity="0.40">
+  <tspan x="465" dy="0">做</tspan>
+  <tspan x="465" dy="11">好</tspan>
+  <tspan x="465" dy="11">不</tspan>
+  <tspan x="465" dy="11">是</tspan>
+  <tspan x="465" dy="11">能</tspan>
+  <tspan x="465" dy="11">被</tspan>
+  <tspan x="465" dy="11">考</tspan>
+  <tspan x="465" dy="11">核</tspan>
+  <tspan x="465" dy="11">出</tspan>
+  <tspan x="465" dy="11">来</tspan>
+  <tspan x="465" dy="11">的</tspan>
+</text>
+<text x="465" y="668" font-family="-apple-system, PingFang SC, Helvetica Neue, Noto Sans CJK SC, Microsoft YaHei, Arial, sans-serif" font-size="8" fill="#1B3B6B" opacity="0.30">— Richard Sennett</text>
+<rect x="40" y="742" width="170" height="22" rx="2" fill="none" stroke="#1B3B6B" stroke-width="1" opacity="0.12"/>
+<text x="125" y="757" text-anchor="middle" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="8" letter-spacing="2" fill="#1B3B6B" opacity="0.35">开源之道 · 适兕 × 窄廊</text>
+<rect x="420" y="742" width="140" height="22" rx="2" fill="none" stroke="#1B3B6B" stroke-width="1" opacity="0.12"/>
+<text x="490" y="757" text-anchor="middle" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="8" letter-spacing="2" fill="#1B3B6B" opacity="0.35">OPEN SOURCE · 荐书</text>
+</svg>
