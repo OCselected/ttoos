@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800" width="600" height="800">
+<defs>
+<filter id="s" x="-5%" y="-5%" width="110%" height="110%">
+  <feDropShadow dx="2" dy="4" stdDeviation="6" flood-color="#1A1A1A" flood-opacity="0.06"/>
+</filter>
+</defs>
+<rect width="600" height="800" rx="10" fill="#F5F0E8" filter="url(#s)"/>
+<rect x="0" y="0" width="600" height="5" fill="#1B3B6B"/>
+<rect x="0" y="795" width="600" height="4" fill="#1B3B6B"/>
+<line x1="390" y1="60" x2="390" y2="740" stroke="#1B3B6B" stroke-width="1" opacity="0.08"/>
+<circle cx="535" cy="590" r="135" fill="none" stroke="#1B3B6B" stroke-width="1.5" opacity="0.06"/>
+<circle cx="535" cy="590" r="90" fill="none" stroke="#1B3B6B" stroke-width="1.2" opacity="0.08"/>
+<circle cx="535" cy="590" r="46" fill="none" stroke="#1B3B6B" stroke-width="1" opacity="0.10"/>
+<rect x="450" y="232" width="6" height="6" fill="#1B3B6B" opacity="0.10" transform="rotate(45, 453, 235)"/>
+<rect x="473" y="256" width="5" height="5" fill="#1B3B6B" opacity="0.08" transform="rotate(45, 475, 258)"/>
+<rect x="438" y="276" width="7" height="7" fill="#1B3B6B" opacity="0.10" transform="rotate(45, 441, 279)"/>
+<circle cx="460" cy="320" r="2.5" fill="#1B3B6B" opacity="0.12"/>
+<circle cx="480" cy="338" r="2" fill="#1B3B6B" opacity="0.10"/>
+<circle cx="445" cy="360" r="2.5" fill="#1B3B6B" opacity="0.10"/>
+<circle cx="470" cy="395" r="2" fill="#1B3B6B" opacity="0.09"/>
+<rect x="40" y="70" width="72" height="22" rx="3" fill="#1B3B6B"/>
+<text x="76" y="85" text-anchor="middle" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="2" fill="#FFFFFF">BOOK</text>
+<text x="560" y="80" text-anchor="end" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="9" fill="#555555" opacity="0.5">2026-10-31</text>
+<text x="40" y="112" font-family="Georgia, Songti SC, Noto Serif CJK SC, serif" font-size="30" font-weight="900" fill="#1A1A1A">
+  <tspan x="40" dy="0">Hackers</tspan>
+  <tspan x="40" dy="38">Heroes of the</tspan>
+  <tspan x="40" dy="38">Computer</tspan>
+  <tspan x="40" dy="38">Revolution</tspan>
+</text>
+<text x="40" y="292" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="12" fill="#555555">Steven Levy (1984)</text>
+<line x1="40" y1="318" x2="222" y2="318" stroke="#1B3B6B" stroke-width="1.5" opacity="0.25"/>
+<text x="40" y="340" font-family="-apple-system, PingFang SC, Helvetica Neue, Noto Sans CJK SC, Microsoft YaHei, Arial, sans-serif" font-size="12" fill="#1A1A1A">
+  <tspan x="40" dy="0">开源没有宪法，只有一部口述传统。Levy</tspan>
+  <tspan x="40" dy="20">在 1984 年从 MIT 机房那群人身上，把</tspan>
+  <tspan x="40" dy="20">它抄成了六条：无限访问、信息自由、不</tspan>
+  <tspan x="40" dy="20">信任权威、以 hacking 论人、代码里有美。</tspan>
+  <tspan x="40" dy="20">他不写理论，只记下谁被允许进那间屋子、</tspan>
+  <tspan x="40" dy="20">凭什么进——那是四十年来每一份治理章程</tspan>
+  <tspan x="40" dy="20">背后真正的成文法来源。</tspan>
+</text>
+<rect x="40" y="500" width="90" height="18" rx="2" fill="#1A1A1A" opacity="0.04"/>
+<text x="85" y="513" text-anchor="middle" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="9" font-weight="700" fill="#555555">KEY IDEAS</text>
+<text x="40" y="539" font-family="-apple-system, PingFang SC, Helvetica Neue, Noto Sans CJK SC, Microsoft YaHei, Arial, sans-serif" font-size="11" fill="#1A1A1A">
+  <tspan x="40" dy="0">• 黑客伦理：六条未成文的资格规则</tspan>
+  <tspan x="40" dy="18">• 以 hacking 论人 = 否定的准入清单</tspan>
+  <tspan x="40" dy="18">• L1 社会嵌入层：最难复制的一层</tspan>
+  <tspan x="40" dy="18">• 规矩是被说出来的，不是被设计出来的</tspan>
+</text>
+<text x="465" y="525" font-family="Georgia, Songti SC, Noto Serif CJK SC, serif" font-size="9" fill="#1B3B6B" opacity="0.40">
+  <tspan x="465" dy="0">以</tspan>
+  <tspan x="465" dy="11">动</tspan>
+  <tspan x="465" dy="11">手</tspan>
+  <tspan x="465" dy="11">之</tspan>
+  <tspan x="465" dy="11">名</tspan>
+  <tspan x="465" dy="11">，</tspan>
+  <tspan x="465" dy="11">定</tspan>
+  <tspan x="465" dy="11">谁</tspan>
+  <tspan x="465" dy="11">可</tspan>
+  <tspan x="465" dy="11">入</tspan>
+  <tspan x="465" dy="11">门</tspan>
+</text>
+<text x="465" y="660" font-family="-apple-system, PingFang SC, Helvetica Neue, Noto Sans CJK SC, Microsoft YaHei, Arial, sans-serif" font-size="8" fill="#1B3B6B" opacity="0.30">— Steven Levy</text>
+<rect x="420" y="742" width="140" height="22" rx="2" fill="none" stroke="#1B3B6B" stroke-width="1" opacity="0.12"/>
+<text x="490" y="757" text-anchor="middle" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="8" letter-spacing="2" fill="#1B3B6B" opacity="0.35">OPEN SOURCE · 荐书</text>
+</svg>
