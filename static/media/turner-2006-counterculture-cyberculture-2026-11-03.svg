@@ -54,4 +54,5 @@
 <text x="465" y="660" font-family="-apple-system, PingFang SC, Helvetica Neue, Noto Sans CJK SC, Microsoft YaHei, Arial, sans-serif" font-size="8" fill="#1B3B6B" opacity="0.30">— Fred Turner</text>
 <rect x="420" y="742" width="140" height="22" rx="2" fill="none" stroke="#1B3B6B" stroke-width="1" opacity="0.12"/>
 <text x="490" y="757" text-anchor="middle" font-family="Helvetica Neue, SF Pro Text, Arial, sans-serif" font-size="8" letter-spacing="2" fill="#1B3B6B" opacity="0.35">OPEN SOURCE · 荐书</text>
+<text x="40" y="757" font-family="-apple-system, PingFang SC, Helvetica Neue, Noto Sans CJK SC, Microsoft YaHei, Arial, sans-serif" font-size="9" fill="#B4A078">开源之道 · 适兕 × 窄廊</text>
 </svg>
