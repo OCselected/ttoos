@@ -4,9 +4,16 @@
   用法（在文章的 "## 关于作者" 段落里）：
     {{< kuosi-bio >}}
 
+  ⚠️ 必须用 .Page.RenderString 渲染。
+     shortcode 模板输出的是 HTML，模板里的 Markdown 不会被 markdown 渲染器处理——
+     直接写 ![](..) / [text](..) 会在页面上变成字面文本，头像和链接双双失效。
+     任何在本文件里新增的 Markdown 都必须经过 RenderString。
+
   变更历史：
     2026-11-04  抽出 partial；正文采用 issues-musings 最新一批落款（去掉已过期的
                 「Linux基金会亚太区开源布道者」「开放原子资深顾问」等头衔）。
                 此前 200+ 篇文章各自内嵌一份副本，措辞有 12 种变体，无法统一维护。
+    2026-11-04  改为 .Page.RenderString，修复头像不显示、链接不解析。
 */ -}}
-![](/public/kuosi-face-of-os.png)「发现开源三部曲」（[《开源之迷》](/posts/book-of-open-source/the-fascinating-of-open-source/)，《开源之道》《开源之思》。）、[《开源之史》](/posts/history-of-open-source/summary/)作者，「开源之道：致力于开源相关思想、知识和价值的探究」主创，Social Hacker，协作机制设计者。
+{{- $bio := `![](/public/kuosi-face-of-os.png)「发现开源三部曲」（[《开源之迷》](/posts/book-of-open-source/the-fascinating-of-open-source/)，《开源之道》《开源之思》。）、[《开源之史》](/posts/history-of-open-source/summary/)作者，「开源之道：致力于开源相关思想、知识和价值的探究」主创，Social Hacker，协作机制设计者。` -}}
+{{ $bio | .Page.RenderString }}
