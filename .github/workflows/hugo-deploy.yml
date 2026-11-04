@@ -33,3 +33,58 @@ jobs:
           cname: opensourceway.blog
           publish_branch: gh-pages
           allow_empty_commit: true
+
+      # ─────────────────────────────────────────────────────────────
+      # 部署后健康检查（方案 A，2026-11-04 引入）
+      #
+      # 背景：deploy 阶段靠 2021 年的静态 SSH key，GitHub 侧偶发
+      # 「Permission denied (publickey)」会让 build 成功、deploy 失败，
+      # 而 Actions 只把它压成一个红格子——线上内容停留在旧版本却没人发现。
+      #
+      # 这里做两件事：
+      #   1. 断言 gh-pages 顶部 commit 确实对应当前这次 push
+      #   2. 断言线上站点已生效（CDN 滞后时给足重试窗口）
+      #
+      # 失败时输出明确的判定，并提示：偶发的 SSH 抖动直接 rerun 即可。
+      # ─────────────────────────────────────────────────────────────
+      - name: Verify deployment landed
+        if: github.ref == 'refs/heads/papermod-theme'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          EXPECTED: ${{ github.sha }}
+        run: |
+          set -uo pipefail
+
+          echo "期望 commit: ${EXPECTED}"
+
+          # ① gh-pages 顶部 commit 必须是本次构建的产物
+          landed=""
+          for i in $(seq 1 10); do
+            msg=$(gh api "repos/OCselected/ocselected.github.io/commits/gh-pages" --jq '.commit.message' 2>/dev/null || true)
+            if echo "$msg" | grep -q "${EXPECTED}"; then
+              landed="yes"; echo "✅ gh-pages 已包含 ${EXPECTED:0:8}（第 $i 次探测）"; break
+            fi
+            echo "  [$i/10] gh-pages 顶部: $(echo "$msg" | head -1 | cut -c1-70)"; sleep 15
+          done
+
+          if [ -z "$landed" ]; then
+            echo "::error title=部署未落地::gh-pages 顶部 commit 不含 ${EXPECTED:0:8}。若日志中出现 'Permission denied (publickey)'，这是 GitHub 侧的 SSH 认证抖动，rerun 即可；连续两次失败则应改用 GITHUB_TOKEN 部署（方案 B）。"
+            exit 1
+          fi
+
+          # ② 线上站点生效（CDN 可能滞后，给 6 分钟）
+          site_ok=""
+          for i in $(seq 1 12); do
+            code=$(curl -s -o /dev/null -w '%{http_code}' --max-time 25 https://opensourceway.blog/ || echo 000)
+            if [ "$code" = "200" ]; then
+              site_ok="yes"; echo "✅ 线上站点 HTTP 200（第 $i 次探测）"; break
+            fi
+            echo "  [$i/12] 线上 HTTP $code"; sleep 30
+          done
+
+          if [ -z "$site_ok" ]; then
+            echo "::error title=线上站点异常::部署已完成，但 https://opensourceway.blog/ 未返回 200。请人工检查 Caddy / GitHub Pages / DNS。"
+            exit 1
+          fi
+
+          echo "🎉 部署健康检查通过"

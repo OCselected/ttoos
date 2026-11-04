@@ -18,6 +18,7 @@ authors:
 - Linux Foundation
 translater:
 - 开源之道
+comments: true
 ---
 
 ## Welcome
