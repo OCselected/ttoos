@@ -3,7 +3,7 @@ categories:
 - 开源
 - 感悟
 date: 2026-11-04T09:00:00+08:00
-description: "OSPO 最大的困境从来不是说不清价值，而是被迫用一把量不了开源的尺子去证明自己。Dawn Foster 这场演讲的价值不在给出方法论，而在示范了一件事：当领导层问「你们做了什么」，正确的回答不是补一份更漂亮的报表，而是把问题本身换成「不投会发生什么」。本文整理自 Open Source Summit North America 2026 的演讲，并把四个步骤放回「度量权」这条线索里重看。"
+description: "OSPO 最大的困境从来不是说不清价值，而是被迫用一把量不了开源的尺子去证明自己。Dawn Foster 这场演讲的价值不在给出方法论，而在示范了一件事：当领导层问「你们做了什么」，正确的回答不是补一份更漂亮的报表，而是把问题本身换成「不投会发生什么」。本文整理自 Open Source Summit Europe 2026（布拉格）的演讲，并把四个步骤放回「度量权」这条线索里重看。"
 keywords:
 - Open Source
 - OSPO
@@ -180,17 +180,16 @@ Linux 基金会的 Ibrahim Haddad 博士在 2026 年 6 月的报告《Measuring 
 **演讲信息**
 
 - **讲者**：Dawn Foster（Fast Wonder；CHAOSS 项目长期贡献者，CHAOSS OSPO 工作组联合主席，曾任 CNCF 贡献者战略 TAG 联合主席）
-- **场合**：Open Source Summit North America 2026，**2026 年 5 月 18 日 13:30–14:10 CDT**，Minneapolis 会议中心 200A
-- **视频**：[YouTube](https://www.youtube.com/watch?v=uhnTkYTiv6o)
-- **幻灯片**：[Demonstrating-Value-OSSNA-2026.pdf](https://fastwonderblog.com/wp-content/uploads/2026/05/Demonstrating-Value-OSSNA-2026.pdf)
+- **场合**：Open Source Summit Europe 2026（与 Embedded Linux Conference Europe 2026 同期举办），**2026 年 10 月 7–9 日，布拉格会议中心（Prague Congress Centre），捷克**
+- **视频**：[YouTube · The Linux Foundation](https://youtu.be/8b4W4pgapaM)
 - **整理说明**：本文依据讲者提供的演讲脚本与公开材料整理，非逐字翻译；引述处保留原意，评论部分为整理者所加。
 
 ## 参考资料
 
 1. Dawn Foster, *A Strategic Approach to Demonstrating the Value of OSS Efforts*（演讲），Fast Wonder — https://fastwonderblog.com/
-2. 演讲视频（YouTube，Open Source Summit NA 2026）— https://www.youtube.com/watch?v=uhnTkYTiv6o
-3. 演讲幻灯片（PDF）— https://fastwonderblog.com/wp-content/uploads/2026/05/Demonstrating-Value-OSSNA-2026.pdf
-4. OSS NA 2026 议程页（Dawn Foster, Independent，May 18 13:30 CDT, 200A）— https://osselcna2026.sched.com/event/2JQqO/
+2. **演讲视频（YouTube，The Linux Foundation 频道）** — https://youtu.be/8b4W4pgapaM
+3. **Open Source Summit Europe 2026 会议主页**（2026 年 10 月 7–9 日，布拉格） — https://events.linuxfoundation.org/open-source-summit-europe/
+4. **Embedded Linux Conference Europe 2026**（与 OSS EU 2026 同期举办，布拉格） — https://elinux.org/ELC_Europe_2026_Presentations
 5. CHAOSS Practitioner Guide: **Demonstrating Organizational Value** — https://chaoss.community/practitioner-guide-demonstrating-org-value/
 6. CHAOSS Practitioner Guides 总览 — https://chaoss.community/practitioner-guides/
 7. CHAOSS（社区健康分析开源软件） — https://chaoss.community/
