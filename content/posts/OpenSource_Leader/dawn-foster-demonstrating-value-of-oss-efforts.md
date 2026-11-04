@@ -2,7 +2,7 @@
 categories:
 - 开源
 - 感悟
-date: 2026-11-04T09:30:00+08:00
+date: 2026-11-04T07:30:00+08:00
 description: "开源团队最常见的困境不是做不好工作，而是说不清工作的价值。Dawn Foster 在 Open Source Summit 的演讲给出了一个反直觉的起点：不要从指标开始，从组织目标开始。本文整理自她的演讲《Strategic Approach To Demonstrating the Value of OSS Efforts》，内容涵盖目标对齐、关键性判定、项目健康风险与价值沟通四个层次，也收录了现场问答中关于「我们不写软件，如何证明价值」的那个难题。"
 keywords:
 - Open Source
