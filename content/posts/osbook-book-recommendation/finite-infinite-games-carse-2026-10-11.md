@@ -72,11 +72,11 @@ Carse 在本书中提出一个看似简单、实则极具解释力的分类法�
 
 ## 关联阅读
 
-- [[two-bits-kelty|Kelty《Two Bits》（2008）]] — 文化人类学视角下的开源公共性递归生产（已推荐 2026-10-07），与 Carse 的哲学视角互补：Kelty 讲"公共性如何被生产"、Carse 讲"公共性的目的论基础"
-- [[axelrod-1984-the-evolution-of-cooperation|Axelrod《合作的进化》（1984）]] — 有限游戏视角下的开源治理机制原型（已推荐 2026-09-06），与 Carse 形成"有限/无限"双视角对照
-- [[pagden-2013-the-enlightenment|Pagden《The Enlightenment》（2013）]] — 公共理性传统的思想史合法性（已推荐 2026-09-25），与 Carse 共同回答"制度合法性从哪里来"
-- [[working-in-public|Eghbal《Working in Public》（2020）]] — 数字劳动视角下的开源，"体育场"分类与 Carse "玩家/角色"框架的对话
-- [[weber-2004-success-of-open-source|Weber《The Success of Open Source》（2004）]] — 政治学视角的开源，与 Carse 的哲学视角形成"经验/本体"互补
+- [Kelty《Two Bits》（2008）](/posts/osbook-book-recommendation/two-bits-kelty/) — 文化人类学视角下的开源公共性递归生产（已推荐 2026-10-07），与 Carse 的哲学视角互补：Kelty 讲"公共性如何被生产"、Carse 讲"公共性的目的论基础"
+- [Axelrod《合作的进化》（1984）](/posts/osbook-book-recommendation/axelrod-1984-the-evolution-of-cooperation-2026-09-06/) — 有限游戏视角下的开源治理机制原型（已推荐 2026-09-06），与 Carse 形成"有限/无限"双视角对照
+- [Pagden《The Enlightenment》（2013）](/posts/osbook-book-recommendation/pagden-2013-the-enlightenment-2026-09-25/) — 公共理性传统的思想史合法性（已推荐 2026-09-25），与 Carse 共同回答"制度合法性从哪里来"
+- [Eghbal《Working in Public》（2020）](/posts/osbook-book-recommendation/working-in-public/) — 数字劳动视角下的开源，"体育场"分类与 Carse "玩家/角色"框架的对话
+- [Weber《The Success of Open Source》（2004）](/posts/osbook-book-recommendation/weber-2004-success-of-open-source/) — 政治学视角的开源，与 Carse 的哲学视角形成"经验/本体"互补
 
 ## 延伸思考
 

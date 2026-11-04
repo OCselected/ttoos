@@ -56,8 +56,8 @@ Coleman 通过深入的田野调查（包括亲历 Debian 社区的开发过程�
 
 ## 关联阅读
 
-- [[cathedral-and-bazaar|Raymond《大教堂与集市》]] — 开源的经典文化宣言，与 Coleman 的学术分析形成互补
-- [[weber-2004-success-of-open-source|Weber《The Success of Open Source》]] — 政治学视角的开源分析，与 Coleman 的文化视角形成对照
+- [Raymond《大教堂与集市》](/posts/osbook-book-recommendation/cathedral-and-bazaar/) — 开源的经典文化宣言，与 Coleman 的学术分析形成互补
+- [Weber《The Success of Open Source》](/posts/osbook-book-recommendation/weber-2004-success-of-open-source/) — 政治学视角的开源分析，与 Coleman 的文化视角形成对照
 - [Two Bits](https://github.com/opensourceway/book-recommendation/issues) — Christopher M. Kelty 关于「递归公共」的另一部关键人类学著作，与 Coding Freedom 并列为开源文化研究的两座里程碑
 
 ---

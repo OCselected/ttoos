@@ -101,9 +101,9 @@ Lee & Cole 并非主张社区模式完全取代企业模式。事实上，两者
 
 ## 关联阅读
 
-- [[simple-economics-open-source|Lerner & Tirole《The Simple Economics of Open Source》]] — 同一问题的经济学视角
-- [[weber-2004-success-of-open-source|Weber《The Success of Open Source》]] — 政治学视角的补充
-- [[two-bits-kelty|Kelty《Two Bits》]] — 文化人类学视角，关注技术基础设施如何塑造知识生产
+- [Lerner & Tirole《The Simple Economics of Open Source》](/posts/osbook-book-recommendation/simple-economics-open-source/) — 同一问题的经济学视角
+- [Weber《The Success of Open Source》](/posts/osbook-book-recommendation/weber-2004-success-of-open-source/) — 政治学视角的补充
+- [Kelty《Two Bits》](/posts/osbook-book-recommendation/two-bits-kelty/) — 文化人类学视角，关注技术基础设施如何塑造知识生产
 - Nonaka, I. (1994). "A Dynamic Theory of Organizational Knowledge Creation" — 与本文对比阅读，理解企业模型与社区模型的差异
 
 ---

@@ -101,4 +101,4 @@ authors:
 
 ## 关于作者
 
-![](/public/kuosi-face-of-os.png)「发现开源三部曲」（[《开源之迷》](posts/book-of-open-source/the-fascinating-of-open-source/)已出版，《开源之道》《开源之思》《开源之商》撰写中。）作者，「开源之道：致力于开源相关思想、知识和价值的探究、推动」主创。
+{{< kuosi-bio >}}

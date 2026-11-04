@@ -55,9 +55,9 @@ Ostrom 强调「渐进式自我完善」（incremental self-improvement）——
 
 ## 拓展阅读
 
-- [[weber-2004-success-of-open-source|Weber《The Success of Open Source》]] — 政治学视角的制度分析，与 Ostrom 互补
-- [[benkler-2006-wealth-of-networks|Benkler《The Wealth of Networks》]] — 公地生产的信息经济学视角
-- [[birkinbine-2020-incorporating-digital-commons|Birkinbine《Incorporating the Digital Commons》]] — 批判政治经济学视角，与 Ostrom 形成张力
+- [Weber《The Success of Open Source》](/posts/osbook-book-recommendation/weber-2004-success-of-open-source/) — 政治学视角的制度分析，与 Ostrom 互补
+- [Benkler《The Wealth of Networks》](/posts/osbook-book-recommendation/benkler-2006-wealth-of-networks/) — 公地生产的信息经济学视角
+- [Birkinbine《Incorporating the Digital Commons》](/posts/osbook-book-recommendation/birkinbine-2020-incorporating-digital-commons/) — 批判政治经济学视角，与 Ostrom 形成张力
 
 ---
 

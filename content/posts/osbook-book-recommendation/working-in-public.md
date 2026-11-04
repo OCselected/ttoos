@@ -86,9 +86,9 @@ Eghbal 的答案指向了平台和机构的角色——GitHub Sponsors、Open Co
 
 ## 拓展阅读
 
-- [[weber-2004-success-of-open-source|Weber《The Success of Open Source》]] — 政治学视角，与 Eghbal 形成互补（分别是「为什么成功」和「成功之后怎么办」）
-- [[benkler-2006-wealth-of-networks|Benkler《The Wealth of Networks》]] — 公地生产的乐观叙事，与 Eghbal 的批判视角形成张力
-- [[birkinbine-2020-incorporating-digital-commons|Birkinbine《Incorporating the Digital Commons》]] — 从批判政治经济学视角审视数字公地的商品化，与 Eghbal 的平台视角形成共鸣
+- [Weber《The Success of Open Source》](/posts/osbook-book-recommendation/weber-2004-success-of-open-source/) — 政治学视角，与 Eghbal 形成互补（分别是「为什么成功」和「成功之后怎么办」）
+- [Benkler《The Wealth of Networks》](/posts/osbook-book-recommendation/benkler-2006-wealth-of-networks/) — 公地生产的乐观叙事，与 Eghbal 的批判视角形成张力
+- [Birkinbine《Incorporating the Digital Commons》](/posts/osbook-book-recommendation/birkinbine-2020-incorporating-digital-commons/) — 从批判政治经济学视角审视数字公地的商品化，与 Eghbal 的平台视角形成共鸣
 
 ---
 

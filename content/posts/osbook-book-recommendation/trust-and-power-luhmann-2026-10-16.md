@@ -100,12 +100,12 @@ Luhmann 的洞见还有一个更积极的面向：如果信任是"简化复杂�
 
 ## 关联阅读
 
-- [[coleman-1990-foundations-of-social-theory|Coleman《Foundations of Social Theory》（1990）]] — 信任作为社会资本的副产品（已推荐 2026-09-17），与 Luhmann 共同构成"信任从哪里来"的两大源头：Coleman 讲"信任是社会网络的涌现"、Luhmann 讲"信任是复杂性的简化"
-- [[ostrom-1990-governing-the-commons|Ostrom《Governing the Commons》（1990）]] — 外部权威强加规则会挤出社区内部信任（已推荐 2026-09-13），与 Luhmann 的"行政命令与信任系统不兼容"形成经验/理论双证据
-- [[ellickson-1991-order-without-law|Ellickson《Order without Law》（1991）]] — 秩序来自反复互动中的规范涌现而非法律强制（已推荐 2026-09-21），与 Luhmann 共同构成"信任如何被赢得"的双重视角
-- [[pagden-2013-the-enlightenment|Pagden《The Enlightenment》（2013）]] — 公共理性的思想史合法性（已推荐 2026-09-25），与 Luhmann 形成"信任从哪里来"的**思想史版本 vs 系统论版本**对话
-- [[kelty-2008-two-bits-culture-of-free-software|Kelty《Two Bits》（2008）]] — 递归公共性的文化人类学（已推荐 2026-10-07），与 Luhmann 形成"信任如何被生产"的**人类学 vs 系统论**双视角
-- [[axelrod-1984-the-evolution-of-cooperation|Axelrod《The Evolution of Cooperation》（1984）]] — 一报还一报作为开源治理的博弈论原型（已推荐 2026-09-06），与 Luhmann 的"信任是复杂性简化机制"形成"演化策略 vs 系统论机制"的双重视角
+- [Coleman《Foundations of Social Theory》（1990）](/posts/osbook-book-recommendation/coleman-1990-foundations-of-social-theory-2026-09-17/) — 信任作为社会资本的副产品（已推荐 2026-09-17），与 Luhmann 共同构成"信任从哪里来"的两大源头：Coleman 讲"信任是社会网络的涌现"、Luhmann 讲"信任是复杂性的简化"
+- [Ostrom《Governing the Commons》（1990）](/posts/osbook-book-recommendation/ostrom-1990-governing-the-commons-2026-09-13/) — 外部权威强加规则会挤出社区内部信任（已推荐 2026-09-13），与 Luhmann 的"行政命令与信任系统不兼容"形成经验/理论双证据
+- [Ellickson《Order without Law》（1991）](/posts/osbook-book-recommendation/ellickson-1991-order-without-law-2026-09-21/) — 秩序来自反复互动中的规范涌现而非法律强制（已推荐 2026-09-21），与 Luhmann 共同构成"信任如何被赢得"的双重视角
+- [Pagden《The Enlightenment》（2013）](/posts/osbook-book-recommendation/pagden-2013-the-enlightenment-2026-09-25/) — 公共理性的思想史合法性（已推荐 2026-09-25），与 Luhmann 形成"信任从哪里来"的**思想史版本 vs 系统论版本**对话
+- [Kelty《Two Bits》（2008）](/posts/osbook-book-recommendation/kelty-2008-two-bits-culture-of-free-software-2026-10-07/) — 递归公共性的文化人类学（已推荐 2026-10-07），与 Luhmann 形成"信任如何被生产"的**人类学 vs 系统论**双视角
+- [Axelrod《The Evolution of Cooperation》（1984）](/posts/osbook-book-recommendation/axelrod-1984-the-evolution-of-cooperation-2026-09-06/) — 一报还一报作为开源治理的博弈论原型（已推荐 2026-09-06），与 Luhmann 的"信任是复杂性简化机制"形成"演化策略 vs 系统论机制"的双重视角
 
 ## 延伸思考
 

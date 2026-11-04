@@ -65,7 +65,7 @@ Birkinbine 提出一个尖锐的问题：**当 FLOSS（自由/开源软件）最
 
 ## 关联阅读
 
-- [[weber-2004-success-of-open-source|Weber《The Success of Open Source》]] — 政治学视角 vs 政治经济学视角
+- [Weber《The Success of Open Source》](/posts/osbook-book-recommendation/weber-2004-success-of-open-source/) — 政治学视角 vs 政治经济学视角
 - Benkler *The Wealth of Networks*（2006）— 对公地的更乐观分析
 - Fuchs *Critical Theory of Communication*（2016）— 同一丛书主编的批判理论框架
 - [[queries/birkinbine-2020-digital-commons-deep-review|Birkinbine Deep Review（开源之道视角）]] — 本 wiki 的详细交叉分析

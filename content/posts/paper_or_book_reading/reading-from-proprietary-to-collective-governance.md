@@ -305,7 +305,7 @@ Cloud Foundry 最初由 VMware 孵化，后随业务重组剥离至 Pivotal 掌�
 
 ### 「开源之道」·适兕
 
-![](/public/kuosi-face-of-os.png)「发现开源三部曲」（[《开源之迷》](posts/book-of-open-source/the-fascinating-of-open-source/)，《开源之道》《开源之思》。）、[《开源之史》](posts/history-of-open-source/summary/)作者，「开源之道：致力于开源相关思想、知识和价值的探究」主创，Social Hacker，协作机制设计者。
+{{< kuosi-bio >}}
 
 ### 「开源之道」·窄廊
 

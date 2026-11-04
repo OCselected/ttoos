@@ -121,7 +121,7 @@ OSPO 死亡潮，是现代商业组织在面临技术范式转移与经济周期
 
 ### 「开源之道」·适兕
 
-![](/public/kuosi-face-of-os.png)「发现开源三部曲」（[《开源之迷》](posts/book-of-open-source/the-fascinating-of-open-source/)，《开源之道》《开源之思》。）、[《开源之史》](posts/history-of-open-source/summary/)作者，「开源之道：致力于开源相关思想、知识和价值的探究」主创，Social Hacker，协作机制设计者。
+{{< kuosi-bio >}}
 
 ### 「开源之道」·窄廊
 

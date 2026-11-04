@@ -73,9 +73,9 @@ Kelty 在 1990 年代末至 2000 年代初深入自由/开源软件社区，进�
 
 ## 关联阅读
 
-- [[coding-freedom|Coleman《Coding Freedom: The Ethics and Aesthetics of Hacking》]] — 开源人类学的另一面，聚焦道德与政治
-- [[weber-2004-success-of-open-source|Weber《The Success of Open Source》]] — 政治学视角的互补阅读
-- [[governing-the-commons|Ostrom《Governing the Commons》]] — 制度经济学视角的公共性分析
+- [Coleman《Coding Freedom: The Ethics and Aesthetics of Hacking》](/posts/osbook-book-recommendation/coding-freedom/) — 开源人类学的另一面，聚焦道德与政治
+- [Weber《The Success of Open Source》](/posts/osbook-book-recommendation/weber-2004-success-of-open-source/) — 政治学视角的互补阅读
+- [Ostrom《Governing the Commons》](/posts/osbook-book-recommendation/governing-the-commons/) — 制度经济学视角的公共性分析
 
 ---
 

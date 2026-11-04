@@ -32,4 +32,4 @@ wikipedia 的出现，以及替代大百科全书，没有比这个更为让人�
 
 ## 关于作者
 
-![](/public/kuosi-face-of-os.png)「发现开源三部曲」（[《开源之迷》](posts/book-of-open-source/the-fascinating-of-open-source/)，《开源之道》《开源之思》。）、[《开源之史》](posts/history-of-open-source/summary/)作者，「开源之道：致力于开源相关思想、知识和价值的探究、推动」主创，Linux基金会亚太区开源布道者，TODO Ambassadors & OSPOlogyLive China Organizer，云计算开源产业联盟OSCAR（中国信息通信研究院发起)个人开源专家，OSPO Summit 联合发起人。
+{{< kuosi-bio >}}

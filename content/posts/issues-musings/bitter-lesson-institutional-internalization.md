@@ -184,7 +184,7 @@ The Bitter Lesson 告诉我们"外部约束终将被吃掉"——这是效率的
 
 ### 「开源之道」·适兕
 
-![](/public/kuosi-face-of-os.png)「发现开源三部曲」（[《开源之迷》](posts/book-of-open-source/the-fascinating-of-open-source/)，《开源之道》《开源之思》）、[《开源之史》](posts/history-of-open-source/summary/)作者，「开源之道」主创，Linux基金会亚太区开源布道者，Social Hacker，协作机制设计者。
+{{< kuosi-bio >}}
 
 ### 「开源之道」·窄廊
 

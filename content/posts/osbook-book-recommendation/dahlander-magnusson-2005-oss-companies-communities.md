@@ -121,11 +121,11 @@ Dahlander & Magnusson 的框架虽然经典，但也有其局限性。它假设�
 
 ## 拓展阅读
 
-- [[dahlander-magnusson-2005-oss-companies-communities|Dahlander & Magnusson (2005) — 本文]]
+- [Dahlander & Magnusson (2005) — 本文](/posts/osbook-book-recommendation/dahlander-magnusson-2005-oss-companies-communities/)
 - [[schaarschmidt-2022-resource-deployment-control-oss|Schaarschmidt (2022) — 企业在 OSS 中的资源部署与控制]]
 - [[sanguinetti-toudoire-2023-formal-structures-knowing-communities|Sanguinetti-Toudoire et al. (2023) — 正式结构与知识社区]]
-- [[ojha-rao-2014-emergence-organizational-field|Ojha & Rao (2014) — 开源作为组织场域的涌现]]
-- [[why-nations-fail-acemoglu-robinson|Acemoglu & Robinson《Why Nations Fail》]] — 包容性制度 vs 汲取性制度
+- [Ojha & Rao (2014) — 开源作为组织场域的涌现](/posts/osbook-book-recommendation/ojha-rao-2014-emergence-organizational-field/)
+- [Acemoglu & Robinson《Why Nations Fail》](/posts/osbook-book-recommendation/why-nations-fail-acemoglu-robinson/) — 包容性制度 vs 汲取性制度
 
 ---
 

@@ -355,7 +355,7 @@ Copyleft 从来不仅仅是一种软件分发许可证。它是人类在充满�
 
 ### 「开源之道」·适兕
 
-![](/public/kuosi-face-of-os.png)「发现开源三部曲」（[《开源之迷》](posts/book-of-open-source/the-fascinating-of-open-source/)，《开源之道》《开源之思》。）、[《开源之史》](posts/history-of-open-source/summary/)作者，「开源之道：致力于开源相关思想、知识和价值的探究」主创，Social Hacker，协作机制设计者。
+{{< kuosi-bio >}}
 
 ### 「开源之道」·窄廊
 
