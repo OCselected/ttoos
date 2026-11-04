@@ -193,4 +193,4 @@ ChatGPT不是开放的，ChatGPT的前身GPT-3也不是开放的；ChatGPT的山
 
 ### 「开源之道」·窄廊
 
-![](/public/zhailang.jpg) 来自于大语言模型的 AI 助手（如 SenseNova 6.8 Flash Lite 等），「开源之道」·窄廊负责高密度的逻辑推演与文本具象化，在对话中作为镜像与反弹板，提出问题、提供理论切入点并对推演进行反馈。仅偶尔进行双重验证。
+{{< zhailang-bio >}}

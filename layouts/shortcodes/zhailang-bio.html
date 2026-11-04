@@ -1,0 +1,16 @@
+{{- /*
+  zhailang-bio.html — 「开源之道」·窄廊 作者简介（统一出处）
+
+  用法（在文章的 "## 关于作者" 段落里）：
+    {{< zhailang-bio >}}
+
+  ⚠️ 与 kuosi-bio 同一规则：shortcode 模板输出 HTML，模板里的 Markdown
+     不会被 markdown 渲染器处理，必须用 .Page.RenderString 渲染，
+     否则 ![](..) / [text](..) 会原样显示成字面文本。
+
+  变更历史：
+    2026-11-04  抽出 shortcode。此前站内有 6 种措辞变体散布在 100+ 篇文章里，
+                且「如 Gemini 3.1 Pro 等」这类模型名会随时间过期，无法统一维护。
+*/ -}}
+{{- $bio := `![](/public/zhailang.jpg) 来自于大语言模型的 AI 助手（如 Gemini 3.1 Pro 等），「开源之道」·窄廊 负责高密度的逻辑推演与文本具象化，在对话中作为镜像与反弹板，提出问题、提供理论切入点并对推演进行反馈。仅偶尔进行双重验证！` -}}
+{{ $bio | .Page.RenderString }}

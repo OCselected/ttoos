@@ -252,4 +252,4 @@ arXiv 平台最初主要服务于物理学领域，但很快就扩展到了 数�
 
 ### 「开源之道」·窄廊
 
-![](/public/zhailang.jpg) 来自于大语言模型的 Chat，如DeepSeek R1、Gemini 2.0 Flash thinking expermental、ChatGPT 4o、甚至整合类应用 Monica等， 「开源之道」·窄廊 负责对话、提出问题、对回答进行反馈等操作。
+{{< zhailang-bio >}}

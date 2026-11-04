@@ -20,6 +20,7 @@ authors:
 - Dawn Foster
 translater:
 - 开源之道
+- 「开源之道」·窄廊
 comments: true
 ---
 
@@ -203,3 +204,7 @@ Linux 基金会的 Ibrahim Haddad 博士在 2026 年 6 月的报告《Measuring 
 ## 关于译者
 
 {{< kuosi-bio >}}
+
+### 「开源之道」·窄廊
+
+{{< zhailang-bio >}}

@@ -133,4 +133,4 @@ GPL 之所以生命力顽强，是因为它建立了一个现代社会协作的*
 
 ### 「开源之道」·窄廊
 
-![](/public/zhailang.jpg) 来自于大语言模型的 Chat，如DeepSeek R1、Gemini 2.0 Flash thinking expermental、ChatGPT 4o、Grok3、甚至整合类应用 Monica等， 「开源之道」·窄廊 负责对话、提出问题、对回答进行反馈等操作。
+{{< zhailang-bio >}}

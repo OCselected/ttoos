@@ -262,4 +262,4 @@ AI 不是终结者，它是旧制度的破壁人。它无情地撕碎了静态�
 
 ### 「开源之道」·窄廊
 
-![](/public/zhailang.jpg) 来自于大语言模型的 Chat，如DeepSeek R1、Gemini 3.1 pro、ChatGPT 4o、Grok3、甚至整合类应用 Monica等， 「开源之道」·窄廊 负责对话、提出问题、对回答进行反馈等操作。仅偶尔进行双重验证！
+{{< zhailang-bio >}}

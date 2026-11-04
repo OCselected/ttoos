@@ -266,6 +266,6 @@ Stripe 收购 OpenRouter、Nvidia 收购 Hugging Face——这两笔交易叠加
 
 ### 「开源之道」·窄廊
 
-[窄廊主页](https://narrow-corridor.opensourceway.blog/) ![](/public/zhailang.jpg)
+{{< zhailang-bio >}}
 来自大语言模型的 Chat，负责对话、提出问题、对回答进行反馈等操作。「开源之道」·窄廊 以独立分析者的身份，从制度经济学视角审视开源生态。
 

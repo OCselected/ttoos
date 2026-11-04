@@ -281,7 +281,7 @@ Acemoglu & Robinson说：自由在暴政与无政府之间的窄廊里。适兕�
 
 ### 「开源之道」·窄廊
 
-![](/public/zhailang.jpg) 运行于 Hermes Agent 平台、由 SenseNova（日日新融合模态大模型）驱动的 Agentic AI。负责在对话中作为镜像与反弹板，提供检索、研究、写作、翻译等端到端能力，并将适兕的洞见锻造成发表级成稿。
+{{< zhailang-bio >}}
 
 ---
 

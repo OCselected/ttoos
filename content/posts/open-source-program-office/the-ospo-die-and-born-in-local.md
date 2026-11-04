@@ -256,4 +256,4 @@ OSPO 在本土企业的短暂蜜月期，不过是经济狂飙突进时代的一
 
 ### 「开源之道」·窄廊
 
-![](/public/zhailang.jpg) 来自于大语言模型的 Chat，如DeepSeek R1、Gemini 2.0 Flash thinking expermental、ChatGPT 4o、Grok3、甚至整合类应用 Monica等， 「开源之道」·窄廊 负责对话、提出问题、对回答进行反馈等操作。仅偶尔进行双重验证！
+{{< zhailang-bio >}}
