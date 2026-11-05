@@ -1,5 +1,16 @@
 {{- define "main" }}
 
+{{- /* 动态统计可搜索文章数 —— 口径必须与 index.json 完全一致，
+       否则页面上说的数字和实际能搜到的条数对不上。
+       index.json 的过滤条件：site.RegularPages 去掉 searchHidden、
+       archives 布局、search 布局三种。多语言站点要限定当前语言。 */ -}}
+{{- $count := 0 -}}
+{{- range .Site.RegularPages -}}
+    {{- if and (not .Params.searchHidden) (ne .Layout `archives`) (ne .Layout `search`) -}}
+        {{- $count = add $count 1 -}}
+    {{- end -}}
+{{- end -}}
+
 <header class="page-header">
     <h1>{{- (printf "%s&nbsp;" .Title ) | htmlUnescape -}}
         <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none"
@@ -9,11 +20,9 @@
         </svg>
         <span class="search-shortcut-hint">/</span>
     </h1>
-    {{- if .Description }}
-    <div class="post-description">
-        {{ .Description }}
+    <div class="post-description search-total">
+        搜索全部 <strong id="searchTotalCount">{{ $count }}</strong> 篇文章，支持标题、摘要和全文模糊匹配。按 / 键快速聚焦搜索框。
     </div>
-    {{- end }}
 </header>
 
 <link crossorigin="anonymous" rel="preload" as="fetch" href="../index.json">

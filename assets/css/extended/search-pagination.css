@@ -1,0 +1,114 @@
+/* 搜索结果统计 + 分页
+ * 配合 assets/js/fastsearch.js 使用。
+ * 主题变量：PaperMod 用 --primary / --secondary / --tertiary / --border / --entry 等，
+ * 所有颜色走变量，深浅色主题自动跟随。
+ */
+
+/* ---------- 页首总数 ---------- */
+.search-total {
+    margin-top: .4rem;
+}
+
+.search-total strong {
+    color: var(--primary);
+    font-variant-numeric: tabular-nums;
+    font-size: 1.05em;
+}
+
+/* ---------- 结果统计条 ---------- */
+#searchStat {
+    margin-top: 1rem;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: .75rem;
+}
+
+#searchStat:empty {
+    display: none;
+}
+
+.search-stat-total {
+    font-size: .875rem;
+    color: var(--secondary);
+    font-variant-numeric: tabular-nums;
+}
+
+.search-stat-total strong {
+    color: var(--primary);
+    font-weight: 600;
+}
+
+/* ---------- 分页 ---------- */
+.search-pager {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: .25rem;
+}
+
+.search-page-btn {
+    min-width: 2.25rem;
+    padding: .3rem .6rem;
+    font-size: .875rem;
+    line-height: 1.4;
+    font-variant-numeric: tabular-nums;
+    color: var(--primary);
+    background: var(--entry);
+    border: 1px solid var(--border);
+    border-radius: var(--radius, 6px);
+    cursor: pointer;
+    transition: background-color .15s ease, color .15s ease, border-color .15s ease;
+}
+
+.search-page-btn:hover:not(:disabled):not(.active) {
+    background: var(--tertiary);
+}
+
+.search-page-btn.active {
+    color: var(--theme);
+    background: var(--primary);
+    border-color: var(--primary);
+    font-weight: 600;
+    cursor: default;
+}
+
+.search-page-btn:disabled {
+    color: var(--secondary);
+    opacity: .45;
+    cursor: not-allowed;
+}
+
+.search-page-btn:focus-visible {
+    outline: 2px solid var(--primary);
+    outline-offset: 2px;
+}
+
+.search-page-gap {
+    padding: 0 .25rem;
+    color: var(--secondary);
+    user-select: none;
+}
+
+/* ---------- 窄屏 ---------- */
+@media (max-width: 640px) {
+    #searchStat {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    /* 页码按钮在小屏上收缩，但保留首尾与当前页 */
+    .search-page-btn {
+        min-width: 2rem;
+        padding: .25rem .45rem;
+        font-size: .8125rem;
+    }
+}
+
+/* 用户偏好减少动效时去掉平滑滚动与过渡 */
+@media (prefers-reduced-motion: reduce) {
+    .search-page-btn {
+        transition: none;
+    }
+}
