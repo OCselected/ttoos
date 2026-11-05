@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="800" viewBox="0 0 600 800">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0f1e2b"/>
+      <stop offset="55%" stop-color="#132a3a"/>
+      <stop offset="100%" stop-color="#0b1620"/>
+    </linearGradient>
+    <linearGradient id="bronze" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#8a6a3a"/>
+      <stop offset="50%" stop-color="#c9a86a"/>
+      <stop offset="100%" stop-color="#8a6a3a"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="600" height="800" fill="url(#bg)"/>
+  <rect x="26" y="26" width="548" height="748" fill="none" stroke="#2c4356" stroke-width="1"/>
+  <rect x="34" y="34" width="532" height="732" fill="none" stroke="#1e3140" stroke-width="1"/>
+
+  <!-- corner ticks -->
+  <path d="M26 66 L26 26 L66 26" fill="none" stroke="#c9a86a" stroke-width="2"/>
+  <path d="M574 66 L574 26 L534 26" fill="none" stroke="#c9a86a" stroke-width="2"/>
+  <path d="M26 734 L26 774 L66 774" fill="none" stroke="#c9a86a" stroke-width="2"/>
+  <path d="M574 734 L574 774 L534 774" fill="none" stroke="#c9a86a" stroke-width="2"/>
+
+  <text x="60" y="96" font-family="Georgia, 'Times New Roman', serif" font-size="15" fill="#7e9aae" letter-spacing="3">THE OPEN SOURCE WAY · DEEP READ</text>
+
+  <!-- three gaps metaphor: three vertical rules, each broken at a different height -->
+  <g stroke="#3d5a6e" stroke-width="1">
+    <line x1="120" y1="150" x2="120" y2="330"/>
+    <line x1="120" y1="368" x2="120" y2="470"/>
+    <line x1="300" y1="150" x2="300" y2="258"/>
+    <line x1="300" y1="296" x2="300" y2="470"/>
+    <line x1="480" y1="150" x2="480" y2="404"/>
+    <line x1="480" y1="442" x2="480" y2="470"/>
+  </g>
+  <!-- the gaps, marked in bronze -->
+  <g stroke="#c9a86a" stroke-width="2.5">
+    <line x1="108" y1="330" x2="132" y2="368"/>
+    <line x1="288" y1="258" x2="312" y2="296"/>
+    <line x1="468" y1="404" x2="492" y2="442"/>
+  </g>
+  <!-- refusal marker: small circle above each seam -->
+  <g fill="none" stroke="#c9a86a" stroke-width="1.2" opacity="0.75">
+    <circle cx="120" cy="140" r="6"/>
+    <circle cx="300" cy="140" r="6"/>
+    <circle cx="480" cy="140" r="6"/>
+  </g>
+
+  <line x1="60" y1="500" x2="540" y2="500" stroke="url(#bronze)" stroke-width="1"/>
+
+  <text x="60" y="556" font-family="'Noto Serif CJK SC', Georgia, serif" font-size="46" fill="#f2ece1" letter-spacing="2">拒绝的两格</text>
+  <text x="60" y="600" font-family="'Noto Serif CJK SC', Georgia, serif" font-size="21" fill="#a9bdca" letter-spacing="1">许可 · 落点</text>
+
+  <text x="60" y="650" font-family="'Noto Serif CJK SC', Georgia, serif" font-size="17" fill="#8fa7b6">同一周的三处开缝：Django 宪章 · MCP 审批 · curl 撤赏</text>
+
+  <line x1="60" y1="690" x2="180" y2="690" stroke="#c9a86a" stroke-width="1.5"/>
+
+  <text x="60" y="722" font-family="'Noto Serif CJK SC', Georgia, serif" font-size="17" fill="#c9a86a" letter-spacing="1">开源之道 · 适兕 × 窄廊</text>
+  <text x="60" y="752" font-family="Georgia, serif" font-size="13" fill="#6f8899" letter-spacing="1">open source way · daily recommendation · 2026-11-06</text>
+</svg>
