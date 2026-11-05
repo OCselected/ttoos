@@ -11,8 +11,8 @@ enableRobotsTXT = true
 
 [languages]
   [languages.zh]
-    languageCode = "zh-CN"
-    languageName = "中文"
+    locale = "zh-CN"
+    label = "中文"
     contentDir = "content"
     weight = 1
     title = "「开源之道」"
@@ -64,8 +64,8 @@ enableRobotsTXT = true
         weight = 11
 
   [languages.en]
-    languageCode = "en"
-    languageName = "English"
+    locale = "en"
+    label = "English"
     contentDir = "content/en"
     weight = 2
     title = "The Way of Open Source"
