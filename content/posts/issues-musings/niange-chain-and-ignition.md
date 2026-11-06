@@ -94,7 +94,36 @@ comments: true
 
 **开源不是市场经济之外的施舍，它本身就是现代市场经济得以实现深度分工（亚当·斯密定理）的先决制度条件。** 斯密说分工受市场范围限制；而在数字技术领域，"市场范围"这件事本身，是被开放标准与共享代码撑开的。
 
-> **齿轮一**：开源把全社会的重复谈判成本吃掉了。抽掉它，每家企业都要用科层重造一遍世界。
+### 1.1 这不是修辞：一笔已经被算出来的账
+
+上面那个"天文数字"，此前只能当形容词用。但 2024 年，哈佛商学院的 Hoffmann、Nagle 与 Zhou 把这个数字算了出来（*The Value of Open Source Software*, HBS Working Paper 24-038）。
+
+他们的做法很讲究：用**劳动力重置成本**估计供给侧价值——把每一个被广泛使用的 OSS 包，按代码行数（只用人类最可能手写的那一类语言）套入 COCOMO II 模型，算出"从零重写这一份代码需要多少人月"，再乘上按各国 GitHub 贡献份额加权的全球程序员薪资；需求量侧价值则乘以**实际使用次数**（每家公司只计一次，因为代码在企业内部是俱乐部品）。数据来自两个互补来源：Linux Foundation 与哈佛创新科学实验室的 **Census II**（借三家软件成分分析厂商的扫描覆盖数万家公司，会计年度 2020 年，2,709,155 次使用观测、2.61 亿行代码——面向企业内部产品），以及 **BuiltWith**（扫描全球 **880 万个网站**、7,280 万条 OSS 使用观测——面向企业对外网站）。
+
+结果是这样的：
+
+| 口径 | 低工资（印度） | **全球加权工资** | 高工资（美国） |
+|---|---|---|---|
+| **供给方价值**（把最常用的 OSS 重写一次） | $12.2 亿 | **$41.5 亿** | $62.2 亿 |
+| **需求方价值**（每家企业都得自己重建一遍） | $2.59 万亿 | **$8.8 万亿** | $13.18 万亿 |
+
+**$41.5 亿 对 $8.8 万亿，相差约二千一百倍。** 这不是笔误，是两种世界观的价差。
+
+而这两个数字的比，本身就是一个制度命题。为什么同一个东西，"重写一次"只要 41.5 亿，"每家企业各自重写"就要 8.8 万亿？因为**差额正是公地替社会消掉的那部分重复劳动**。这两千倍，就是科斯所说"交易成本被公共基础设施消化掉"的价格标签。
+
+再看三个更有杀伤力的细节：
+
+**第一，企业软件支出会变成 3.5 倍。** 论文的估算路径是：2020 年全球企业在软件上实付约 $3.4 万亿（由 Statista 全球软件营收 $5,317 亿的存量折算，再按美国 NIPA 中预包装软件占 45% 的比例外推）。若无 OSS、每家改用内部开发者重写，总支出将变成 $3.4 万亿 + $8.8 万亿 = **$12.2 万亿**，即现在的**三倍半**。这不是"开源省钱"，这是**现代市场经济的成本结构建立在开源之上**。
+
+**第二，价值极度集中在少数语言上。** 需求方价值的 **84%** 来自前六大编程语言（Go、JavaScript、Java、C、TypeScript、Python）；其中 Go 一个语言的需求侧价值是第二名 JavaScript 的**四倍以上**——因为云原生基础设施的依赖密度远高于前端库。这说明公地不是一个均质的"公共池塘"，而是**一个由少数几个底座撑起的哑铃结构**。
+
+**第三，也是最重要的一条：5% 的开发者创造了 96% 的需求方价值。** 论文的洛伦兹曲线几乎是贴着横轴然后垂直拉起的——最后 5%（约 3,000 名）开发者贡献了供给侧 93%、需求侧 **96%** 的价值；而且这批人不是只守着几个明星仓库，他们参与的项目数也显著更多。论文的原话是：**"对社会上这一小批人的支持，是开源未来成功的决定性条件"**。
+
+这一条恰好把科斯接回了制度分析：**公地的重置价值高达 8.8 万亿，但维护它的人不到三千。** 这个数量级的错配，不是"维护者很伟大"的抒情题材，它是**一个结构性风险**——也是科斯所谓"企业用科层重造世界"在现实中唯一没有发生的理由。
+
+> 顺带一提：作者在引言里把数字公地与哈丁的"公地悲剧"（Hardin, 1968）和奥斯特罗姆的解法并置，并引了开尔文那句"不能度量就不能改进"。他们写这段话的目的很明确——**如果公地被过度使用而投入不足，它会在自身成功的重量下垮掉**（Lifshitz-Assaf & Nagle, 2021）。这句话在 2024 年被写进哈佛的工作论文，而它在我们这里，是同一条链条上的同一个判断。
+
+> **齿轮一**：开源把全社会的重复谈判成本吃掉了——这一笔账 2024 年已经被算出具体数字：抽掉它，每家企业都要用科层重造一遍世界，代价是 8.8 万亿美元。
 
 ## 二、马奇：组织不是求解机器，它需要"无理由做事"的空间
 
@@ -719,35 +748,39 @@ Linux 内核、Debian、Kubernetes，都是涌现出来的。没有人在 1991 �
 
 ## 参考资料
 
-1. Alcaras, G. (2026). Beyond severance: The entangled economies of free software, open source and the high-tech industry. *Big Data & Society*, 13(4). — https://doi.org/10.1177/20539517261494679
-2. Auray, N. (2017). *L'Alerte ou l'Enquête : Une sociologie pragmatique du numérique*（第 3 章：在自由软件项目中书写）. Paris: Presses des Mines.
-3. Acemoglu, D., Johnson, S., & Robinson, J. A. (2005). Institutions as a Fundamental Cause of Long-Run Growth. In *Handbook of Economic Growth*, Vol. 1A, 385–472.
-4. Acemoglu, D., & Robinson, J. A. (2012). *Why Nations Fail: The Origins of Power, Prosperity, and Poverty*. Crown Business.（中译《国家为什么会失败》）
-5. Coase, R. H. (1937). The Nature of the Firm. *Economica*, 4(16), 386–405.
-6. Cohen, M. D., March, J. G., & Olsen, J. P. (1972). A Garbage Can Model of Organizational Choice. *Administrative Science Quarterly*, 17(1), 1–25.
-7. March, J. G. (1971). The Technology of Foolishness. 后收入 *Decisions and Organizations* (1988).
-8. March, J. G. (1991). Exploration and Exploitation in Organizational Learning. *Organization Science*, 2(1), 71–87.
-9. Mokyr, J. (2002). *The Gifts of Athena: Historical Origins of the Knowledge Economy*. Princeton University Press.（中译《雅典娜的礼物》）
-10. Mokyr, J. (2016). *A Culture of Growth: The Origins of the Modern Economy*. Princeton University Press.（中译《增长的文化》）
-11. O'Mahony, S., & Karp, R. (2020). From proprietary to collective governance: How do platform participation strategies evolve? *Strategic Management Journal*, 43(3), 530–562.
-12. Ostrom, E. (1990). *Governing the Commons: The Evolution of Institutions for Collective Action*. Cambridge University Press.
-13. Potts, J. (2019). *Innovation Commons: The Origin of Economic Growth*. Oxford University Press.
-14. Potts, J. (2017). Governing the innovation commons. *Journal of Institutional Economics*, 14(6), 1025–1047.
-15. Rogers, E. M. (1962/2003). *Diffusion of Innovations*（第 5 版）. Free Press. —— 第 6 章感知属性、第 7 章可再发明、第 8 章扩散网络与意见领袖、第 9 章变革推动者、第 10 章创新的后果
-16. Rogers, E. M. (2003). *Diffusion of Innovations* 第 10 章：创新的后果（合意／不合意 × 直接／间接）与可再发明（re-invention）
-17. Markus, M. L. (1987). Toward a "Critical Mass" Theory of Interactive Media. *Communication Research*, 14(5), 491–511. —— 互动型创新的临界质量门槛
-18. Solow, R. M. (1957). Technical Change and the Aggregate Production Function. *Review of Economics and Statistics*, 39(3), 312–320. —— 全要素生产率与增长的残差
-19. Romer, P. M. (1990). Endogenous Technological Change. *Journal of Political Economy*, 98(5), S71–S102. —— 知识的非竞争性与增长的內生化
-20. Schumpeter, J. A. (1942). *Capitalism, Socialism and Democracy*. Harper & Brothers. —— 创造性破坏与要素重组
-21. North, D. C. (1990). *Institutions, Institutional Change and Economic Performance*. Cambridge University Press. —— 可信承诺与长期投资的制度前提
-22. Perrow, C. (1984). *Normal Accidents: Living with High-Risk Technologies*. Basic Books. —— 紧耦合系统的正常事故
-23. Simon, H. A. (1962). The Architecture of Complexity. *Proceedings of the American Philosophical Society*, 106(6), 467–482. —— 系统的层级结构与近可分解性
-24. Meadows, D. H. (2008). *Thinking in Systems: A Primer*. Chelsea Green. —— 反馈回路、杠杆点与系统干预
-25. Drucker, P. F. (1973/1974). *Management: Tasks, Responsibilities, Practices*. Harper & Row.（中译《管理：任务、责任、实践》）
-26. Mahler, A., & Rogers, E. M. (1999). The diffusion of interactive communication innovations and the critical mass. *Telecommunications Policy*, 23(10–11), 719–740.
-27. Simon, H. A. (1955). A Behavioral Model of Rational Choice. *Quarterly Journal of Economics*, 69(1), 99–118.
-28. Yue, D., & Nagle, F. (2024). Igniting Innovation: Evidence from PyTorch on Technology Control in Open Collaboration. Harvard Business School Working Paper No. 25-013.
-29. 李录 (2020). 《文明、现代化、价值投资与中国（增订版）》. 中信出版集团.
+1. Hoffmann, M., Nagle, F., & Zhou, Y. (2024). *The Value of Open Source Software*. Harvard Business School Working Paper No. 24-038. — https://www.hbs.edu/faculty/Pages/item.aspx?num=65230
+2. Nagle, F., Dana, J., Hoffman, J., Randazzo, S., & Zhou, Y. (2022). *Census II of Free and Open Source Software — Application Libraries*. Linux Foundation, Laboratory for Innovation Science at Harvard (LISH) & OpenSSF.
+3. Hardin, G. (1968). The Tragedy of the Commons. *Science*, 162(3859), 1243–1248.
+4. Lifshitz-Assaf, H., & Nagle, F. (2021). The doubled-edged sword of doing business with open source software. *Managerial and Decision Economics*.
+5. Alcaras, G. (2026). Beyond severance: The entangled economies of free software, open source and the high-tech industry. *Big Data & Society*, 13(4). — https://doi.org/10.1177/20539517261494679
+6. Auray, N. (2017). *L'Alerte ou l'Enquête : Une sociologie pragmatique du numérique*（第 3 章：在自由软件项目中书写）. Paris: Presses des Mines.
+7. Acemoglu, D., Johnson, S., & Robinson, J. A. (2005). Institutions as a Fundamental Cause of Long-Run Growth. In *Handbook of Economic Growth*, Vol. 1A, 385–472.
+8. Acemoglu, D., & Robinson, J. A. (2012). *Why Nations Fail: The Origins of Power, Prosperity, and Poverty*. Crown Business.（中译《国家为什么会失败》）
+9. Coase, R. H. (1937). The Nature of the Firm. *Economica*, 4(16), 386–405.
+10. Cohen, M. D., March, J. G., & Olsen, J. P. (1972). A Garbage Can Model of Organizational Choice. *Administrative Science Quarterly*, 17(1), 1–25.
+11. March, J. G. (1971). The Technology of Foolishness. 后收入 *Decisions and Organizations* (1988).
+12. March, J. G. (1991). Exploration and Exploitation in Organizational Learning. *Organization Science*, 2(1), 71–87.
+13. Mokyr, J. (2002). *The Gifts of Athena: Historical Origins of the Knowledge Economy*. Princeton University Press.（中译《雅典娜的礼物》）
+14. Mokyr, J. (2016). *A Culture of Growth: The Origins of the Modern Economy*. Princeton University Press.（中译《增长的文化》）
+15. O'Mahony, S., & Karp, R. (2020). From proprietary to collective governance: How do platform participation strategies evolve? *Strategic Management Journal*, 43(3), 530–562.
+16. Ostrom, E. (1990). *Governing the Commons: The Evolution of Institutions for Collective Action*. Cambridge University Press.
+17. Potts, J. (2019). *Innovation Commons: The Origin of Economic Growth*. Oxford University Press.
+18. Potts, J. (2017). Governing the innovation commons. *Journal of Institutional Economics*, 14(6), 1025–1047.
+19. Rogers, E. M. (1962/2003). *Diffusion of Innovations*（第 5 版）. Free Press. —— 第 6 章感知属性、第 7 章可再发明、第 8 章扩散网络与意见领袖、第 9 章变革推动者、第 10 章创新的后果
+20. Rogers, E. M. (2003). *Diffusion of Innovations* 第 10 章：创新的后果（合意／不合意 × 直接／间接）与可再发明（re-invention）
+21. Markus, M. L. (1987). Toward a "Critical Mass" Theory of Interactive Media. *Communication Research*, 14(5), 491–511. —— 互动型创新的临界质量门槛
+22. Solow, R. M. (1957). Technical Change and the Aggregate Production Function. *Review of Economics and Statistics*, 39(3), 312–320. —— 全要素生产率与增长的残差
+23. Romer, P. M. (1990). Endogenous Technological Change. *Journal of Political Economy*, 98(5), S71–S102. —— 知识的非竞争性与增长的內生化
+24. Schumpeter, J. A. (1942). *Capitalism, Socialism and Democracy*. Harper & Brothers. —— 创造性破坏与要素重组
+25. North, D. C. (1990). *Institutions, Institutional Change and Economic Performance*. Cambridge University Press. —— 可信承诺与长期投资的制度前提
+26. Perrow, C. (1984). *Normal Accidents: Living with High-Risk Technologies*. Basic Books. —— 紧耦合系统的正常事故
+27. Simon, H. A. (1962). The Architecture of Complexity. *Proceedings of the American Philosophical Society*, 106(6), 467–482. —— 系统的层级结构与近可分解性
+28. Meadows, D. H. (2008). *Thinking in Systems: A Primer*. Chelsea Green. —— 反馈回路、杠杆点与系统干预
+29. Drucker, P. F. (1973/1974). *Management: Tasks, Responsibilities, Practices*. Harper & Row.（中译《管理：任务、责任、实践》）
+30. Mahler, A., & Rogers, E. M. (1999). The diffusion of interactive communication innovations and the critical mass. *Telecommunications Policy*, 23(10–11), 719–740.
+31. Simon, H. A. (1955). A Behavioral Model of Rational Choice. *Quarterly Journal of Economics*, 69(1), 99–118.
+32. Yue, D., & Nagle, F. (2024). Igniting Innovation: Evidence from PyTorch on Technology Control in Open Collaboration. Harvard Business School Working Paper No. 25-013.
+33. 李录 (2020). 《文明、现代化、价值投资与中国（增订版）》. 中信出版集团.
 
 ## 关于作者
 
