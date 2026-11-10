@@ -6,6 +6,12 @@ on:
       - papermod-theme  # test branch for PaperMod theme deployment
   pull_request:
 
+# 同一时间只跑一个部署 run：并发推送同时向 gh-pages 推送，
+# 会让 GitHub Pages 的 legacy 构建队列里堆出多次全量重排。
+concurrency:
+  group: hugo-deploy
+  cancel-in-progress: false
+
 jobs:
   deploy:
     runs-on: ubuntu-22.04
@@ -13,6 +19,7 @@ jobs:
       - uses: actions/checkout@v4
         with:
           submodules: false  # PaperMod is committed directly
+          fetch-depth: 2      # 需要 HEAD~1 才能算出本次改动的页面路径
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
@@ -22,8 +29,25 @@ jobs:
       - name: Build
         run: hugo --minify
 
+      - name: Collect expected URLs from changed content
+        if: github.ref == 'refs/heads/papermod-theme'
+        id: urls
+        run: |
+          set -uo pipefail
+          files=$(git diff --name-only --diff-filter=AM HEAD~1 HEAD -- 'content/posts/**/*.md' 'content/en/posts/**/*.md' || true)
+          echo "list<<EOF" >> "$GITHUB_OUTPUT"
+          for f in $files; do
+            case "$f" in */_index.md|*/index.md) continue ;; esac
+            rel="${f#content/}"
+            rel="${rel%.md}"
+            echo "/${rel}/" >> "$GITHUB_OUTPUT"
+          done
+          echo "EOF" >> "$GITHUB_OUTPUT"
+          echo "--- 本次应上线页面 ---"
+          sed -n '/^list<<EOF$/,/^EOF$/p' "$GITHUB_OUTPUT" | sed '1d;$d' || true
+
       - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
+        uses: peaceiris/actions-gh-pages@v4
         if: github.ref == 'refs/heads/papermod-theme'
         with:
           deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
@@ -35,23 +59,31 @@ jobs:
           allow_empty_commit: true
 
       # ─────────────────────────────────────────────────────────────
-      # 部署后健康检查（方案 A，2026-11-04 引入）
+      # 部署后健康检查（方案 A 强化版，2026-11-10 修订）
       #
-      # 背景：deploy 阶段靠 2021 年的静态 SSH key，GitHub 侧偶发
-      # 「Permission denied (publickey)」会让 build 成功、deploy 失败，
-      # 而 Actions 只把它压成一个红格子——线上内容停留在旧版本却没人发现。
+      # 初版（2026-11-04）防的是 2021 年静态 SSH key 偶发失效。2026-11-10 复盘
+      # 发现它有两个漏洞：
+      #   (1) 只探测站点根 200——站点本来就 200，等于什么都没查。真正该断言的是
+      #       「本次发布的那几个页面」可访问。
+      #   (2) 没跟随跳转。cron 用 www.opensourceway.blog（该域名 301）拿到 301
+      #       却当成 404，误判「线上未生效」。基准 URL 一律用 config.toml 的
+      #       baseURL：https://opensourceway.blog，curl 一律加 -L。
       #
-      # 这里做两件事：
-      #   1. 断言 gh-pages 顶部 commit 确实对应当前这次 push
-      #   2. 断言线上站点已生效（CDN 滞后时给足重试窗口）
+      # 现在做三件事：
+      #   1. 断言 gh-pages 顶部 commit 对应当前这次 push
+      #   2. 断言本次改动的每个内容页面都返回 200
+      #   3. 站点根兜底
       #
-      # 失败时输出明确的判定，并提示：偶发的 SSH 抖动直接 rerun 即可。
+      # 注意：GitHub Pages 的 legacy 构建队列偶尔超时（Page build failed.），
+      # 只要 gh-pages 已更新，Pages 通常会自行补建，重试窗口覆盖这种滞后。
       # ─────────────────────────────────────────────────────────────
       - name: Verify deployment landed
         if: github.ref == 'refs/heads/papermod-theme'
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           EXPECTED: ${{ github.sha }}
+          BASE: https://opensourceway.blog
+          PAGES: ${{ steps.urls.outputs.list }}
         run: |
           set -uo pipefail
 
@@ -72,19 +104,40 @@ jobs:
             exit 1
           fi
 
-          # ② 线上站点生效（CDN 可能滞后，给 6 分钟）
-          site_ok=""
-          for i in $(seq 1 12); do
-            code=$(curl -s -o /dev/null -w '%{http_code}' --max-time 25 https://opensourceway.blog/ || echo 000)
-            if [ "$code" = "200" ]; then
-              site_ok="yes"; echo "✅ 线上站点 HTTP 200（第 $i 次探测）"; break
-            fi
-            echo "  [$i/12] 线上 HTTP $code"; sleep 30
-          done
+          # ② 本次发布的每个页面都必须可访问（-L 跟随跳转，容忍 CDN / Pages 滞后）
+          #    口径：BASE 取 config.toml 的 baseURL（不带 www，www 会 301）。
+          if [ -z "${PAGES:-}" ]; then
+            echo "本次没有内容页面变更，跳过页面断言，仅校验站点根。"
+          fi
 
-          if [ -z "$site_ok" ]; then
-            echo "::error title=线上站点异常::部署已完成，但 https://opensourceway.blog/ 未返回 200。请人工检查 Caddy / GitHub Pages / DNS。"
+          fail=""
+          while IFS= read -r path; do
+            [ -z "$path" ] && continue
+            ok=""
+            for i in $(seq 1 10); do
+              code=$(curl -s -L -o /dev/null -w '%{http_code}' --max-time 25 "${BASE}${path}" || echo 000)
+              if [ "$code" = "200" ]; then
+                ok="yes"; echo "✅ ${path} → 200（第 $i 次探测）"; break
+              fi
+              echo "  [${i}/10] ${path} → ${code}"; sleep 20
+            done
+            if [ -z "$ok" ]; then
+              echo "::error title=页面未生效::${BASE}${path} 未返回 200"
+              fail="yes"
+            fi
+          done <<< "${PAGES:-}"
+
+          if [ -n "$fail" ]; then
+            echo "::error title=部分页面未生效::gh-pages 已更新，但页面不可访问。先查 Pages 构建（gh api repos/OCselected/ocselected.github.io/pages/builds/latest）；legacy 队列超时是已知现象，等几分钟或 rerun 通常自愈。"
             exit 1
           fi
+
+          # ③ 站点根兜底
+          code=$(curl -s -L -o /dev/null -w '%{http_code}' --max-time 25 "${BASE}/" || echo 000)
+          if [ "$code" != "200" ]; then
+            echo "::error title=站点根异常::${BASE}/ 返回 ${code}。请检查 Caddy / GitHub Pages / DNS。"
+            exit 1
+          fi
+          echo "✅ 站点根 → 200"
 
           echo "🎉 部署健康检查通过"
