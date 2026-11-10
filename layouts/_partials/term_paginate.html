@@ -1,0 +1,14 @@
+{{- /* term（tag/category）页的分页收口。2026-11-10 P2。
+
+   背景：gh-pages 上 tags/ 共 5,193 页，其中大量是 page/N/ 副本（有的是内容页，
+   有的是仅 404 字节的跳转 alias）。每次日报推送都让 GitHub Pages 的 legacy
+   管线重排这批文件，构建稳定超时（Page build failed.，686–705s）。
+
+   做法：把 term 页的每页条数提到 999999，使 TotalPages 恒为 1。
+   Hugo 的 paginator 一经确定不可变，所以必须在 .Paginator 首次使用之前执行；
+   本 partial 在 list.html 顶部调用，早于 $paginator := .Paginate。
+   副作用：tag 首页一次性列出全部文章（开源日报 123 篇），长 tag 页面变长，
+   但不再有翻页副本——这是有意的取舍。 */ -}}
+{{- if eq .Kind "term" -}}
+  {{- .Paginate (union .RegularPages .Sections) 999999 -}}
+{{- end -}}

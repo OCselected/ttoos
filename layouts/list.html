@@ -45,6 +45,10 @@
 {{- $pages = where $pages "Params.hiddenInHomeList" "!=" "true"  }}
 {{- end }}
 
+{{- /* term 页（tag / category）：先由 term_paginate.html 把每页条数提到 999999，
+       使 TotalPages 恒为 1，不再为长尾标签生成 page/N/ 副本。
+       原因见该 partial 顶部注释（gh-pages 上 1,915 个副本是 Pages 超时主因）。 */ -}}
+{{- partial "term_paginate.html" . }}
 {{- $paginator := .Paginate $pages }}
 
 {{- if and .IsHome site.Params.homeInfoParams (eq $paginator.PageNumber 1) }}
@@ -99,7 +103,7 @@
 </article>
 {{- end }}
 
-{{- if gt $paginator.TotalPages 1 }}
+{{- if and (gt $paginator.TotalPages 1) (ne .Kind "term") }}
 <footer class="page-footer">
   <nav class="pagination">
     {{- if $paginator.HasPrev }}
