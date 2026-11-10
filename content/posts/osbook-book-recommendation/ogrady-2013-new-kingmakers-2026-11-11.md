@@ -15,7 +15,7 @@ categories:
 description: "这本书不是在讲开发者有多重要，而是在讲权力如何在一次没有会议的交接中转移——而十三年后同一位作者写下了续篇：接盘的既不是 CIO，也不是开发者。"
 ---
 
-{{< figure src="/media/covers/ogrady-2013-new-kingmakers-2026-11-11.svg" alt="推荐卡片" width="400" >}}
+{{< figure src="/media/covers/ogrady-2013-new-kingmakers-2026-11-11.jpg" alt="The New Kingmakers 书封（O'Reilly, 2013）" width="400" >}}
 
 # 2026-11-11  「开源之道」·荐书：The New Kingmakers — Stephen O'Grady
 
