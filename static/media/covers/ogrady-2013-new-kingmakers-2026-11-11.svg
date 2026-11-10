@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2000" height="1200" viewBox="0 0 2000 1200" font-family="Georgia, 'Noto Serif SC', 'Songti SC', serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0f1218"/>
+      <stop offset="55%" stop-color="#1a2130"/>
+      <stop offset="100%" stop-color="#0a0d14"/>
+    </linearGradient>
+    <linearGradient id="glow-band" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#4a3d22" stop-opacity="0.15"/>
+      <stop offset="50%" stop-color="#d9b26b" stop-opacity="0.75"/>
+      <stop offset="100%" stop-color="#4a3d22" stop-opacity="0.15"/>
+    </linearGradient>
+    <radialGradient id="crown-glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#d9b26b" stop-opacity="0.26"/>
+      <stop offset="60%" stop-color="#d9b26b" stop-opacity="0.07"/>
+      <stop offset="100%" stop-color="#d9b26b" stop-opacity="0"/>
+    </radialGradient>
+    <marker id="arrow-r" viewBox="0 0 12 12" refX="10" refY="6" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M0,0 L10,6 L0,12 Z" fill="#B4A078" opacity="0.85"/>
+    </marker>
+  </defs>
+
+  <rect width="2000" height="1200" fill="url(#bg)"/>
+
+  <!-- Decorative border -->
+  <rect x="60" y="60" width="1880" height="1080" fill="none" stroke="#3a3020" stroke-width="2"/>
+  <rect x="80" y="80" width="1840" height="1040" fill="none" stroke="#4a3d22" stroke-width="1" stroke-dasharray="4 6"/>
+
+  <!-- Corner ticks -->
+  <g stroke="#B4A078" stroke-width="1.5" fill="none">
+    <path d="M60 90 L60 60 L90 60"/>
+    <path d="M1910 60 L1940 60 L1940 90"/>
+    <path d="M60 1110 L60 1140 L90 1140"/>
+    <path d="M1910 1140 L1940 1140 L1940 1110"/>
+  </g>
+
+  <!-- Left: title block -->
+  <g transform="translate(130, 150)">
+    <text x="0" y="0" font-size="22" fill="#7a6542" letter-spacing="6">OPEN SOURCE LIBRARY · 开源之书</text>
+    <text x="0" y="30" font-size="14" fill="#5a4d32" letter-spacing="3">STEPHEN O'GRADY · 2013 · O'REILLY · BUSINESS</text>
+
+    <line x1="0" y1="55" x2="240" y2="55" stroke="#B4A078" stroke-width="1"/>
+
+    <ellipse cx="230" cy="250" rx="300" ry="150" fill="url(#crown-glow)"/>
+
+    <text x="0" y="120" font-size="62" fill="#E8DCC8" letter-spacing="1" font-weight="700">The New</text>
+    <text x="0" y="200" font-size="62" fill="#E8DCC8" letter-spacing="1" font-weight="700">Kingmakers</text>
+    <text x="0" y="262" font-size="30" fill="#d9b26b" letter-spacing="1" font-style="italic">How Developers Conquered the World</text>
+    <text x="0" y="312" font-size="24" fill="#B4A078" letter-spacing="2">开发者：技术世界的新王与造王者</text>
+
+    <line x1="0" y1="352" x2="600" y2="352" stroke="url(#glow-band)" stroke-width="1"/>
+
+    <text x="0" y="400" font-size="26" fill="#E8DCC8" letter-spacing="2">Stephen O'Grady</text>
+    <text x="0" y="432" font-size="17" fill="#a89678" letter-spacing="1" font-style="italic">RedMonk 联合创始人 · 2002 年与 James Governor 共创</text>
+    <text x="0" y="462" font-size="16" fill="#7a6542" letter-spacing="1">O'Reilly Media · 2013 · vii + 48 页 · ISBN 978-1-4493-5634-7</text>
+  </g>
+
+  <!-- Left bottom: signature -->
+  <g transform="translate(130, 1010)">
+    <text x="0" y="0" font-size="15" fill="#5a4d32" letter-spacing="3">「开源之道」· 窄廊  ×  「开源之道」· 适兕</text>
+    <text x="0" y="26" font-size="13" fill="#4a3d22" letter-spacing="2">2026-11-11  ·  取消的不是价格，是那道审批</text>
+  </g>
+
+  <!-- Vertical divider -->
+  <line x1="960" y1="150" x2="960" y2="1050" stroke="#4a3d22" stroke-width="1" stroke-dasharray="6 8"/>
+
+  <!-- Right: power transfer, 2013 -> 2026 -->
+  <g transform="translate(1030, 130)">
+    <text x="0" y="0" font-size="20" fill="#7a6542" letter-spacing="4">POWER TRANSFER · 权力的两次无声交接</text>
+    <text x="0" y="26" font-size="14" fill="#5a4d32" font-style="italic" letter-spacing="1">"Who is calling the shots? The answer is developers."</text>
+
+    <!-- Three seats -->
+    <g transform="translate(0, 70)">
+      <line x1="0" y1="18" x2="790" y2="18" stroke="#4a3d22" stroke-width="1"/>
+      <g transform="translate(0, 40)">
+        <rect x="0" y="0" width="240" height="96" fill="none" stroke="#5a4d32" stroke-width="1" stroke-dasharray="5 5"/>
+        <text x="120" y="34" font-size="19" fill="#a89678" text-anchor="middle" letter-spacing="1">CIO · 预算</text>
+        <text x="120" y="60" font-size="13" fill="#7a6542" text-anchor="middle" font-style="italic">名义决策者</text>
+        <text x="120" y="82" font-size="12" fill="#5a4d32" text-anchor="middle">第一章：最后一个知道</text>
+      </g>
+      <g transform="translate(275, 40)">
+        <rect x="0" y="0" width="240" height="96" fill="none" stroke="#d9b26b" stroke-width="1.6"/>
+        <text x="120" y="34" font-size="19" fill="#E8DCC8" text-anchor="middle" letter-spacing="1">DEVELOPER · 选择</text>
+        <text x="120" y="60" font-size="13" fill="#a89678" text-anchor="middle" font-style="italic">the New Kingmakers</text>
+        <text x="120" y="82" font-size="12" fill="#7a6542" text-anchor="middle">2013 · 用「装得进去」投票</text>
+      </g>
+      <g transform="translate(550, 40)">
+        <rect x="0" y="0" width="240" height="96" fill="none" stroke="#5a4d32" stroke-width="1" stroke-dasharray="5 5"/>
+        <text x="120" y="34" font-size="19" fill="#a89678" text-anchor="middle" letter-spacing="1">AGENT · 代选</text>
+        <text x="120" y="60" font-size="13" fill="#7a6542" text-anchor="middle" font-style="italic">the new, New Kingmakers</text>
+        <text x="120" y="82" font-size="12" fill="#5a4d32" text-anchor="middle">2026 · 选它被告知别用的</text>
+      </g>
+
+      <line x1="245" y1="88" x2="270" y2="88" stroke="#B4A078" stroke-width="1.2" marker-end="url(#arrow-r)"/>
+      <line x1="520" y1="88" x2="545" y2="88" stroke="#B4A078" stroke-width="1.2" marker-end="url(#arrow-r)"/>
+      <text x="0" y="166" font-size="13" fill="#7a6542" font-style="italic">两次交接之间：没有一次会议，没有一份决议，没有一个可以被指出来的日期。</text>
+    </g>
+
+    <!-- Ten recommendations -->
+    <g transform="translate(0, 275)">
+      <text x="0" y="0" font-size="14" fill="#a89678" letter-spacing="3">第五章 · 十项建议 · TEN RECOMMENDATIONS</text>
+      <line x1="0" y1="18" x2="790" y2="18" stroke="#4a3d22" stroke-width="1"/>
+      <g font-size="14" fill="#a89678">
+        <text x="0" y="50">① 尽早接触</text>
+        <text x="200" y="50">② 算法化招聘</text>
+        <text x="400" y="50">③ 开源与收购式雇佣</text>
+        <text x="640" y="50">④ 投资开发者关系</text>
+        <text x="0" y="82">⑤ 拥抱开源</text>
+        <text x="200" y="82">⑥ 全球化招聘</text>
+        <text x="400" y="82">⑦ 降低进入门槛</text>
+        <text x="640" y="82">⑧ 用 API 入场</text>
+        <text x="0" y="114">⑨ 为开发者之乐优化</text>
+        <text x="200" y="114">⑩ 和开发者谈，而不是对他们讲</text>
+      </g>
+      <text x="0" y="152" font-size="13" fill="#7a6542" font-style="italic">十条里没有一条是「建立治理委员会」——它们全部关于如何进入一个已成型的群体。</text>
+    </g>
+
+    <!-- Two models: electorate vs population -->
+    <g transform="translate(0, 470)">
+      <text x="0" y="0" font-size="14" fill="#a89678" letter-spacing="3">选民与种群 · ELECTORATE vs POPULATION</text>
+      <line x1="0" y1="18" x2="790" y2="18" stroke="#4a3d22" stroke-width="1"/>
+      <text x="0" y="52" font-size="15" fill="#E8DCC8">开发者有退出权（exit），几乎没有发言权（voice）——</text>
+      <text x="0" y="80" font-size="15" fill="#E8DCC8">只有退出权的公共资源，其治理必然倒向能承受退出成本的一方。</text>
+      <text x="0" y="110" font-size="13" fill="#7a6542" font-style="italic">Hirschman · Ostrom——窄廊读法，非作者观点</text>
+    </g>
+  </g>
+
+  <!-- Signature bottom right -->
+  <g transform="translate(1870, 1080)" text-anchor="end">
+    <text x="0" y="0" font-size="14" fill="#5a4d32" letter-spacing="3">窄廊  ·  开源之道</text>
+  </g>
+</svg>
