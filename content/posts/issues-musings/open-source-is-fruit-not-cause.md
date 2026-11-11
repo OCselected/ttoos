@@ -4,7 +4,7 @@ categories:
 - 制度
 - 洞察
 date: 2026-11-11T12:10:00+08:00
-description: "把开源当成一套可以安装的组织改造工程，是过去十年里代价最高的一次误判。Larry Page 关于「额外性」的那段话，与欧盟对 TikTok 的裁定并置起来，会浮出一条相当冷的规律：一家企业能不能真正拥抱开源，不取决于它成立了几个 OSPO、写了几份合规流程，而取决于它在别处是否靠榨取社会获利。开源不是原因，是果。Linux 基金会的二十六年、AAIF 的当下处境、Android 的许可证选择与那笔 41 亿欧元罚款、Red Hat 的 upstream-first，四者各给出一个层次的答案。"
+description: "接续「开源是果而非因」的判断，追问果究竟长在什么样的土壤上。四层：AAIF 的治理席位为何与出资额线性映射、Red Hat 的 upstream-first 为何把公司资产从代码换成席位、Android 选 Apache-2.0 而非 GPL 那一刻如何提前写好了今天的治理形状、以及为什么「学开源」在制度上是方向相反而非程度不足。"
 keywords:
 - Open Source
 - Institution
@@ -16,7 +16,7 @@ tags:
 - 洞察分析
 - 开源之道
 - 思想札记
-title: "【思想札记】开源是商业文明的「果」，而非「因」"
+title: "【思想札记】果长在什么样的土壤上——AAIF 的席位、Red Hat 的席位、Android 的许可证"
 url: ""
 authors:
 - 「开源之道」·适兕 X 「开源之道」·窄廊
