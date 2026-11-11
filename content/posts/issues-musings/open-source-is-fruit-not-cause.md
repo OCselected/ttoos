@@ -4,7 +4,7 @@ categories:
 - 制度
 - 洞察
 date: 2026-11-11T12:10:00+08:00
-description: "把开源当组织改造工程，是过去十年最贵的一次误判。Larry Page 的 additionality 与欧盟对 TikTok 的 DSA 裁定并置起来看，会得到一条很冷的规律：一家企业是否真能拥抱开源，不取决于它成立了几个 OSPO、写了几份合规流程，而取决于它在别处是否靠榨取社会获利。开源不是原因，是果。本文补三类证据：Android 的反垄断判决如何同时证明公地的价值与边界、Red Hat 的 upstream-first 为何是一条商业生命线、以及为什么「学开源」这条路在制度上走不通。"
+description: "把开源当组织改造工程，是过去十年最贵的一次误判。Larry Page 的 additionality 与欧盟对 TikTok 的 DSA 裁定并置起来看，会得到一条很冷的规律：一家企业是否真能拥抱开源，不取决于它成立了几个 OSPO、写了几份合规流程，而取决于它在别处是否靠榨取社会获利。开源不是原因，是果。本文补四层证据：Linux Foundation 二十六年「不是被规划出来、而是被一个个具体问题沉积出来」的演化史；AAIF 在 Agentic 时代能否成立要看市场而非章程；Android 当年选 Apache-2.0 而非 GPL 如何提前写好了治理的形状；以及 Red Hat 的 upstream-first 为何是一条商业生命线。结论是：开源不生产好人，它只筛选出那些已经把权力关系想清楚的组织。"
 keywords:
 - Open Source
 - Institution
@@ -85,33 +85,135 @@ Page 的 additionality 有个容易被忽略的结构：**它衡量的不是回�
 
 所以 Android 开源这件在 2014 年被 Page 自己都觉得"guilty"的事，事后看是标准的 additionality：**一个封闭的移动操作系统底座，会让整个移动生态被单一寡头锁死；而这个底座一旦成为公共品，整条产业链的摩擦成本被一次性抹掉。**
 
----
+### 1.1 顺着 additionality 往下问：为什么它是「被允许」的，不是「被规划」的
 
-## 二、Android 的另一面：公地的价值与边界，被同一份判决书写完了
+additionality 这个概念的锋利之处，不在于它如何指导行动，而在于**它无法指导行动**。
 
-原文把 Android 当作公地成功的典范。这一半成立，但只讲了一半——**另一半在欧盟法院的判决书里。**
+它只能**事后**用来说明「这件事值不值得做」——做之前，没有人能精确算出重写一次内核的成本、更算不出如果不这么做全社会要多花 8.8 万亿美元。**这些数字全都是回溯出来的，没有一个是先验的规划参数。**
 
-2026 年 7 月 2 日，欧盟法院在 C-738/22 P 案中**驳回了 Google 与 Alphabet 的上诉，维持了约 41 亿欧元的罚款**。这份终审判决认定的不是「Android 不够开放」，而是相反的东西：**Google 用 AOSP 这个开放底座，捆绑了 Google Search、Chrome 和 Play Store，并以反碎片化协议（AFA）与利益分成（RSA）约束厂商，从而在开放的名义下锁定了排他性。**
+而这个性质，恰好也是开源公地自己的性质。这里必须把话说透：**Linux 基金会不是被规划出来的。**
 
-这两件事必须放在一起读，才能看清开源的制度真相：
+2000 年，惠普、英特尔、IBM 与 NEC 联合发起 **Open Source Development Labs（OSDL）**——起因非常具体：企业要把 Linux 用在关键业务上，但内核缺少企业级特性，而让每家厂商各自去改内核是灾难。于是它们联合出资，做了一个「独立的非营利实验室」。**它的第一个新闻稿里没有任何宏大愿景，只有一句很务实的话：为那些给 Linux 添加企业能力的开发者提供设备与资金。**
 
-| 层级 | Android 做了什么 | 结果 |
+更关键的一步在 2003 年 6 月：OSDL 把 **Linus Torvalds 聘为首位 OSDL Fellow**，让他脱离 Transmeta、全职做内核；同年 Andrew Morton 也加入。**这笔钱的用途不是「推广开源」，而是「让这个项目的头号维护者不必再靠别的公司养着」。**
+
+而且当时就有人质疑。Linux.com 当年那篇报道里，一位匿名的内核黑客对 OSDL 的动机表示怀疑，他关心的三件事是：**钱、内核开发流程、以及对 Linux 内核开发的控制权。**——二十三年后，同样的三个问题在每一家基金会身上重演。
+
+然后是 2007 年 1 月 22 日：OSDL 与 **Free Standards Group（FSG）**合并，才有了 Linux Foundation。FSG 本来做的是标准（LSB 之类），OSDL 做的是资源与协作——**两个组织合并，是因为它们发现彼此在解决同一个问题的两半。**
+
+此后的一切——CNCF（2015，容器编排）、Core Infrastructure Initiative（2014，Heartbleed 之后为关键基础设施筹钱）——**每一次都是「先出事、再建机构」，没有一次是先画好蓝图再执行。**
+
+把这些节点排成一条线，会看到一条和「规划」完全相反的形态：
+
+| 年份 | 发生了什么问题 | 长出了什么 |
 |---|---|---|
-| **L2 产权层**：AOSP 以 Apache-2.0 开放 | 手机厂商不必从零造系统 | 移动生态爆发，产业摩擦成本归零 |
-| **L3 治理层**：GMS 捆绑 + AFA/RSA 约束 | 厂商不能自由选择替代服务 | 欧盟认定为排他性滥用 |
+| 2000 | 企业级特性缺失，各厂商各自改内核 | OSDL：联合出资的独立实验室 |
+| 2003 | 头号维护者的生计与项目绑定 | OSDL Fellow：让 Linus 全职 |
+| 2007 | 标准推动与资源协作是同一问题的两半 | LF：两个组织合并 |
+| 2014 | Heartbleed：关键基础设施无人维护 | CII：专项筹钱 |
+| 2015 | 容器编排接口碎片化 | CNCF：中立托管 |
 
-**开放代码，不等于开放控制权。**
+**这就是「果」的机构版本。** Linux Foundation 不是有人设计好的治理机器，它是二十多年里一连串具体问题的**沉积物**——每解决一个问题，就留下一层结构；结构越厚，看起来越像一个「被设计出来的东西」。
 
-这句话是本篇最需要记住的一句，因为它精确划出了「果」的边界：
-
-- **Android 是果**——它是 Google「整合全球信息」这一使命与 additionality 哲学结出来的；
-- **但 Android 不是全果**——L2 让渡了产权，L3 保留了控制。它给出了公地的最重要的一半（降低全社会摩擦成本），却没给出另一半（控制权的可信让渡）。
-
-而这恰好解释了为什么后面的对比能成立：**哪怕是一家最接近「包容性制度」的公司，在治理层也会本能地收回控制权。** 这不是道德瑕疵，这是商业组织的默认姿态。**正因如此，那些连 L2 都不肯让渡的企业，谈开源就更是无从谈起。**
+这也顺便解释了「开源之道」一直在说的那句话：**生态是结果，不是手段。** 凡是能被当成手段去「构建」的，构建出来的都不是生态，是行政动员体系。**因为真正的机构演化只能回答已经发生的问题，不能回答还没发生的问题。**
 
 ---
 
-## 三、Red Hat：upstream-first 为什么是生命线，而不是标语
+## 二、AAIF：它能不能成立，也要看同一件事
+
+顺着「不是规划出来的」这条线往下走，就绕不开当下最热的一个新机构：**Agentic AI Foundation（AAIF）**。
+
+2025 年 12 月 9 日，Linux Foundation 宣布成立 AAIF，创始贡献是三个项目：Anthropic 的 **MCP**（Model Context Protocol）、Block 的 **goose**、OpenAI 的 **AGENTS.md**。八家白金会员是 AWS、Anthropic、Block、Bloomberg、Cloudflare、Google、Microsoft、OpenAI。
+
+如果只看新闻稿，这像是又一个「成功的基金会」：一年之内 MCP 成了行业标准，一万多个 MCP server 上线，被 Claude、Cursor、Copilot、Gemini、VS Code、ChatGPT 采纳。Jim Zemlin 的说法很得体——「把它们放到一个屋檐下，确保它们能以只有开放治理才能提供的透明与稳定成长」。
+
+但用前面几节的标准去审视，AAIF 至少有三处**未经检验**：
+
+**第一，它是「事后追认」还是「事前设计」？** 目前看，是前者：三个项目都已经各自成熟（MCP 一年内成为事实标准），基金会是在它们已成事实之后才出现的。**这在形态上像 OSDL（先有问题再有机构），不像自上而下的规划**——这一条对它有利。
+
+**第二，治理权是不是又一次与出资额线性映射？** AAIF 的章程写明：技术委员会每席 = 每个白金会员各委派一人，**每席年费 35 万美元**。八名成员全部是厂商雇员。**这是我在本周信号库里记下的「基金会成员资格 ≠ 治理权」的反面强证据。** 它不违法，甚至很常见，但它意味着：**这里的「开放治理」，开放的是参与资格，不是控制权。**
+
+**第三，也是最关键的一条：它能不能活下来，取决于市场，不取决于章程。** 基金会能提供的是中立的托管、法务的缓冲、会议与流程。**它提供不了的是「有人真的愿意长期往里投人」。** 而这件事，在 2000 年是 HP、Intel、IBM、NEC 决定合资的时候解决的；在 2003 年是 OSDL 决定给 Linus 发工资的时候解决的；在 AAIF 这里，**还没解决——因为 Agentic 时代的「互补者」是谁、他们怕被谁敲竹杠、他们需要什么样的可信承诺，现在还看不清楚。**
+
+所以对 AAIF，我给的判断是：**它是一个形态正确的容器，但容器不等于内容。** 它会不会像 OSDL 一样长成 Linux Foundation，或者像无数个「成立时热闹、三年后只剩域名」的基金会一样，**只能由市场来投票，不能由新闻稿来宣布。**
+
+> **这不是对 AAIF 的否定，是对基金会这种制度形式的诚实定位：它是问题的沉积物，不是问题的解药。**
+
+---
+
+## 三、Android 真正的教训：许可证的选择，早就写好了控制权的形状
+
+上一节把 Android 当作公地成功的典范。**这个判断我第一稿写偏了，需要在这里纠正。**
+
+正确的读法不是「Google 在治理层收回了控制权，所以 Android 是半个果」，而是：**Google 当年选了 Apache-2.0 而不是 GPL，这个选择本身就决定了它后来必须不断收紧控制权——否则 Android 大概率会死掉。**
+
+### 3.1 为什么不是 GPL
+
+这个问题的答案，Google 自己在 Android 源码站的许可页上写过，而且写得很直白：
+
+> "Android is about freedom and choice. The purpose of Android is to promote openness in the mobile world, but **we don't believe it's possible to predict or prescribe all the uses to which people might want to put our software.** So while we encourage everyone to make devices that are open and modifiable, **we don't believe we should be forced to do so.**"
+
+「我们不应该被强迫这样做」——这句话就是 GPL 被排除的全部理由。而它背后是一笔非常具体的商业算术：
+
+- **对 OEM 与运营商**：他们要有能力为自己的产品收许可费、对自己的定制代码保密、并把不同许可证的代码混在一起。**GPL 的互惠义务会把这些可能性全部锁死。**
+- **对 Google 自己**：如果 AOSP 用 GPL，那么任何基于它做修改的厂商，其改动都必须以同样条款开放。**这等于Google 连"差异化"都做不了**——它拿不回任何可用来竞争的东西。
+
+于是 Google 选了 Apache-2.0：宽松、可自由再分发、可与专有代码结合。**代价是，它同时也把自己的「差异化空间」让给了别人。**
+
+### 3.2 这正是「果」的机制：许可证选定之后，控制权只能往上收
+
+Apache-2.0 带来一个立刻出现的后果：**碎片化。**
+
+任何人都可以 fork AOSP、改 UI、做自己的 ROM。这本是宽松许可的美德，但对于一个要承载「庞大同质应用生态」的移动平台，它是致命的——**开发者不可能为每部手机各写一遍应用。**
+
+于是 Google 必须在**不动许可证**的前提下，把控制权加回来。它用的是三件工具，全部在**治理层**，不在**产权层**：
+
+| 工具 | 作用 | 依据 |
+|---|---|---|
+| **CDD（兼容性定义文档）** | 规定 API 的形态与行为；设备「不得省略任何托管 API、更改 API 接口或签名」 | 技术规范 |
+| **AFA / RSA 协议** | 厂商要预装 GMS，须接受反碎片化条款与利益分成 | 商业合约 |
+| **OTA 与早期访问节奏** | 谁先拿到新版本源码，谁在市场上先跑一步 | 资源分配 |
+
+**这三件工具，一件都不是许可证给的，全部是后来一点点搭上去的。**
+
+2010 年的 Skyhook 案把这条链展示得很清楚：Google 内部邮件讨论过「让地图只认 Google NLP」这类技术限制，最终采用的是**兼容性论证**——告诉摩托罗拉，用 Skyhook 就「不是兼容的 Android 设备」。**「兼容」在这里不是一个技术属性，是一个准入资格。**
+
+这就是为什么我把这件事定性为「演化」而不是「返回」：
+
+> **宽松许可是一种「用控制权换取普及速度」的交易。** Google 在 2008 年用 Apache-2.0 买到了生态的爆发，代价是必须自己另建一套治理机器来维持秩序。这套机器越建越厚，最后被欧盟法院认定越界。
+
+**它不是「说好了放权又反悔」，而是「放出去的东西必须用别的方式收回来」。**
+
+### 3.3 反事实：如果 Android 当年选了 GPL
+
+这是本节最值得推演的一步。
+
+如果 AOSP 用 GPL-2.0：
+
+- **好处**：任何厂商的修改必须回馈——理论上不会有碎片化，Android 会像 Linux 内核一样保持单一分支。
+- **代价 1：OEM 会集体不采用。** GPL 意味着他们无法为自己的定制保密，也很难在 Android 之上叠加自己的商业软件。Android 当年是挑战者，不是统治者——**挑战者没有资格开这种条件。**
+- **代价 2：Google 的平台领导力会被稀释。** 在 GPL 下，厂商之间可以自由 fork 且必须回馈，但**没有谁保证 Google 的版本是"主干"**。移动平台的价值在于「大量同质用户」，而这个同质性在 GPL 下反而依赖各家自愿对齐——没有任何机制强制它。
+- **代价 3：最可能的结局是分裂成几个互不兼容的分支**，每个厂商一套，应用开发者被迫做适配地狱。**这不是开放的胜利，这是移动互联网的慢性死亡。**
+
+所以更准确的判断是：
+
+> **如果 Google 当年让渡出控制权，Android 大概率会死——不是死于不自由，是死于碎片化。** 而收紧控制权，是它活下来的必要条件。**欧盟那 41 亿欧元的罚款，买的不是"更开放"，是"开放到什么地方为止"。**
+
+### 3.4 这一节的结论，反而让全文更锋利
+
+把 Android 这个案例放回「果而非因」的主线，会得到一个比第一稿更硬的判断：
+
+- **Android 是果**：它是「整合全球信息」这一使命 + additionality 哲学 + **一个非常清醒的许可证技术选择**，三者共同结出来的。
+- **控制权收紧也是果**：它是宽松许可所必然附带的那笔债务。**选许可证的那一刻，治理的形态就已经被写好了。**
+- **欧盟的判决同样是果**：它是「用开放底座做排他性锁定」这套做法的法律结算。
+
+**三层全是果，没有一层是某个人在会议室里规划出来的。**
+
+而这对本土企业的教训恰恰更狠了：**难度不在「学 Google 开源」，而在「学 Google 把许可证选对，并且有本事把后续的治理机器建起来」。** 前者是照抄，后者是二十年的演化——**照抄得到的是形，演化得到的才是命。**
+
+---
+
+## 四、Red Hat：upstream-first 为什么是生命线，而不是标语
 
 原文说 Red Hat 的 upstream-first「不是道德标语，而是其商业模式能够存续的生命线」。这句话是对的，但需要给它一个机制的说明，否则它读起来仍然像赞美。
 
@@ -130,7 +232,7 @@ upstream-first 的真正功能，**不是「回馈社区」，而是把公司的
 
 ---
 
-## 四、为什么「学开源」在制度上根本走不通
+## 五、为什么「学开源」在制度上根本走不通
 
 这一节是我要补的第三块，也是原文最值得加固的地方。
 
@@ -162,7 +264,7 @@ upstream-first 的真正功能，**不是「回馈社区」，而是把公司的
 
 ---
 
-## 五、自由市场的底色：不是丛林，是自愿交换
+## 六、自由市场的底色：不是丛林，是自愿交换
 
 原文引了李录《文明、现代化、价值投资与中国》里那段关于自由市场经济的论断，我认为这一段值得原样保留在文章里，因为它提供了整篇的价值坐标：
 
@@ -192,13 +294,13 @@ upstream-first 的真正功能，**不是「回馈社区」，而是把公司的
 
 ---
 
-## 六、把话说完整：这不是「好人坏人」的故事
+## 七、把话说完整：这不是「好人坏人」的故事
 
 写到这里，必须自己拆一次台，否则这篇文章会退化成道德训诫。有三处需要说清楚：
 
 **第一，Page 那句「企业是恶的」是带条件从句的。** 他说的是"if companies are doing the same incremental things they did 20 years ago"——意思恰恰相反：**企业的善恶不是本质，是行为模式。** 做增量存量榨取的企业会滑向恶，做 additionality 的企业可能不恶。所以这不是给企业贴标签，而是给**行为类型**分类。
 
-**第二，Google 也不是干净的样本。** 前面第二节已经把话说完了：L2 开放、L3 锁定，欧盟法院 41 亿欧元的终审判决写得清清楚楚。**用 Android 论证公地价值的同时，必须承认它的控制权没有真正让渡。** 只讲前者，这篇就变成了软文。
+**第二，Android 不是「背弃了开源理想」，而是「宽松许可的债务到期」。** 这是本文需要纠正的另一个常见误读。收紧控制权是 Apache-2.0 选择的必然结果，不是道德滑坡；而欧盟的罚款也不是在要求「更开放」，而是在划定「开放到什么地方为止」。**既不能把它写成公地典范，也不能写成背叛叙事——两种写法都在偷懒。**
 
 **第三，反例要举得具体，不然就只是情绪。** 原文点了几家本土企业，我建议保留这个判断但把证据降级为可验证的三条（CODEOWNERS / 治理提案发起人 / 生产采用者文档），**把「谁坏」换成「拿什么判」**。这样即使读者不同意结论，也能自己复算。
 
@@ -210,12 +312,17 @@ upstream-first 的真正功能，**不是「回馈社区」，而是把公司的
 
 开源从来不是一剂能把掠夺者变成慈善家的魔法药水。
 
-欧盟要求 TikTok 放弃以「观看时长」为唯一导向的算法暴政、把选择权还给用户；这件事在开源世界的镜像就是：**要求一家企业把控制权交出去、把 fork 权留给别人、把声誉记录公开。** 两件事的要求是同一个——**你是不是愿意让自己的权力受约束。**
+欧盟要求 TikTok 放弃以「观看时长」为唯一导向的算法暴政、把选择权还给用户；这件事在开源世界的镜像就是：**要求一家企业把控制权交出去、把 fork 权留给别人、把声誉记录公开。** 两件事的问法是同一个——**你愿意让自己的权力受约束到什么程度。**
 
-Page 的 additionality 给了正面答案：去做那些如果不做就不会发生的事，因为那才是真正的增量。
-Acemoglu 的汲取性制度给了反面答案：权力不受约束的地方，连创造性破坏本身都会被扼杀。
-Android 的判决给了边界答案：开放代码而不开放控制权，仍然会被认定为滥用。
-Red Hat 的 upstream-first 给了机制答案：让渡控制权之所以可信，是因为它同时是这家公司活下去的方式。
+四个案例给出的是四个不同层次的答案：
+
+- **Page 的 additionality** 给了正面答案：去做那些如果不做就不会发生的事，因为那才是真正的增量。
+- **Acemoglu 的汲取性制度**给了反面答案：权力不受约束的地方，连创造性破坏本身都会被扼杀。
+- **Linux Foundation 的二十六年**给了一张演化答卷：它不是被规划出来的治理机器，而是一连串具体问题的沉积物——**2000 年企业发现缺企业级特性，才凑钱做 OSDL；2003 年发现头号维护者要靠别家公司养着，才发出第一笔 Fellow 工资；2007 年发现标准与资源是同一问题的两半，才合并成 LF。每一步都在回答已经发生的问题。**
+- **Android 的许可证选择与欧盟判决**给了边界答案：Apache-2.0 换来了普及速度，也买下了一笔必须在治理层偿还的债务；**控制权收紧是果，欧盟的罚款也是果。**
+- **Red Hat 的 upstream-first** 给了机制答案：让渡控制权之所以可信，是因为它同时是这家公司活下去的方式。
+
+**五个答案排在一起，指向同一件事：开源不生产好人，它只筛选出那些已经把权力关系想清楚的组织。**
 
 **开源，只是一家拥有健康社会生态观的企业，在数字时代结出的自然果实。**
 
@@ -238,6 +345,12 @@ Red Hat 的 upstream-first 给了机制答案：让渡控制权之所以可信�
 7. Hoffmann, M., Nagle, F., & Zhou, Y. (2024). *The Value of Open Source Software*. Harvard Business School Working Paper No. 24-038. — https://www.hbs.edu/faculty/Pages/item.aspx?num=65230
 8. Lerner, J., & Tirole, J. (2005). The Scope of Open Source Licensing. *Journal of Law, Economics, and Organization*, 21(1), 20–56.
 9. McGrath, M. (2023). *Red Hat's commitment to open source: A response to the git.centos.org changes*. Red Hat Blog, 2023-06-26. — https://www.redhat.com/en/blog/red-hats-commitment-open-source-response-gitcentosorg-changes
+9a. Open Source Development Labs (2000). 首份新闻稿（Santa Clara, 2000-03-30）：由 HP、Intel、IBM、NEC 联合发起的独立非营利实验室，为企业级 Linux 开发者提供设备与资金。
+9b. Linux.com (2003). *OSDL: Linux center of gravity?* —— 记录 OSDL 于 2003 年聘请 Linus Torvalds 与 Andrew Morton 全职投入内核工作，以及当时一位匿名内核黑客对「钱、开发流程、控制权」三项的质疑。 — https://www.linux.com/news/osdl-linux-center-gravity/
+9c. Infoworld / Linux Foundation (2007). OSDL 与 Free Standards Group 于 2007-01-22 宣布合并成立 The Linux Foundation。
+9d. Linux Foundation (2025). *Linux Foundation Announces the Formation of the Agentic AI Foundation (AAIF)*, 2025-12-09 —— 创始贡献 MCP、goose、AGENTS.md；白金会员 AWS、Anthropic、Block、Bloomberg、Cloudflare、Google、Microsoft、OpenAI。 — https://www.linuxfoundation.org/press/linux-foundation-announces-the-formation-of-the-agentic-ai-foundation
+9e. Spreeuwenberg, K., & Poell, T. (2012). Android and the political economy of the mobile Internet: A renewal of open source critique. *First Monday*, 17(7). — https://doi.org/10.5210/fm.v17i7.4050（中译见 https://opensourceway.blog/posts/open-source-economic/android-and-political-economy-of-the-mobile-internet/ ）
+9f. Google. Android Open Source Project 许可页（AOSP 采用 Apache-2.0 的官方理由原文："we don't believe we should be forced to do so"），历史版本经 source.android.com 引用。
 10. Ostrom, E. (1990). *Governing the Commons: The Evolution of Institutions for Collective Action*. Cambridge University Press.
 11. O'Mahony, S., & Karp, R. (2020). From proprietary to collective governance: How do platform participation strategies evolve? *Strategic Management Journal*, 43(3), 530–562.
 12. Yue, D., & Nagle, F. (2024). *Igniting Innovation: Evidence from PyTorch on Technology Control in Open Collaboration*. Harvard Business School Working Paper No. 25-013.
