@@ -22,11 +22,11 @@ description: "AI 没有让人变懒，它改变了两种活动之间的相对价
 
 # 2026-11-13 「开源之道」·论文略读：Governing the Peer-Review Commons in the Age of AI
 
-{{< admonition warning "获取层级声明（必须先读）" >}}
-本文基于 **摘要 + 元数据** 写作，未取得正文全文。SSRN 正文三种 UA/请求组合均为 **Cloudflare 403**（`cf-mitigated: challenge`），Web 抓取通道超时，OpenAlex 对该 DOI 的 `oa_status=green` 为误标（`pdf_url=null`、`referenced_works` 为空）。
-
-因此：**本文不指认「论文算错」，只指认「摘要不足以支撑摘要的因果」**。凡涉及正文结构、参数校准、复制包的部分，一律标注为未决。
-{{< /admonition >}}
+> **⚠️ 获取层级声明（必须先读）**
+>
+> 本文基于 **摘要 + 元数据** 写作，未取得正文全文。SSRN 正文三种 UA/请求组合均为 **Cloudflare 403**（`cf-mitigated: challenge`），Web 抓取通道超时，OpenAlex 对该 DOI 的 `oa_status=green` 为误标（`pdf_url=null`、`referenced_works` 为空）。
+>
+> 因此：**本文不指认「论文算错」，只指认「摘要不足以支撑摘要的因果」**。凡涉及正文结构、参数校准、复制包的部分，一律标注为未决。
 
 ## 论文信息
 
