@@ -1,6 +1,6 @@
 ---
 title: "2026-11-17  「开源之道」·论文略读：How the European Union Fell Out of Love With Open-Source Software — Nora von Ingersleben-Seip"
-date: 2026-11-17T09:30:00+08:00
+date: 2026-11-17T08:36:33+08:00
 draft: false
 comments: true
 authors:
