@@ -25,9 +25,9 @@ title: "【思想札记】没有线上社区，就没有开源：从 Jeremy Foot
 url: ""
 ---
 
-![](/images/2026/11/online-community-precondition.jpg)
+![](/images/2026/11/online-community-precondition.png)
 
-> （本图建议视觉隐喻：深普鲁士蓝的夜空下，无数微小的发光节点通过透明的几何连线交织成一张模糊而有弹性的网络；节点之间没有中央指挥塔，人们顺着彼此留下的光线轨迹默默修缮同一座公共建筑。暗黑学术风与包豪斯几何构成。）
+> （配图隐喻：深普鲁士蓝的夜空下，一片翻开的土壤剖面。地表刚刚破土一株嫩芽，而在土壤深处，一张发光的琥珀色菌丝网络正彼此连通、无声蔓延——树，是先由这张网络撑起来的。）
 
 在过去十余年的商业布道与大厂叙事中，人们形成了一种极其顽固的线性错觉：**以为开源的起点是“代码”**。
 
@@ -73,9 +73,9 @@ Foote 与 Aaron Shaw、Benjamin Mako Hill 在《Communication Networks Do Not Pr
 在资本与 KPI 的语境里，一个开源项目如果不追求十万个 Star、不追求庞大的社区 DAU，似乎就是失败的。但 Sohyeon Hwang 与 Foote 在《Why Do People Participate in Small Online Communities?》（2021）中指出，互联网上存在海量**“持续保持小规模（Persistently Small）”的线上社区**，它们不仅没有死掉，反而展现出惊人的韧性。这些小社区之所以吸引人，恰恰是因为它们避开了大平台的噪音与浅薄，凭借**高度垂直的专业利基（Hyperspecific Niches）**、高信噪比的严肃技术切磋，以及基于共同专业志趣的群体认同，构建了一个个自给自足的微观生态系统。开源世界里绝大多数真正解决痛点的基础设施软件，最初都是生长在这样小而美、高纯度的极客社区里的。
 
 **第二个迷思，是把开源当成“品牌营销与获客漏斗”。**
-Sanjay Kairam 与 Foote 在 CHI 2024 发表的《How Founder Motivations, Goals, and Actions Influence Early Trajectories of Online Communities》中，调研了 852 位线上社区的创始人。数据冷酷地揭示：凡是带着强烈的**“自我推销（Self-promotion）”**动机创建社区的人，其社区在早期就迅速走向枯竭；而真正能够吸引第一批核心贡献者并存活下来的社区，其创始人无一不是源于纯粹的**“话题热爱（Topic Engagement）”**与**“信息互惠交换”**，并且在早期投入了大量精力去欢迎新人、确立清晰的公共行为规范。
+Sanjay Kairam 与 Foote 在 CHI 2024 发表的《How Founder Motivations, Goals, and Actions Influence Early Trajectories of Online Communities》中，调研了 **951 位** Reddit 社区创始人。数据给出了一个比“自我推销有害”更微妙、也更尖锐的结论：动机清单里排得最靠前的是**“话题热爱（Topical Interest）”**，其后是**“信息交换”**与**“与他人连接”**——而**“自我推销（Self-Promotion）”虽然存在，却并不是最能催生早期核心贡献者的那一类动机**。更值得玩味的是他们对“什么叫成功”的测量：创始人把**“社区质量”与“参与深度”**排得明显高于**“大量用户”“大量信息”“大量贡献者”**这三项规模指标（虽然规模指标仍被相当一部分人列为首要优先级）。
 
-这简直是对“KPI 开源”最直接的学术判决：当你建立一个社区的初衷是为了给公司产品导流、为了刷高管影响力、或者为了完成年度开源指标时，社区里的每一个人都能嗅出那种工具理性的算计。在算计之上，永远长不出真正的信任。
+这几乎是对“KPI 开源”最直接的学术判决：当创始人把社区当作给公司产品导流的漏斗、当作刷高管影响力的工具、当作完成年度开源指标的交差点时，社区里的每一个人都能嗅出那种工具理性的算计。而嗅出算计的人，恰恰是最有可能成为早期核心贡献者的人——他们是最先离开的那批人。在算计之上，永远长不出真正的信任。
 
 ## 四、 过程透明：把“人际信任”转化为“制度信任”
 
@@ -85,9 +85,49 @@ Sorin Adam Matei 与 Foote 在《Transparency, Control, and Content Generation o
 
 这与你昨天在《拿出办法来》读书笔记中感悟到的“踏脚石”逻辑高度同构[cite: 3]：人们之所以信任一个开源项目，从来不是因为某个巨头为它做了 PR 背书，而是因为在线上社区的公共档案里，每一块“踏脚石”的铺设过程、每一次争议的化解、每一个补丁的审查都清晰可见、有迹可循。
 
+而这恰恰指向一个更冷酷的推论：**透明的协作过程，本身就是一种稀缺的制度资产**。它无法被采购，无法被授权，只能在一群陌生人真正愿意把分歧摊在明面上的漫长岁月中，一点一点地沉淀出来。
+
+## 五、 创始人效应：社区为何无法被“规划”出来？
+
+如果“线上社区是开源的前提”，那么问题就变得非常现实：**社区能不能像产品一样被规划、被立项、被 KPI 化？**
+
+Foote 的实证研究给出了一个近乎决定论的否定答案。
+
+在《The Behavior and Network Position of Peer Production Founders》（2018）中，他测量了 Wikia 平台上 **60,959 名用户**两个月内的行为与网络位置，专门比较了“未来的创始人”与“非创始人”的活动量、局部网络位置与全局网络位置。在《Starting Online Communities: Motivations and Goals of Wiki Founders》（CHI 2017）中，他对 300 余名新建社区创始人做了问卷。两份研究拼在一起，勾勒出一幅清晰的图景：
+
+**社区不是被“决定创建”的，而是在创始人的日常行为轨迹中自发涌现的。** 创始人在成为创始人之前，就已经在平台的网络结构中占据某种特定位置、从事某种特定活动——社区是他们行为轨迹的一个结果，而不是一个预先设定的目标。[cite: 11]
+
+把这个发现和第三章的“创始人动机”合起来读，会得到一个制度层面的判断：**一个在线社区的起点，是某个具体的人的动机结构，而不是一份组织章程。**
+
+这与传统企业组织学形成了有趣的对照。按照威廉姆森（Oliver E. Williamson）的框架，当**不确定性高、资产专用性高、机会主义风险高**时，交易会从市场移向层级治理——即企业内部化，因为层级监督能压低机会主义成本。而一个在线社区的交易结构参数几乎恰好相反：
+
+- **不确定性极高**（社区会不会有未来，创始人自己也不知道）
+- **资产专用性极低**（社区内容是可移植的公地，不绑定任何专有资产）
+- **监督几乎不可行**（没有委托方，无法审计）
+
+这组参数**既不支持层级治理，也不支持市场定价**。于是社区演化出第三种治理形态：**靠 copyleft 式的互惠外化 + 创始人作为初始激励的提供者**。
+
+这也解释了为什么“行政式开源”始终难以长出真正的社区：**创始人的持续在场，是社区最初的协调成本承担者；而当创始人倦怠，社区并不会被“接管”，只会自然蒸发。** 因为社区从来就没有一个可以转移的治理权——它属于一群具体的人的行为习惯，而不属于任何组织。
+
+## 六、 当界面隐藏协作成本：开源项目的“不可见债务”
+
+顺着透明这条线再往前走一步，Foote 与 Sorin Adam Matei 在《Transparency, Control, and Content Generation on Wikipedia》（2015）中提出了一个极具反讽意味的观察。
+
+维基百科的主内容界面，呈现的是干净、条理分明的信息框与层级标题——一种**“少即是多（less is more）”**的设计意识形态。可是支撑起这份干净表象的，是一场充斥着编辑权限争夺、回滚战争、内容交易与协调努力的粗糙社会生产过程。这些过程**一概不出现在文章页面上**。
+
+换言之：**维基百科把协作的社会成本，从贡献者的视野里彻底隐藏了起来。**
+
+这个设计选择的制度后果远不止审美。奥斯特罗姆（Elinor Ostrom）的公共资源治理原则中，“监视”与“分级制裁”两项，都以**参与者能够观察到彼此的行为与成本**为前提。一旦界面把相互性遮蔽了，这两项原则就失去了作用对象——治理成本并没有消失，它只是被**外部化**给了另一群人：管理员、巡查员、政策委员会这套后台官僚机器。
+
+这对开源治理的启示非常具体，也非常容易被忽视：
+
+**任何追求“界面简洁”到隐藏协作成本的社区设计，都在制造治理真空。** 当讨论被搬进私聊群组、当决策过程不出现在公开记录里、当新人只能看到结论而看不到结论如何形成的漫长争论——那些看起来是“效率提升”的设计，实际上是在把不可见的债务积累起来。
+
 ## 结语
 
 开源从来不是一种可以脱离社会土壤而独立存在的“软件分发技术”。
+
+正如配图所示：在那株刚刚破土的嫩芽之下，是一整张在黑暗中发光、彼此连通的菌丝网络。**是网络先在那里，树才可能长出来。**
 
 在代码被写出来之前，在许可证被贴上去之前，必须先有一个允许陌生人低门槛进入、允许异步痕量协同、尊重小众专业利基、并且把一切决策与努力暴露在阳光下的**线上社区（Online Community）**。
 
@@ -107,6 +147,8 @@ Sorin Adam Matei 与 Foote 在《Transparency, Control, and Content Generation o
 8. Foote, J., Treem, J. W., van den Hooff, B. J., & Honcoop, M. (2024). *Motivations to use multifunctional public goods in organizations: using agent-based modeling to explore differential uses of enterprise social media*. Human Communication Research, 50(1), 108–122. — https://research.vu.nl/ws/portalfiles/portal/367342788/Motivations_to_use_multifunctional_public_goods_in_organizations_using_agent-based_modeling_to_explore_differential_uses_of_enterprise_social_media.pdf
 9. Chiu, H.-C., & Foote, J. (2026). *Chatting with confidants or corporations? Privacy management with AI companions*. Journal of Computer-Mediated Communication, 31(3). — https://jeremydfoote.com/files/chiu_chatting_2026.pdf
 10. Foote, J., Bitsikokos, L., Goel, H., & Kumar, D. (2026). *Reddit Conversation Laboratory: Field experiments with conversational AI agents*. Computational Communication Research, 8(2), 1–18. — https://www.aup-online.com/content/journals/10.5117/CCR2026.2.5.FOOT?crawler=true&mimetype=application/pdf
+11. Foote, J., & Contractor, N. (2018). *The behavior and network position of peer production founders*. In Proceedings of iConference 2018. — https://jeremydfoote.com/files/foote_behavior_2018.pdf
+12. Foote, J., Gergle, D., & Shaw, A. (2017). *Starting online communities: Motivations and goals of wiki founders*. Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems (CHI '17), 6376–6380. — https://jeremydfoote.com/files/foote_starting_2017.pdf
 
 ## 关于作者
 
