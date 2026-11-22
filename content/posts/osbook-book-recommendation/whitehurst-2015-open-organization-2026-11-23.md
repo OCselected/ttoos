@@ -15,7 +15,7 @@ categories:
 description: "红帽 CEO 写的最诚实的一本书，也是它最不诚实的地方：它把开源的协作方式搬进公司，却始终没说清楚，为什么这套方式只在开源社区里不需要一个 CEO 来授权。"
 ---
 
-{{< figure src="/media/covers/whitehurst-2015-open-organization.jpg" alt="The Open Organization 书封" width="400" >}}
+{{< figure src="/media/covers/whitehurst-2015-open-organization-2026-11-23.jpg" alt="The Open Organization 书封" width="400" >}}
 
 # 2026-11-23  「开源之道」·荐书：The Open Organization — Jim Whitehurst
 
