@@ -24,7 +24,7 @@ description: "[150 字内摘要：钩子事件 + 制度层判断句 + 理论工�
 
 ![](/images/{{ now.Format "2006/01" }}/slug-{{ now.Format "2006-01-02" }}.png)
 
-> （本图由大模型 sensenova-u1.5-lite 和 skill sn-image-base 生成。）
+> （本图由大模型 sensenova-u1.6-lite 和 skill sn-image-base 生成。）
 
 [钩子段：一个具体的、有画面感的事件/场景。可以是新闻事件、历史事件、行业事件、日常观察。要求：不解释，不铺垫，只呈现。让读者心里发紧。适兕风格：中国 GT 赛道自燃、OSI 2025 财务赤字、Anthropic 百页指控——都是这种钩子。]
 
