@@ -16,7 +16,7 @@ categories:
 description: "「Just for Fun」是本书记录下来的动机，不是这本书为开源找到的理由。二十五年后，「纯粹好玩」不再是一种随时可用的人类状态——而开源从未为「动机枯萎」准备任何制度。"
 ---
 
-{{< figure src="/media/covers/just-for-fun-torvalds-2001-2026-11-27.jpg" alt="Just for Fun 书封" width="400" >}}
+{{< figure src="/media/covers/torvalds-diamond-2001-just-for-fun-2026-11-27.jpg" alt="Just for Fun 书封" width="400" >}}
 
 # 2026-11-27  「开源之道」·荐书：Just for Fun — Linus Torvalds & David Diamond
 
